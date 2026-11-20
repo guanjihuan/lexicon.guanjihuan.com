@@ -1,0 +1,212 @@
+{
+ "present": [
+  {
+   "en": "The researchers present their findings at the annual conference next month.",
+   "zh": "研究人员将在年会上介绍他们的研究结果。"
+  },
+  {
+   "en": "This study presents strong evidence that the intervention reduces readmission rates.",
+   "zh": "本研究提供了有力证据，表明该干预措施能降低再入院率。"
+  },
+  {
+   "en": "Professor Chen will present the revised proposal to the funding committee on Friday.",
+   "zh": "陈教授将于周五向资助委员会提交修订后的提案。"
+  }
+ ],
+ "record": [
+  {
+   "en": "The nurse records the patient's blood pressure and temperature every morning.",
+   "zh": "护士每天早晨记录病人的血压和体温。"
+  },
+  {
+   "en": "Historians rely on archives that record the economic conditions of earlier centuries.",
+   "zh": "历史学家依赖记录了前几个世纪经济状况的档案。"
+  },
+  {
+   "en": "The experiment recorded a significant decline in energy consumption over six months.",
+   "zh": "实验记录到六个月内能耗的显著下降。"
+  }
+ ],
+ "seek": [
+  {
+   "en": "The committee seeks external advice before approving the new policy.",
+   "zh": "委员会在批准新政策之前寻求外部建议。"
+  },
+  {
+   "en": "Many graduates seek employment in the rapidly expanding technology sector.",
+   "zh": "许多毕业生在快速扩张的科技行业寻求就业机会。"
+  },
+  {
+   "en": "Researchers seek to establish whether the two variables are genuinely correlated.",
+   "zh": "研究者试图确定这两个变量是否确实存在相关性。"
+  }
+ ],
+ "show": [
+  {
+   "en": "The data show a clear decline in air pollution over the past decade.",
+   "zh": "数据表明，过去 10 年空气污染明显下降。"
+  },
+  {
+   "en": "Experiments showed that regular exercise improves cognitive performance significantly.",
+   "zh": "实验表明，规律运动能显著提升认知表现。"
+  },
+  {
+   "en": "The documentary shows how rural communities adapted to rapid environmental change.",
+   "zh": "这部纪录片展示了农村社区如何适应迅速的环境变化。"
+  }
+ ],
+ "tend": [
+  {
+   "en": "Students who attend lectures tend to perform better in final examinations.",
+   "zh": "去听课的学生在期末考试中往往表现更好。"
+  },
+  {
+   "en": "Economic growth tends to slow when interest rates rise sharply.",
+   "zh": "利率急剧上升时，经济增长往往会放缓。"
+  },
+  {
+   "en": "Older participants tended to rely more on physical rather than visual cues.",
+   "zh": "年长参与者往往更多地依赖身体线索而非视觉线索。"
+  }
+ ],
+ "view": [
+  {
+   "en": "The prevailing view among economists is that the effect is temporary.",
+   "zh": "经济学界的主流看法是这一效应只是暂时的。"
+  },
+  {
+   "en": "A competing view holds that the policy will increase inequality.",
+   "zh": "另一种对立的看法认为该政策会加剧不平等。"
+  },
+  {
+   "en": "Historians view the period as a turning point in modern governance.",
+   "zh": "历史学家把这一时期视为现代治理的转折点。"
+  }
+ ],
+ "concern": [
+  {
+   "en": "A primary concern of the review board was the length of the recruitment period.",
+   "zh": "评审委员会的首要关切是招募周期过长。"
+  },
+  {
+   "en": "Data protection was the second concern raised by the ethics committee.",
+   "zh": "数据保护是伦理委员会提出的第二项关切。"
+  },
+  {
+   "en": "Rising sea levels concern coastal planners who design drainage systems.",
+   "zh": "海平面上升让设计排水系统的沿海规划者深感担忧。"
+  }
+ ],
+ "enable": [
+  {
+   "en": "Digital archives enable researchers to access rare manuscripts from anywhere.",
+   "zh": "数字档案使研究者能够从任何地方获取珍贵手稿。"
+  },
+  {
+   "en": "The new grant scheme enables early career scientists to lead independent research.",
+   "zh": "新的资助计划使青年科学家能够主持独立研究。"
+  },
+  {
+   "en": "Improved broadband connectivity enables real-time collaboration between international laboratories.",
+   "zh": "宽带连接的改善使国际实验室之间的实时协作成为可能。"
+  }
+ ],
+ "lack": [
+  {
+   "en": "Rural hospitals often lack the equipment needed for advanced diagnostic procedures.",
+   "zh": "乡村医院往往缺乏高级诊断程序所需的设备。"
+  },
+  {
+   "en": "The study lacks a control group, which weakens the strength of its conclusions.",
+   "zh": "该研究缺少对照组，这削弱了其结论的说服力。"
+  },
+  {
+   "en": "Students who lack academic support often face significant barriers to completion.",
+   "zh": "缺乏学业支持的学生常常面临完成学业的重重障碍。"
+  }
+ ],
+ "aim": [
+  {
+   "en": "The primary aim of this survey is to measure regional differences in educational access.",
+   "zh": "本次调查的主要目的是测量各地区在教育获取方面的差异。"
+  },
+  {
+   "en": "Our long-term aim is to develop therapies that require minimal clinical supervision.",
+   "zh": "我们的长期目标是开发出只需极少临床监督即可使用的疗法。"
+  },
+  {
+   "en": "The aim of the review is to synthesize evidence from diverse disciplinary perspectives.",
+   "zh": "该综述旨在综合来自不同学科视角的证据。"
+  }
+ ],
+ "case": [
+  {
+   "en": "This case illustrates how regulatory changes affect small manufacturing businesses.",
+   "zh": "这个案例说明了监管变化如何影响小型制造企业。"
+  },
+  {
+   "en": "Researchers use a longitudinal case to examine long-term language development.",
+   "zh": "研究者利用一个纵向案例考察长期的语言发展。"
+  },
+  {
+   "en": "In most cases, the proposed model predicts the observed outcome reasonably well.",
+   "zh": "在大多数情况下，所提出的模型能较好地预测观测结果。"
+  }
+ ],
+ "point": [
+  {
+   "en": "The author makes a compelling point about the ethics of genetic screening.",
+   "zh": "作者就基因筛查的伦理问题提出了令人信服的观点。"
+  },
+  {
+   "en": "Let me clarify my point before the discussion moves to the next topic.",
+   "zh": "在讨论进入下一个议题之前，让我澄清一下我的观点。"
+  },
+  {
+   "en": "There is some point to his criticism, although it is overstated in places.",
+   "zh": "他的批评有几分道理，尽管在某些地方言过其实。"
+  }
+ ],
+ "type": [
+  {
+   "en": "Researchers classified the samples into three types based on their chemical composition.",
+   "zh": "研究者依据化学成分将样本分为三种类型。"
+  },
+  {
+   "en": "This type of uncertainty is common in early stages of clinical trials.",
+   "zh": "这类不确定性在临床试验的早期阶段很常见。"
+  },
+  {
+   "en": "The analysis distinguishes between two distinct types of social stratification.",
+   "zh": "该分析区分了两种不同类型的社会分层。"
+  }
+ ],
+ "field": [
+  {
+   "en": "She has made significant contributions to the field of cognitive neuroscience.",
+   "zh": "她在认知神经科学领域作出了重要贡献。"
+  },
+  {
+   "en": "The field of environmental economics has grown remarkably over the past decades.",
+   "zh": "环境经济学领域在过去几十年里有了显著的发展。"
+  },
+  {
+   "en": "Interviews revealed that practitioners were uncertain about the findings in this field.",
+   "zh": "访谈显示，从业者对该领域的研究发现感到不确定。"
+  }
+ ],
+ "degree": [
+  {
+   "en": "She earned her doctoral degree in economics from a university in Toronto.",
+   "zh": "她在多伦多的一所大学获得了经济学博士学位。"
+  },
+  {
+   "en": "The results demonstrate a high degree of consistency across all participating laboratories.",
+   "zh": "结果表明所有参与实验室之间具有高度的一致性。"
+  },
+  {
+   "en": "The extent of the damage was difficult to judge because of the high degree of humidity.",
+   "zh": "由于湿度很高，损害程度很难判断。"
+  }
+ ]
+}

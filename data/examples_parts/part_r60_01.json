@@ -1,0 +1,184 @@
+{
+ "scarcely": [
+  {
+   "en": "There is scarcely any evidence that the two measures capture the same underlying construct.",
+   "zh": "几乎没有证据表明这两项测量捕捉到的是同一潜在构念。"
+  },
+  {
+   "en": "The effect was scarcely noticeable in the smaller samples retained for analysis.",
+   "zh": "在保留用于分析的较小样本中，该效应几乎无法察觉。"
+  },
+  {
+   "en": "She scarcely mentioned the limitations of the design when presenting her results.",
+   "zh": "她在展示研究结果时几乎未提研究设计的局限。"
+  }
+ ],
+ "hardly": [
+  {
+   "en": "The revised instrument hardly differs from the original in wording or length.",
+   "zh": "修订后的测量工具在措辞或长度上与原版几乎没有差别。"
+  },
+  {
+   "en": "There is hardly any agreement among reviewers about the appropriate statistical threshold.",
+   "zh": "评审者之间对于合适的统计阈值几乎没有任何共识。"
+  },
+  {
+   "en": "The sample was hardly large enough to support subgroup comparisons across regions.",
+   "zh": "该样本几乎不足以支持跨地区的子群比较。"
+  }
+ ],
+ "seldom": [
+  {
+   "en": "Such methodological irregularities seldom remain undetected in large-scale survey research.",
+   "zh": "在大规模调查研究中，这类方法上的违规极少不被发现。"
+  },
+  {
+   "en": "Studies seldom distinguish between self-reported competence and observed performance.",
+   "zh": "研究很少区分自我报告的胜任力与实际表现。"
+  },
+  {
+   "en": "Peer reviewers seldom challenge the robustness of published null findings.",
+   "zh": "同行评审者很少质疑已发表的零结果研究的稳健性。"
+  }
+ ],
+ "especially": [
+  {
+   "en": "The effect was especially pronounced among participants with limited prior training.",
+   "zh": "该效应在先前训练有限的参与者中尤为明显。"
+  },
+  {
+   "en": "Programs of remediation are especially costly when applied late in the academic year.",
+   "zh": "补救性课程若在学年末才予以实施，成本尤其高昂。"
+  },
+  {
+   "en": "Peer review is especially valuable in fields where published evidence remains sparse.",
+   "zh": "在已发表证据仍显稀少的领域，同行评审尤其宝贵。"
+  }
+ ],
+ "chiefly": [
+  {
+   "en": "The explanation is chiefly statistical rather than substantive in nature.",
+   "zh": "这一解释主要是统计性质的，而非实质性的。"
+  },
+  {
+   "en": "The population studied is chiefly composed of urban residents in the capital.",
+   "zh": "所研究的总体主要由首都的城市居民构成。"
+  },
+  {
+   "en": "Growth in output was driven chiefly by increased investment in research infrastructure.",
+   "zh": "产出增长主要由对研究基础设施投入的增加所推动。"
+  }
+ ],
+ "fundamentally": [
+  {
+   "en": "The two theoretical frameworks differ fundamentally in how they treat uncertainty.",
+   "zh": "这两个理论框架在处理不确定性的方式上存在根本差异。"
+  },
+  {
+   "en": "The evidence suggests that the association is fundamentally a matter of selection rather than causation.",
+   "zh": "证据表明，这种关联从根本上说是选择效应而非因果效应。"
+  },
+  {
+   "en": "Reform of assessment would not fundamentally alter incentives within the current system.",
+   "zh": "评估改革并不会从根本上改变现行体制内部的激励机制。"
+  }
+ ],
+ "crucially": [
+  {
+   "en": "Crucially, the sample was drawn from a single metropolitan region.",
+   "zh": "至关重要的是，样本取自单一的都市地区。"
+  },
+  {
+   "en": "Crucially, the intervention proved effective only when staff received ongoing training.",
+   "zh": "至关重要的是，只有在工作人员持续接受培训的情况下，干预才显效。"
+  },
+  {
+   "en": "Interpreters must also be able to justify their readings; crucially, they should document the reasoning.",
+   "zh": "译者还必须能够为自己的解读提供依据；关键的是应当记录推理过程。"
+  }
+ ],
+ "importantly": [
+  {
+   "en": "Importantly, the reported effect persisted after adjustment for potential confounders.",
+   "zh": "重要的是，在调整潜在混杂因素之后，所报告的效应依然存在。"
+  },
+  {
+   "en": "Importantly, the policy applies to public institutions rather than to private firms.",
+   "zh": "重要的是，该政策适用于公共机构而不适用于私营企业。"
+  },
+  {
+   "en": "Importantly, replication in independent laboratories remains largely outstanding.",
+   "zh": "重要的是，独立实验室中的重复验证在很大程度上仍待完成。"
+  }
+ ],
+ "marginally": [
+  {
+   "en": "The estimates differed only marginally between the two groups after weighting.",
+   "zh": "加权处理后，两组的估计值仅存在微小差异。"
+  },
+  {
+   "en": "The committee marginally revised its recommendation without altering the underlying rationale.",
+   "zh": "委员会略微修改了建议，但并未改变其基本理由。"
+  },
+  {
+   "en": "The authors report a marginally significant difference and do not discuss its practical importance.",
+   "zh": "作者报告了边际显著的差异，却未讨论其实践意义。"
+  }
+ ],
+ "slightly": [
+  {
+   "en": "Scores decreased slightly after participants were asked to perform a secondary task.",
+   "zh": "在要求参与者完成一项次要任务之后，得分略有下降。"
+  },
+  {
+   "en": "The fitted curve bends slightly upward near the upper end of the range.",
+   "zh": "拟合曲线在取值范围的高端略微向上弯曲。"
+  },
+  {
+   "en": "A slightly lower threshold would have excluded several borderline cases from the analysis.",
+   "zh": "阈值若略低一些，本会把若干处于边缘的案例排除在分析之外。"
+  }
+ ],
+ "vastly": [
+  {
+   "en": "The two corpora differ vastly in size and in the range of genres represented.",
+   "zh": "这两个语料库在规模以及所涵盖的体裁范围上差异极大。"
+  },
+  {
+   "en": "The revised design would improve coverage vastly more than additional procedural detail would.",
+   "zh": "修订后的设计在改善覆盖度上的作用远远大于补充程序细节。"
+  },
+  {
+   "en": "Urban and rural respondents expressed vastly different expectations about service delivery.",
+   "zh": "城市与农村受访者对服务供给的期待大不相同。"
+  }
+ ],
+ "highly": [
+  {
+   "en": "Highly trained coders achieved substantially greater agreement on the qualitative codes.",
+   "zh": "经过高度训练的编码员在定性编码上达成了明显更高的一致性。"
+  },
+  {
+   "en": "The topic remains highly contested among scholars working on colonial history.",
+   "zh": "该议题在从事殖民史研究的学者之间仍存在激烈的争议。"
+  },
+  {
+   "en": "Highly cited papers are not necessarily of high methodological quality.",
+   "zh": "被高度引用的论文并不一定具备较高的方法学质量。"
+  }
+ ],
+ "infinitely": [
+  {
+   "en": "The number of possible interactions is almost infinitely large in even modest models.",
+   "zh": "即使在中等规模的模型中，可能的交互作用数量也几乎无穷无尽。"
+  },
+  {
+   "en": "The appeal of the approach lies in its infinitely flexible analytical structure.",
+   "zh": "这一方法的吸引力在于它具有无穷灵活的分析结构。"
+  },
+  {
+   "en": "Replication remains a weaker priority than the pursuit of infinitely novel findings.",
+   "zh": "重复验证的优先级仍低于对无穷无尽的新发现的追求。"
+  }
+ ]
+}

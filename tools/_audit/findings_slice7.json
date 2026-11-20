@@ -1,0 +1,178 @@
+[
+  {
+    "word": "reputation",
+    "field": "example_en",
+    "index": 2,
+    "problem": "冠词缺失导致语法错误：reputation 为可数名词，此处泛指时须用复数或加限定词。",
+    "current": "Companies with damaged reputation face higher costs when recruiting skilled personnel.",
+    "suggest": "Companies with a damaged reputation face higher costs when recruiting skilled personnel."
+  },
+  {
+    "word": "recommendation",
+    "field": "example_zh",
+    "index": 1,
+    "problem": "译文把 recommendation of 误译成动词「推荐」后再接名词「建议」，造成「她推荐混合方法设计的建议」这样读不通的结构。",
+    "current": "她推荐混合方法设计的建议影响了随后的分析策略。",
+    "suggest": "她关于混合方法设计的建议影响了随后的分析策略。"
+  },
+  {
+    "word": "exclusion",
+    "field": "example_zh",
+    "index": 0,
+    "problem": "「施予」是给予、赐予之意，不能与「排除标准」搭配，译文中该动词用错导致搭配不成话。",
+    "current": "在入组前施予排除标准，以确保分析样本的同质性。",
+    "suggest": "在入组前设定排除标准，以确保分析样本的同质性。"
+  },
+  {
+    "word": "even so",
+    "field": "example_en",
+    "index": 0,
+    "problem": "英式拼写 characterised，全库统一美式拼写。",
+    "current": "Even so, the underlying mechanism remains poorly characterised in the available literature.",
+    "suggest": "Even so, the underlying mechanism remains poorly characterized in the available literature."
+  },
+  {
+    "word": "hierarchy",
+    "field": "example_en",
+    "index": 0,
+    "problem": "英式拼写 organisational，全库统一美式拼写。",
+    "current": "The organisational hierarchy in the ministry delayed the circulation of research findings to practitioners.",
+    "suggest": "The organizational hierarchy in the ministry delayed the circulation of research findings to practitioners."
+  },
+  {
+    "word": "initiative",
+    "field": "example_en",
+    "index": 1,
+    "problem": "英式拼写 labour，美式应为 labor。",
+    "current": "Participants showed initiative in identifying gaps within the existing literature on labour migration.",
+    "suggest": "Participants showed initiative in identifying gaps within the existing literature on labor migration."
+  },
+  {
+    "word": "institution",
+    "field": "example_en",
+    "index": 1,
+    "problem": "英式拼写 industrialised，全库统一美式拼写。",
+    "current": "Marriage is an institution whose meaning has shifted substantially across industrialised societies.",
+    "suggest": "Marriage is an institution whose meaning has shifted substantially across industrialized societies."
+  },
+  {
+    "word": "integration",
+    "field": "example_en",
+    "index": 2,
+    "problem": "英式拼写 harmonisation，美式应为 harmonization。",
+    "current": "Integration of the two databases required careful harmonisation of coding categories and identifiers.",
+    "suggest": "Integration of the two databases required careful harmonization of coding categories and identifiers."
+  },
+  {
+    "word": "latency",
+    "field": "example_en",
+    "index": 2,
+    "problem": "英式拼写 reorganising，美式应为 reorganizing。",
+    "current": "Reducing latency in the reporting system requires reorganising the workflow rather than adding staff.",
+    "suggest": "Reducing latency in the reporting system requires reorganizing the workflow rather than adding staff."
+  },
+  {
+    "word": "motivation",
+    "field": "example_en",
+    "index": 2,
+    "problem": "英式拼写 enrolment，美式应为 enrollment（全库其余处已用 enrollment）。",
+    "current": "Researchers reported that the main motivation for enrolment was the prospect of free treatment.",
+    "suggest": "Researchers reported that the main motivation for enrollment was the prospect of free treatment."
+  },
+  {
+    "word": "practitioner",
+    "field": "example_en",
+    "index": 0,
+    "problem": "英式拼写 emphasised，美式应为 emphasized。",
+    "current": "Experienced practitioners in the field emphasised the need for clearer guidance on diagnostic assessment.",
+    "suggest": "Experienced practitioners in the field emphasized the need for clearer guidance on diagnostic assessment."
+  },
+  {
+    "word": "practitioner",
+    "field": "example_en",
+    "index": 1,
+    "problem": "英式拼写 judgement，美式应为 judgment（同一词条另一例已用 judgment）。",
+    "current": "The study combined practitioner judgement with automated scoring to classify open-ended responses.",
+    "suggest": "The study combined practitioner judgment with automated scoring to classify open-ended responses."
+  },
+  {
+    "word": "productivity",
+    "field": "example_en",
+    "index": 1,
+    "problem": "英式拼写 labour，美式应为 labor。",
+    "current": "The authors report that rising labour productivity coincided with a modest decline in output per worker.",
+    "suggest": "The authors report that rising labor productivity coincided with a modest decline in output per worker."
+  },
+  {
+    "word": "quota",
+    "field": "example_en",
+    "index": 0,
+    "problem": "英式拼写 licences，美式名词应为 licenses。",
+    "current": "The ministry introduced a quota limiting the number of new licences granted each year.",
+    "suggest": "The ministry introduced a quota limiting the number of new licenses granted each year."
+  },
+  {
+    "word": "realism",
+    "field": "example_en",
+    "index": 0,
+    "problem": "英式拼写 labour，美式应为 labor。",
+    "current": "The policy demonstrates a degree of realism rarely observed in earlier labour market reforms.",
+    "suggest": "The policy demonstrates a degree of realism rarely observed in earlier labor market reforms."
+  },
+  {
+    "word": "productive",
+    "field": "example_en",
+    "index": 1,
+    "problem": "英式拼写 paralysing，美式应为 paralyzing。",
+    "current": "The committee adopted a productive compromise that protected minority rights without paralysing decision making.",
+    "suggest": "The committee adopted a productive compromise that protected minority rights without paralyzing decision making."
+  },
+  {
+    "word": "questionable",
+    "field": "example_en",
+    "index": 2,
+    "problem": "英式拼写 enrolment，美式应为 enrollment。",
+    "current": "It is questionable whether the reported effect could be separated from seasonal variation in enrolment.",
+    "suggest": "It is questionable whether the reported effect could be separated from seasonal variation in enrollment."
+  },
+  {
+    "word": "firstly",
+    "field": "example_en",
+    "index": 2,
+    "problem": "英式拼写 enrolment，美式应为 enrollment。",
+    "current": "Firstly, the observed decline in enrolment cannot be attributed to demographic change alone.",
+    "suggest": "Firstly, the observed decline in enrollment cannot be attributed to demographic change alone."
+  },
+  {
+    "word": "to the extent that",
+    "field": "example_en",
+    "index": 2,
+    "problem": "英式拼写 labour，美式应为 labor。",
+    "current": "The measure captures regional inequality to the extent that it excludes informal labour markets.",
+    "suggest": "The measure captures regional inequality to the extent that it excludes informal labor markets."
+  },
+  {
+    "word": "at the expense of",
+    "field": "example_en",
+    "index": 1,
+    "problem": "英式拼写 favoured，美式应为 favored。",
+    "current": "The subsidy favoured large producers at the expense of small enterprises.",
+    "suggest": "The subsidy favored large producers at the expense of small enterprises."
+  },
+  {
+    "word": "where possible",
+    "field": "example_en",
+    "index": 1,
+    "problem": "英式拼写 finalising，美式应为 finalizing。",
+    "current": "The secretariat will consult member states, where possible, before finalising the reporting calendar.",
+    "suggest": "The secretariat will consult member states, where possible, before finalizing the reporting calendar."
+  },
+  {
+    "word": "if necessary",
+    "field": "example_en",
+    "index": 0,
+    "problem": "英式拼写 artefact，美式应为 artifact（同一词条另一例已用 artifact）。",
+    "current": "The analysis was repeated if necessary to confirm that the pattern was not an artefact of sampling.",
+    "suggest": "The analysis was repeated if necessary to confirm that the pattern was not an artifact of sampling."
+  }
+]

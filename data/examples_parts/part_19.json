@@ -1,0 +1,562 @@
+{
+ "assessment": [
+  {
+   "en": "The assessment revealed that most students underestimated the difficulty of the final exam.",
+   "zh": "评估显示，大多数学生低估了期末考试的难度。"
+  },
+  {
+   "en": "Her assessment of the proposal was fair, since she had read every supporting document carefully.",
+   "zh": "她对这份提案的评价是公正的，因为她认真读过了每一份佐证文件。"
+  },
+  {
+   "en": "Continuous assessment helps teachers identify learning gaps before they become serious problems.",
+   "zh": "持续评估有助于教师在学习差距变得严重之前及时发现它们。"
+  }
+ ],
+ "assumption": [
+  {
+   "en": "The argument rests on a questionable assumption about how quickly markets adjust to new technology.",
+   "zh": "这一论点建立在一个关于市场适应新技术速度的可疑假设之上。"
+  },
+  {
+   "en": "Research begins with a clear assumption that can later be tested against observed evidence.",
+   "zh": "研究始于一个明确的假设，之后可以用观察到的证据加以检验。"
+  },
+  {
+   "en": "Her initial assumption proved wrong once the company received complaints from three major clients.",
+   "zh": "当公司收到三家大客户的投诉时，她最初的假设被证明是错误的。"
+  }
+ ],
+ "basis": [
+  {
+   "en": "These conclusions are drawn on the basis of ten years of field research in rural communities.",
+   "zh": "这些结论是以 10 年乡村田野调查为基础得出的。"
+  },
+  {
+   "en": "Salary increases are granted on the basis of performance rather than length of service alone.",
+   "zh": "加薪以绩效为依据，而不是仅仅依据工龄。"
+  },
+  {
+   "en": "Trust forms the basis of every healthy relationship between a researcher and her participants.",
+   "zh": "信任是研究者与参与者之间任何良性关系的基础。"
+  }
+ ],
+ "cause": [
+  {
+   "en": "Scientists still debate whether diet or stress is the primary cause of the decline.",
+   "zh": "科学家们仍在争论饮食还是压力是这一下降的主要原因。"
+  },
+  {
+   "en": "The committee launched an inquiry into the cause of the laboratory fire last spring.",
+   "zh": "委员会就去年春天实验室火灾的起因展开了调查。"
+  },
+  {
+   "en": "She dedicated her career to the cause of protecting endangered wildlife across the region.",
+   "zh": "她毕生致力于保护该地区濒危野生动物的事业。"
+  }
+ ],
+ "challenge": [
+  {
+   "en": "The greatest challenge for the team was completing the survey without exceeding the budget.",
+   "zh": "团队面临的最大挑战是在不超预算的情况下完成问卷。"
+  },
+  {
+   "en": "Her challenge of the researcher's findings led to a careful reanalysis of the raw data.",
+   "zh": "她对该研究者结论的质疑促成了一次对原始数据的仔细重新分析。"
+  },
+  {
+   "en": "Students face the challenge of writing clearly when they must cite unfamiliar academic sources.",
+   "zh": "当学生必须引用陌生的学术来源时，他们就面临清晰表达的挑战。"
+  }
+ ],
+ "conclusion": [
+  {
+   "en": "The authors reached a cautious conclusion that further study is needed.",
+   "zh": "作者们得出了谨慎的结论，认为仍需进一步研究。"
+  },
+  {
+   "en": "The conference ended with a conclusion urging policymakers to support rural broadband investment.",
+   "zh": "会议以一项呼吁政策制定者支持农村宽带投资的结论告终。"
+  },
+  {
+   "en": "We drew the conclusion that early intervention reduced long-term costs for the health service.",
+   "zh": "我们得出结论：早期干预降低了医疗服务的长期成本。"
+  }
+ ],
+ "data": [
+  {
+   "en": "The collected data revealed a strong correlation between sleep duration and exam performance.",
+   "zh": "收集到的数据揭示了睡眠时长与考试成绩之间的强相关性。"
+  },
+  {
+   "en": "Researchers must protect confidential data when publishing results in online journals.",
+   "zh": "研究者在网络期刊上发表结果时必须保护机密数据。"
+  },
+  {
+   "en": "Preliminary data suggests that the new treatment is safer than the standard therapy.",
+   "zh": "初步数据显示，这种新疗法比标准疗法更安全。"
+  }
+ ],
+ "definition": [
+  {
+   "en": "The definition of sustainability has broadened considerably since the first environmental conference.",
+   "zh": "自首届环境大会以来，可持续性的定义已大幅拓宽。"
+  },
+  {
+   "en": "A clear definition of the term prevents confusion during the committee's deliberations.",
+   "zh": "对该术语的清晰定义可以避免委员会审议期间的混淆。"
+  },
+  {
+   "en": "The report gave no definition of what counted as adequate academic performance.",
+   "zh": "该报告没有界定什么才算达标的学业表现。"
+  }
+ ],
+ "difference": [
+  {
+   "en": "The difference between correlation and causation is frequently misunderstood in popular writing.",
+   "zh": "相关性与因果关系之间的区别在大众写作中常被误解。"
+  },
+  {
+   "en": "Subtle differences in pronunciation can change the meaning of the word entirely.",
+   "zh": "发音上的细微差别可能彻底改变这个词的含义。"
+  },
+  {
+   "en": "She explained the difference between the two competing theories in clear terms.",
+   "zh": "她用清晰的语言解释了两种相互竞争的理论之间的差异。"
+  }
+ ],
+ "direction": [
+  {
+   "en": "The research team changed direction after the first set of experiments failed.",
+   "zh": "第一轮实验失败后，研究团队改变了方向。"
+  },
+  {
+   "en": "Her remarks gave clear direction to junior colleagues working on the project.",
+   "zh": "她的讲话为参与该项目的初级同事指明了方向。"
+  },
+  {
+   "en": "We should follow that direction while remaining open to unexpected findings.",
+   "zh": "我们应当沿着这一方向前进，同时对意外的发现保持开放。"
+  }
+ ],
+ "effect": [
+  {
+   "en": "Small changes in sleep had a noticeable effect on the team's performance.",
+   "zh": "睡眠的小幅变化对团队的表现产生了明显的影响。"
+  },
+  {
+   "en": "The new policy had the desired effect of reducing classroom absences considerably.",
+   "zh": "新政策达到了预期效果，大幅减少了课堂缺席。"
+  },
+  {
+   "en": "Little is known about the long-term effect of the treatment on patients.",
+   "zh": "关于该疗法对患者的长期影响，人们知之甚少。"
+  }
+ ],
+ "element": [
+  {
+   "en": "Trust is a key element of any successful research collaboration.",
+   "zh": "信任是任何成功研究合作的关键要素。"
+  },
+  {
+   "en": "The course covers every essential element of statistical analysis for graduate students.",
+   "zh": "这门课程为研究生涵盖了统计分析的每一个基本要素。"
+  },
+  {
+   "en": "One crucial element missing from the proposal was a detailed budget.",
+   "zh": "提案中缺少的一个关键要素是详细预算。"
+  }
+ ],
+ "environment": [
+  {
+   "en": "The environment in the laboratory must remain free from vibration and electromagnetic interference.",
+   "zh": "实验室环境必须不受振动和电磁干扰的影响。"
+  },
+  {
+   "en": "Her early research shaped the way she taught in a multicultural educational environment.",
+   "zh": "她早期的研究经历塑造了她在多元文化教育环境中的教学方式。"
+  },
+  {
+   "en": "Economic growth can damage the natural environment if regulation remains weak.",
+   "zh": "如果监管持续薄弱，经济增长可能损害自然环境。"
+  }
+ ],
+ "evidence": [
+  {
+   "en": "The researchers found no convincing evidence that the supplement reduces seasonal allergies.",
+   "zh": "研究人员没有发现该补充剂能减轻季节性过敏的有力证据。"
+  },
+  {
+   "en": "Growing evidence suggests that urban green space improves public mental health.",
+   "zh": "越来越多的证据表明，城市绿地能改善公众心理健康。"
+  },
+  {
+   "en": "He presented evidence from five independent studies to support his argument.",
+   "zh": "他提出了来自五项独立研究的证据来支持自己的论点。"
+  }
+ ],
+ "example": [
+  {
+   "en": "The instructor gave one example per concept to make the abstract material clearer.",
+   "zh": "讲师为每个概念举了一个例子，使抽象材料变得更清晰。"
+  },
+  {
+   "en": "Her lecture provided a striking example of how policy shapes everyday life.",
+   "zh": "她的讲座提供了一个引人注目的例子，说明政策如何塑造日常生活。"
+  },
+  {
+   "en": "This company serves as an example of responsible growth in a crowded market.",
+   "zh": "这家公司在拥挤的市场中树立了负责任增长的典范。"
+  }
+ ],
+ "experiment": [
+  {
+   "en": "The experiment was repeated three times to confirm the original result.",
+   "zh": "该实验重复了三次，以确认最初的结果。"
+  },
+  {
+   "en": "Her early experiments taught her that simple designs often yield clearer findings.",
+   "zh": "早期的实验让她认识到，简单的设计往往能得到更清晰的发现。"
+  },
+  {
+   "en": "The team treated the pilot program as a large-scale experiment before wider rollout.",
+   "zh": "在全面推广之前，团队把试点项目当作一次大规模实验。"
+  }
+ ],
+ "explanation": [
+  {
+   "en": "The professor offered a simple explanation for the sudden rise in enrollment.",
+   "zh": "教授对选课人数突然上升给出了一个简单的解释。"
+  },
+  {
+   "en": "Researchers disagreed about the best explanation for the seasonal decline in sales.",
+   "zh": "研究者们对销量的季节性下降的最佳解释存在分歧。"
+  },
+  {
+   "en": "His explanation of the method helped students understand each step of the analysis.",
+   "zh": "他对方法的讲解帮助学生理解了分析的每一步。"
+  }
+ ],
+ "factor": [
+  {
+   "en": "Cost remains the decisive factor when universities select new laboratory equipment.",
+   "zh": "在高校选购新实验设备时，成本仍是决定性因素。"
+  },
+  {
+   "en": "Several factors contributed to the delay, including staffing shortages and supplier problems.",
+   "zh": "人员短缺和供应商问题等多种因素导致了延误。"
+  },
+  {
+   "en": "The review identified sleep as an important factor in long-term memory formation.",
+   "zh": "该综述指出睡眠是长期记忆形成中的一个重要因素。"
+  }
+ ],
+ "framework": [
+  {
+   "en": "The proposed framework connects economic theory with practical classroom practice.",
+   "zh": "所提出的框架把经济理论与课堂实践联系起来。"
+  },
+  {
+   "en": "This analytical framework allows researchers to compare data across very different regions.",
+   "zh": "这一分析框架使研究者能够比较差异很大的地区的数据。"
+  },
+  {
+   "en": "We adopted the framework because it provides a clear structure for comparing cases.",
+   "zh": "我们采用这个框架，因为它为案例比较提供了清晰的结构。"
+  }
+ ],
+ "function": [
+  {
+   "en": "The primary function of the library is to support independent study and research.",
+   "zh": "图书馆的主要功能是支持自主学习与研究。"
+  },
+  {
+   "en": "Each sentence serves a distinct function within the structure of the paragraph.",
+   "zh": "每个句子在段落结构中都承担着不同的功能。"
+  },
+  {
+   "en": "Managers should clarify the function of every role within the project team.",
+   "zh": "管理者应当明确项目团队中每个岗位的职责。"
+  }
+ ],
+ "goal": [
+  {
+   "en": "The primary goal of the program is to reduce rural dropout rates.",
+   "zh": "该项目的主要目标是降低农村地区的辍学率。"
+  },
+  {
+   "en": "Our shared goal is to publish findings that practitioners can actually apply.",
+   "zh": "我们共同的目标是发表从业者真正能够应用的研究成果。"
+  },
+  {
+   "en": "Reaching the annual goal required additional funding and a revised timeline.",
+   "zh": "要达成年度目标，需要追加资金并修订时间表。"
+  }
+ ],
+ "hypothesis": [
+  {
+   "en": "The hypothesis predicts that rainfall patterns will shift noticeably over the next decade.",
+   "zh": "该假设预测未来 10 年降雨模式将明显变化。"
+  },
+  {
+   "en": "Our initial hypothesis was rejected after the second round of laboratory testing.",
+   "zh": "经过第二轮实验室检验后，我们最初的假设被否定了。"
+  },
+  {
+   "en": "Each hypothesis must be stated clearly enough to be tested by other researchers.",
+   "zh": "每个假设都必须陈述得足够清楚，以便其他研究者加以检验。"
+  }
+ ],
+ "implication": [
+  {
+   "en": "The implication of the findings is that existing policies need substantial revision.",
+   "zh": "这些发现的含义是现行政策需要大幅修订。"
+  },
+  {
+   "en": "One important implication for schools is that class sizes must be reduced.",
+   "zh": "对学校而言，一个重要影响是班级规模必须缩减。"
+  },
+  {
+   "en": "Policy makers should consider the long-term implications of rising enrollment for funding.",
+   "zh": "政策制定者应当考虑入学人数增长对经费的长期影响。"
+  }
+ ],
+ "impact": [
+  {
+   "en": "The impact of the new policy on small businesses was substantial.",
+   "zh": "新政策对小企业的影响是相当大的。"
+  },
+  {
+   "en": "Researchers measured the impact of sleep training on children's attention spans.",
+   "zh": "研究人员测量了睡眠训练对儿童注意力持续时间的影响。"
+  },
+  {
+   "en": "Climate change continues to have a measurable impact on agricultural yields worldwide.",
+   "zh": "气候变化继续对全球农业产量产生可测量的影响。"
+  }
+ ],
+ "issue": [
+  {
+   "en": "The committee delayed the decision because the funding issue remained unresolved.",
+   "zh": "由于经费问题仍未解决，委员会推迟了决定。"
+  },
+  {
+   "en": "Data privacy is now a major issue for every organization handling personal information.",
+   "zh": "数据隐私如今是每一个处理个人信息的组织都面临的重大问题。"
+  },
+  {
+   "en": "The latest issue of the journal features an article on urban migration.",
+   "zh": "该期刊最新一期刊载了一篇关于城市迁移的文章。"
+  }
+ ],
+ "knowledge": [
+  {
+   "en": "Prior knowledge of statistics greatly improves a student's chance of success.",
+   "zh": "先前的统计学知识能大幅提高学生的成功机会。"
+  },
+  {
+   "en": "The lecture offered valuable knowledge about how climate models are constructed.",
+   "zh": "这次讲座提供了关于气候模型如何构建的宝贵知识。"
+  },
+  {
+   "en": "Her wealth of practical knowledge made her an excellent laboratory supervisor.",
+   "zh": "她丰富的实践知识使她成为一位出色的实验室导师。"
+  }
+ ],
+ "level": [
+  {
+   "en": "The level of anxiety among first-year students rose sharply during registration week.",
+   "zh": "注册周期间一年级学生的焦虑水平急剧上升。"
+  },
+  {
+   "en": "Sugar consumption in this country remains well above the recommended level.",
+   "zh": "该国的糖消费量仍远高于建议水平。"
+  },
+  {
+   "en": "Advanced courses are offered at a level appropriate for graduate students.",
+   "zh": "高级课程以适合研究生的水平开设。"
+  }
+ ],
+ "limit": [
+  {
+   "en": "The design must stay within strict ethical limits.",
+   "zh": "该设计必须保持在严格的伦理限制之内。"
+  },
+  {
+   "en": "There is a clear limit to how far this approach can be scaled.",
+   "zh": "这种方法能被推广到何种程度是有明确界限的。"
+  },
+  {
+   "en": "The regulator imposed a limit on the amount firms may charge annually.",
+   "zh": "监管机构对各公司每年可收取的金额设定了上限。"
+  }
+ ],
+ "method": [
+  {
+   "en": "This method of analysis reduces bias by comparing results across several institutions.",
+   "zh": "这种分析方法通过比较多个机构的结果来减少偏差。"
+  },
+  {
+   "en": "Our chosen method allows us to measure change over a five-year period.",
+   "zh": "我们选用的方法使我们能够测量五年期内的变化。"
+  },
+  {
+   "en": "He questioned the method used to select participants for the clinical trial.",
+   "zh": "他质疑了用于挑选临床试验参与者的方法。"
+  }
+ ],
+ "model": [
+  {
+   "en": "The model accurately predicts rainfall patterns across several tropical regions.",
+   "zh": "该模型能准确预测多个热带地区的降雨模式。"
+  },
+  {
+   "en": "She serves as a role model for junior researchers across the department.",
+   "zh": "她是全系初级研究人员的榜样。"
+  },
+  {
+   "en": "The economic model assumes that prices adjust quickly to changes in demand.",
+   "zh": "这一经济模型假定价格会迅速随需求变化而调整。"
+  }
+ ],
+ "objective": [
+  {
+   "en": "The main objective of this review is to evaluate the available evidence systematically.",
+   "zh": "本综述的主要目标是系统地评估现有证据。"
+  },
+  {
+   "en": "Our objective remains unchanged: to reduce costs without lowering service quality.",
+   "zh": "我们的目标依然未变：在不降低服务质量的前提下削减成本。"
+  },
+  {
+   "en": "She restated the objective at the start of every committee meeting.",
+   "zh": "她在每次委员会会议开始时都重申目标。"
+  }
+ ],
+ "outcome": [
+  {
+   "en": "The outcome of the experiment exceeded the expectations of the entire research team.",
+   "zh": "实验的结果超出了整个研究团队的预期。"
+  },
+  {
+   "en": "The intervention produced a measurable outcome within six months of implementation.",
+   "zh": "该干预措施在实施六个月内产生了可测量的成果。"
+  },
+  {
+   "en": "Nobody predicted the outcome of the vote, which surprised nearly everyone present.",
+   "zh": "没有人预料到投票的结果，这让在场几乎所有人都感到惊讶。"
+  }
+ ],
+ "pattern": [
+  {
+   "en": "Researchers observed a recurring pattern in how students revised their drafts.",
+   "zh": "研究人员发现学生修改草稿的方式呈现出反复出现的模式。"
+  },
+  {
+   "en": "The pattern of rainfall has changed steadily over the past fifty years.",
+   "zh": "降雨模式在过去 50 年中持续发生变化。"
+  },
+  {
+   "en": "This sales pattern resembles the one recorded in the early nineties.",
+   "zh": "这种销售模式与 90 年代初记录的情况十分相似。"
+  }
+ ],
+ "phase": [
+  {
+   "en": "The project entered its second phase in September, with expanded testing across four sites.",
+   "zh": "该项目于九月进入第二阶段，测试范围扩大到四个地点。"
+  },
+  {
+   "en": "During the planning phase, the team identified several risks to the schedule.",
+   "zh": "在规划阶段，团队识别出了若干影响进度的风险。"
+  },
+  {
+   "en": "Results from this phase of the trial will inform the next design revision.",
+   "zh": "本阶段试验的结果将为下一次设计修订提供依据。"
+  }
+ ],
+ "principle": [
+  {
+   "en": "The design is based on the principle that prevention is cheaper than treatment.",
+   "zh": "该设计基于预防比治疗更便宜这一原则。"
+  },
+  {
+   "en": "One guiding principle of the reform is that transparency must come before speed.",
+   "zh": "改革的一项指导原则是透明必须先于速度。"
+  },
+  {
+   "en": "Students should learn the principle early and apply it to later coursework.",
+   "zh": "学生应当尽早学到这一原理，并在日后的课程学习中加以应用。"
+  }
+ ],
+ "problem": [
+  {
+   "en": "The main problem with the proposal is that it lacks a realistic timeline.",
+   "zh": "这份提案的主要问题在于缺乏现实可行的时间表。"
+  },
+  {
+   "en": "Air pollution in major cities remains a serious public health problem worldwide.",
+   "zh": "大城市的空气污染在全世界仍是严重的公共卫生问题。"
+  },
+  {
+   "en": "This chapter poses an interesting problem for supporters of economic growth.",
+   "zh": "本章为经济增长的支持者提出了一个有趣的问题。"
+  }
+ ],
+ "purpose": [
+  {
+   "en": "The purpose of the meeting was to review the previous quarter's performance.",
+   "zh": "这次会议的目的是回顾上一季度的表现。"
+  },
+  {
+   "en": "The study examined whether the purpose of advertising affects consumer trust in online stores.",
+   "zh": "该研究考察了广告目的是否影响消费者对网店的信任。"
+  },
+  {
+   "en": "Its primary purpose is to provide reliable guidance for new teachers.",
+   "zh": "它的主要目的是为新教师提供可靠的指导。"
+  }
+ ],
+ "quality": [
+  {
+   "en": "The quality of the recordings was poor, making detailed transcription almost impossible.",
+   "zh": "录音质量很差，使得精细的转录几乎不可能完成。"
+  },
+  {
+   "en": "Customers consistently praised the quality of the service they received.",
+   "zh": "顾客们一再称赞所获得服务的质量。"
+  },
+  {
+   "en": "The journal is known for the quality of its peer-reviewed articles.",
+   "zh": "该期刊以其同行评审文章的高质量而闻名。"
+  }
+ ],
+ "range": [
+  {
+   "en": "The study covers a broad range of industries and organization sizes.",
+   "zh": "该研究覆盖了广泛的行业和不同规模的组织。"
+  },
+  {
+   "en": "Prices fluctuate across a wide range depending on seasonal demand.",
+   "zh": "价格会随季节性需求在一个很宽的区间内波动。"
+  },
+  {
+   "en": "The mountain range stretches across three countries and two climate zones.",
+   "zh": "这条山脉横跨三个国家和两个气候带。"
+  }
+ ],
+ "rate": [
+  {
+   "en": "The unemployment rate fell slightly in the third quarter of the year.",
+   "zh": "今年第三季度的失业率略有下降。"
+  },
+  {
+   "en": "Interest rates are likely to remain stable through the end of 2026.",
+   "zh": "利率很可能到 2026 年底都保持稳定。"
+  },
+  {
+   "en": "The heart rate returns to normal within minutes after light exercise.",
+   "zh": "轻度运动后几分钟内心率就会恢复正常。"
+  }
+ ]
+}

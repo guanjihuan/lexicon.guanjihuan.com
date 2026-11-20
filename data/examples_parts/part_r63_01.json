@@ -1,0 +1,184 @@
+{
+  "where": [
+    {
+      "en": "In cases where sampling error exceeds the stated threshold, the estimate is treated as unreliable.",
+      "zh": "在抽样误差超出既定阈值的情况下，该估计被视为不可靠。"
+    },
+    {
+      "en": "The committee recommended revising the guidance, where existing procedures had proved insufficient.",
+      "zh": "委员会建议修订相关指南，因为在现有程序已被证明不充分的情况下需要作出调整。"
+    },
+    {
+      "en": "Where the published literature remains divided, the authors present competing positions rather than adjudicating between them.",
+      "zh": "在已发表文献仍存分歧的情况下，作者并列呈现不同立场，而非在二者之间作出裁断。"
+    }
+  ],
+  "both": [
+    {
+      "en": "The intervention affected both the incidence of the disease and the severity of its symptoms.",
+      "zh": "该干预措施既影响了疾病的发病率，也影响了症状的严重程度。"
+    },
+    {
+      "en": "Both the funding agency and the ethics board must approve the revised protocol before data collection begins.",
+      "zh": "资助机构与伦理委员会均须在数据收集开始之前批准修订后的方案。"
+    },
+    {
+      "en": "In the case of the coastal wetland, both the salinity level and the sediment supply declined over the study period.",
+      "zh": "就该滨海湿地而言，盐度水平与泥沙供给在研究期内均有所下降。"
+    }
+  ],
+  "presuming": [
+    {
+      "en": "Presuming that the sample remains representative, the estimates can be extended to the wider population.",
+      "zh": "假定样本仍具代表性，这些估计可以推广至更为广泛的人群。"
+    },
+    {
+      "en": "The delegation approved the draft, presuming that further revisions would be settled during consultation.",
+      "zh": "代表团批准了草案，假定进一步的修订将在磋商期间得到处理。"
+    },
+    {
+      "en": "Presuming no systematic recording error, the archive counts can be compared across the two periods.",
+      "zh": "假定不存在系统性的记录错误，档案计数即可在两个时期之间进行比较。"
+    }
+  ],
+  "where applicable": [
+    {
+      "en": "Confidentiality safeguards are maintained where applicable to the type of data collected.",
+      "zh": "在适用的情况下，将针对所收集的数据类型维持相应的保密措施。"
+    },
+    {
+      "en": "The reporting template includes optional sections where applicable to the relevant regulatory area.",
+      "zh": "在适用于相关监管领域的情况下，报告模板包含可供选择的章节。"
+    },
+    {
+      "en": "Translation was provided where applicable to ensure that the research instruments remained accessible.",
+      "zh": "在适用的情况下提供翻译，以确保研究工具仍然便于使用。"
+    }
+  ],
+  "if applicable": [
+    {
+      "en": "Consent forms were adapted if applicable to meet the local procedural requirements.",
+      "zh": "如适用，知情同意书经过调整以符合当地程序要求。"
+    },
+    {
+      "en": "An additional reliability check was carried out if applicable to the sampling design.",
+      "zh": "若该抽样设计适用，则另行实施了一项信度检验。"
+    },
+    {
+      "en": "Footnote markers were inserted if applicable to the version of the instrument used.",
+      "zh": "若适用于所使用工具的版本，则插入相应的脚注标记。"
+    }
+  ],
+  "where possible": [
+    {
+      "en": "Where possible, the analysis combines survey data with administrative records to reduce measurement error.",
+      "zh": "在可能的情况下，分析将调查数据与行政记录结合，以减少测量误差。"
+    },
+    {
+      "en": "The secretariat will consult member states, where possible, before finalizing the reporting calendar.",
+      "zh": "在可能的情况下，秘书处将在确定报告日程之前征求成员国意见。"
+    },
+    {
+      "en": "Quantitative results were reported where possible, although qualitative accounts were retained for rare cases.",
+      "zh": "在可能的情况下报告了定量结果，同时为罕见个案保留了定性说明。"
+    }
+  ],
+  "where necessary": [
+    {
+      "en": "Additional validation was carried out where necessary to ensure the stability of the estimated parameters.",
+      "zh": "在必要的情况下实施了额外验证，以确保所估参数的稳定性。"
+    },
+    {
+      "en": "Interpreters were provided where necessary to guarantee that all testimony was recorded accurately.",
+      "zh": "在必要时提供口译员，以确保所有证词都被准确记录。"
+    },
+    {
+      "en": "Instrumental corrections were applied where necessary to restore comparability with earlier observations.",
+      "zh": "在必要的情况下施加了仪器校正，以恢复与早期观测的可比性。"
+    }
+  ],
+  "if necessary": [
+    {
+      "en": "The analysis was repeated if necessary to confirm that the pattern was not an artifact of sampling.",
+      "zh": "如有必要，分析将重复进行，以确认该模式并非抽样造成的假象。"
+    },
+    {
+      "en": "Interpretative guidance was issued by the committee if necessary to resolve conflicting reporting conventions.",
+      "zh": "如有必要，委员会将发布解释性指引，以解决报告惯例之间的冲突。"
+    },
+    {
+      "en": "Additional interviews were conducted if necessary to clarify how the participants had understood the questionnaire.",
+      "zh": "如有必要，将补充开展访谈，以澄清参与者对问卷的理解方式。"
+    }
+  ],
+  "as appropriate": [
+    {
+      "en": "Control variables were selected as appropriate to the research question and the available evidence.",
+      "zh": "依据研究问题与现有证据适当地选择了控制变量。"
+    },
+    {
+      "en": "The agency will impose additional requirements as appropriate to the risks identified in each submission.",
+      "zh": "该机构将针对每份申请中识别出的风险适当地施加额外要求。"
+    },
+    {
+      "en": "Participants were allowed to pause the task as appropriate to their own level of fatigue.",
+      "zh": "允许参与者根据自身的疲劳程度适当地暂停任务。"
+    }
+  ],
+  "more precisely": [
+    {
+      "en": "The effect was concentrated among older cohorts, more precisely among those with prior exposure.",
+      "zh": "该效应集中于较年长的队列，更确切地说，集中于有既往暴露的个体。"
+    },
+    {
+      "en": "The provision applies to subnational bodies, more precisely to those endowed with statutory autonomy.",
+      "zh": "该规定适用于次国家级机构，更确切地说，适用于那些具有法定自治权的机构。"
+    },
+    {
+      "en": "The model assumes linear growth, more precisely in the lower half of the observed range.",
+      "zh": "该模型假定增长呈线性，更确切地说，线性假定适用于观测范围的下半部分。"
+    }
+  ],
+  "more specifically": [
+    {
+      "en": "Two mechanisms contribute to the effect, more specifically the accumulation of oxidative damage in the tissue.",
+      "zh": "有两种机制促成这一效应，更具体地说，是组织中氧化损伤的累积。"
+    },
+    {
+      "en": "The obligation falls on the registry, more specifically on the officer responsible for compliance.",
+      "zh": "该义务由登记机构承担，更具体地说，是由负责合规事务的官员承担。"
+    },
+    {
+      "en": "The difference emerges later, more specifically in the second half of the observation window.",
+      "zh": "差异在后期才显现，更具体地说，出现在观测时段的后半部分。"
+    }
+  ],
+  "to be precise": [
+    {
+      "en": "The measured increase was small, to be precise the change fell within the range of normal variation.",
+      "zh": "测得的增幅很小，确切地说，该变化处于正常波动范围之内。"
+    },
+    {
+      "en": "The body was not dissolved, to be precise its mandate was suspended for a fixed term.",
+      "zh": "该机构并未被解散，确切地说，其授权只是被暂停了一段固定期限。"
+    },
+    {
+      "en": "No tax was imposed, to be precise the amount due was written off as uncollectible.",
+      "zh": "并未征收税款，确切地说，应缴款项被作为无法收回而予以核销。"
+    }
+  ],
+  "to be sure": [
+    {
+      "en": "The finding is reproducible, to be sure, across laboratories that followed the same protocol.",
+      "zh": "诚然，该发现在遵循同一方案的各个实验室均可复现。"
+    },
+    {
+      "en": "The estimate remains provisional, to be sure, but it will be revised after the final round of collection.",
+      "zh": "诚然，该估计仍是初步的，但将在最后一轮收集结束之后修订。"
+    },
+    {
+      "en": "The mechanism remains unclear, to be sure, although the correlation has been documented repeatedly.",
+      "zh": "诚然，其机制仍不清楚，尽管该相关性已被反复记录。"
+    }
+  ]
+}

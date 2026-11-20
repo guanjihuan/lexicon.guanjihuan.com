@@ -1,0 +1,72 @@
+{
+ "consumption": [
+  {"en": "Researchers estimated household consumption using repeated survey data collected across several regions.", "zh": "研究人员利用多地收集的重复调查数据估计了家庭消费水平。"},
+  {"en": "The agency reduced its own consumption of paper by requiring digital reporting throughout the department.", "zh": "该机构通过要求全部门使用数字化报告，减少了自身的纸张消耗。"},
+  {"en": "Rising consumption of imported grain placed considerable pressure on the domestic agricultural sector.", "zh": "进口谷物消费量的上升给国内农业部门带来了相当大的压力。"}
+ ],
+ "cooperation": [
+  {"en": "The findings suggest that cooperation between disciplines produces more robust conclusions than isolated effort.", "zh": "研究结果表明，跨学科合作比各自孤立努力更能得出稳健的结论。"},
+  {"en": "Regional authorities extended cooperation to share monitoring data during the outbreak investigation.", "zh": "地方当局在疫情调查期间扩大合作范围，共享监测数据。"},
+  {"en": "Such cooperation depends on clear institutional incentives and sustained funding across the participating agencies.", "zh": "此类合作取决于清晰的制度激励以及参与机构之间持续的经费支持。"}
+ ],
+ "controversy": [
+  {"en": "The methodology has generated considerable controversy among practitioners of the discipline.", "zh": "这一方法在该领域的从业者中引起了相当大的争议。"},
+  {"en": "The controversy was settled only after the raw data were released for independent scrutiny.", "zh": "只有在原始数据被公开以供独立审查之后，这场争议才得以平息。"},
+  {"en": "Political controversy surrounding the regulation delayed its implementation for several months.", "zh": "围绕该法规的政治争议使其推迟实施数月。"}
+ ],
+ "density": [
+  {"en": "Population density explains only part of the variation observed across the sampled districts.", "zh": "人口密度只能解释各抽样地区之间所观察到差异的一部分。"},
+  {"en": "Regulators required developers to limit housing density near existing transport infrastructure.", "zh": "监管机构要求开发商限制现有交通基础设施附近的住房密度。"},
+  {"en": "Higher tree density reduced surface temperatures along the urban streets during the summer months.", "zh": "更高的树木密度降低了夏季城市街道的地表温度。"}
+ ],
+ "depth": [
+  {"en": "Interview depth improved the validity of the qualitative analysis considerably.", "zh": "访谈深度显著提升了定性分析的效度。"},
+  {"en": "The study examines the depth of cooperation between public agencies and local communities.", "zh": "该研究考察了公共机构与地方社区合作深入的程度。"},
+  {"en": "Hydrographic surveys recorded the depth of the channel along its entire navigable reach.", "zh": "水文测量记录了航道可通航河段沿线的深度。"}
+ ],
+ "detection": [
+  {"en": "Earlier detection of the disease substantially improved the survival rate of treated patients.", "zh": "更早的疾病检出显著提高了接受治疗患者的存活率。"},
+  {"en": "Regulations require the detection of hazardous materials before construction begins in the area.", "zh": "法规要求在该地区施工开始前检出危险材料。"},
+  {"en": "The method allows rapid detection of small concentrations of contaminants in drinking water.", "zh": "该方法能够快速检出饮用水中微量的污染物。"}
+ ],
+ "duration": [
+  {"en": "The duration of the interview was limited to prevent fatigue among older participants.", "zh": "访谈的持续时间受到限制，以防年长参与者产生疲劳。"},
+  {"en": "Attention must be paid to the duration of each treatment phase in the clinical protocol.", "zh": "必须关注临床方案中每个治疗阶段的持续时间。"},
+  {"en": "A longer duration of follow-up would have strengthened the evidence for the causal claim.", "zh": "更长的随访持续时间本可加强支持因果主张的证据。"}
+ ],
+ "ecology": [
+  {"en": "Wetland ecology provides breeding habitat for numerous migratory bird species.", "zh": "湿地生态为众多候鸟物种提供了繁殖栖息地。"},
+  {"en": "The policy seeks to restore the ecology of rivers degraded by decades of industrial discharge.", "zh": "该政策旨在恢复因数十年工业排放而退化的河流生态。"},
+  {"en": "Ecological knowledge held by local farmers remains valuable for understanding regional ecology.", "zh": "当地农民所掌握的生态知识对于理解区域生态仍然具有价值。"}
+ ],
+ "epidemiology": [
+  {"en": "Modern epidemiology relies on longitudinal cohorts to identify causal relationships between exposure and disease.", "zh": "现代流行病学依赖纵向队列来识别暴露与疾病之间的因果关系。"},
+  {"en": "The department of epidemiology coordinates surveillance across regional hospitals and clinics.", "zh": "流行病学部门协调各地区医院与诊所的监测工作。"},
+  {"en": "Developments in molecular epidemiology reshaped the understanding of the outbreak's transmission pattern.", "zh": "分子流行病学的发展重塑了对该疫情传播模式的理解。"}
+ ],
+ "equilibrium": [
+  {"en": "The model assumes that the system quickly returns to equilibrium after a small disturbance.", "zh": "该模型假定系统在小扰动之后会迅速回到均衡状态。"},
+  {"en": "Fiscal rules are designed to maintain equilibrium between revenue and public expenditure over the cycle.", "zh": "财政规则旨在维持整个经济周期内收入与公共支出之间的均衡。"},
+  {"en": "Ecological equilibrium was disrupted when the invasive species spread throughout the river basin.", "zh": "当入侵物种蔓延至整个流域时，生态平衡被打破。"}
+ ],
+ "equivalence": [
+  {"en": "The study tests the equivalence of two measurement instruments across different populations.", "zh": "该研究检验了两种测量工具在不同人群中的等效性。"},
+  {"en": "Legal scholars dispute the equivalence of commercial arbitration and ordinary litigation.", "zh": "法学学者对商事仲裁与普通诉讼的等同性存在争议。"},
+  {"en": "No empirical basis establishes the equivalence of these two competing theoretical accounts.", "zh": "并无经验基础能够确立这两种相互竞争的理论解释之间的对等性。"}
+ ],
+ "essence": [
+  {"en": "The essence of the argument lies in its treatment of historical context.", "zh": "该论证的实质在于其对历史语境的处理。"},
+  {"en": "Participants were asked to identify the essence of the problem before proposing solutions.", "zh": "参与者被要求在提出解决方案之前厘清问题的本质。"},
+  {"en": "Understanding the essence of this debate requires careful reading of the original correspondence.", "zh": "理解这场争论的精髓需要仔细阅读原始往来信件。"}
+ ],
+ "exclusion": [
+  {"en": "Exclusion criteria were applied before enrollment to ensure a homogeneous analytical sample.", "zh": "在入组前设定排除标准，以确保分析样本的同质性。"},
+  {"en": "Social exclusion of migrants remains a serious concern for urban policy planners.", "zh": "移民遭受社会排斥仍是城市政策规划者所关切的重要问题。"},
+  {"en": "The exclusion of unusable records slightly reduced the statistical power of the analysis.", "zh": "剔除不可用记录略微降低了该分析的统计效力。"}
+ ],
+ "expectation": [
+  {"en": "Participants' expectations about the purpose of the study were recorded before data collection began.", "zh": "参与者对该研究目的的预期在数据收集开始之前即被记录下来。"},
+  {"en": "Current evidence falls short of the expectation that the treatment will prove broadly effective.", "zh": "现有证据未能达到该治疗将被证明普遍有效这一预期。"},
+  {"en": "Contrary to widespread expectation, the reform produced no measurable change in regional inequality.", "zh": "与普遍预期相反，该改革未对地区不平等产生可测量的变化。"}
+ ]
+}

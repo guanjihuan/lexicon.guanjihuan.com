@@ -1,0 +1,198 @@
+{
+ "expenditure": [
+  {
+   "en": "The study reports a substantial expenditure on laboratory equipment over the reporting period.",
+   "zh": "该研究报告了报告期内用于实验室设备的大量支出。"
+  },
+  {
+   "en": "Reducing public expenditure requires careful targeting of subsidies toward vulnerable households.",
+   "zh": "削减公共开支需要谨慎地将补贴定向投放至脆弱家庭。"
+  },
+  {
+   "en": "Expenditure on preventive care produces long-term savings in acute hospital admissions.",
+   "zh": "在预防性医疗上的投入可带来急诊住院率方面的长期节省。"
+  }
+ ],
+ "extension": [
+  {
+   "en": "The extension of the pilot program to additional districts proceeded smoothly throughout the year.",
+   "zh": "试点项目向其他辖区的推广全年进展顺利。"
+  },
+  {
+   "en": "This paper examines the extension of fiscal support to self-employed workers during economic downturns.",
+   "zh": "本文考察经济下行期间财政支持向自雇劳动者的延伸。"
+  },
+  {
+   "en": "Regional cooperation depends on the extension of shared technical standards across administrative borders.",
+   "zh": "区域合作有赖于共同技术标准在行政边界之外的推广。"
+  }
+ ],
+ "facility": [
+  {
+   "en": "The university provides a language laboratory facility for students requiring additional writing practice.",
+   "zh": "该校为需要额外写作训练的学生提供语言实验室设施。"
+  },
+  {
+   "en": "Access to the research facility remains restricted to approved investigators and visiting scholars.",
+   "zh": "研究设施的使用仍仅限经批准的科研人员与访问学者。"
+  },
+  {
+   "en": "In rural districts, the lack of a proper medical facility limits patient access to specialist care.",
+   "zh": "在乡村辖区，缺少正规的医疗设施限制了患者获得专科诊疗的机会。"
+  }
+ ],
+ "feedback": [
+  {
+   "en": "Written feedback from reviewers improved the clarity of the central argument in the manuscript.",
+   "zh": "审稿人提供的书面反馈提升了稿件核心论证的清晰度。"
+  },
+  {
+   "en": "Prompt feedback on student writing increases engagement with revision and improves final grades.",
+   "zh": "对学生写作的及时反馈能提高其修改投入的积极性并改善最终成绩。"
+  },
+  {
+   "en": "The committee solicited feedback from stakeholder groups before revising the funding guidelines.",
+   "zh": "委员会在修订资助准则之前征求了各利益相关群体的意见。"
+  }
+ ],
+ "friction": [
+  {
+   "en": "Semantic friction between the two coding schemes made the merged dataset difficult to analyze.",
+   "zh": "两套编码方案之间的语义摩擦使合并后的数据集难以分析。"
+  },
+  {
+   "en": "Administrative friction at the municipal level delayed the implementation of the housing policy.",
+   "zh": "市级层面的行政阻力拖延了住房政策的实施。"
+  },
+  {
+   "en": "Surface friction in the composite material was reduced by applying a thin coating before testing.",
+   "zh": "在测试前涂覆一层薄涂层，降低了复合材料表面的摩擦。"
+  }
+ ],
+ "generation": [
+  {
+   "en": "Each generation of the survey panel reported declining trust in mainstream political institutions.",
+   "zh": "调查样本中的每一代受访者都报告了对主流政治机构信任度的下降。"
+  },
+  {
+   "en": "The generation of greenhouse gases from industrial processes continues to accelerate under current policy settings.",
+   "zh": "在现行政策安排下，工业过程的温室气体产生仍在加速。"
+  },
+  {
+   "en": "Generations of ethnographers have described the settlement as a center of craft production.",
+   "zh": "数代民族志学者都将该聚落描述为手工业生产的中心。"
+  }
+ ],
+ "hierarchy": [
+  {
+   "en": "The organizational hierarchy in the ministry delayed the circulation of research findings to practitioners.",
+   "zh": "部委内部的层级关系延缓了研究成果向实践者的传播。"
+  },
+  {
+   "en": "Tax codes typically reflect a hierarchy of needs, from subsistence consumption to discretionary spending.",
+   "zh": "税收条款通常反映出从基本生存消费到可自由支配支出的需求层级。"
+  },
+  {
+   "en": "Inequality research often situates class positions within a hierarchy of social stratification.",
+   "zh": "不平等研究常把阶级位置置于社会分化的层级体系之中。"
+  }
+ ],
+ "identity": [
+  {
+   "en": "The reform sought to strengthen the professional identity of newly qualified teachers.",
+   "zh": "该项改革旨在强化新任教师的职业身份认同。"
+  },
+  {
+   "en": "Participants described a strong sense of identity with their local community and its traditions.",
+   "zh": "受访者描述了对其所在社区及其传统的强烈认同感。"
+  },
+  {
+   "en": "Textual identity across successive editions cannot be assumed without collation of the manuscript.",
+   "zh": "若不对手稿进行校勘，便不能假定各连续版本之间文本的同一性。"
+  }
+ ],
+ "index": [
+  {
+   "en": "The index to the collected works lists every contributor by institution and discipline.",
+   "zh": "文集的索引按机构和学科列出每一位撰稿人。"
+  },
+  {
+   "en": "Prices for staple agricultural commodities served as an index of inflationary pressure in rural households.",
+   "zh": "主要农产品价格可作为农村家庭通胀压力的指标。"
+  },
+  {
+   "en": "A subject index in the library catalog enables rapid retrieval of records by keyword.",
+   "zh": "图书馆目录中的主题索引使记录得以按关键词快速检索。"
+  }
+ ],
+ "induction": [
+  {
+   "en": "Statistical induction from observational data cannot establish causal relationships without further assumptions.",
+   "zh": "从观察性数据出发的统计归纳若无进一步假设，便无法确立因果关系。"
+  },
+  {
+   "en": "The induction program for newly appointed staff covers research integrity and data protection alike.",
+   "zh": "面向新入职人员的入职引导涵盖科研诚信与数据保护两方面。"
+  },
+  {
+   "en": "Candidates who received structured induction reported greater confidence in administrative procedures.",
+   "zh": "接受了结构化入职引导的应聘者对行政流程表现出更强的信心。"
+  }
+ ],
+ "initiative": [
+  {
+   "en": "The government launched an initiative to expand rural broadband connectivity across underserved districts.",
+   "zh": "政府启动了一项举措，在服务不足的辖区扩展农村宽带接入。"
+  },
+  {
+   "en": "Participants showed initiative in identifying gaps within the existing literature on labor migration.",
+   "zh": "参与者表现出主动性，识别出既有劳动力迁移文献中的空白。"
+  },
+  {
+   "en": "A joint initiative between the university and the municipality funds longitudinal research on housing.",
+   "zh": "该大学与市政府的一项联合举措资助了住房方面的纵向研究。"
+  }
+ ],
+ "inspection": [
+  {
+   "en": "Regular inspection of laboratory equipment reduced instrument drift during long measurement campaigns.",
+   "zh": "定期检查实验室设备减少了长时间测量过程中的仪器漂移。"
+  },
+  {
+   "en": "An unannounced inspection revealed systematic failures in the recording of vital statistics.",
+   "zh": "一次不预先通知的检查暴露出生命统计记录中的系统性疏漏。"
+  },
+  {
+   "en": "Quality inspection of imported samples continues to determine whether shipments are released.",
+   "zh": "对进口样品的质量检验仍决定着货物是否获准放行。"
+  }
+ ],
+ "institution": [
+  {
+   "en": "The research institution maintains long-term partnerships with hospitals in several countries.",
+   "zh": "该研究机构与数个国家的医院保持着长期合作关系。"
+  },
+  {
+   "en": "Marriage is an institution whose meaning has shifted substantially across industrialized societies.",
+   "zh": "婚姻是一种制度，其含义在工业化社会中已发生显著变化。"
+  },
+  {
+   "en": "Reforming regulatory institutions requires sustained political commitment rather than short-term campaigns.",
+   "zh": "改革监管机构需要持续的政治承诺，而非短期的宣传活动。"
+  }
+ ],
+ "integration": [
+  {
+   "en": "The integration of qualitative interviews with survey data strengthened the analysis of employment trajectories.",
+   "zh": "将定性访谈与调查数据相整合，加强了对就业轨迹的分析。"
+  },
+  {
+   "en": "Social integration of immigrant communities depends on access to language and vocational training.",
+   "zh": "移民群体的社会融入取决于能否获得语言与职业培训。"
+  },
+  {
+   "en": "Integration of the two databases required careful harmonization of coding categories and identifiers.",
+   "zh": "两个数据库的整合需要审慎地协调编码类别与标识符。"
+  }
+ ]
+}

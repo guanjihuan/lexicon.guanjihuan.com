@@ -1,0 +1,562 @@
+{
+ "relatively": [
+  {
+   "en": "This method requires relatively little training data to produce reliable results.",
+   "zh": "这种方法只需要相对少量的训练数据就能产生可靠的结果。"
+  },
+  {
+   "en": "The two theories are relatively consistent with observations recorded in the field.",
+   "zh": "这两个理论与野外记录到的观测结果相对一致。"
+  },
+  {
+   "en": "Compared with traditional methods, the new approach is relatively inexpensive.",
+   "zh": "与传统方法相比，这种新方法相对便宜。"
+  }
+ ],
+ "reportedly": [
+  {
+   "en": "The experimental results were reportedly confirmed by two independent laboratories.",
+   "zh": "据报道，这些实验结果已由两个独立的实验室确认。"
+  },
+  {
+   "en": "Sales in the region reportedly fell by twelve percent during the first quarter.",
+   "zh": "据报道，该地区第一季度的销售额下降了 12%。"
+  },
+  {
+   "en": "The species reportedly survived decades without any recorded human contact.",
+   "zh": "据报道，该物种在没有任何记录在案的人类接触的情况下存续了数十年。"
+  }
+ ],
+ "sharply": [
+  {
+   "en": "House prices in major cities rose sharply during the first half of the year.",
+   "zh": "今年上半年大城市的房价急剧上涨。"
+  },
+  {
+   "en": "The curve shows a sharply defined boundary between the two research groups.",
+   "zh": "该曲线显示出两个研究群体之间清晰的界限。"
+  },
+  {
+   "en": "The minister sharply criticized the proposal as financially unrealistic.",
+   "zh": "部长严厉地批评该提案，称其在财政上不切实际。"
+  }
+ ],
+ "simply": [
+  {
+   "en": "The argument is simply too weak to support such a strong conclusion.",
+   "zh": "这个论据实在太薄弱，无法支撑如此有力的结论。"
+  },
+  {
+   "en": "She simply ignored the invitation and continued working through the evening.",
+   "zh": "她干脆无视了邀请，继续工作到晚上。"
+  },
+  {
+   "en": "You can simply follow the standard procedure for every routine request.",
+   "zh": "对于每项常规请求，你只需按照标准程序处理即可。"
+  }
+ ],
+ "somewhat": [
+  {
+   "en": "The results were somewhat surprising, given the assumptions of the original model.",
+   "zh": "考虑到原模型的假设，这些结果多少有些出人意料。"
+  },
+  {
+   "en": "Our understanding of early language development remains somewhat limited.",
+   "zh": "我们对早期语言发展的理解仍然有些局限。"
+  },
+  {
+   "en": "Prices have decreased somewhat since the beginning of the trading year.",
+   "zh": "自交易年度开始以来，价格已略有下降。"
+  }
+ ],
+ "specifically": [
+  {
+   "en": "The study focuses specifically on rural households with limited internet access.",
+   "zh": "该研究专门关注上网条件受限的农村家庭。"
+  },
+  {
+   "en": "Please clarify specifically which data sources were used in the analysis.",
+   "zh": "请具体说明分析中使用了哪些数据来源。"
+  },
+  {
+   "en": "This drug is approved specifically for treating chronic inflammation in adults.",
+   "zh": "这种药物获批专门用于治疗成年人的慢性炎症。"
+  }
+ ],
+ "steadily": [
+  {
+   "en": "Enrollment in the program has grown steadily over the past five years.",
+   "zh": "该项目的入学人数在过去五年中稳步增长。"
+  },
+  {
+   "en": "She steadily reduced her monthly spending to build an emergency fund.",
+   "zh": "她稳步减少每月开支，以积累应急资金。"
+  },
+  {
+   "en": "The readings moved steadily closer to the predicted value during the experiment.",
+   "zh": "在实验过程中，读数逐步接近预测值。"
+  }
+ ],
+ "subsequently": [
+  {
+   "en": "The proposal was revised twice and subsequently approved by the ethics committee.",
+   "zh": "该提案经过两次修改，随后获得了伦理委员会的批准。"
+  },
+  {
+   "en": "Temperatures rose sharply and subsequently fell back to normal levels.",
+   "zh": "气温急剧上升，随后又回落到正常水平。"
+  },
+  {
+   "en": "Several researchers attempted to replicate the finding but were subsequently unable to.",
+   "zh": "几位研究者试图复现该发现，但随后未能成功。"
+  }
+ ],
+ "surely": [
+  {
+   "en": "The evidence is strong, so the researchers are surely correct.",
+   "zh": "证据足够充分，研究人员肯定是对的。"
+  },
+  {
+   "en": "Surely, no reasonable reader would accept such a careless argument.",
+   "zh": "当然，没有哪个理智的读者会接受如此草率的论证。"
+  },
+  {
+   "en": "We can surely improve the outcome by revising the experimental procedure.",
+   "zh": "通过修订实验步骤，我们肯定能改善结果。"
+  }
+ ],
+ "therefore": [
+  {
+   "en": "The sample was too small, and therefore the conclusion must remain tentative.",
+   "zh": "样本量太小，因此结论必须保持暂定状态。"
+  },
+  {
+   "en": "The two variables are strongly correlated; therefore, one cannot be ignored.",
+   "zh": "这两个变量高度相关，因此其中一个不能被忽略。"
+  },
+  {
+   "en": "Funding was withdrawn, and therefore the entire project was suspended.",
+   "zh": "经费被撤回，因此整个项目被暂停。"
+  }
+ ],
+ "thus": [
+  {
+   "en": "Additional data are required, and thus the analysis will be extended.",
+   "zh": "需要更多数据，因此分析工作将延长。"
+  },
+  {
+   "en": "The phenomenon was first observed in laboratories, thus supporting its scientific credibility.",
+   "zh": "该现象最初在实验室中被观察到，从而增强了其科学可信度。"
+  },
+  {
+   "en": "The model is simplified for clarity, thus reducing the burden on readers.",
+   "zh": "该模型为了清晰而作了简化，从而减轻了读者的负担。"
+  }
+ ],
+ "typically": [
+  {
+   "en": "Graduate students typically submit their thesis proposals during the spring term.",
+   "zh": "研究生通常在春季学期提交论文开题报告。"
+  },
+  {
+   "en": "This species typically migrates between the coast and the inland wetlands.",
+   "zh": "该物种通常在海岸与内陆湿地之间迁徙。"
+  },
+  {
+   "en": "Participants typically spent between two and three hours completing the questionnaire.",
+   "zh": "参与者通常花两到三个小时完成问卷。"
+  }
+ ],
+ "widely": [
+  {
+   "en": "The findings have been widely cited in journals across several disciplines.",
+   "zh": "这些研究结果已在多个学科的期刊中被广泛引用。"
+  },
+  {
+   "en": "Such a policy is widely supported among economists working on public finance.",
+   "zh": "这样的政策在研究公共财政的经济学家中得到广泛支持。"
+  },
+  {
+   "en": "The technique is now widely used in laboratories throughout the country.",
+   "zh": "该技术如今已在全国各地的实验室中被广泛使用。"
+  }
+ ],
+ "although": [
+  {
+   "en": "Although the sample was limited, the pattern appeared consistent across all sites.",
+   "zh": "尽管样本有限，这一模式在所有地点都表现出一致性。"
+  },
+  {
+   "en": "The method is expensive, although it produces highly accurate measurements.",
+   "zh": "这种方法成本高昂，尽管它能产生非常精确的测量结果。"
+  },
+  {
+   "en": "Although few participants volunteered, their responses were notably detailed.",
+   "zh": "虽然自愿参加的人不多，但他们的回答非常详细。"
+  }
+ ],
+ "because": [
+  {
+   "en": "The results were replicated because the original experiment had been carefully controlled.",
+   "zh": "结果得到了复现，因为最初的实验得到了严格控制。"
+  },
+  {
+   "en": "Funding was withdrawn because the committee questioned the project's methodology.",
+   "zh": "经费被撤回，因为委员会质疑该项目的方法。"
+  },
+  {
+   "en": "The model was revised because earlier assumptions did not hold in practice.",
+   "zh": "该模型被修订，因为先前的假设在实践中并不成立。"
+  }
+ ],
+ "besides": [
+  {
+   "en": "Besides offering better accuracy, the new system also reduces processing time.",
+   "zh": "除了提高准确率之外，新系统还缩短了处理时间。"
+  },
+  {
+   "en": "Besides the cost, there are several practical obstacles to wider adoption.",
+   "zh": "除了成本之外，还有若干妨碍更广泛采用的实际障碍。"
+  },
+  {
+   "en": "The design is faster; besides, it is cheaper to maintain.",
+   "zh": "这一设计速度更快，此外维护成本也更低。"
+  }
+ ],
+ "but": [
+  {
+   "en": "The intervention was highly effective, but its long-term benefits remain uncertain.",
+   "zh": "这种干预非常有效，但其长期效益仍不确定。"
+  },
+  {
+   "en": "She submitted the report on time, but forgot to attach the supporting data.",
+   "zh": "她按时提交了报告，却忘了附上支持数据。"
+  },
+  {
+   "en": "The theory is elegant, but it does not explain the observed exceptions.",
+   "zh": "该理论很精巧，却无法解释观察到的例外情况。"
+  }
+ ],
+ "however": [
+  {
+   "en": "The intervention reduced costs; however, it required extensive staff training.",
+   "zh": "该干预降低了成本，然而需要进行大量员工培训。"
+  },
+  {
+   "en": "However promising the early results appear, further trials are clearly necessary.",
+   "zh": "无论早期结果看来多么有希望，显然仍需进一步的试验。"
+  },
+  {
+   "en": "The reviewer raised concerns; however, the manuscript was finally accepted.",
+   "zh": "审稿人提出了疑虑，然而该稿件最终被接受了。"
+  }
+ ],
+ "moreover": [
+  {
+   "en": "Moreover, the revised design reduces both cost and processing time substantially.",
+   "zh": "此外，修订后的设计大幅降低了成本和处理时间。"
+  },
+  {
+   "en": "The study covers multiple regions; moreover, it compares two distinct modeling approaches.",
+   "zh": "该研究涵盖多个地区，此外还比较了两种不同的建模方法。"
+  },
+  {
+   "en": "Moreover, the new policy offers incentives for firms to invest in research.",
+   "zh": "再者，新政策为企业投资研发提供了激励。"
+  }
+ ],
+ "so": [
+  {
+   "en": "The device malfunctioned, so the experiment was repeated the following week.",
+   "zh": "设备出了故障，因此实验在下一周重新进行。"
+  },
+  {
+   "en": "Funding was insufficient, so the team reduced the scope of the study.",
+   "zh": "经费不足，因此团队缩小了研究的范围。"
+  },
+  {
+   "en": "She asked several questions, so the instructor repeated the central argument.",
+   "zh": "她提了几个问题，因此讲师重复了核心论点。"
+  }
+ ],
+ "though": [
+  {
+   "en": "Though the hypothesis seemed plausible, subsequent experiments rejected it entirely.",
+   "zh": "尽管这个假设看起来合理，随后的实验却完全否定了它。"
+  },
+  {
+   "en": "The program has expanded rapidly, though its long-term funding remains unclear.",
+   "zh": "该项目扩张迅速，但其长期资金来源仍不清楚。"
+  },
+  {
+   "en": "It is expensive, though the resulting accuracy is impressive for industrial use.",
+   "zh": "它价格昂贵，不过由此带来的精度对工业用途而言相当可观。"
+  }
+ ],
+ "whether": [
+  {
+   "en": "The committee will decide next month whether the study should continue.",
+   "zh": "委员会将于下月决定这项研究是否应当继续。"
+  },
+  {
+   "en": "Researchers disagree about whether the observed trend reflects genuine structural change.",
+   "zh": "研究者们对于观察到的趋势是否反映了真正的结构性变化存在分歧。"
+  },
+  {
+   "en": "We must clarify whether participants were told the true purpose of the study.",
+   "zh": "我们必须澄清参与者是否被告知了研究的真实目的。"
+  }
+ ],
+ "while": [
+  {
+   "en": "While the theory explains the data, it offers little guidance for practitioners.",
+   "zh": "虽然该理论解释了这些数据，却几乎无法为实践者提供指导。"
+  },
+  {
+   "en": "The sensor recorded pressure while the specimen cooled steadily in the chamber.",
+   "zh": "当样本在腔室中持续冷却时，传感器记录下了压力值。"
+  },
+  {
+   "en": "While earlier studies focused on cost, this model emphasizes long-term durability.",
+   "zh": "尽管早期研究关注成本，这一模型则强调长期的耐用性。"
+  }
+ ],
+ "yet": [
+  {
+   "en": "The device is small, yet it can process data faster than older systems.",
+   "zh": "该装置体积很小，却能比旧系统更快地处理数据。"
+  },
+  {
+   "en": "She completed the analysis, yet several questions about the raw data remain.",
+   "zh": "她完成了分析，然而关于原始数据仍有若干问题尚未解决。"
+  },
+  {
+   "en": "The paper has been widely cited, yet it has attracted little criticism from specialists.",
+   "zh": "这篇论文被广泛引用，然而很少受到专家的批评。"
+  }
+ ],
+ "since": [
+  {
+   "en": "Since the dataset was rebuilt last year, the analysis has become far more reliable.",
+   "zh": "自去年重建数据集以来，这项分析变得可靠得多。"
+  },
+  {
+   "en": "Since funding was withdrawn, the laboratory has closed two of its research divisions.",
+   "zh": "由于经费被撤回，该实验室已经关闭了两个研究部门。"
+  },
+  {
+   "en": "Researchers have debated the effect since the first measurements were published in 1998.",
+   "zh": "自 1998 年首次测量结果发表以来，研究者们一直在争论这一效应。"
+  }
+ ],
+ "integrate": [
+  {
+   "en": "The platform integrates data from sensors, satellites, and field observations.",
+   "zh": "该平台整合了来自传感器、卫星和野外观测的数据。"
+  },
+  {
+   "en": "Teachers must integrate these findings into the existing curriculum.",
+   "zh": "教师必须把这些研究发现融入现有课程之中。"
+  },
+  {
+   "en": "Students who integrate theory with practice often produce stronger final dissertations.",
+   "zh": "把理论与实践相结合的学生往往能写出更有力的毕业论文。"
+  }
+ ],
+ "isolate": [
+  {
+   "en": "Researchers isolated the chemical compound to determine its exact molecular structure.",
+   "zh": "研究人员分离出该化合物，以确定其确切的分子结构。"
+  },
+  {
+   "en": "The design isolates age as a variable, allowing its effect to be measured directly.",
+   "zh": "该设计将年龄作为一个变量单独分离出来，从而可以直接测量其影响。"
+  },
+  {
+   "en": "Public health officials worked to isolate the affected district and contain the outbreak.",
+   "zh": "公共卫生官员设法隔离了受影响地区，控制住了疫情。"
+  }
+ ],
+ "formulate": [
+  {
+   "en": "The research team formulated a new hypothesis about how memories are stored.",
+   "zh": "研究团队就记忆如何储存提出了一个新的假设。"
+  },
+  {
+   "en": "The committee formulated clear guidelines for the ethical review of clinical trials.",
+   "zh": "该委员会制定了临床试验伦理审查的明确准则。"
+  },
+  {
+   "en": "Economists formulated the argument that markets fail under certain information conditions.",
+   "zh": "经济学家提出了这样的论断：在某些信息条件下市场会失灵。"
+  }
+ ],
+ "derive": [
+  {
+   "en": "The authors derived their estimates from twelve years of national survey data.",
+   "zh": "作者从 12 年的全国调查数据中得出了这些估计。"
+  },
+  {
+   "en": "Many English words derive from Latin roots through French intermediaries.",
+   "zh": "许多英语词汇经由法语中介而源自拉丁词根。"
+  },
+  {
+   "en": "The team derived a simple formula for predicting peak demand in winter.",
+   "zh": "团队推导出了一个预测冬季需求峰值的简单公式。"
+  }
+ ],
+ "exhibit": [
+  {
+   "en": "The museum will exhibit forty watercolors by Chinese artists of the 1930s.",
+   "zh": "博物馆将展出中国 1930 年代艺术家的 40 幅水彩画。"
+  },
+  {
+   "en": "The results exhibit a clear bias toward urban respondents in every region studied.",
+   "zh": "研究结果显示，在所研究的每个地区，结果都明显偏向城市受访者。"
+  },
+  {
+   "en": "Rare manuscripts from the fifteenth century are currently exhibited in the main hall.",
+   "zh": "15 世纪的珍贵手稿目前正在主厅展出。"
+  }
+ ],
+ "allocate": [
+  {
+   "en": "The ministry allocated additional funds to rural health clinics last quarter.",
+   "zh": "该部门上季度向乡村卫生诊所拨付了额外资金。"
+  },
+  {
+   "en": "Time must be allocated carefully when several urgent tasks compete for attention.",
+   "zh": "当多项紧急任务争夺注意力时，必须谨慎分配时间。"
+  },
+  {
+   "en": "The committee allocated most experimental equipment to the two chemistry laboratories.",
+   "zh": "委员会将大部分实验设备分配给了那两个化学实验室。"
+  }
+ ],
+ "aggregate": [
+  {
+   "en": "We aggregate responses from all participants before conducting the statistical analysis.",
+   "zh": "我们在进行统计分析前汇总了所有参与者的回答。"
+  },
+  {
+   "en": "In aggregate, the two studies suggest a modest positive effect.",
+   "zh": "总体来看，这两项研究表明存在轻微的正面效应。"
+  },
+  {
+   "en": "The researchers aggregated regional data into a single national estimate.",
+   "zh": "研究人员将各地区数据汇总为一个全国性估计值。"
+  }
+ ],
+ "simulate": [
+  {
+   "en": "The software simulates airflow around the vehicle at various speeds.",
+   "zh": "该软件模拟车辆在不同速度下的气流情况。"
+  },
+  {
+   "en": "Researchers simulated the market to test the policy's likely effects.",
+   "zh": "研究人员模拟了市场，以检验该政策可能产生的影响。"
+  },
+  {
+   "en": "A laboratory model was used to simulate deep-ocean pressure conditions.",
+   "zh": "利用实验室模型模拟深海压力条件。"
+  }
+ ],
+ "synthesize": [
+  {
+   "en": "The review synthesizes evidence from over sixty independent clinical studies.",
+   "zh": "这篇综述综合了六十多项独立临床研究的证据。"
+  },
+  {
+   "en": "The author synthesizes theory, historical evidence, and quantitative data into a coherent argument.",
+   "zh": "作者将理论、历史证据和定量数据综合成一篇连贯的论述。"
+  },
+  {
+   "en": "The chemist synthesized the compound from readily available starting materials.",
+   "zh": "化学家以易得的原料合成了该化合物。"
+  }
+ ],
+ "differentiate": [
+  {
+   "en": "Researchers must differentiate correlation from genuine causation in the data.",
+   "zh": "研究人员必须区分数据中的相关性与真正的因果关系。"
+  },
+  {
+   "en": "The new model differentiates clearly between diagnostic and predictive indicators.",
+   "zh": "新模型清楚地区分了诊断性指标与预测性指标。"
+  },
+  {
+   "en": "Companies rely on distinctive branding to differentiate their products from competitors.",
+   "zh": "企业依靠独特的品牌定位来使其产品有别于竞争对手的产品。"
+  }
+ ],
+ "correlate": [
+  {
+   "en": "Sleep quality correlates strongly with memory performance in older adults.",
+   "zh": "睡眠质量与老年人的记忆表现有很强的相关性。"
+  },
+  {
+   "en": "The researchers correlated test scores with hours of daily revision.",
+   "zh": "研究人员把测试成绩与每天复习的小时数进行了相关分析。"
+  },
+  {
+   "en": "Rising temperatures correlate closely with declining agricultural yields in the region.",
+   "zh": "气温上升与该地区农业产量下降密切相关。"
+  }
+ ],
+ "replicate": [
+  {
+   "en": "An independent team replicated the experiment and obtained nearly identical results.",
+   "zh": "一个独立团队复现了该实验，得到了几乎完全相同的结果。"
+  },
+  {
+   "en": "The findings were replicated across four laboratories in three different countries.",
+   "zh": "这些发现在三个不同国家的四所实验室中得到了复现。"
+  },
+  {
+   "en": "Scientists must replicate their results before drawing broad scientific conclusions.",
+   "zh": "科学家在得出广泛科学结论之前必须复现自己的结果。"
+  }
+ ],
+ "refine": [
+  {
+   "en": "The team refined the model after noticing systematic errors in the predictions.",
+   "zh": "团队在发现预测存在系统性误差后改进了模型。"
+  },
+  {
+   "en": "Further analysis refined our understanding of how the catalyst actually works.",
+   "zh": "进一步的分析细化了我们对该催化剂实际工作机制的理解。"
+  },
+  {
+   "en": "The editorial staff refined the wording to make the conclusion less ambiguous.",
+   "zh": "编辑人员润色了措辞，使结论不再那么含糊。"
+  }
+ ],
+ "regulate": [
+  {
+   "en": "New legislation seeks to regulate the marketing of data-intensive medical devices.",
+   "zh": "新的立法旨在规范数据密集型医疗器械的销售。"
+  },
+  {
+   "en": "A feedback loop automatically regulates the temperature inside the incubation chamber.",
+   "zh": "一个反馈回路自动调节孵化室内的温度。"
+  },
+  {
+   "en": "Careful policy is needed to regulate the use of genetic information.",
+   "zh": "需要谨慎的政策来规范遗传信息的使用。"
+  }
+ ],
+ "retrieve": [
+  {
+   "en": "Students can retrieve archived articles through the university library database.",
+   "zh": "学生可以通过大学图书馆数据库检索存档文章。"
+  },
+  {
+   "en": "The software retrieves relevant passages automatically as the researcher types a query.",
+   "zh": "当研究人员输入查询时，软件会自动检索出相关段落。"
+  },
+  {
+   "en": "Emergency crews retrieved the missing hikers within six hours.",
+   "zh": "救援队在六小时内找到了失踪的徒步者。"
+  }
+ ]
+}

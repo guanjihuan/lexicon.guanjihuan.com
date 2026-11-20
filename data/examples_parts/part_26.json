@@ -1,0 +1,562 @@
+{
+ "methodological": [
+  {
+   "en": "Her methodological approach to data collection greatly strengthened the validity of the study.",
+   "zh": "她在数据收集方面采用的方法论有力地增强了该研究的效度。"
+  },
+  {
+   "en": "Reviewers criticized the paper for lacking methodological rigor in sample selection.",
+   "zh": "评论者批评该论文在样本选择上缺乏方法上的严谨性。"
+  },
+  {
+   "en": "The team revised its methodological design after the pilot study revealed serious flaws.",
+   "zh": "试点研究暴露出严重缺陷后，团队修订了研究设计。"
+  }
+ ],
+ "sustainable": [
+  {
+   "en": "The university adopted a sustainable model for managing its research funding.",
+   "zh": "该大学采用了一套可持续的科研经费管理模式。"
+  },
+  {
+   "en": "Sustainable agriculture practices can reduce soil erosion and conserve water.",
+   "zh": "可持续的农业做法能够减少土壤侵蚀并节约水资源。"
+  },
+  {
+   "en": "Without renewable energy sources, such growth will not be sustainable in the long term.",
+   "zh": "如果没有可再生能源，这种增长从长远来看将无法持续。"
+  }
+ ],
+ "cohesive": [
+  {
+   "en": "The research team maintained a cohesive argument throughout the entire dissertation.",
+   "zh": "研究团队在整篇论文中保持了一个连贯统一的论证。"
+  },
+  {
+   "en": "Effective planning produced a cohesive strategy that united all department goals.",
+   "zh": "有效的规划制定出一项凝聚各部门目标的连贯战略。"
+  },
+  {
+   "en": "The committee worked as a cohesive unit to approve the new budget.",
+   "zh": "该委员会作为一个有凝聚力的整体通过了新预算。"
+  }
+ ],
+ "discrete": [
+  {
+   "en": "The signal can be decomposed into a series of discrete components for analysis.",
+   "zh": "该信号可以分解为一系列离散的成分用于分析。"
+  },
+  {
+   "en": "Each discrete stage of the pipeline was tested independently by the engineers.",
+   "zh": "流水线的每个独立阶段都由工程师单独测试。"
+  },
+  {
+   "en": "The model treats these variables as discrete rather than continuous.",
+   "zh": "该模型把这些变量视为离散变量而非连续变量。"
+  }
+ ],
+ "succinct": [
+  {
+   "en": "Her succinct summary made the complex findings accessible to a broad audience.",
+   "zh": "她简洁的总结使复杂的研究成果为广大读者所理解。"
+  },
+  {
+   "en": "The reviewers requested a succinct statement of the study's main contribution.",
+   "zh": "评论者要求对该研究的主要贡献作出简明的陈述。"
+  },
+  {
+   "en": "A succinct abstract is often all that reviewers read before deciding.",
+   "zh": "在决定之前，评论者往往只读一段简明的摘要。"
+  }
+ ],
+ "substantive": [
+  {
+   "en": "The committee made a substantive change to the proposal after lengthy discussion.",
+   "zh": "经过长时间讨论，委员会对提案作出了实质性的修改。"
+  },
+  {
+   "en": "The seminar offered substantive criticism rather than superficial praise.",
+   "zh": "这次研讨课给出的是实质性的批评而非表面的赞扬。"
+  },
+  {
+   "en": "Her contribution to the debate was substantive and well documented.",
+   "zh": "她对这场辩论的贡献是实质性的，并且有充分文献支持。"
+  }
+ ],
+ "tangible": [
+  {
+   "en": "The grant provided tangible support for graduate students conducting fieldwork.",
+   "zh": "这项资助为从事田野调查的研究生提供了实实在在的支持。"
+  },
+  {
+   "en": "Policy makers want tangible evidence that the reform reduced unemployment.",
+   "zh": "政策制定者希望看到确凿证据，证明改革确实降低了失业率。"
+  },
+  {
+   "en": "The agreement produced tangible results within a single year.",
+   "zh": "该协议在一年内就取得了实际成果。"
+  }
+ ],
+ "transient": [
+  {
+   "en": "The early gains proved transient once the subsidy was removed.",
+   "zh": "补贴取消后，早期的收益被证明只是短暂的。"
+  },
+  {
+   "en": "Most of the transient effects disappeared within a few weeks.",
+   "zh": "这些短暂的影响大部分在几周内就消退了。"
+  },
+  {
+   "en": "Researchers distinguished transient noise from persistent signal in the data.",
+   "zh": "研究人员将数据中的瞬时噪声与持续信号区分开来。"
+  }
+ ],
+ "sequential": [
+  {
+   "en": "The sequential nature of the experiment means each trial depends on the previous one.",
+   "zh": "该实验的顺序性意味着每次试验都依赖于前一次试验。"
+  },
+  {
+   "en": "Teachers presented the material in sequential order to build student understanding.",
+   "zh": "教师按顺序呈现材料，以逐步建立学生的理解。"
+  },
+  {
+   "en": "Sequential approval is required before the grant funds can be released.",
+   "zh": "在拨款释放之前必须获得逐级批准。"
+  }
+ ],
+ "overarching": [
+  {
+   "en": "An overarching theme of the volume is the relationship between technology and social change.",
+   "zh": "该文集的一个总括性主题是技术与社会变革之间的关系。"
+  },
+  {
+   "en": "The overarching goal of the project is to reduce carbon emissions across the region.",
+   "zh": "该项目的根本目标是减少整个地区的碳排放。"
+  },
+  {
+   "en": "These specific findings support the overarching argument of the paper.",
+   "zh": "这些具体发现支持了论文的总括性论点。"
+  }
+ ],
+ "pervasive": [
+  {
+   "en": "Social media has become a pervasive influence on political opinion worldwide.",
+   "zh": "社交媒体已成为对全球政治意见无处不在的影响力量。"
+  },
+  {
+   "en": "There was a pervasive smell of chemicals throughout the manufacturing plant.",
+   "zh": "整个制造厂弥漫着刺鼻的化学品气味。"
+  },
+  {
+   "en": "The pervasive use of automation raises difficult questions about employment.",
+   "zh": "自动化的普遍使用提出了关于就业的棘手问题。"
+  }
+ ],
+ "profound": [
+  {
+   "en": "The discovery had a profound effect on the entire field of medicine.",
+   "zh": "这一发现对整个医学领域产生了深远的影响。"
+  },
+  {
+   "en": "Her lecture offered profound insights into language acquisition.",
+   "zh": "她的讲座对语言习得提出了深刻的见解。"
+  },
+  {
+   "en": "The war caused profound economic hardship across the region for decades.",
+   "zh": "这场战争数十年来给该地区造成了深重的经济困境。"
+  }
+ ],
+ "thereby": [
+  {
+   "en": "The researchers reduced sample sizes, thereby lowering costs and shortening timelines.",
+   "zh": "研究人员缩小了样本量，从而降低了成本并缩短了时间。"
+  },
+  {
+   "en": "Refining the model improved accuracy, thereby strengthening the study's conclusions.",
+   "zh": "改进模型提高了准确度，从而强化了该研究的结论。"
+  },
+  {
+   "en": "The team published its data openly, thereby encouraging independent replication.",
+   "zh": "该团队公开其数据，从而鼓励了独立的复现。"
+  }
+ ],
+ "respectively": [
+  {
+   "en": "The two groups scored 82 and 74 points on the comprehension test, respectively.",
+   "zh": "两组在理解测试中分别得到 82 分和 74 分。"
+  },
+  {
+   "en": "Growth and unemployment fell by three and two percent, respectively.",
+   "zh": "增长率和失业率分别下降了 3% 和 2%。"
+  },
+  {
+   "en": "The first and second groups received five and ten hours of training, respectively.",
+   "zh": "第一组和第二组分别接受了 5 小时和 10 小时的培训。"
+  }
+ ],
+ "similarly": [
+  {
+   "en": "Similarly, students in rural areas reported less access to laboratory resources.",
+   "zh": "同样地，农村地区的学生表示获得实验室资源的机会更少。"
+  },
+  {
+   "en": "The second experiment produced similarly strong evidence for the hypothesis.",
+   "zh": "第二次实验为该假设提供了同样有力的证据。"
+  },
+  {
+   "en": "Similarly, other studies have confirmed the link between sleep and memory.",
+   "zh": "同样地，其他研究也证实了睡眠与记忆之间的联系。"
+  }
+ ],
+ "meanwhile": [
+  {
+   "en": "Meanwhile, other laboratories continued gathering data on the same species.",
+   "zh": "与此同时，其他实验室仍在收集同一物种的数据。"
+  },
+  {
+   "en": "The talks continued for three days; meanwhile, the fieldwork was postponed.",
+   "zh": "会谈持续了三天，与此同时野外调查被推迟了。"
+  },
+  {
+   "en": "Meanwhile, the government introduced subsidies for farmers facing severe drought.",
+   "zh": "与此同时，政府为面临严重干旱的农民发放了补贴。"
+  }
+ ],
+ "arguably": [
+  {
+   "en": "This is arguably the most important limitation of the proposed framework.",
+   "zh": "这可以说是该拟议框架最重要的局限。"
+  },
+  {
+   "en": "Her approach is arguably more suitable for small samples than large ones.",
+   "zh": "可以说，她的方法更适合小样本而非大样本。"
+  },
+  {
+   "en": "It is arguably unfair to judge the design on its first year alone.",
+   "zh": "仅凭第一年的表现就评判这项设计可以说是不公平的。"
+  }
+ ],
+ "presumably": [
+  {
+   "en": "The authors presumably had access to the original archival records.",
+   "zh": "这些作者大概可以查阅原始档案记录。"
+  },
+  {
+   "en": "Presumably, the delay resulted from incomplete data supplied by the agency.",
+   "zh": "大概这一延迟是由于该机构提供的数据不完整所致。"
+  },
+  {
+   "en": "The missing samples are presumably still stored in the university laboratory.",
+   "zh": "那些缺失的样品大概仍存放在该大学的实验室里。"
+  }
+ ],
+ "predominantly": [
+  {
+   "en": "The sample consisted predominantly of graduate students from engineering disciplines.",
+   "zh": "样本主要由工程学科的研究生组成。"
+  },
+  {
+   "en": "The findings apply predominantly to large urban institutions rather than small colleges.",
+   "zh": "这些发现主要适用于大型城市院校，而非小型学院。"
+  },
+  {
+   "en": "Participants were predominantly drawn from households with high incomes.",
+   "zh": "参与者主要来自高收入家庭。"
+  }
+ ],
+ "simultaneously": [
+  {
+   "en": "The imaging system simultaneously recorded activity in twelve separate brain regions.",
+   "zh": "该成像系统同时记录了 12 个不同脑区的活动。"
+  },
+  {
+   "en": "Two laboratories simultaneously tested the compound using slightly different protocols.",
+   "zh": "两个实验室同时用略有不同的方案测试该化合物。"
+  },
+  {
+   "en": "The platform simultaneously tracks shipments, inventory levels, and customer returns.",
+   "zh": "该平台同时跟踪货运、库存水平与客户退货。"
+  }
+ ],
+ "markedly": [
+  {
+   "en": "Recovery was markedly faster in households that received direct cash payments.",
+   "zh": "获得现金补助的家庭的复苏明显更快。"
+  },
+  {
+   "en": "The revised design markedly improved the durability of the outer coating.",
+   "zh": "重新设计的方案明显提高了外层的耐久性。"
+  },
+  {
+   "en": "Male and female participants differed markedly in their willingness to disclose.",
+   "zh": "男性和女性参与者在披露意愿上存在明显差异。"
+  }
+ ],
+ "jointly": [
+  {
+   "en": "The two universities jointly supervise the doctoral program and share facilities.",
+   "zh": "这两所大学共同指导该博士项目并共享实验设施。"
+  },
+  {
+   "en": "The agencies jointly funded the project and published a shared report.",
+   "zh": "这些机构联合资助了该项目并发布了一份共同报告。"
+  },
+  {
+   "en": "The authors jointly developed the model and divided the writing equally.",
+   "zh": "作者们共同开发了该模型，并平等分担了写作工作。"
+  }
+ ],
+ "mutually": [
+  {
+   "en": "The two agreements are mutually dependent and cannot be enforced separately.",
+   "zh": "这两份协议相互依存，无法单独执行。"
+  },
+  {
+   "en": "Both sides remain mutually committed to the ceasefire and to further negotiations.",
+   "zh": "双方仍相互承诺遵守停火协议并继续谈判。"
+  },
+  {
+   "en": "The criteria are mutually exclusive, so no candidate satisfies all of them.",
+   "zh": "这些标准彼此互斥，因此没有候选人能同时满足全部条件。"
+  }
+ ],
+ "collectively": [
+  {
+   "en": "Taken collectively, the studies provide strong evidence for the original claim.",
+   "zh": "总体来看，这些研究为最初的论断提供了有力证据。"
+  },
+  {
+   "en": "The departments collectively agreed to share a single data repository.",
+   "zh": "各部门一致同意共享同一个数据存储库。"
+  },
+  {
+   "en": "Collectively, the team members raised nearly half of the required funding.",
+   "zh": "团队成员合计筹集了所需资金近一半。"
+  }
+ ],
+ "uniformly": [
+  {
+   "en": "Measurements were uniformly high across all twelve laboratories involved in the trial.",
+   "zh": "参与试验的 12 家实验室的测量结果一律偏高。"
+  },
+  {
+   "en": "Students performed uniformly better after receiving individualized feedback from instructors.",
+   "zh": "在得到教师个性化反馈后，学生的表现一致地有所提高。"
+  },
+  {
+   "en": "Uniformly applied rules ensure that every applicant is evaluated on the same basis.",
+   "zh": "统一适用的规则确保每位申请者都按同一标准接受评估。"
+  }
+ ],
+ "by contrast": [
+  {
+   "en": "By contrast, the second cohort showed almost no improvement over the same period.",
+   "zh": "相比之下，第二个队列在同一时期几乎没有改善。"
+  },
+  {
+   "en": "By contrast, rural clinics reported far shorter waiting times than urban hospitals.",
+   "zh": "相比之下，乡村诊所报告的等候时间远短于城市医院。"
+  },
+  {
+   "en": "By contrast, the smaller model achieved higher accuracy while using fewer parameters.",
+   "zh": "相比之下，较小的模型在参数更少的情况下达到了更高的准确率。"
+  }
+ ],
+ "in contrast": [
+  {
+   "en": "In contrast, coastal ecosystems recovered more slowly after the warming event.",
+   "zh": "与之形成对比的是，海岸生态系统在变暖事件后恢复得更慢。"
+  },
+  {
+   "en": "In contrast to earlier estimates, the new survey produced considerably lower figures.",
+   "zh": "与早先的估计相比，新调查得出的数字要低得多。"
+  },
+  {
+   "en": "Male applicants dominated engineering, in contrast to nursing and primary education.",
+   "zh": "与护理和初等教育不同，工程专业的申请者以男性居多。"
+  }
+ ],
+ "in addition": [
+  {
+   "en": "In addition, the authors provide the raw data for independent verification.",
+   "zh": "此外，作者们还提供了原始数据以供独立验证。"
+  },
+  {
+   "en": "The method reduces costs, in addition to shortening the waiting time for applicants.",
+   "zh": "该方法除了缩短申请者的等待时间外，还降低了成本。"
+  },
+  {
+   "en": "In addition to funding, the foundation offers technical assistance to small enterprises.",
+   "zh": "除提供资金外，该基金会还为小型企业提供技术援助。"
+  }
+ ],
+ "hence": [
+  {
+   "en": "The instrument lacked calibration; hence all readings from that week were discarded.",
+   "zh": "仪器未经过校准，因此那一周的所有读数都被弃用了。"
+  },
+  {
+   "en": "Enrollment fell sharply; hence the university merged two smaller departments.",
+   "zh": "入学人数急剧下降，因此该大学合并了两个较小的院系。"
+  },
+  {
+   "en": "The data were collected inconsistently; hence the authors recommend a cautious interpretation.",
+   "zh": "数据收集不一致，因此作者建议谨慎解读。"
+  }
+ ],
+ "given that": [
+  {
+   "en": "Given that the results were replicated twice, the finding appears highly reliable.",
+   "zh": "鉴于该结果已被复现两次，这一发现看起来非常可靠。"
+  },
+  {
+   "en": "Given that funding may be withdrawn, the team decided to archive all materials.",
+   "zh": "鉴于资金可能被撤回，团队决定将所有材料存档。"
+  },
+  {
+   "en": "Given that each participant met the criteria, the sample was highly homogeneous.",
+   "zh": "鉴于每位参与者都符合标准，该样本高度同质。"
+  }
+ ],
+ "even if": [
+  {
+   "en": "Even if the pilot fails, the lessons will inform the full trial.",
+   "zh": "即使试点失败，这些经验也将为完整试验提供参考。"
+  },
+  {
+   "en": "Even if costs rise, the laboratory must maintain adequate sample storage.",
+   "zh": "即便成本上升，实验室也必须维持足够的样本存储条件。"
+  },
+  {
+   "en": "Even if reviewers disagree, the authors believe the interpretation is defensible.",
+   "zh": "即使评论者持不同意见，作者仍认为这一解读站得住脚。"
+  }
+ ],
+ "even though": [
+  {
+   "en": "Even though the sample was small, the effect size was remarkably large.",
+   "zh": "尽管样本量较小，效应量却相当大。"
+  },
+  {
+   "en": "Even though revenue grew, the company reported its first operating loss.",
+   "zh": "尽管营收增长，该公司仍报告了首次经营亏损。"
+  },
+  {
+   "en": "Even though the two systems differ, they produce nearly identical outputs.",
+   "zh": "虽然这两个系统存在差异，但它们产生的输出几乎完全相同。"
+  }
+ ],
+ "so that": [
+  {
+   "en": "The instructions were written clearly so that graduate students could follow them.",
+   "zh": "说明书写得很清楚，以便研究生能够照着操作。"
+  },
+  {
+   "en": "We added a control group so that the effect could be measured separately.",
+   "zh": "我们增加了对照组，以便单独测量该效应。"
+  },
+  {
+   "en": "The form was shortened so that participants would complete it quickly.",
+   "zh": "表格被缩短了，以便参与者能迅速填完。"
+  }
+ ],
+ "as long as": [
+  {
+   "en": "As long as the sample remains sealed, the findings will remain reproducible.",
+   "zh": "只要样本保持密封，研究结果就仍然可以复现。"
+  },
+  {
+   "en": "As long as funding continues, the archive will remain open to scholars.",
+   "zh": "只要资金持续供应，档案馆就会继续向学者开放。"
+  },
+  {
+   "en": "As long as the assumptions hold, the estimate remains a reasonable approximation.",
+   "zh": "只要假设成立，该估计仍然是一个合理的近似值。"
+  }
+ ],
+ "rather than": [
+  {
+   "en": "The team revised the hypothesis rather than discarding the original dataset.",
+   "zh": "团队修改了假设，而不是丢弃原始数据集。"
+  },
+  {
+   "en": "We should measure energy loss rather than simply report total output.",
+   "zh": "我们应当测量能量损耗，而不是仅仅报告总产出。"
+  },
+  {
+   "en": "The author argues for structural reform rather than incremental adjustment.",
+   "zh": "该作者主张进行结构改革，而不是逐步调整。"
+  }
+ ],
+ "investigate": [
+  {
+   "en": "Regulators investigated the factory after receiving complaints about chemical discharges.",
+   "zh": "监管机构在接到关于化学品排放的投诉后调查了这家工厂。"
+  },
+  {
+   "en": "The committee will investigate how the error entered the published dataset.",
+   "zh": "委员会将调查该错误是如何进入已发表数据集的。"
+  },
+  {
+   "en": "Graduates should investigate primary sources before relying on secondary summaries.",
+   "zh": "毕业生在依赖二手概述之前应当查阅原始资料。"
+  }
+ ],
+ "justify": [
+  {
+   "en": "The researchers must justify their choice of instrumentation before the review panel.",
+   "zh": "研究人员必须在评审组面前说明选择该仪器设备的理由。"
+  },
+  {
+   "en": "The cost increase does not justify abandoning the long-term study.",
+   "zh": "成本上升并不足以成为放弃长期研究的理由。"
+  },
+  {
+   "en": "Later critics questioned whether the original authors could justify their conclusions.",
+   "zh": "后来的批评者质疑原作者能否证明其结论是合理的。"
+  }
+ ],
+ "maximize": [
+  {
+   "en": "The scheduling algorithm aims to maximize the number of completed sessions.",
+   "zh": "该排程算法的目标是使已完成的会议数量最大化。"
+  },
+  {
+   "en": "Farmers can maximize their yield by adjusting irrigation to local rainfall patterns.",
+   "zh": "农民可以通过调整灌溉来适应当地降雨模式，使产量最大化。"
+  },
+  {
+   "en": "The design team restructured the interface to maximize efficiency during data entry.",
+   "zh": "设计团队重新设计了界面，使数据录入时的效率最大化。"
+  }
+ ],
+ "minimize": [
+  {
+   "en": "Careful calibration helps minimize measurement error across the entire sample.",
+   "zh": "仔细校准有助于使整个样本的测量误差最小化。"
+  },
+  {
+   "en": "The new protocol minimizes patient discomfort without sacrificing diagnostic accuracy.",
+   "zh": "新的操作规程在不影响诊断准确性的前提下尽量减轻患者不适。"
+  },
+  {
+   "en": "Shipping by rail minimizes the carbon footprint of long-distance transport.",
+   "zh": "采用铁路运输可使长途运输的碳足迹降至最低。"
+  }
+ ],
+ "modify": [
+  {
+   "en": "Researchers modified the original questionnaire after the pilot interviews revealed ambiguity.",
+   "zh": "在试点访谈暴露出歧义后，研究人员修改了原始问卷。"
+  },
+  {
+   "en": "Engineers modified the housing to reduce noise from the adjacent road.",
+   "zh": "工程师改造了住房，以减少相邻道路带来的噪声。"
+  },
+  {
+   "en": "The committee decided to modify the draft before circulating it to members.",
+   "zh": "委员会决定在分发给成员之前对草案进行修改。"
+  }
+ ]
+}

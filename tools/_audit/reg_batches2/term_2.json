@@ -1,0 +1,762 @@
+[
+ {
+  "word": "taxonomy",
+  "discipline": "信息科学",
+  "reason": "分类法：按某标准把事物划成层级类目的体系，指称一种具体的分类方法与数据结构"
+ },
+ {
+  "word": "corpus",
+  "discipline": "计算语言学",
+  "reason": "语料库：语言学中作为研究对象的成规模语言材料集合"
+ },
+ {
+  "word": "robustness",
+  "discipline": "统计学/计量",
+  "reason": "稳健性：估计结果对设定扰动与样本变动不敏感的方法学属性"
+ },
+ {
+  "word": "bias",
+  "discipline": "统计学/计量",
+  "reason": "偏差：估计量系统性偏离真值的方法学概念"
+ },
+ {
+  "word": "variance",
+  "discipline": "统计学/计量",
+  "reason": "方差：离散程度的度量，是统计学的基本量"
+ },
+ {
+  "word": "pipeline",
+  "discipline": "信息科学",
+  "reason": "管线：数据依次经过各处理环节的固定通道结构"
+ },
+ {
+  "word": "workflow",
+  "discipline": "信息科学",
+  "reason": "工作流：任务按预定顺序与角色流转的过程结构"
+ },
+ {
+  "word": "stakeholder",
+  "discipline": "公共管理",
+  "reason": "利益相关者：能影响或受某项决策影响的具体群体，是治理分析中的角色概念"
+ },
+ {
+  "word": "compliance",
+  "discipline": "法律",
+  "reason": "合规：主体遵守适用规范与监管要求的状态"
+ },
+ {
+  "word": "legislation",
+  "discipline": "法律",
+  "reason": "立法：由立法机关制定并生效的法律与法规"
+ },
+ {
+  "word": "precedent",
+  "discipline": "法律",
+  "reason": "判例：法院可供后续裁判援引参照的判决"
+ },
+ {
+  "word": "governance",
+  "discipline": "公共管理",
+  "reason": "治理：决策制定与执行权责的安排结构"
+ },
+ {
+  "word": "accountability",
+  "discipline": "公共管理",
+  "reason": "问责：对权力行使者追究并公开责任的制度安排"
+ },
+ {
+  "word": "oversight",
+  "discipline": "公共管理",
+  "reason": "监管监督：对被监督对象行为的持续监视与纠偏职能"
+ },
+ {
+  "word": "sustainability",
+  "discipline": "环境/发展研究",
+  "reason": "可持续性：系统在长期不耗尽基础资源前提下维持存续的能力"
+ },
+ {
+  "word": "resilience",
+  "discipline": "复杂系统/灾害风险",
+  "reason": "韧性：系统受扰后维持或恢复原有结构与功能的能力"
+ },
+ {
+  "word": "infrastructure",
+  "discipline": "经济学",
+  "reason": "基础设施：为经济社会活动提供公共支撑的设施网络"
+ },
+ {
+  "word": "ecosystem",
+  "discipline": "生态学",
+  "reason": "生态系统：生物群落与其无机环境相互作用形成的统一整体"
+ },
+ {
+  "word": "literacy",
+  "discipline": "教育学",
+  "reason": "素养：在特定领域识别并运用信息与能力的水准"
+ },
+ {
+  "word": "notation",
+  "discipline": "数学/化学",
+  "reason": "记号体系：学科内约定的符号表示系统"
+ },
+ {
+  "word": "granularity",
+  "discipline": "信息科学",
+  "reason": "粒度：数据被划分与呈现的精细层级"
+ },
+ {
+  "word": "correlation",
+  "discipline": "统计学/计量",
+  "reason": "相关性：两变量线性关联程度的度量"
+ },
+ {
+  "word": "deviation",
+  "discipline": "统计学/计量",
+  "reason": "离差：观测值与均值之间的偏离量"
+ },
+ {
+  "word": "calibration",
+  "discipline": "计量学",
+  "reason": "校准：用标定把仪器读数与已知标准对应起来的测量程序"
+ },
+ {
+  "word": "resolution",
+  "discipline": "信息科学/测量",
+  "reason": "分辨率：可被分辨的最小差异尺度"
+ },
+ {
+  "word": "traceability",
+  "discipline": "信息科学",
+  "reason": "可追溯性：沿链条回溯产品或数据来源与过程的能力"
+ },
+ {
+  "word": "authenticity",
+  "discipline": "质性研究",
+  "reason": "原真性：质性研究评价资料是否真实自然呈现的判准"
+ },
+ {
+  "word": "integrity",
+  "discipline": "信息科学",
+  "reason": "数据完整性：数据未被未授权改动或破坏的属性"
+ },
+ {
+  "word": "provenance",
+  "discipline": "信息科学",
+  "reason": "来源信息：数据来源与处理历程的元记录"
+ },
+ {
+  "word": "redundancy",
+  "discipline": "信息论",
+  "reason": "冗余：系统中重复承载同一信息、可容错的部分"
+ },
+ {
+  "word": "throughput",
+  "discipline": "信息系统/运筹学",
+  "reason": "吞吐量：单位时间内系统完成的处理量"
+ },
+ {
+  "word": "discrete",
+  "discipline": "数学/计算机",
+  "reason": "离散的：取值不连续、可逐一计数的数学与数据结构属性"
+ },
+ {
+  "word": "quantitative",
+  "discipline": "计量学",
+  "reason": "定量的：以数量形式表达并可测量度的"
+ },
+ {
+  "word": "heterogeneous",
+  "discipline": "统计学/化学",
+  "reason": "异质的：组成成分不均一的，是方差分析等方法的前提概念"
+ },
+ {
+  "word": "homogeneous",
+  "discipline": "统计学/化学",
+  "reason": "同质的：成分均一的，与异质相对的技术性描述"
+ },
+ {
+  "word": "interdisciplinary",
+  "discipline": "学科制度",
+  "reason": "跨学科的：由两个以上学科方法交叉开展的"
+ },
+ {
+  "word": "multidisciplinary",
+  "discipline": "学科制度",
+  "reason": "多学科的：由多个学科并置共同参与的"
+ },
+ {
+  "word": "observational",
+  "discipline": "流行病学",
+  "reason": "观察性的：不施加干预、只观察记录的研究设计"
+ },
+ {
+  "word": "cross-sectional",
+  "discipline": "流行病学",
+  "reason": "横截面的：在同一时点截取总体的调查设计"
+ },
+ {
+  "word": "deterministic",
+  "discipline": "计算机/数学",
+  "reason": "确定性的：结果由初始条件唯一决定、无随机性"
+ },
+ {
+  "word": "ancillary",
+  "discipline": "统计学/计量",
+  "reason": "辅助的：与主参数无关但对估计有用的辅助统计量"
+ },
+ {
+  "word": "prospective",
+  "discipline": "医学/流行病学",
+  "reason": "前瞻性的：随访在前、结局发生于后的队列设计"
+ },
+ {
+  "word": "retrospective",
+  "discipline": "医学/流行病学",
+  "reason": "回顾性的：以既往已有资料为依据的研究设计属性"
+ },
+ {
+  "word": "reflexivity",
+  "discipline": "质性研究",
+  "reason": "自反性：研究者检视自身位置影响研究过程，是质性方法核心概念"
+ },
+ {
+  "word": "positionality",
+  "discipline": "质性研究",
+  "reason": "位置性：研究者社会与文化位置对解读的影响，质性方法概念"
+ },
+ {
+  "word": "normative",
+  "discipline": "哲学",
+  "reason": "规范性的：涉及应当如何的价值判断，与描述性相对"
+ },
+ {
+  "word": "thematic",
+  "discipline": "质性研究",
+  "reason": "主题的：主题分析法所处理的分析单元"
+ },
+ {
+  "word": "rhetorical",
+  "discipline": "修辞学",
+  "reason": "修辞的：以说服性话语手段组织论证的"
+ },
+ {
+  "word": "exploratory",
+  "discipline": "研究设计",
+  "reason": "探索性的：目的在生成假设而非检验假设的研究设计类型"
+ },
+ {
+  "word": "mediator",
+  "discipline": "统计学/计量",
+  "reason": "中介变量：在自变量与因变量间传递作用的变量"
+ },
+ {
+  "word": "moderator",
+  "discipline": "统计学/计量",
+  "reason": "调节变量：改变自变量与因变量关系强度的变量"
+ },
+ {
+  "word": "mediation",
+  "discipline": "统计学/计量",
+  "reason": "中介效应：经由中介变量传递的作用路径"
+ },
+ {
+  "word": "moderation",
+  "discipline": "统计学/计量",
+  "reason": "调节效应：调节变量对主变量关系的改变作用"
+ },
+ {
+  "word": "replicability",
+  "discipline": "开放科学",
+  "reason": "可复现性：同一数据与分析步骤可被再次得出同一结果的性质"
+ },
+ {
+  "word": "generalizability",
+  "discipline": "科研方法论",
+  "reason": "可推广性：结论能否外推到其他人群与情境（外部效度）"
+ },
+ {
+  "word": "follow-up",
+  "discipline": "医学/临床研究",
+  "reason": "随访：对受试者结局的追踪性随访研究"
+ },
+ {
+  "word": "meta-analysis",
+  "discipline": "统计学/医学",
+  "reason": "元分析：对多项独立研究效应量做统计合并的分析方法"
+ },
+ {
+  "word": "multicollinearity",
+  "discipline": "统计学/计量",
+  "reason": "多重共线性：回归模型中自变量之间高度相关的病理状态"
+ },
+ {
+  "word": "deductive",
+  "discipline": "逻辑学/研究方法",
+  "reason": "演绎的：由一般前提推出具体结论的推理方式"
+ },
+ {
+  "word": "inductive",
+  "discipline": "逻辑学/研究方法",
+  "reason": "归纳的：由个别事例归纳出一般结论的推理方式"
+ },
+ {
+  "word": "operationalization",
+  "discipline": "社会科学方法论",
+  "reason": "操作化：把抽象概念转化为可观测可测量的指标"
+ },
+ {
+  "word": "confounder",
+  "discipline": "统计学/流行病学",
+  "reason": "混杂变量：同时影响自变量与因变量、扭曲估计的第三变量"
+ },
+ {
+  "word": "confounding",
+  "discipline": "统计学/流行病学",
+  "reason": "混杂：第三变量混入自变量—因变量关系的偏倚来源"
+ },
+ {
+  "word": "falsify",
+  "discipline": "科研方法论",
+  "reason": "证伪：用证据推翻可检验假设的科学检验程序"
+ },
+ {
+  "word": "endogeneity",
+  "discipline": "经济学/计量",
+  "reason": "内生性：解释变量与误差项相关、估计有偏的计量问题"
+ },
+ {
+  "word": "propensity",
+  "discipline": "统计学/因果推断",
+  "reason": "倾向：个体接受某处理的可能倾向（倾向得分匹配）"
+ },
+ {
+  "word": "placebo",
+  "discipline": "医学/临床试验",
+  "reason": "安慰剂：无活性成分的对照制剂，是试验对照设置"
+ },
+ {
+  "word": "blinding",
+  "discipline": "医学/临床试验",
+  "reason": "盲法：使受试者或评估者不知分组归属的试验设计手段"
+ },
+ {
+  "word": "allocation",
+  "discipline": "医学/统计学",
+  "reason": "随机分配：把受试者按随机规则分入各组的设计环节"
+ },
+ {
+  "word": "case-control",
+  "discipline": "流行病学",
+  "reason": "病例对照的：以病例与对照两组回溯暴露史的研究设计"
+ },
+ {
+  "word": "effect size",
+  "discipline": "统计学/计量",
+  "reason": "效应量：标准化后表示关联或差异大小的统计量"
+ },
+ {
+  "word": "mixed-method",
+  "discipline": "研究设计",
+  "reason": "混合方法的：定量与定性资料合并使用的设计"
+ },
+ {
+  "word": "cluster",
+  "discipline": "统计学/聚类分析",
+  "reason": "簇：聚类分析中被归为同一组的观测单位"
+ },
+ {
+  "word": "panel",
+  "discipline": "经济学/计量",
+  "reason": "面板数据：对同一批个体或单位的多期观测数据"
+ },
+ {
+  "word": "pooled",
+  "discipline": "统计学/计量",
+  "reason": "合并估计：把多项研究或亚组数据合并后得到的估计值"
+ },
+ {
+  "word": "aggregate",
+  "discipline": "统计学/计量",
+  "reason": "总量与汇总：把个体值合并计算的统计量"
+ },
+ {
+  "word": "simulate",
+  "discipline": "计算机/建模",
+  "reason": "模拟：用模型按规则复现系统运行以作分析"
+ },
+ {
+  "word": "conceptualize",
+  "discipline": "质性研究",
+  "reason": "概念化：从资料中提炼并界定分析概念的方法动作"
+ },
+ {
+  "word": "conceptualization",
+  "discipline": "质性研究",
+  "reason": "概念建构：质性研究中形成概念及其类属结构的过程"
+ },
+ {
+  "word": "quantification",
+  "discipline": "计量学",
+  "reason": "量化：把属性转为可计数可计算的操作"
+ },
+ {
+  "word": "regress",
+  "discipline": "统计学/计量",
+  "reason": "回归：考察因变量随自变量变化的统计模型方法"
+ },
+ {
+  "word": "stratify",
+  "discipline": "统计学/计量",
+  "reason": "分层抽样：先按某特征把总体分层再在层内抽样的抽样方法"
+ },
+ {
+  "word": "stratum",
+  "discipline": "统计学/计量",
+  "reason": "层：分层抽样中被划出的同质子总体"
+ },
+ {
+  "word": "covariate",
+  "discipline": "统计学/计量",
+  "reason": "协变量：与自变量一并进入模型解释因变量的变量"
+ },
+ {
+  "word": "impute",
+  "discipline": "统计学/计量",
+  "reason": "插补：用估计方法填补缺失数据的处理程序"
+ },
+ {
+  "word": "inferential",
+  "discipline": "统计学/计量",
+  "reason": "推断的：由样本推断总体的统计推断部分（推断统计）"
+ },
+ {
+  "word": "triangulation",
+  "discipline": "质性研究方法",
+  "reason": "三角验证：方法学上以多种证据互相校验的设计"
+ },
+ {
+  "word": "saturation",
+  "discipline": "质性研究方法",
+  "reason": "理论饱和：质性研究中资料充分的判定标准"
+ },
+ {
+  "word": "normalize",
+  "discipline": "计量学/统计学",
+  "reason": "归一化：把量纲不同或尺度不同的变量转换到可比区间"
+ },
+ {
+  "word": "standardize",
+  "discipline": "计量学/教育学",
+  "reason": "标准化：按统一程序转换量表或数据以使可比"
+ },
+ {
+  "word": "replicate",
+  "discipline": "科研方法",
+  "reason": "复现实验：重复同一实验检验结果稳定性"
+ },
+ {
+  "word": "contextualize",
+  "discipline": "质性研究",
+  "reason": "语境化解读：把结果放回其社会历史语境中解释"
+ },
+ {
+  "word": "interact",
+  "discipline": "统计学/计量",
+  "reason": "交互作用：一个变量的效应随另一变量水平而变"
+ },
+ {
+  "word": "citation",
+  "discipline": "学术写作规范",
+  "reason": "引文标注：学术出版中对来源的著录格式"
+ },
+ {
+  "word": "withdraw",
+  "discipline": "医学/临床试验",
+  "reason": "退出/撤回：受试者退出试验或作者撤回已发表成果的报告要求"
+ },
+ {
+  "word": "converge",
+  "discipline": "质性研究",
+  "reason": "趋同：不同来源或方法所得结论彼此一致的分析判准"
+ },
+ {
+  "word": "dataset",
+  "discipline": "信息科学",
+  "reason": "数据集：为分析而组织的一组结构化数据记录"
+ },
+ {
+  "word": "distribution",
+  "discipline": "统计学/计量",
+  "reason": "分布：随机变量取值与概率的对应关系"
+ },
+ {
+  "word": "heterogeneity",
+  "discipline": "统计学/计量",
+  "reason": "异质性：研究间效应不一致的程度，元分析的核心概念"
+ },
+ {
+  "word": "incidence",
+  "discipline": "流行病学",
+  "reason": "发生率：一定时期内新发病例在人群中的比例"
+ },
+ {
+  "word": "intervention",
+  "discipline": "医学/公共卫生",
+  "reason": "干预措施：为改变结局而施加的专门处理"
+ },
+ {
+  "word": "outlier",
+  "discipline": "统计学/计量",
+  "reason": "离群值：数值远离数据整体分布的观测"
+ },
+ {
+  "word": "prevalence",
+  "discipline": "流行病学",
+  "reason": "患病率：某时期内某病在人群中的存量比例"
+ },
+ {
+  "word": "proxy",
+  "discipline": "统计学/计量",
+  "reason": "替代指标：无法直接测量时用于代理的变量或观测"
+ },
+ {
+  "word": "regression",
+  "discipline": "统计学/计量",
+  "reason": "回归：刻画因变量对自变量依赖关系的统计方法"
+ },
+ {
+  "word": "reproducibility",
+  "discipline": "开放科学",
+  "reason": "可重复性：研究可被他人用同样数据与流程重复得到结果的性质"
+ },
+ {
+  "word": "replication",
+  "discipline": "科研方法",
+  "reason": "复现研究：对已发表研究做重复检验的研究类型"
+ },
+ {
+  "word": "sensitivity",
+  "discipline": "医学诊断/统计学",
+  "reason": "灵敏度：真阳性率；亦指结果对设定变动的敏感程度"
+ },
+ {
+  "word": "specificity",
+  "discipline": "医学诊断/统计学",
+  "reason": "特异性：真阴性率，指检验正确排除非患者的能力"
+ },
+ {
+  "word": "statistic",
+  "discipline": "统计学/计量",
+  "reason": "统计量：由样本数据算出的概括量"
+ },
+ {
+  "word": "causation",
+  "discipline": "统计学/流行病学",
+  "reason": "因果关系：一变量变化引起另一变量变化的作用"
+ },
+ {
+  "word": "causality",
+  "discipline": "统计学/流行病学",
+  "reason": "因果性：变量之间存在因果联系的性质（识别因果性是研究核心问题）"
+ },
+ {
+  "word": "mortality",
+  "discipline": "流行病学",
+  "reason": "死亡率：一定时期内死亡人数占人口的比率"
+ },
+ {
+  "word": "credibility",
+  "discipline": "质性研究",
+  "reason": "可信度：质性研究对研究结论可被证实的判准"
+ },
+ {
+  "word": "fieldwork",
+  "discipline": "人类学/质性研究",
+  "reason": "田野工作：在自然场域中参与式收集资料的研究方法"
+ },
+ {
+  "word": "case study",
+  "discipline": "研究方法",
+  "reason": "个案研究：对单一对象作深度多源资料考察的研究设计"
+ },
+ {
+  "word": "literature review",
+  "discipline": "学术写作规范",
+  "reason": "文献综述：对既有研究作系统性梳理评述的学术写作体裁"
+ },
+ {
+  "word": "grounded theory",
+  "discipline": "质性研究",
+  "reason": "扎根理论：从实地资料中归纳生成理论的分析方法"
+ },
+ {
+  "word": "discourse",
+  "discipline": "话语分析",
+  "reason": "话语：社会互动中成篇的言说整体及其组织方式"
+ },
+ {
+  "word": "cohesion",
+  "discipline": "话语分析",
+  "reason": "语篇衔接：文本中成分之间的语义连贯关系"
+ },
+ {
+  "word": "register",
+  "discipline": "语言学",
+  "reason": "语域：与特定社会场域相联系的语言变体集合"
+ },
+ {
+  "word": "genre",
+  "discipline": "话语分析",
+  "reason": "体裁/文类：由交际目的与形式规范界定的文本类型"
+ },
+ {
+  "word": "preregistration",
+  "discipline": "开放科学",
+  "reason": "预注册：在收集数据前公开登记研究方案与假设的制度"
+ },
+ {
+  "word": "disclosure",
+  "discipline": "学术出版规范",
+  "reason": "利益冲突披露：作者申报资助与关联利益的报告规范"
+ },
+ {
+  "word": "confidentiality",
+  "discipline": "研究伦理",
+  "reason": "保密性：研究数据与身份信息的保护要求"
+ },
+ {
+  "word": "plagiarism",
+  "discipline": "学术出版规范",
+  "reason": "剽窃：把他人的文字或思想冒充为自己的，属学术不端"
+ },
+ {
+  "word": "anonymity",
+  "discipline": "研究伦理",
+  "reason": "匿名：研究对象身份不可识别的保护条件"
+ },
+ {
+  "word": "recruitment",
+  "discipline": "研究方法",
+  "reason": "招募：按纳入标准筛选并获取受试者的研究环节"
+ },
+ {
+  "word": "dropout",
+  "discipline": "纵向研究",
+  "reason": "脱落：研究对象在随访中退出或失访的现象"
+ },
+ {
+  "word": "attrition",
+  "discipline": "纵向研究",
+  "reason": "流失：样本随时间流失导致偏倚的问题"
+ },
+ {
+  "word": "interview",
+  "discipline": "质性研究方法",
+  "reason": "深度访谈：研究者与受访者就主题作半结构式对话的资料收集方法"
+ },
+ {
+  "word": "norm",
+  "discipline": "社会学",
+  "reason": "社会规范：群体中关于适当行为的共享规则与期望"
+ },
+ {
+  "word": "algorithm",
+  "discipline": "信息科学",
+  "reason": "算法：解决问题的一组有限步骤规则"
+ },
+ {
+  "word": "sampling",
+  "discipline": "统计学/计量",
+  "reason": "抽样：从总体中抽取子集的取样方法体系"
+ },
+ {
+  "word": "respondent",
+  "discipline": "调查方法",
+  "reason": "受访者：被调查并作出回答的对象"
+ },
+ {
+  "word": "questionnaire",
+  "discipline": "调查方法",
+  "reason": "问卷：调查法使用的标准化问题集合"
+ },
+ {
+  "word": "cohort",
+  "discipline": "流行病学",
+  "reason": "队列：按共同特征纳入并被随访的一组研究对象"
+ },
+ {
+  "word": "iteration",
+  "discipline": "计算机/数值分析",
+  "reason": "迭代：反复按同一规则更新直到收敛的计算过程"
+ },
+ {
+  "word": "proposition",
+  "discipline": "逻辑学",
+  "reason": "命题：可真假判断的陈述对象"
+ },
+ {
+  "word": "elasticity",
+  "discipline": "经济学",
+  "reason": "弹性：因变量对自变量变动百分比的比率"
+ },
+ {
+  "word": "instrument",
+  "discipline": "心理测量学",
+  "reason": "测量工具：用于操作化与测量的问卷或量表"
+ },
+ {
+  "word": "adherence",
+  "discipline": "医学/公共卫生",
+  "reason": "依从性：受试者按方案服药或执行规定的程度"
+ },
+ {
+  "word": "dissemination",
+  "discipline": "公共卫生",
+  "reason": "知识传播：把研究成果向实践者与公众扩散的过程"
+ },
+ {
+  "word": "scalability",
+  "discipline": "信息科学",
+  "reason": "可扩展性：系统负荷增大时仍能保持性能的能力指标"
+ },
+ {
+  "word": "equity",
+  "discipline": "公共卫生",
+  "reason": "健康公平：不同人群间健康资源与结果差距的分配概念"
+ },
+ {
+  "word": "bottleneck",
+  "discipline": "运筹学/系统工程",
+  "reason": "瓶颈：限制整体流程吞吐量的制约环节"
+ },
+ {
+  "word": "tipping point",
+  "discipline": "流行病学/复杂系统",
+  "reason": "临界点：状态发生质变的临界阈值"
+ },
+ {
+  "word": "power",
+  "discipline": "统计学/计量",
+  "reason": "统计功效：在给定样本量下检出真实效应的能力"
+ },
+ {
+  "word": "post hoc",
+  "discipline": "统计学/计量",
+  "reason": "事后检验：在数据收集完成后才设定并检验的分析方式"
+ },
+ {
+  "word": "parameter",
+  "discipline": "统计学/数学",
+  "reason": "参数：表征总体分布或模型结构的未知量"
+ },
+ {
+  "word": "anomaly",
+  "discipline": "统计学/自然科学",
+  "reason": "异常：偏离规律或期望模式的观测现象"
+ },
+ {
+  "word": "formulation",
+  "discipline": "政策科学",
+  "reason": "政策制定：把问题与选项转为可执行政策方案的过程"
+ }
+]

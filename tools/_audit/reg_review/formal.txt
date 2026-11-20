@@ -1,0 +1,234 @@
+hitherto	副词	迄今为止，到（某时）为止
+prior	形容词	在先的，在前的；居先的
+accordingly	副词	照着；相应地
+paramount	形容词	至上的，首要的
+ascribe	动词	把…归因于；认为…是由于
+seminal	形容词	具有开拓性的；有深远影响的
+a priori	形容词	先验的；预设的
+salient	形容词	显著的，突出的
+additionally	副词	此外；另外；额外地
+consequently	副词	因此；所以
+prerequisite	名词	先决条件，前提，必备条件
+corroborate	动词	证实，确证
+attribute to	动词	把（某种特质）归属于（某人）；认为（某人）具有（某种特性）
+intrinsic	形容词	固有的，本质的，根本的
+owing to		因为，由于
+conversely	副词	相反地；反过来
+commence	动词	开始；着手
+by no means	副词	绝不；决不；一点也不
+therein	副词	在那里；在其中；在那点上
+plethora	名词	大量；充足
+in situ	副词	在原处；就地；在现场
+invoke	动词	援引；引用（法律、条文、理论）
+onerous	形容词	繁重的；麻烦的；艰巨的
+nevertheless	副词	不过，仍然；尽管如此
+exemplify	动词	作为…的典范（或范例、典型、榜样等）；举例说明
+cornerstone	名词	基石；（尤指）奠基石
+aforementioned	形容词	前面提到的；上述的
+insofar as	连词	就…而言
+notwithstanding	副词	尽管；不管（作介词，后接名词；亦作副词）
+consist in	动词	在于；存在于
+suffice	动词	足够；满足要求
+delineate	动词	描述；勾勒
+provided that	连词	如果；只要（引导条件状语从句）
+whereby	连词	由此，从而；借以
+pertinent	形容词	有关的；切题的
+furthermore	副词	此外，而且
+whereas	连词	然而；不过；反之
+via		经由；通过；凭借
+putative	形容词	假定存在的，被认为存在的，推定的
+untenable	形容词	（理论或论点）难以捍卫的，站不住脚的
+trenchant	形容词	（批评或意见）尖锐的，尖刻的，犀利的
+commensurate	形容词	相当的，相称的
+albeit	连词	虽然；尽管（albeit briefly 尽管只是简短地）
+not to mention	副词	更不用说；且不说
+elucidate	动词	阐明；解释
+namely	副词	即，也就是说
+ad hoc	形容词	特别的；专门的；临时安排的
+conflate	动词	混为一谈；混同（conflate A with B）
+nonetheless	副词	然而，但是；尽管如此
+in accordance with		依照；按照；与…一致
+in conjunction with		与…结合；与…共同（起作用）
+cease	动词	停止，中止
+stringent	形容词	严格的；严厉的；苛刻的（stringent standards 严格的标准）
+reside	动词	居住；存在于…之中（reside in）
+obviate	动词	排除，消除；使无必要
+propel	动词	推进，推动
+disseminate	动词	散布，传播，宣传
+lay the foundation for	动词	为…打下基础；奠定…的基础
+cast light on	动词	阐明；使（问题等）易于理解；使人了解
+myriad	形容词	无数的；大量的；多种多样的
+eligible	形容词	具备条件的；有资格的；合格的
+under no circumstances	副词	决不；无论如何也不（用于否定句）
+disentangle	动词	使脱离；使摆脱；分开；理顺，分清
+pertain	动词	有关；关于（pertain to 与…有关）
+eminent	形容词	显赫的；卓越的；著名的
+equivocal	形容词	含糊的；模棱两可的；有歧义的
+a posteriori	形容词	事后的；由果及因的，后验的（与 a priori 相对）
+expedient	形容词	权宜的；应急的；为求方便而采取的
+subsequently	副词	随后；后来；之后
+therefore	副词	因此；所以；因而
+thus	副词	因此；从而；这样；如此
+besides	副词	而且；此外；除…之外（介词用法）
+however	副词	然而；不过；可是；无论多么，不管怎样（后接形容词或副词）
+moreover	副词	而且；此外；再者
+attain	动词	达到；获得（目标、水平）
+ascertain	动词	查明；确定；弄清
+comprehend	动词	理解；领会；把握
+underscore	动词	强调；突出；着重说明
+foster	动词	促进；培养；营造（氛围）
+rationale	名词	基本原理；理论依据；理由
+holistic	形容词	整体的；全局的；全面的
+nuanced	形容词	细致入微的；有细微差别的；分寸得当的
+methodological	形容词	方法论的；方法上的
+succinct	形容词	简洁的；简明的；言简意赅的
+substantive	形容词	实质性的；实质的；有实际内容的
+overarching	形容词	统摄的；总括的；根本的
+pervasive	形容词	普遍的；弥漫的；渗透性的
+thereby	副词	从而；因此；借此
+arguably	副词	可以说；有理由认为；或许
+by contrast	副词	相比之下；与此形成对照
+in contrast	副词	与…形成对比；相反
+in addition	副词	此外；而且；in addition to 除…之外（后接名词/动名词）
+hence	副词	因此；所以；由此
+given that	连词	鉴于；考虑到；假定；假设
+substantiate	动词	证实；用证据支持
+utilize	动词	利用；使用
+harness	动词	利用；驾驭；调动（资源）
+deploy	动词	部署；调动；运用（方法、资源）
+embody	动词	体现；具体表现；包含
+endorse	动词	赞同；支持；认可
+augment	动词	增强；增加；补充
+juxtapose	动词	并置；对照比较
+rectify	动词	纠正；改正；修正
+transcend	动词	超越；胜过
+warrant	动词	使…有正当理由；使…有必要
+caveat	名词	警告；提醒；限定条件
+ancillary	形容词	辅助的；附属的；次要的
+principally	副词	主要地；大体上
+with respect to		关于；就…而言
+on the other hand	副词	另一方面；相反
+in conclusion	副词	总之；综上所述
+in short	副词	简言之；总之
+to sum up	副词	总而言之；概括来说
+facilitate	动词	促进；使便利；使…变得容易
+post hoc	副词	事后；事后地（作状语；post hoc 亦可作定语：post hoc test 事后检验、post hoc analysis 事后分析）
+ostensibly	副词	表面上；据称（ostensibly neutral 表面中立）
+enumerate	动词	列举；逐项列出；枚举
+discern	动词	辨别；识别；看出
+elicit	动词	引出；诱出；征求（elicit responses 引出回答）
+illuminate	动词	阐明；启发（illuminate the debate 阐明这场争论）
+preclude	动词	排除；阻止（preclude the possibility 排除可能性）
+surmount	动词	克服；越过（surmount obstacles 克服障碍）
+undertake	动词	承担；着手进行（undertake a study 开展研究）
+necessitate	动词	需要；使成为必要
+alleviate	动词	减轻；缓解（alleviate the burden 减轻负担；alleviate pressure 缓解压力）
+deviate	动词	偏离；背离（deviate from 偏离…）
+consolidate	动词	巩固；合并；加强（consolidate findings 巩固结论）
+underlie	动词	构成…的基础；是…的根本原因（the assumptions underlying the model 模型背后的假设）
+exhaustive	形容词	详尽的；彻底的（an exhaustive review 详尽的综述）
+verbatim	形容词	逐字的；一字不差的（verbatim transcription 逐字转录）；亦作副词，逐字地
+in light of		鉴于；考虑到（in light of these findings 鉴于这些发现）
+on the basis of		基于；根据（on the basis of the data 基于数据）
+by means of		借助；通过（by means of interviews 通过访谈）
+as such	副词	就其本身而言；因此（严格指「以其身份而言」；论文中常作 therefore 用，但受文体诟病，慎用）
+per se	副词	本身；就其本身而言（the method per se 该方法本身）
+with regard to		关于；就…而言（with regard to X 关于 X）
+inter alia	副词	其中包括；除其他事项外（拉丁语，正式文体，= among other things）
+vice versa	副词	反之亦然（A depends on B and vice versa A 依赖 B，反之亦然）
+take into account	动词	考虑到；把…计算在内
+shed light on	动词	阐明；使…更清楚（≈ cast light on，偏「以新证据提供新视角」，shed light on the mechanism 阐明其机制）
+in practice	副词	实际上；在实践中
+in principle	副词	原则上；理论上
+in turn	副词	转而；继而；依次；反过来
+thereafter	副词	此后；之后
+in that	连词	因为；在于（正式用法，后接说明性小句）
+in addition to		除…之外（还）；另外（in addition to X 除X之外）
+prior to		在…之前（prior to the experiment 实验之前）
+on the one hand	副词	一方面（与 on the other hand 呼应）
+in contrast to		与…形成对照；相比之下
+lest	连词	以免；唯恐（引导目的或让步状语从句）
+in order that	连词	为了；以便（引导目的状语从句）
+stipulate	动词	规定；明确要求（条款、条件）
+to the extent that	连词	就…而言；在…范围内
+in the sense that	连词	在…的意义上；也就是说
+on the assumption that	连词	在假定…的前提下
+in the event that	连词	万一；如果（正式语域）
+on condition that	连词	以…为条件；条件是
+by the same token	副词	同样地；同理
+with this in mind	副词	考虑到这一点；以此为前提
+by analogy	副词	类比地；通过类比
+as a case in point	副词	典型的例子；恰当的例证
+of note	副词	值得注意的是
+on behalf of		代表；为了…的利益
+in lieu of		代替；取代
+by virtue of		凭…（之力）；由于
+where applicable	副词	在适用的情况下；酌情
+as appropriate	副词	视情况而定；适当地
+firstly	副词	首先；第一
+secondly	副词	其次；第二
+thirdly	副词	第三
+lastly	副词	最后；末了
+so as to		以便；以便能够
+with the exception of		除…之外；只有…例外
+subject to		受…约束；须经…同意
+on account of		因为；由于
+by reason of		由于；因为
+with reference to		关于；就…而言
+in the wake of		随着…而来；在…之后
+barring		除…之外（引导排除条件）
+in which case	副词	在这种情况下；那样的话
+that being so	副词	既然如此；有鉴于此
+in so doing	副词	这样做时；在此过程中
+for fear that	连词	唯恐；以免
+with a view to		为了；着眼于
+with the aim of		旨在；以…为目的
+anyhow	副词	无论如何；反正
+needless to say	副词	不用说；不言而喻
+it goes without saying	副词	不言而喻；无需多说
+to that end	副词	为此目的；为此
+all things considered	副词	考虑到各方面；通盘考虑
+in no small measure	副词	在不小程度上；很大程度上
+in the interim	副词	在此期间；其间
+to no avail	副词	徒劳；不起作用
+at the outset	副词	一开始；起初
+in the context of		在…的语境下；在…背景下
+in relation to		关于；与…有关；就…而言
+in connection with		关于；与…有关
+as regards	副词	关于；就…而论
+in the absence of		在缺乏…的情况下；没有…时
+contend	动词	声称，主张（contend that… 声称…）；争辩
+rebut	动词	反驳，驳斥（rebut a claim 驳斥某一主张）
+affirm	动词	肯定，断言；确认（affirm a commitment 确认承诺）
+allege	动词	指控，声称（未经证实的断言；allegedly 据称）
+purport	动词	声称，号称（purport to be… 自称是…）
+cogent	形容词	有说服力的，令人信服的（a cogent argument 有力的论证）
+ramification	名词	（间接的）后果，衍生影响（legal ramifications 法律后果）
+impediment	名词	妨碍，阻碍（an impediment to progress 进步的障碍）
+ratify	动词	（正式）批准，签署认可（ratify a treaty 批准条约）
+with the result that	连词	结果是；从而（引导结果从句）
+on the grounds that	连词	理由是；以…为依据（refused on the grounds that…）
+thus far	副词	迄今；至此（正式，= so far）
+as yet	副词	到目前为止（多用于否定 as yet unexplained）
+to date	副词	迄今为止；至今（the largest study to date）
+in consequence	副词	结果；因此（正式，= as a result）
+as to		关于；就…而言（多接疑问或争论点 doubt as to whether…）
+wherein	副词	在其中；在…方面（正式书面，a situation wherein…）
+thereof	副词	由此；其（法律/正式书面，the result thereof）
+confer	动词	授予；带来（confer an advantage；confer with 协商）
+circumvent	动词	规避；绕过（circumvent the limitation）
+curtail	动词	削减；限制（curtail spending / freedom）
+uphold	动词	维持（原判）；支持；维护（uphold the decision / standards）
+permeate	动词	渗透；弥漫（permeate every aspect of…）
+pervade	动词	遍及；充斥（pervade the literature）
+subsume	动词	纳入；归入（be subsumed under a category）
+demarcate	动词	划界；区分（demarcate the boundary between…）
+preempt	动词	预先制止；先发制人（preempt criticism）
+hindrance	名词	妨碍；阻碍（a hindrance to progress）
+appraise	动词	评价；评估（appraise the evidence / appraise the significance of…）
+reiterate	动词	重申；反复说明（reiterate the importance of…）
+situate	动词	把…置于（背景/框架）中（situate the study within…）
+delimit	动词	划定界限；界定范围（delimit the scope / delimit the research question）
+germane	形容词	切题的；贴切的（germane to the question）
+incisive	形容词	尖锐的；切入要害的（an incisive critique）
+judicious	形容词	明智的；审慎的（a judicious use of sources）

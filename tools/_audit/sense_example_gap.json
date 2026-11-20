@@ -1,0 +1,1073 @@
+{
+ "_comment": [
+  "义项·例句覆盖缺口候选表（2026-11-19 全库体检产出）。",
+  "判据：多义词的某义项去掉括注后，取 2-4 字中文块，三条例句 zh 无任何字面命中。",
+  "精度警示：机械扫描漏「同义改写」（如「开创性」↔seminal），故本表是**候选**不是定论，",
+  "扩例句前需逐条人工复核该义项是否真的无例句体现；确属无体现者，按 README 维护入口",
+  "改 data/examples_parts/ 对应批次（每词把最自然的一句改写为覆盖该义项），",
+  "重跑 merge_examples.py + make_examples.py，并同步复扫 tools/_audit/cloze_ineligible_84.json。",
+  "单词义词 zh 零命中的 451 词经分层抽样 25 词人工审读，均为同义改写（prior→事先/此前、seminal→开创性、chronic→慢性/长期、whenever→凡/一旦、afterward→此后 等），不列缺口。",
+  "单义词名单：unprecedented、peculiar、puzzling、extensive、prior、drastic、dramatic、explicitly、seminal、supplementary、moderate、modest、alternate、incorporate、conventional、elusive、substantial、thorough、dominant、trigger、plausible、detrimental、ubiquitous、unveil、predominant、simultaneous、external、intrinsic、innovation、longitudinal、vital、cumulative、pivotal、briefly、pioneering、revised、spurious、reciprocal、akin、composite、analog、tackle、generic、prohibitive、permanently、therein、inevitably、recursive、iterative、twofold、preferable、hierarchical、concomitant、necessarily、in situ、blurred、compatible、concurrent、schematic、onerous、progressively、immensely、temporary、temporal、disparate、paradigmatic、preliminary、interchangeably、primarily、specify、encompass、articulate、instrumental、nascent、in-depth、invaluable、superior、entail、collaborative、pertinent、perpetual、impose、whereas、imperative、far-reaching、gradually、commensurate、vertical、sparse、adequate、prevalent、adverse、adjacent、irrespective、incremental、dilemma、namely、embed、ad hoc、historical、consecutive、empirical、computational、purely、statistical、remain、ongoing、underlying、intense、logic、disperse、reside、obviate、comparative、intelligible、faithful、prone、substantially、tentative、eligible、mutual、extrinsic、retraction、skepticism、visibility、pathway、elementary、invisible、dual、diverge、originally、coercive、approximate、onto、indeed、stagger、problematic、exponential、viable、expect、transform、rate、additional、alternative、central、current、detailed、difficult、efficient、essential、exact、existing、explicit、familiar、general、important、initial、key、large、likely、main、modern、natural、normal、particular、permanent、potential、practical、primary、principal、probable、rapid、recent、safe、scarce、sensitive、severe、significant、simple、strong、suitable、technical、theoretical、traditional、useful、various、wrong、closely、considerably、constantly、deliberately、generally、greatly、mainly、mostly、quickly、regularly、relatively、simply、somewhat、specifically、steadily、widely、but、correlate、visualize、pipeline、optimal、systematic、holistic、interdisciplinary、quantitative、tangible、sequential、overarching、pervasive、respectively、predominantly、simultaneously、markedly、jointly、collectively、maximize、minimize、probe、retrospective、spectrum、coverage、applicable、fundamental、multidimensional、operational、systemic、random、experimental、comparable、ancillary、observational、cross-sectional、correspondingly、principally、quantitatively、significantly、tentatively、rapidly、comparatively、with respect to、versus、present、enable、contextualize、standardize、inverse、stratum、mediating、moderating、organizational、societal、inferential、deductive、inductive、pooled、prospective、normative、interpretive、discern、undertake、necessitate、conceptual、multidisciplinary、thematic、rhetorical、exploratory、influential、ground、exhaustive、verbatim、layer、volume、chemical、digital、molecular、in addition to、such as、in contrast to、pose、select、legal、passive、periodic、complicate、scarcely、chiefly、importantly、marginally、slightly、vastly、highly、infinitely、equally、thoroughly、fully、entirely、completely、totally、partially、extensively、rigorously、accurately、genuinely、socially、critically、logically、culturally、temporarily、continuously、intermittently、voluntarily、even、as well、than、when、whenever、wherever、whichever、whatever、whoever、nor、neither、incur、reduction、accessible、authentic、beneficial、characteristic、collective、ethical、formal、hypothetical、innovative、questionable、scientific、structural、technological、vulnerable、and、even when、in the sense that、on the assumption that、in the event that、except that、on condition that、by analogy、as a case in point、in order to、for the sake of、at the expense of、by virtue of、both、if necessary、in sum、as a whole、with the exception of、till、barring、well、anyway、in the main、in which case、in that case、because of、with a view to、first and foremost、as regards、for the purpose of、for the purposes of、aggravate、irreversible、unfounded、unwarranted、tenuous、anecdotal、connotation、aftermath、shortcoming、hindsight、symposium、doctoral、marginalize、monetary、fiscal、neural、metabolism、toxic、renewable、clinical、epidemic、pandemic、outbreak、chronic、acute、episodic、sustained、intermittent、cognitive、even as、such that、regardless of whether、the moment、by the time、also、too、instead、only、afterward、directly、naturally、as yet、most importantly、even then、like、remarkably、wherein、thereof、thwart、halt、abrupt、abruptly、gradual、swift、swiftly、steep、steeply、smooth、smoothly、marked、persistent、situate、delimit、credible、germane、epistemological、ontological、prescriptive、scholarly、inconclusive、secondary、insufficient、multiple、quasi-experimental、latent"
+ ],
+ "_stats": {
+  "词库词数": 2222,
+  "多义词缺口": 87,
+  "缺口义项数": 111,
+  "单义词零命中(人工复核为同义改写)": 451
+ },
+ "candidates": [
+  {
+   "num": 7,
+   "word": "yield",
+   "pos": "动词",
+   "uncovered_senses": [
+    {
+     "sense_index": 1,
+     "sense": "出产；产出"
+    }
+   ]
+  },
+  {
+   "num": 15,
+   "word": "accordingly",
+   "pos": "副词",
+   "uncovered_senses": [
+    {
+     "sense_index": 0,
+     "sense": "照着；相应地"
+    }
+   ]
+  },
+  {
+   "num": 32,
+   "word": "a priori",
+   "pos": "形容词",
+   "uncovered_senses": [
+    {
+     "sense_index": 0,
+     "sense": "先验的；预设的"
+    }
+   ]
+  },
+  {
+   "num": 39,
+   "word": "dictate",
+   "pos": "动词",
+   "uncovered_senses": [
+    {
+     "sense_index": 1,
+     "sense": "命令；下令"
+    }
+   ]
+  },
+  {
+   "num": 44,
+   "word": "rigid",
+   "pos": "形容词",
+   "uncovered_senses": [
+    {
+     "sense_index": 0,
+     "sense": "顽固的；不易改变的"
+    },
+    {
+     "sense_index": 1,
+     "sense": "僵硬的；固定的；不能弯曲的"
+    }
+   ]
+  },
+  {
+   "num": 46,
+   "word": "comment",
+   "pos": "动词",
+   "uncovered_senses": [
+    {
+     "sense_index": 1,
+     "sense": "发表意见；作出评价"
+    }
+   ]
+  },
+  {
+   "num": 49,
+   "word": "illustrate",
+   "pos": "动词",
+   "uncovered_senses": [
+    {
+     "sense_index": 1,
+     "sense": "（用图表、插图等）加以说明，图解"
+    }
+   ]
+  },
+  {
+   "num": 61,
+   "word": "routine",
+   "pos": "名词",
+   "uncovered_senses": [
+    {
+     "sense_index": 1,
+     "sense": "例行的，常规的（作定语时）"
+    }
+   ]
+  },
+  {
+   "num": 65,
+   "word": "amenable",
+   "pos": "形容词",
+   "uncovered_senses": [
+    {
+     "sense_index": 0,
+     "sense": "顺从的；易接受建议的"
+    },
+    {
+     "sense_index": 1,
+     "sense": "（对某事）易于接受的；可供…处理的"
+    }
+   ]
+  },
+  {
+   "num": 68,
+   "word": "competitive",
+   "pos": "形容词",
+   "uncovered_senses": [
+    {
+     "sense_index": 0,
+     "sense": "竞争的；竞赛的"
+    },
+    {
+     "sense_index": 1,
+     "sense": "有竞争力的"
+    }
+   ]
+  },
+  {
+   "num": 96,
+   "word": "unravel",
+   "pos": "动词",
+   "uncovered_senses": [
+    {
+     "sense_index": 0,
+     "sense": "揭开，弄清，阐明（谜团或复杂问题）；被澄清；被解决"
+    }
+   ]
+  },
+  {
+   "num": 119,
+   "word": "intermediate",
+   "pos": "形容词",
+   "uncovered_senses": [
+    {
+     "sense_index": 0,
+     "sense": "中间的，居中的"
+    },
+    {
+     "sense_index": 1,
+     "sense": "中级的（水平、课程等；intermediate course 中级课程）"
+    }
+   ]
+  },
+  {
+   "num": 121,
+   "word": "attribute to",
+   "pos": "动词",
+   "uncovered_senses": [
+    {
+     "sense_index": 0,
+     "sense": "把（某种特质）归属于（某人）；认为（某人）具有（某种特性）"
+    },
+    {
+     "sense_index": 1,
+     "sense": "把（某事）归因于（某人或某事）"
+    }
+   ]
+  },
+  {
+   "num": 155,
+   "word": "outline",
+   "pos": "名词",
+   "uncovered_senses": [
+    {
+     "sense_index": 0,
+     "sense": "提纲；概要；要点"
+    },
+    {
+     "sense_index": 1,
+     "sense": "（对某事的）大致轮廓"
+    }
+   ]
+  },
+  {
+   "num": 157,
+   "word": "exploit",
+   "pos": "动词",
+   "uncovered_senses": [
+    {
+     "sense_index": 1,
+     "sense": "剥削；滥用（权力等）"
+    }
+   ]
+  },
+  {
+   "num": 172,
+   "word": "render",
+   "pos": "动词",
+   "uncovered_senses": [
+    {
+     "sense_index": 0,
+     "sense": "使成为；使变得；使处于某种状态"
+    },
+    {
+     "sense_index": 2,
+     "sense": "呈现；使呈现为"
+    }
+   ]
+  },
+  {
+   "num": 178,
+   "word": "capacity",
+   "pos": "名词",
+   "uncovered_senses": [
+    {
+     "sense_index": 2,
+     "sense": "（尤指某人或某组织的）办事能力"
+    }
+   ]
+  },
+  {
+   "num": 185,
+   "word": "extraneous",
+   "pos": "形容词",
+   "uncovered_senses": [
+    {
+     "sense_index": 1,
+     "sense": "多余的，冗余的"
+    }
+   ]
+  },
+  {
+   "num": 186,
+   "word": "ingenious",
+   "pos": "形容词",
+   "uncovered_senses": [
+    {
+     "sense_index": 1,
+     "sense": "（物品等）制作精巧的"
+    }
+   ]
+  },
+  {
+   "num": 216,
+   "word": "leverage",
+   "pos": "动词",
+   "uncovered_senses": [
+    {
+     "sense_index": 1,
+     "sense": "发挥杠杆作用；使…产生杠杆效应"
+    }
+   ]
+  },
+  {
+   "num": 227,
+   "word": "exceptional",
+   "pos": "形容词",
+   "uncovered_senses": [
+    {
+     "sense_index": 1,
+     "sense": "特别的，罕见的"
+    }
+   ]
+  },
+  {
+   "num": 269,
+   "word": "immerse",
+   "pos": "动词",
+   "uncovered_senses": [
+    {
+     "sense_index": 0,
+     "sense": "埋头做…"
+    },
+    {
+     "sense_index": 1,
+     "sense": "使浸没（于）"
+    }
+   ]
+  },
+  {
+   "num": 277,
+   "word": "pedagogical",
+   "pos": "形容词",
+   "uncovered_senses": [
+    {
+     "sense_index": 0,
+     "sense": "教学的；教育学的；教学法的"
+    },
+    {
+     "sense_index": 1,
+     "sense": "起教育作用的；用于教学的"
+    }
+   ]
+  },
+  {
+   "num": 284,
+   "word": "suspicious",
+   "pos": "形容词",
+   "uncovered_senses": [
+    {
+     "sense_index": 0,
+     "sense": "可疑的，引起怀疑的"
+    },
+    {
+     "sense_index": 1,
+     "sense": "怀疑的，猜疑的；不信任的"
+    }
+   ]
+  },
+  {
+   "num": 286,
+   "word": "prominent",
+   "pos": "形容词",
+   "uncovered_senses": [
+    {
+     "sense_index": 0,
+     "sense": "著名的；重要的"
+    }
+   ]
+  },
+  {
+   "num": 287,
+   "word": "notably",
+   "pos": "副词",
+   "uncovered_senses": [
+    {
+     "sense_index": 0,
+     "sense": "格外地，特别地"
+    }
+   ]
+  },
+  {
+   "num": 292,
+   "word": "invoke",
+   "pos": "动词",
+   "uncovered_senses": [
+    {
+     "sense_index": 2,
+     "sense": "诉诸"
+    }
+   ]
+  },
+  {
+   "num": 306,
+   "word": "virtually",
+   "pos": "副词",
+   "uncovered_senses": [
+    {
+     "sense_index": 1,
+     "sense": "（用计算机）虚拟地"
+    }
+   ]
+  },
+  {
+   "num": 310,
+   "word": "diagram",
+   "pos": "名词",
+   "uncovered_senses": [
+    {
+     "sense_index": 1,
+     "sense": "（组织结构或流程的）图表"
+    }
+   ]
+  },
+  {
+   "num": 326,
+   "word": "fraction",
+   "pos": "名词",
+   "uncovered_senses": [
+    {
+     "sense_index": 0,
+     "sense": "分数"
+    }
+   ]
+  },
+  {
+   "num": 338,
+   "word": "cornerstone",
+   "pos": "名词",
+   "uncovered_senses": [
+    {
+     "sense_index": 1,
+     "sense": "基础，根本"
+    }
+   ]
+  },
+  {
+   "num": 345,
+   "word": "distinct",
+   "pos": "形容词",
+   "uncovered_senses": [
+    {
+     "sense_index": 0,
+     "sense": "明显的；清楚的；确切的"
+    }
+   ]
+  },
+  {
+   "num": 349,
+   "word": "harbor",
+   "pos": "动词",
+   "uncovered_senses": [
+    {
+     "sense_index": 0,
+     "sense": "庇护；窝藏"
+    },
+    {
+     "sense_index": 2,
+     "sense": "心怀，怀有（怨恨、不满等）"
+    }
+   ]
+  },
+  {
+   "num": 354,
+   "word": "heuristic",
+   "pos": "形容词",
+   "uncovered_senses": [
+    {
+     "sense_index": 0,
+     "sense": "启发式的；经验法则的"
+    }
+   ]
+  },
+  {
+   "num": 361,
+   "word": "excess",
+   "pos": "名词",
+   "uncovered_senses": [
+    {
+     "sense_index": 1,
+     "sense": "多余的，额外的（作定语时）"
+    }
+   ]
+  },
+  {
+   "num": 378,
+   "word": "spark",
+   "pos": "名词",
+   "uncovered_senses": [
+    {
+     "sense_index": 1,
+     "sense": "导火线；引发因素；激起的动因（a spark of interest 兴趣的火花）"
+    }
+   ]
+  },
+  {
+   "num": 379,
+   "word": "diverse",
+   "pos": "形容词",
+   "uncovered_senses": [
+    {
+     "sense_index": 0,
+     "sense": "多种多样的，形形色色的"
+    },
+    {
+     "sense_index": 1,
+     "sense": "不同的，相异的"
+    }
+   ]
+  },
+  {
+   "num": 386,
+   "word": "insofar as",
+   "pos": "连词",
+   "uncovered_senses": [
+    {
+     "sense_index": 1,
+     "sense": "在…的范围内；到…的程度"
+    }
+   ]
+  },
+  {
+   "num": 390,
+   "word": "radical",
+   "pos": "形容词",
+   "uncovered_senses": [
+    {
+     "sense_index": 1,
+     "sense": "根本的；彻底的，完全的"
+    }
+   ]
+  },
+  {
+   "num": 409,
+   "word": "consist in",
+   "pos": "动词",
+   "uncovered_senses": [
+    {
+     "sense_index": 1,
+     "sense": "（事物的）本质在于"
+    }
+   ]
+  },
+  {
+   "num": 412,
+   "word": "interface",
+   "pos": "名词",
+   "uncovered_senses": [
+    {
+     "sense_index": 1,
+     "sense": "（两者之间的）联系点，交汇之处（the interface between theory and practice 理论与实践之间的交汇）"
+    }
+   ]
+  },
+  {
+   "num": 421,
+   "word": "contemporary",
+   "pos": "形容词",
+   "uncovered_senses": [
+    {
+     "sense_index": 1,
+     "sense": "当代的；现代的"
+    }
+   ]
+  },
+  {
+   "num": 422,
+   "word": "concerned",
+   "pos": "形容词",
+   "uncovered_senses": [
+    {
+     "sense_index": 0,
+     "sense": "担心的；忧虑的；挂念的"
+    },
+    {
+     "sense_index": 1,
+     "sense": "有关的；牵涉到的"
+    }
+   ]
+  },
+  {
+   "num": 430,
+   "word": "coincide",
+   "pos": "动词",
+   "uncovered_senses": [
+    {
+     "sense_index": 0,
+     "sense": "（几乎）同时发生"
+    },
+    {
+     "sense_index": 1,
+     "sense": "与…一致，相符；相似"
+    }
+   ]
+  },
+  {
+   "num": 435,
+   "word": "otherwise",
+   "pos": "副词",
+   "uncovered_senses": [
+    {
+     "sense_index": 1,
+     "sense": "别样地，以另外的方式"
+    }
+   ]
+  },
+  {
+   "num": 445,
+   "word": "govern",
+   "pos": "动词",
+   "uncovered_senses": [
+    {
+     "sense_index": 1,
+     "sense": "支配；控制；影响"
+    }
+   ]
+  },
+  {
+   "num": 446,
+   "word": "refer to",
+   "pos": "动词",
+   "uncovered_senses": [
+    {
+     "sense_index": 0,
+     "sense": "提到；谈到；提及；指代；参考"
+    },
+    {
+     "sense_index": 1,
+     "sense": "把…称作；将…视为（refer to A as B 把 A 称作 B）"
+    }
+   ]
+  },
+  {
+   "num": 449,
+   "word": "overwhelming",
+   "pos": "形容词",
+   "uncovered_senses": [
+    {
+     "sense_index": 0,
+     "sense": "难以抵挡的；无法抗拒的"
+    }
+   ]
+  },
+  {
+   "num": 454,
+   "word": "singular",
+   "pos": "形容词",
+   "uncovered_senses": [
+    {
+     "sense_index": 0,
+     "sense": "单一的；独有的；非凡的"
+    },
+    {
+     "sense_index": 1,
+     "sense": "单数的（语法；singular form 单数形式）"
+    }
+   ]
+  },
+  {
+   "num": 458,
+   "word": "surge",
+   "pos": "动词",
+   "uncovered_senses": [
+    {
+     "sense_index": 1,
+     "sense": "涌现，奔涌"
+    }
+   ]
+  },
+  {
+   "num": 459,
+   "word": "intuitive",
+   "pos": "形容词",
+   "uncovered_senses": [
+    {
+     "sense_index": 0,
+     "sense": "直觉的；凭直觉的"
+    },
+    {
+     "sense_index": 1,
+     "sense": "直观的（界面、解释等易于理解；intuitive interface 直观界面）"
+    }
+   ]
+  },
+  {
+   "num": 470,
+   "word": "latter",
+   "pos": "形容词",
+   "uncovered_senses": [
+    {
+     "sense_index": 1,
+     "sense": "后半程的，靠后的，末尾的"
+    }
+   ]
+  },
+  {
+   "num": 471,
+   "word": "distinguish",
+   "pos": "动词",
+   "uncovered_senses": [
+    {
+     "sense_index": 1,
+     "sense": "使自己出类拔萃，表现突出"
+    }
+   ]
+  },
+  {
+   "num": 478,
+   "word": "revisit",
+   "pos": "动词",
+   "uncovered_senses": [
+    {
+     "sense_index": 0,
+     "sense": "重访（某地）"
+    },
+    {
+     "sense_index": 1,
+     "sense": "重新考虑（意图改变或改善）"
+    }
+   ]
+  },
+  {
+   "num": 484,
+   "word": "devise",
+   "pos": "动词",
+   "uncovered_senses": [
+    {
+     "sense_index": 0,
+     "sense": "巧妙构思；巧妙设计"
+    },
+    {
+     "sense_index": 1,
+     "sense": "发明（invent 义）"
+    }
+   ]
+  },
+  {
+   "num": 490,
+   "word": "confirmation",
+   "pos": "名词",
+   "uncovered_senses": [
+    {
+     "sense_index": 1,
+     "sense": "证实；肯定"
+    }
+   ]
+  },
+  {
+   "num": 511,
+   "word": "prove",
+   "pos": "动词",
+   "uncovered_senses": [
+    {
+     "sense_index": 0,
+     "sense": "证明是，结果是"
+    }
+   ]
+  },
+  {
+   "num": 513,
+   "word": "ideally",
+   "pos": "副词",
+   "uncovered_senses": [
+    {
+     "sense_index": 0,
+     "sense": "理想地，完美地"
+    }
+   ]
+  },
+  {
+   "num": 515,
+   "word": "asset",
+   "pos": "名词",
+   "uncovered_senses": [
+    {
+     "sense_index": 0,
+     "sense": "优点，长处；有用的人"
+    }
+   ]
+  },
+  {
+   "num": 533,
+   "word": "constitute",
+   "pos": "动词",
+   "uncovered_senses": [
+    {
+     "sense_index": 1,
+     "sense": "是；被看作，被视为"
+    }
+   ]
+  },
+  {
+   "num": 534,
+   "word": "merit",
+   "pos": "名词",
+   "uncovered_senses": [
+    {
+     "sense_index": 1,
+     "sense": "优异；优良（merit award 优绩奖；merit scholarship 优绩奖学金）"
+    }
+   ]
+  },
+  {
+   "num": 539,
+   "word": "reveal",
+   "pos": "动词",
+   "uncovered_senses": [
+    {
+     "sense_index": 1,
+     "sense": "使显露；展现；显示"
+    }
+   ]
+  },
+  {
+   "num": 576,
+   "word": "outlook",
+   "pos": "名词",
+   "uncovered_senses": [
+    {
+     "sense_index": 1,
+     "sense": "观点，看法"
+    }
+   ]
+  },
+  {
+   "num": 581,
+   "word": "pave",
+   "pos": "动词",
+   "uncovered_senses": [
+    {
+     "sense_index": 0,
+     "sense": "为…铺平道路；为…创造条件（pave the way for）"
+    }
+   ]
+  },
+  {
+   "num": 586,
+   "word": "validity",
+   "pos": "名词",
+   "uncovered_senses": [
+    {
+     "sense_index": 1,
+     "sense": "正当性；合理性；效力"
+    }
+   ]
+  },
+  {
+   "num": 590,
+   "word": "reference",
+   "pos": "名词",
+   "uncovered_senses": [
+    {
+     "sense_index": 1,
+     "sense": "引文出处；参考书目"
+    }
+   ]
+  },
+  {
+   "num": 595,
+   "word": "characterize",
+   "pos": "动词",
+   "uncovered_senses": [
+    {
+     "sense_index": 0,
+     "sense": "是…的特征；为…所特有"
+    },
+    {
+     "sense_index": 1,
+     "sense": "把…描述为，把…称为（characterize…as）"
+    }
+   ]
+  },
+  {
+   "num": 609,
+   "word": "flexible",
+   "pos": "形容词",
+   "uncovered_senses": [
+    {
+     "sense_index": 1,
+     "sense": "可弯曲的；柔韧的；有弹性的"
+    }
+   ]
+  },
+  {
+   "num": 612,
+   "word": "emanate",
+   "pos": "动词",
+   "uncovered_senses": [
+    {
+     "sense_index": 1,
+     "sense": "源于；出自（emanate from）"
+    }
+   ]
+  },
+  {
+   "num": 621,
+   "word": "regime",
+   "pos": "名词",
+   "uncovered_senses": [
+    {
+     "sense_index": 1,
+     "sense": "（物理、化学）状态（regime shift 状态转变）"
+    }
+   ]
+  },
+  {
+   "num": 625,
+   "word": "vary",
+   "pos": "动词",
+   "uncovered_senses": [
+    {
+     "sense_index": 1,
+     "sense": "改变；更改"
+    }
+   ]
+  },
+  {
+   "num": 657,
+   "word": "consistent",
+   "pos": "形容词",
+   "uncovered_senses": [
+    {
+     "sense_index": 1,
+     "sense": "一致的，吻合的；符合的"
+    }
+   ]
+  },
+  {
+   "num": 671,
+   "word": "reservoir",
+   "pos": "名词",
+   "uncovered_senses": [
+    {
+     "sense_index": 1,
+     "sense": "储备；储藏；储量"
+    }
+   ]
+  },
+  {
+   "num": 685,
+   "word": "assignment",
+   "pos": "名词",
+   "uncovered_senses": [
+    {
+     "sense_index": 1,
+     "sense": "分配（任务）；指派（人员）"
+    }
+   ]
+  },
+  {
+   "num": 693,
+   "word": "susceptibility",
+   "pos": "名词",
+   "uncovered_senses": [
+    {
+     "sense_index": 1,
+     "sense": "敏感性（sensitivity 义）"
+    }
+   ]
+  },
+  {
+   "num": 695,
+   "word": "entangle",
+   "pos": "动词",
+   "uncovered_senses": [
+    {
+     "sense_index": 1,
+     "sense": "（问题、争议等）使纠缠，使复杂化"
+    }
+   ]
+  },
+  {
+   "num": 698,
+   "word": "roughly",
+   "pos": "副词",
+   "uncovered_senses": [
+    {
+     "sense_index": 0,
+     "sense": "大致地，近似地，粗略地"
+    },
+    {
+     "sense_index": 1,
+     "sense": "粗糙地；不精细地"
+    }
+   ]
+  },
+  {
+   "num": 713,
+   "word": "account for",
+   "pos": "动词",
+   "uncovered_senses": [
+    {
+     "sense_index": 0,
+     "sense": "解释；说明（某事）"
+    },
+    {
+     "sense_index": 2,
+     "sense": "导致；是…的原因"
+    },
+    {
+     "sense_index": 3,
+     "sense": "（某人）对（行动、政策等）负有责任"
+    }
+   ]
+  },
+  {
+   "num": 714,
+   "word": "aside",
+   "pos": "副词",
+   "uncovered_senses": [
+    {
+     "sense_index": 0,
+     "sense": "除…以外；离开主题"
+    }
+   ]
+  },
+  {
+   "num": 721,
+   "word": "stark",
+   "pos": "形容词",
+   "uncovered_senses": [
+    {
+     "sense_index": 0,
+     "sense": "严重的；极端的"
+    },
+    {
+     "sense_index": 1,
+     "sense": "鲜明的；一目了然的（stark contrast 对比鲜明）"
+    }
+   ]
+  },
+  {
+   "num": 735,
+   "word": "feature",
+   "pos": "名词",
+   "uncovered_senses": [
+    {
+     "sense_index": 1,
+     "sense": "（报刊、广播的）专题节目；特辑"
+    }
+   ]
+  },
+  {
+   "num": 752,
+   "word": "favor",
+   "pos": "动词",
+   "uncovered_senses": [
+    {
+     "sense_index": 1,
+     "sense": "偏爱；对…有利"
+    }
+   ]
+  },
+  {
+   "num": 764,
+   "word": "validate",
+   "pos": "动词",
+   "uncovered_senses": [
+    {
+     "sense_index": 1,
+     "sense": "（证书、程序）使合格；授权认可（validate the device for clinical use 使设备获准临床使用）"
+    }
+   ]
+  },
+  {
+   "num": 767,
+   "word": "concrete",
+   "pos": "形容词",
+   "uncovered_senses": [
+    {
+     "sense_index": 0,
+     "sense": "确定的，确实的；具体的，有形的，实在的"
+    }
+   ]
+  },
+  {
+   "num": 771,
+   "word": "metric",
+   "pos": "名词",
+   "uncovered_senses": [
+    {
+     "sense_index": 1,
+     "sense": "度量标准"
+    }
+   ]
+  },
+  {
+   "num": 779,
+   "word": "segment",
+   "pos": "名词",
+   "uncovered_senses": [
+    {
+     "sense_index": 1,
+     "sense": "（市场的）细分"
+    }
+   ]
+  },
+  {
+   "num": 794,
+   "word": "disrupt",
+   "pos": "动词",
+   "uncovered_senses": [
+    {
+     "sense_index": 0,
+     "sense": "打断，中断，扰乱"
+    }
+   ]
+  }
+ ]
+}

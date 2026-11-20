@@ -1,0 +1,72 @@
+{
+ "reciprocity": [
+  {"en": "Social exchange theory treats reciprocity as the expectation that support will be returned.", "zh": "社会交换理论把互惠视为支持行为将得到回报的期待。"},
+  {"en": "The agreement was drafted to ensure reciprocity in access to research data between partner institutions.", "zh": "该协议的起草旨在确保合作机构之间获取研究数据的对等性。"},
+  {"en": "Reciprocity between the journal and its peer reviewers depends on timely and constructive reports.", "zh": "期刊与同行评审者之间的相互性取决于及时而富有建设性的评审报告。"}
+ ],
+ "recommendation": [
+  {"en": "The committee issued a recommendation that funding be redirected toward early intervention programs.", "zh": "委员会提出建议，主张将资金转向早期干预项目。"},
+  {"en": "Her recommendation of a mixed methods design shaped the subsequent analysis strategy.", "zh": "她关于混合方法设计的建议影响了随后的分析策略。"},
+  {"en": "Reviewers considered the journal's peer review policy a sound recommendation for early career researchers.", "zh": "评审者认为该刊的同行评审政策对职业早期研究者而言是一项中肯的建议。"}
+ ],
+ "recurrence": [
+  {"en": "The recurrence of drought conditions prompted a revision of regional water allocation rules.", "zh": "干旱状况的反复出现促使该地区重新修订水资源分配规则。"},
+  {"en": "Researchers tracked the recurrence of seasonal influenza across a decade of clinic records.", "zh": "研究者依据十年门诊记录追踪季节性流感的再现情况。"},
+  {"en": "A recurrence of the same measurement error in two independent runs suggests a systematic instrument bias.", "zh": "同一测量误差在两次独立运行中重现，提示仪器存在系统性偏差。"}
+ ],
+ "reduction": [
+  {"en": "A reduction in sample size reduced the statistical power of the experiment.", "zh": "样本量的缩减削弱了该实验的统计检验效能。"},
+  {"en": "The policy achieved a substantial reduction in energy consumption across public buildings.", "zh": "该政策使公共建筑的能源消耗显著下降。"},
+  {"en": "No reduction in mortality was observed among patients receiving the standard treatment.", "zh": "在接受标准治疗的患者中，未观察到死亡率的下降。"}
+ ],
+ "refinement": [
+  {"en": "The refinement of the method took several years of iterative testing.", "zh": "该方法的精细化历经数年的反复测试。"},
+  {"en": "Analysts noted a steady refinement of the theoretical model after peer feedback.", "zh": "在同行反馈之后，分析者注意到理论模型得到持续改进。"},
+  {"en": "Each refinement of the questionnaire removed ambiguous items from the final instrument.", "zh": "问卷的每一次修订都从最终工具中删去了含义模糊的题目。"}
+ ],
+ "reinforcement": [
+  {"en": "Positive reinforcement increased the rate of task completion among the participants.", "zh": "正强化提高了参与者的任务完成率。"},
+  {"en": "The reinforcement of regional institutions weakened the power of the central ministry.", "zh": "对区域机构的强化削弱了中央部委的权力。"},
+  {"en": "Social reinforcement through peer groups appears essential to long-term behavioral change.", "zh": "借助同伴群体的社会强化，似乎对长期行为改变至关重要。"}
+ ],
+ "remedy": [
+  {"en": "The regulator proposed stronger disclosure requirements as a remedy for persistent market failures.", "zh": "监管机构提出更严格的信息披露要求，作为应对持续市场失灵的补救措施。"},
+  {"en": "Such a remedy remains popular although the clinical evidence supporting it is limited.", "zh": "尽管支持它的临床证据仍然有限，这类疗法依然颇受欢迎。"},
+  {"en": "No single policy remedy can resolve the problem of regional inequality in educational access.", "zh": "没有任何单一的政策补救措施能够解决教育获取方面的区域不平等问题。"}
+ ],
+ "reputation": [
+  {"en": "A university's reputation often shapes the number and quality of applications it receives.", "zh": "一所大学的声誉往往影响其收到的申请数量与质量。"},
+  {"en": "The institute's reputation for rigorous peer review attracted several visiting scholars.", "zh": "该研究所因严谨的同行评审而声名远播，吸引了多位访问学者。"},
+  {"en": "Companies with a damaged reputation face higher costs when recruiting skilled personnel.", "zh": "声誉受损的企业在招募专业人才时往往要付出更高成本。"}
+ ],
+ "reservation": [
+  {"en": "Members expressed reservation about the proposal's likely effect on rural incomes.", "zh": "成员们对该提案可能给农村收入带来的影响表示了保留意见。"},
+  {"en": "Any reservation about the journal's new policy must reach the editorial board before publication.", "zh": "对该刊新政策的任何保留意见都必须在出版前提交编辑部。"},
+  {"en": "Reservations at the conference hotel were confirmed after the delegation submitted its travel plans.", "zh": "代表团提交行程安排后，会议酒店的预订得到确认。"}
+ ],
+ "restriction": [
+  {"en": "Import restrictions reduced the supply of essential components during the disruption.", "zh": "进口限制在供应中断期间削减了关键零部件的供应。"},
+  {"en": "The severity of the restriction depends on how widely the species migrates across borders.", "zh": "限制的严厉程度取决于该物种跨境迁移的范围。"},
+  {"en": "Academic freedom cannot be reconciled with blanket restriction of online publications.", "zh": "学术自由无法与对网络出版物的全面限制相调和。"}
+ ],
+ "retrieval": [
+  {"en": "Information retrieval systems rank documents according to their relevance to a query.", "zh": "信息检索系统按照文档与查询的相关程度对结果排序。"},
+  {"en": "The retrieval of source data required permission from the archive's governing board.", "zh": "获取源数据需要档案管理理事会的许可。"},
+  {"en": "Memory retrieval was tested after a controlled interval of rest.", "zh": "在受控的休息间隔之后，研究对记忆提取进行了检验。"}
+ ],
+ "revision": [
+  {"en": "The revision of the manuscript followed a lengthy process of internal review.", "zh": "该稿件的修订经历了漫长的内部评审过程。"},
+  {"en": "Substantial revision of the theoretical framework was required before the article could be accepted.", "zh": "该文被接收之前，其理论框架需要大幅修订。"},
+  {"en": "Readers should consult the latest revision of the statistical guidelines before replication.", "zh": "研究者在重复实验之前应查阅统计指南的最新修订版。"}
+ ],
+ "rigor": [
+  {"en": "The rigor of the argument depends on the quality of the underlying evidence.", "zh": "论证的严密程度取决于基础证据的质量。"},
+  {"en": "Quantitative methods contribute rigor to the comparison of regional economic indicators.", "zh": "定量方法为区域经济指标的比较提供了严谨性。"},
+  {"en": "The program lost scientific rigor when the control group was quietly dropped from the analysis.", "zh": "当对照组被悄悄从分析中剔除时，该研究便失去了科学严谨性。"}
+ ],
+ "selection": [
+  {"en": "Sample selection must be justified before any statistical inference is attempted.", "zh": "在尝试任何统计推断之前，必须为样本选择提供理由。"},
+  {"en": "The committee met the needs of the department through an open selection of junior fellows.", "zh": "委员会通过公开选拔初级研究员满足了院系的需求。"},
+  {"en": "Peer selection introduces biases that are difficult to detect in the published literature.", "zh": "同行遴选会引入难以在已发表文献中察觉的偏差。"}
+ ]
+}

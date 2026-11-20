@@ -1,0 +1,34 @@
+[
+  {
+    "word": "uncertainty",
+    "field": "sense",
+    "index": 0,
+    "problem": "释义括注的数学义写成「变数」，「变数」对应的是 variable（数学的变量），uncertainty 的数学义应为「不确定度／不确定量」，与该词形不对应。",
+    "current": "不确定性；（程度上的）不确定；变数（数学义）",
+    "suggest": "不确定性；（程度上的）不确定；不确定度，不确定量（数学义）"
+  },
+  {
+    "word": "point",
+    "field": "sense",
+    "index": 2,
+    "problem": "例句「There is some point to his criticism」用的是 point 的「道理、益处」义（有一点道理），senses 只列了「要点；论点；观点」，缺这一常用义项。",
+    "current": "要点；论点；观点",
+    "suggest": "要点；论点；观点；道理，益处（there is some point in… 有…的道理）"
+  },
+  {
+    "word": "inferential",
+    "field": "example_zh",
+    "index": 0,
+    "problem": "en 的 beyond the raw data 是「超出原始数据本身」，译文用「从原始数据之外」把 beyond 译成「在…之外」，介词用错导致语义走偏。",
+    "current": "推断统计使研究者能够从原始数据之外得出结论。",
+    "suggest": "推断统计使研究者能够超出原始数据本身得出结论。"
+  },
+  {
+    "word": "verification",
+    "field": "example_zh",
+    "index": 2,
+    "problem": "en 的 Document verification 指对文件／文档的核验，译文作「文献核查」，把 document（文件）译成了「文献（literature）」，与 en 语义不符。",
+    "current": "在任何主张发表之前都必须进行文献核查。",
+    "suggest": "在任何主张发表之前都必须进行文件核查。"
+  }
+]

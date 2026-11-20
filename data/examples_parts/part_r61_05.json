@@ -1,0 +1,184 @@
+{
+ "intensity": [
+  {
+   "en": "The intensity of the intervention was increased once a formal review of the trial data was completed.",
+   "zh": "在完成对试验数据的正式审查之后，干预的强度才得以提高。"
+  },
+  {
+   "en": "Radiation intensity varied considerably across the sampling sites, which limited the comparability of the estimates.",
+   "zh": "各采样点的辐射强度差异相当大，这限制了估计结果的可比性。"
+  },
+  {
+   "en": "The intensity of public scrutiny placed substantial pressure on the regulatory agency to publish its reasoning.",
+   "zh": "公众监督的强度给监管机构施加了实质压力，促使其公布推理依据。"
+  }
+ ],
+ "interaction": [
+  {
+   "en": "The interaction between gene dosage and maternal age was not accounted for in the original analysis.",
+   "zh": "原始分析并未考虑基因剂量与母亲年龄之间的交互作用。"
+  },
+  {
+   "en": "Policy design should anticipate the interaction between formal rules and the informal practices of local administration.",
+   "zh": "政策设计应当预判正式规则与地方行政的非正式惯例之间的相互作用。"
+  },
+  {
+   "en": "Extended observation revealed a clear interaction between workload and error rates among junior staff.",
+   "zh": "延长观察期后发现，工作负荷与初级员工的差错率之间存在明显的交互作用。"
+  }
+ ],
+ "latency": [
+  {
+   "en": "The latency between symptom onset and diagnosis remains a major obstacle to timely treatment.",
+   "zh": "从症状出现到确诊之间的延迟时间，仍是及时治疗的一大障碍。"
+  },
+  {
+   "en": "Network latency measurements showed substantial variation across the region, indicating uneven infrastructure investment.",
+   "zh": "网络延迟的测量结果显示该地区存在显著差异，说明基础设施投资并不均衡。"
+  },
+  {
+   "en": "Reducing latency in the reporting system requires reorganizing the workflow rather than adding staff.",
+   "zh": "降低报告系统的延迟时间，需要重组工作流程，而非单纯增加人手。"
+  }
+ ],
+ "manifestation": [
+  {
+   "en": "The most common manifestation of the condition was a gradual decline in cognitive performance.",
+   "zh": "该病最常见的表现是认知功能的逐渐衰退。"
+  },
+  {
+   "en": "Policy failure was the clearest manifestation of weak coordination between the responsible agencies.",
+   "zh": "政策的失败是各责任机构之间协调不力的最明显表现。"
+  },
+  {
+   "en": "Such a manifestation of regional inequality prompted the authors to revise their analytical framework.",
+   "zh": "区域不平等的这种表现促使作者修订了原有的分析框架。"
+  }
+ ],
+ "maturity": [
+  {
+   "en": "The maturity of the evidence base remains insufficient to justify such a sweeping reform.",
+   "zh": "现有证据基础的成熟度仍不足以支撑如此全面的改革。"
+  },
+  {
+   "en": "Regulatory frameworks should be assessed against the maturity of the technologies they seek to govern.",
+   "zh": "监管框架应依据其所试图规制的技术的成熟度加以评估。"
+  },
+  {
+   "en": "The maturity of the market was evident in the growing share of professionally certified providers.",
+   "zh": "市场的成熟度体现在持有专业资质的服务提供者比例不断上升。"
+  }
+ ],
+ "modification": [
+  {
+   "en": "Any modification to the survey instrument required a full re-validation of the measurement scale.",
+   "zh": "对问卷工具的任何修改，都要求对测量量表进行全面的重新效度检验。"
+  },
+  {
+   "en": "The modification of the original protocol was reported transparently in the clinical trial registry.",
+   "zh": "原研究方案的修改已在临床试验注册库中透明地报告。"
+  },
+  {
+   "en": "A minor modification to the sampling frame reduced the coverage bias inherent in the first wave.",
+   "zh": "对抽样框的微小调整减少了第一轮调查中固有的覆盖偏差。"
+  }
+ ],
+ "momentum": [
+  {
+   "en": "The reform lost momentum once its funding source was withdrawn from the public budget.",
+   "zh": "一旦其资金来源被从公共预算中撤回，这场改革便失去了势头。"
+  },
+  {
+   "en": "Maintaining momentum in the research program depends on stable and continuous funding.",
+   "zh": "研究项目能否保持势头，取决于资金是否稳定并持续到位。"
+  },
+  {
+   "en": "The momentum of the campaign was checked by adverse publicity within a matter of weeks.",
+   "zh": "该运动的势头在数周之内便因不利的舆论报道而受阻。"
+  }
+ ],
+ "motivation": [
+  {
+   "en": "Intrinsic motivation appears to sustain participation when external incentives are withdrawn.",
+   "zh": "当外部激励被取消之后，内在动机似乎更能维持参与行为。"
+  },
+  {
+   "en": "The policy proposal offers little motivation for compliance unless responsibilities are clearly assigned.",
+   "zh": "若不明确分配责任，这项政策提案几乎无法为遵规提供任何动力。"
+  },
+  {
+   "en": "Researchers reported that the main motivation for enrollment was the prospect of free treatment.",
+   "zh": "研究人员报告，登记入组的主要动机是能够获得免费治疗的前景。"
+  }
+ ],
+ "necessity": [
+  {
+   "en": "The necessity of comparable definitions across jurisdictions is now widely recognized.",
+   "zh": "跨司法辖区采用可比较的定义，其必要性现已得到广泛承认。"
+  },
+  {
+   "en": "The case for central oversight rests on the necessity of uniform standards for data protection.",
+   "zh": "主张设立集中监管的理由，建立在数据保护需要统一标准这一必要性之上。"
+  },
+  {
+   "en": "Hospital administrators regarded additional staffing as a necessity rather than a discretionary expense.",
+   "zh": "医院管理者将增聘人员视为一项必需，而非可自由裁量的开支。"
+  }
+ ],
+ "neutrality": [
+  {
+   "en": "Strict neutrality in the assessment of competing claims is essential to the authority of the tribunal.",
+   "zh": "在评估相互冲突的主张时保持绝对中立，是法庭权威性的根本所在。"
+  },
+  {
+   "en": "The neutrality of the instrument was confirmed by comparing responses from groups with divergent interests.",
+   "zh": "通过比较利益取向不同的各组的回答，证实了该测量工具的中立性。"
+  },
+  {
+   "en": "Participants doubted the neutrality of the interviewer whenever institutional affiliation was disclosed.",
+   "zh": "每当受访者得知访谈者所属机构时，便会怀疑其中立性。"
+  }
+ ],
+ "obligation": [
+  {
+   "en": "The obligation to report adverse outcomes applies equally to public and private providers.",
+   "zh": "报告不良事件的义务，对公立与私营服务提供者同样适用。"
+  },
+  {
+   "en": "Legal obligation alone was insufficient to secure compliance among smaller employers in the sector.",
+   "zh": "单靠法律义务，不足以确保该行业中小型雇主遵守规定。"
+  },
+  {
+   "en": "The researchers accepted a moral obligation to share their instruments with other laboratories.",
+   "zh": "研究人员接受了一项道义上的责任，即与其他实验室共享其研究工具。"
+  }
+ ],
+ "orientation": [
+  {
+   "en": "The orientation of the study toward practice rather than theory shaped the resulting curriculum.",
+   "zh": "该研究偏重实践而非理论的定位，塑造了由此形成的课程体系。"
+  },
+  {
+   "en": "A clear ideological orientation can limit which evidence a review is willing to consider.",
+   "zh": "明确的意识形态立场，可能限制一篇综述愿意纳入的证据范围。"
+  },
+  {
+   "en": "Career orientation sessions were offered to undergraduate students uncertain about their future direction.",
+   "zh": "学校为对未来方向尚不确定的本科生提供了职业规划指导课。"
+  }
+ ],
+ "participation": [
+  {
+   "en": "Community participation in the design phase measurably improved the uptake of the resulting services.",
+   "zh": "社区在设计阶段的参与，显著提高了随后各项服务的使用率。"
+  },
+  {
+   "en": "Participation declined sharply once the meetings were rescheduled to inconvenient working hours.",
+   "zh": "会议一经改到不便于上班的时段，参与率便急剧下降。"
+  },
+  {
+   "en": "The agency treats sustained participation as a precondition for the success of any reform.",
+   "zh": "该机构把持续参与视为任何改革取得成功的先决条件。"
+  }
+ ]
+}

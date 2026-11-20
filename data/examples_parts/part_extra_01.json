@@ -1,0 +1,562 @@
+{
+ "imply": [
+  {
+   "en": "The survey results imply that most respondents prefer online learning.",
+   "zh": "调查结果表明，大多数受访者更倾向于在线学习。"
+  },
+  {
+   "en": "Failure to disclose conflicts of interest implies a serious breach of protocol.",
+   "zh": "未披露利益冲突意味着严重违反了研究规范。"
+  },
+  {
+   "en": "Such patterns imply broader structural problems within the healthcare system.",
+   "zh": "这类模式表明医疗体系内部存在更广泛的结构性问题。"
+  }
+ ],
+ "posit": [
+  {
+   "en": "The authors posit a hypothesis linking sleep quality to academic performance.",
+   "zh": "作者提出一个假设，将睡眠质量与学业表现联系起来。"
+  },
+  {
+   "en": "It is often useful to posit competing explanations and then test each one.",
+   "zh": "通常先提出若干相互竞争的解释，再逐一加以检验会很有帮助。"
+  },
+  {
+   "en": "Critics posit that the policy benefits mainly urban industries.",
+   "zh": "批评者主张，这项政策主要使城市产业受益。"
+  }
+ ],
+ "converge": [
+  {
+   "en": "Results from independent laboratories converge on the same conclusion.",
+   "zh": "各个独立实验室的研究结果都指向同一结论。"
+  },
+  {
+   "en": "The two research traditions converge when applied to language acquisition.",
+   "zh": "这两种研究传统应用于语言习得问题时趋于一致。"
+  },
+  {
+   "en": "As the sample grows, estimated coefficients converge around a stable value.",
+   "zh": "随着样本量增加，估计系数逐渐稳定在某个数值附近。"
+  }
+ ],
+ "contextualize": [
+  {
+   "en": "We contextualize these findings within the history of regional migration.",
+   "zh": "我们结合区域迁移的历史来解读这些发现。"
+  },
+  {
+   "en": "Without proper data, educators struggle to contextualize curriculum reforms.",
+   "zh": "缺乏恰当的数据时，教育工作者难以将课程改革置于其背景中加以理解。"
+  },
+  {
+   "en": "Reviewers asked authors to contextualize the intervention within existing evidence.",
+   "zh": "审稿人要求作者将这一干预措施放在现有证据的背景中加以说明。"
+  }
+ ],
+ "normalize": [
+  {
+   "en": "Researchers normalize the data before comparing groups across regions.",
+   "zh": "研究者在比较不同地区的组别之前对数据进行标准化处理。"
+  },
+  {
+   "en": "Standard protocols help analysts normalize measurements from different instruments.",
+   "zh": "标准流程有助于分析人员统一来自不同仪器的测量数据。"
+  },
+  {
+   "en": "We normalized the scores so that the mean equaled zero.",
+   "zh": "我们对分数进行了归一化处理，使其均值为零。"
+  }
+ ],
+ "standardize": [
+  {
+   "en": "The agency standardized its reporting format to improve data comparability.",
+   "zh": "该机构统一了报告格式，以提高数据的可比性。"
+  },
+  {
+   "en": "Standardized tests can reduce teacher bias during annual evaluation.",
+   "zh": "标准化测验可以减少年度评估中的教师偏差。"
+  },
+  {
+   "en": "Hospitals standardized their procedures after the safety review.",
+   "zh": "安全审查之后，各医院统一了操作流程。"
+  }
+ ],
+ "stratify": [
+  {
+   "en": "We stratified the sample by age and educational attainment before analysis.",
+   "zh": "在分析之前，我们按年龄和受教育程度对样本进行了分层。"
+  },
+  {
+   "en": "Stratified random sampling ensures every subgroup is adequately represented.",
+   "zh": "分层随机抽样可确保每个子群体都得到充分代表。"
+  },
+  {
+   "en": "Analysts stratify income data to examine inequality across regions.",
+   "zh": "分析人员对收入数据进行分层，以考察各地区之间的不平等。"
+  }
+ ],
+ "impute": [
+  {
+   "en": "We imputed missing values using multiple imputation techniques.",
+   "zh": "我们使用多重插补技术填补了缺失值。"
+  },
+  {
+   "en": "Imputing values that are not missing at random may bias results.",
+   "zh": "对非随机缺失的数据进行插补可能会使结果产生偏倚。"
+  },
+  {
+   "en": "Researchers impute absent scores to preserve the original sample size.",
+   "zh": "研究者对缺失分数进行插补，以保持原有的样本量。"
+  }
+ ],
+ "triangulate": [
+  {
+   "en": "We triangulated interview data with survey responses and administrative records.",
+   "zh": "我们将访谈资料与问卷回答及行政记录进行了交叉验证。"
+  },
+  {
+   "en": "Triangulating three sources strengthens the credibility of the conclusions.",
+   "zh": "对三种来源进行三角互证可以增强结论的可信度。"
+  },
+  {
+   "en": "Independent reviewers triangulate findings from three separate databases.",
+   "zh": "独立评审者利用三个不同的数据库对研究发现进行交叉核验。"
+  }
+ ],
+ "saturate": [
+  {
+   "en": "Additional interviews failed to saturate the emerging categories of the analysis.",
+   "zh": "补充访谈未能使分析中逐渐形成的主题类别达到饱和。"
+  },
+  {
+   "en": "The market rapidly saturated once low-cost competitors entered the sector.",
+   "zh": "一旦低成本竞争者进入该行业，市场很快便达到饱和。"
+  },
+  {
+   "en": "Soil samples became saturated after several days of continuous rainfall.",
+   "zh": "连续降雨数日后，土壤样本达到饱和状态。"
+  }
+ ],
+ "overestimate": [
+  {
+   "en": "Self-reported data often overestimate actual physical activity levels.",
+   "zh": "自我报告的数据往往高估了实际的身体活动水平。"
+  },
+  {
+   "en": "Analysts who overestimate demand may order excessive inventory.",
+   "zh": "高估需求的分析人员可能会订购过多的库存。"
+  },
+  {
+   "en": "The model tends to overestimate error rates in small subgroups.",
+   "zh": "该模型往往会高估小子群组中的误差率。"
+  }
+ ],
+ "underestimate": [
+  {
+   "en": "Many studies underestimate the true prevalence of the condition.",
+   "zh": "许多研究低估了这一病症的真实患病率。"
+  },
+  {
+   "en": "Managers often underestimate the time required to complete the migration.",
+   "zh": "管理者常常低估完成迁移所需的时间。"
+  },
+  {
+   "en": "Researchers underestimate how quickly social networks reshape consumer behavior.",
+   "zh": "研究者低估了社会网络重塑消费者行为的速度。"
+  }
+ ],
+ "enforce": [
+  {
+   "en": "Regulators enforce the new reporting requirements across all licensed institutions.",
+   "zh": "监管机构在所有持证机构中强制执行新的报告要求。"
+  },
+  {
+   "en": "Schools that fail to enforce attendance policies see poorer outcomes.",
+   "zh": "未能执行出勤政策的学校往往取得较差的结果。"
+  },
+  {
+   "en": "The court will enforce the settlement agreement reached last month.",
+   "zh": "法院将强制执行上个月达成的和解协议。"
+  }
+ ],
+ "regress": [
+  {
+   "en": "Test scores regress toward the mean after several weeks of instruction.",
+   "zh": "经过数周教学后，测试分数回归均值。"
+  },
+  {
+   "en": "Researchers regress the outcome on several continuous predictor variables.",
+   "zh": "研究者将因变量对若干连续预测变量进行了回归分析。"
+  },
+  {
+   "en": "When extreme initial estimates regress toward the mean on retesting, additional trials should be conducted.",
+   "zh": "当极端的初始估计值在复测中向均值回归时，应当开展更多次试验。"
+  }
+ ],
+ "document": [
+  {
+   "en": "Researchers document every decision made during the data cleaning process.",
+   "zh": "研究人员记录了数据清理过程中所做的每一项决定。"
+  },
+  {
+   "en": "Please document the consent procedure so reviewers can verify compliance.",
+   "zh": "请记录知情同意流程，以便评审者核查其合规性。"
+  },
+  {
+   "en": "Case notes document changes in the patient's condition over six months.",
+   "zh": "病历记录了患者六个月来的病情变化。"
+  }
+ ],
+ "attribute": [
+  {
+   "en": "We attribute the improvement to targeted training rather than increased funding.",
+   "zh": "我们把这一改善归因于有针对性的培训，而非资金投入的增加。"
+  },
+  {
+   "en": "Historians attribute the decline to several interacting economic factors.",
+   "zh": "历史学家把这一衰落归因于若干相互起作用的经济因素。"
+  },
+  {
+   "en": "Do not attribute an observed effect to a single cause without controlling for confounders.",
+   "zh": "在未控制混杂因素之前，不要将观察到的效应归因于单一原因。"
+  }
+ ],
+ "convention": [
+  {
+   "en": "Academic convention requires that the sample size be reported.",
+   "zh": "学术惯例要求报告样本量。"
+  },
+  {
+   "en": "The annual convention attracted two thousand researchers from abroad.",
+   "zh": "这次年度大会吸引了来自国外的 2000 名研究者。"
+  },
+  {
+   "en": "By convention, the first author maintains the final manuscript.",
+   "zh": "按照惯例，第一作者负责维护最终稿。"
+  }
+ ],
+ "post hoc": [
+  {
+   "en": "Post hoc comparisons were conducted only after the omnibus test reached significance.",
+   "zh": "只有在总体检验达到显著水平之后，才进行了事后比较。"
+  },
+  {
+   "en": "Post hoc analysis confirmed the pattern seen in the exploratory data.",
+   "zh": "事后分析证实了探索性数据中所见的模式。"
+  },
+  {
+   "en": "Researchers interpreting the data should avoid post hoc reasoning when evaluating preregistered hypotheses.",
+   "zh": "在解读数据并评估预注册假设时，研究者应避免事后推理。"
+  }
+ ],
+ "power": [
+  {
+   "en": "The study had insufficient statistical power to detect moderate effects.",
+   "zh": "该研究的统计功效不足以检测出中等程度的效应。"
+  },
+  {
+   "en": "Increasing the sample size substantially improves the power of the test.",
+   "zh": "增大样本量能显著提高检验的统计功效。"
+  },
+  {
+   "en": "Researchers should report the power calculation alongside their hypothesis.",
+   "zh": "研究者应当在提出假设的同时报告功效计算结果。"
+  }
+ ],
+ "interpretation": [
+  {
+   "en": "The interpretation of these results depends on the assumption we adopted.",
+   "zh": "对这些结果的解释取决于我们所采用的假设。"
+  },
+  {
+   "en": "Alternative interpretations of the data have appeared in recent journals.",
+   "zh": "近期期刊中出现了对这些数据的其他解读。"
+  },
+  {
+   "en": "Her interpretation of the poem shaped the entire discussion period.",
+   "zh": "她对这首诗的阐释塑造了整个讨论环节。"
+  }
+ ],
+ "equivalent": [
+  {
+   "en": "There is no direct equivalent in the target language for this term.",
+   "zh": "该术语在目标语言中没有直接的对等物。"
+  },
+  {
+   "en": "This instrument is a rough equivalent of the validated clinical scale.",
+   "zh": "这一量表大致相当于经过效度验证的临床量表。"
+  },
+  {
+   "en": "A doctoral degree is often treated as equivalent to five years of professional experience.",
+   "zh": "博士学位通常被视为等同于五年的职业经验。"
+  }
+ ],
+ "imbalance": [
+  {
+   "en": "A serious imbalance in the sample limited the strength of the analysis.",
+   "zh": "样本的严重失衡限制了分析的效力。"
+  },
+  {
+   "en": "The researchers reported an imbalance between treatment and control groups.",
+   "zh": "研究者报告了治疗组与对照组之间的不平衡。"
+  },
+  {
+   "en": "Correcting the design imbalance required recruiting additional older participants.",
+   "zh": "纠正设计上的失衡需要额外招募年长的参与者。"
+  }
+ ],
+ "inverse": [
+  {
+   "en": "The inverse of the correlation matrix was computed for every model.",
+   "zh": "为每个模型计算了相关系数矩阵的逆矩阵。"
+  },
+  {
+   "en": "We take the inverse of the transformation to recover the original values.",
+   "zh": "我们取该变换的逆运算，以还原原始数值。"
+  },
+  {
+   "en": "His conclusion is the exact inverse of his colleague's earlier claim.",
+   "zh": "他的结论与同事早先的主张恰好完全相反。"
+  }
+ ],
+ "span": [
+  {
+   "en": "The time span of the study covered nearly twenty years of records.",
+   "zh": "该研究的时间跨度涵盖了近二十年的记录。"
+  },
+  {
+   "en": "Attention spans have shortened considerably among younger digital users.",
+   "zh": "在年轻的数字用户群体中，注意力的持续时间已明显缩短。"
+  },
+  {
+   "en": "The span of the data varies widely across regional databases.",
+   "zh": "数据的跨度在各地区数据库之间差异很大。"
+  }
+ ],
+ "spread": [
+  {
+   "en": "The spread of the phenomenon differed sharply between urban and rural areas.",
+   "zh": "这一现象的分布在城乡之间差异明显。"
+  },
+  {
+   "en": "Income spread within each province narrowed over the past decade.",
+   "zh": "过去 10 年中，各省内部的收入差距有所缩小。"
+  },
+  {
+   "en": "Social networks accelerate the spread of information across communities.",
+   "zh": "社交网络加速了信息在各社区之间的传播。"
+  }
+ ],
+ "subset": [
+  {
+   "en": "A subset of respondents reported frequent delays in service delivery.",
+   "zh": "一部分受访者报告了服务提供经常延误的情况。"
+  },
+  {
+   "en": "The analysis focuses on a subset of the full clinical dataset.",
+   "zh": "该分析聚焦于完整临床数据集中的一个子集。"
+  },
+  {
+   "en": "Each participant belongs to a subset defined by age and location.",
+   "zh": "每位参与者都属于按年龄和地点划分出的某个子集。"
+  }
+ ],
+ "skew": [
+  {
+   "en": "Data skew may reduce the effectiveness of certain parametric tests.",
+   "zh": "数据偏斜可能会削弱某些参数检验的效果。"
+  },
+  {
+   "en": "The report acknowledges a mild skew in the distribution of scores.",
+   "zh": "报告承认分数分布存在轻微的偏斜。"
+  },
+  {
+   "en": "Researchers applied a transformation to correct the observed skew.",
+   "zh": "研究者采用了一种变换方法来纠正观察到的偏斜。"
+  }
+ ],
+ "weight": [
+  {
+   "en": "The final model assigns greater weight to recent observations.",
+   "zh": "最终模型给较近期的观测值赋予更大的权重。"
+  },
+  {
+   "en": "Each survey wave receives an equal weight in the national estimate.",
+   "zh": "在国家层面的估计中，每一轮调查都获得相等的权重。"
+  },
+  {
+   "en": "Weight and size were recorded for every captured fish specimen.",
+   "zh": "每件捕获的鱼类标本都记录了重量和体长。"
+  }
+ ],
+ "algorithm": [
+  {
+   "en": "The recommendation algorithm suggests items based on previous viewing behavior.",
+   "zh": "该推荐算法依据以往的观看行为推荐内容。"
+  },
+  {
+   "en": "We compared two clustering algorithms across several benchmark datasets.",
+   "zh": "我们在多个基准数据集上比较了两种聚类算法。"
+  },
+  {
+   "en": "Any algorithm used in scoring should be documented in the appendix.",
+   "zh": "用于评分的任何算法都应在附录中加以说明。"
+  }
+ ],
+ "covariate": [
+  {
+   "en": "Age was included as a covariate in the regression model.",
+   "zh": "年龄被作为协变量纳入回归模型。"
+  },
+  {
+   "en": "Researchers adjusted for each covariate before testing the main effect.",
+   "zh": "研究者在检验主效应之前对每个协变量都进行了校正。"
+  },
+  {
+   "en": "Sleep duration emerged as the strongest covariate in the final analysis.",
+   "zh": "在最终分析中，睡眠时长成为最强的协变量。"
+  }
+ ],
+ "stratum": [
+  {
+   "en": "Each sampling stratum must include participants from diverse backgrounds.",
+   "zh": "每个抽样层都必须包含来自不同背景的参与者。"
+  },
+  {
+   "en": "Participants were recruited from every stratum of the population.",
+   "zh": "参与者是从总体的每一层中招募来的。"
+  },
+  {
+   "en": "The stratum for rural clinics required twice the planned sample.",
+   "zh": "乡村诊所这一层所需的样本量是原计划的两倍。"
+  }
+ ],
+ "sampling": [
+  {
+   "en": "The sampling strategy prioritized hospitals serving low-income populations.",
+   "zh": "该抽样策略优先考虑了服务低收入人群的医院。"
+  },
+  {
+   "en": "Probability sampling improves the generalizability of the survey findings.",
+   "zh": "概率抽样提高了调查发现的可推广性。"
+  },
+  {
+   "en": "Snowball sampling was useful for reaching hidden populations in the region.",
+   "zh": "滚雪球抽样有助于接触该地区的隐蔽人群。"
+  }
+ ],
+ "recruitment": [
+  {
+   "en": "Participant recruitment took place at three metropolitan universities.",
+   "zh": "参与者招募在三所大城市的大学进行。"
+  },
+  {
+   "en": "Recruitment difficulties delayed the start of the clinical trial.",
+   "zh": "招募困难延误了临床试验的启动。"
+  },
+  {
+   "en": "The team adjusted its recruitment materials to appeal to younger volunteers.",
+   "zh": "团队调整了招募材料，以吸引更年轻的志愿者。"
+  }
+ ],
+ "dropout": [
+  {
+   "en": "Every dropout was recorded with a reason and the date.",
+   "zh": "每一例脱落都记录了原因和日期。"
+  },
+  {
+   "en": "High dropout rates forced researchers to extend the recruitment period.",
+   "zh": "高脱落率迫使研究者延长了招募期。"
+  },
+  {
+   "en": "Reminders sent by text message reduced dropout among enrolled students.",
+   "zh": "通过短信发送的提醒减少了在读学生的脱落。"
+  }
+ ],
+ "attrition": [
+  {
+   "en": "Attrition in the control group reached nearly fifteen percent by year end.",
+   "zh": "到年底，对照组的流失率接近 15%。"
+  },
+  {
+   "en": "Differential attrition between groups may bias the treatment comparison.",
+   "zh": "各组之间流失率的差异可能使疗效比较产生偏倚。"
+  },
+  {
+   "en": "The protocol included strategies to minimize attrition in long follow-up.",
+   "zh": "该方案包含了在长期随访中减少流失的策略。"
+  }
+ ],
+ "ethics": [
+  {
+   "en": "The study was approved by the university research ethics committee.",
+   "zh": "该研究已获得大学研究伦理委员会批准。"
+  },
+  {
+   "en": "Research ethics requires that participants be allowed to withdraw at any time.",
+   "zh": "研究伦理要求参与者可以随时退出。"
+  },
+  {
+   "en": "The researchers discussed research ethics before collecting any data.",
+   "zh": "研究人员在收集任何数据之前讨论了研究伦理问题。"
+  }
+ ],
+ "anonymity": [
+  {
+   "en": "We ensured anonymity by removing all identifying information before analysis.",
+   "zh": "我们在分析之前删除所有身份信息，以确保匿名性。"
+  },
+  {
+   "en": "Anonymity of participants was protected through a third-party data custodian.",
+   "zh": "参与者的匿名性通过第三方数据保管机构得到保护。"
+  },
+  {
+   "en": "Respondents mentioned anonymity as a reason for answering honestly.",
+   "zh": "受访者提到匿名性是他们如实作答的原因之一。"
+  }
+ ],
+ "interview": [
+  {
+   "en": "Each in-depth interview lasted approximately ninety minutes on average.",
+   "zh": "每次深度访谈平均持续约 90 分钟。"
+  },
+  {
+   "en": "The interview protocol included open questions about daily routines.",
+   "zh": "访谈方案包含了关于日常作息的开放式问题。"
+  },
+  {
+   "en": "Interview recordings were transcribed and coded by two researchers.",
+   "zh": "访谈录音由两名研究者转录并进行了编码。"
+  }
+ ],
+ "setting": [
+  {
+   "en": "The ethnographic study examined daily life in an institutional setting.",
+   "zh": "这项民族志研究考察了机构场景中的日常生活。"
+  },
+  {
+   "en": "Results from this clinical setting may not generalize to rural practice.",
+   "zh": "来自这一临床场景的结果未必能推广到乡村医疗实践中。"
+  },
+  {
+   "en": "The learning setting strongly influenced students' willingness to participate.",
+   "zh": "学习环境显著影响了学生参与的意愿。"
+  }
+ ],
+ "confounding": [
+  {
+   "en": "Age and education were considered potential confounding variables in the analysis.",
+   "zh": "年龄和教育程度在分析中被视为潜在的混杂变量。"
+  },
+  {
+   "en": "Unmeasured confounding can distort the estimated treatment effect.",
+   "zh": "未测量的混杂因素可能会歪曲治疗效应的估计。"
+  },
+  {
+   "en": "Researchers reduced confounding by randomizing participants across both conditions.",
+   "zh": "研究者通过在两种条件下随机分配参与者来减少混杂。"
+  }
+ ]
+}

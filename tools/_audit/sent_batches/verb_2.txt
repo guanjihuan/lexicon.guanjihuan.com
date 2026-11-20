@@ -1,0 +1,220 @@
+achieve	动词	实现；达到；取得
+address	动词	处理；应对；讨论；致力于；向（听众）讲话
+integrate	动词	整合；使一体化；融入
+isolate	动词	隔离；分离；单独考察（变量）
+formulate	动词	制定；构想；系统阐述（理论、假设）
+derive	动词	得出；源于；推导
+exhibit	动词	展示；表现出；展出
+allocate	动词	分配；拨给；配置（资源）
+aggregate	动词	汇总；聚集；合计；总量（名词用法；in aggregate 总体而言）
+simulate	动词	模拟；仿真
+synthesize	动词	综合；归纳；综合概括；合成
+differentiate	动词	区分；辨别；使有别于
+correlate	动词	相关联；相互关联；求相关（correlate A with B）
+refine	动词	改进；提炼；使更精确
+regulate	动词	调节；调控；管理；规范
+retrieve	动词	检索；取回；重新获得
+visualize	动词	使可视化；形象化；直观呈现
+elaborate	动词	详述；阐述；详细说明
+hypothesize	动词	假设；假定；提出假设
+conceptualize	动词	概念化；构想；形成概念
+streamline	动词	精简；使高效；简化流程
+prioritize	动词	优先处理；确定优先次序
+attain	动词	达到；获得（目标、水平）
+ascertain	动词	查明；确定；弄清
+comprehend	动词	理解；领会；把握
+underscore	动词	强调；突出；着重说明
+foster	动词	促进；培养；营造（氛围）
+investigate	动词	调查；研究；查明
+justify	动词	为…提供理由；证明…正当
+maximize	动词	使最大化；增至最大
+minimize	动词	使最小化；尽量减少
+modify	动词	修改；调整；修饰
+monitor	动词	监测；监控；持续跟踪
+optimize	动词	优化；使达到最优
+presume	动词	推定；推测；假定
+promote	动词	促进；推动；倡导
+propose	动词	提出；提议；建议
+refute	动词	驳斥；反驳；证明…有误
+substantiate	动词	证实；用证据支持
+undermine	动词	削弱；损害（论点、信心）
+utilize	动词	利用；使用
+gauge	动词	评估；衡量；判断
+harness	动词	利用；驾驭；调动（资源）
+deploy	动词	部署；调动；运用（方法、资源）
+eliminate	动词	排除；消除；淘汰
+embody	动词	体现；具体表现；包含
+endorse	动词	赞同；支持；认可
+augment	动词	增强；增加；补充
+impede	动词	阻碍；妨碍
+juxtapose	动词	并置；对照比较
+rectify	动词	纠正；改正；修正
+temper	动词	缓和；调节；使适中
+transcend	动词	超越；胜过
+warrant	动词	使…有正当理由；使…有必要
+probe	动词	探查；探测；调查研究
+offset	动词	抵消；补偿；与…相抵
+mean	动词	意味着；表示；平均（为）
+generalize	动词	概括；归纳；推广
+paraphrase	动词	改述；转述（用自己的话）
+quote	动词	引用；引述；援引；（给…）报价
+confound	动词	混淆；使困惑；使（两个因素）混杂，无法区分；混杂因素（作名词时）
+correspond	动词	符合；与…一致；相符
+comply	动词	遵从；服从；符合（要求、标准）
+establish	动词	建立；确立；证实
+facilitate	动词	促进；使便利；使…变得容易
+note	动词	指出；注意到；表明
+present	动词	提出；呈现；举出（证据、观点）
+record	动词	记录；记载
+seek	动词	寻求；寻找；试图
+show	动词	表明；显示；证明
+tend	动词	倾向于；往往会
+enable	动词	使能够；使可能；使成为可能
+lack	动词	缺乏；缺少
+imply	动词	暗示；意味着；表明（the data imply that 数据显示…）
+posit	动词	假定；主张（posit a hypothesis 提出假设）
+converge	动词	趋同；汇聚；一致（findings converge 结论趋同）
+contextualize	动词	置于语境中；结合背景（contextualize findings 语境化解读）
+normalize	动词	标准化；归一化；使正常
+standardize	动词	使标准化；使统一（standardized test 标准化测验）
+stratify	动词	分层；按层划分（stratified sample 分层样本）
+impute	动词	插补；用估计值填补（missing data imputation 缺失值插补）
+triangulate	动词	三角验证；交叉验证（triangulate findings 三角互证）
+saturate	动词	使饱和；达到饱和（theoretical saturation 理论饱和）
+overestimate	动词	高估；估计过高
+underestimate	动词	低估；估计过低
+enforce	动词	执行；实施；强制推行（enforce a policy 执行政策）
+regress	动词	回归；退行（regression analysis 回归分析）
+control	动词	控制；对…加以控制（control group 对照组）
+verify	动词	核实；证实；查证（verify the results 核实结果）
+operationalize	动词	操作化；把…转化为可测量的指标
+replicate	动词	复现；重复验证；重复（实验，replicate an experiment）
+document	动词	记录；记载；用文件证明（document the procedure 记录流程）
+attribute	动词	归因于；把…归功于（attribute sth to sb 把…归因于…）
+disaggregate	动词	分解；拆分（disaggregate data 分解数据）
+falsify	动词	证伪；推翻；证明…为假（falsify a hypothesis 证伪一个假设）
+explicate	动词	阐明；详细解释
+enumerate	动词	列举；逐项列出；枚举
+discern	动词	辨别；识别；看出
+elicit	动词	引出；诱出；征求（elicit responses 引出回答）
+illuminate	动词	阐明；启发（illuminate the debate 阐明这场争论）
+preclude	动词	排除；阻止（preclude the possibility 排除可能性）
+surmount	动词	克服；越过（surmount obstacles 克服障碍）
+undertake	动词	承担；着手进行（undertake a study 开展研究）
+necessitate	动词	需要；使成为必要
+alleviate	动词	减轻；缓解（alleviate the burden 减轻负担；alleviate pressure 缓解压力）
+deviate	动词	偏离；背离（deviate from 偏离…）
+consolidate	动词	巩固；合并；加强（consolidate findings 巩固结论）
+require	动词	需要；要求；规定（require further investigation 需要进一步研究）
+confirm	动词	证实；确认（confirm the hypothesis 证实假设）
+assert	动词	断言；主张（assert that… 主张…）
+emphasize	动词	强调；着重（emphasize the importance of 强调…的重要性）
+underlie	动词	构成…的基础；是…的根本原因（the assumptions underlying the model 模型背后的假设）
+constrain	动词	限制；约束（be constrained by 受…制约）
+ground	动词	使基于；使立足（be grounded in theory 以理论为依据）
+acknowledge	动词	承认；认可；对…表示感谢（acknowledge limitations 承认局限）
+assemble	动词	汇集；收集；组装（assemble the evidence 汇集证据）；（人）聚集、集合（不及物；panels assemble 评审组聚集开会）
+assist	动词	帮助；协助（assist sb with/in sth 协助某人做某事）
+associate	动词	联系；联想（be associated with 与…相关）
+communicate	动词	传达；交流；表达（communicate results to readers 向读者传达结果）
+compile	动词	汇编；编制；收集（compile a list 编制清单）
+consume	动词	消耗；耗费（consume considerable time 耗费大量时间）
+cooperate	动词	合作；协作（cooperate with partner institutions 与合作机构协作）
+create	动词	创造；产生；造成（create new knowledge 创造新知识）
+distort	动词	歪曲；曲解；使变形（distort the findings 歪曲结果）
+expand	动词	扩大；扩展；详述（expand on this point 详述这一点）
+participate	动词	参加；参与（participate in the study 参与研究）
+prescribe	动词	开处方；规定；要求（prescribe stricter guidelines 规定更严格的准则）
+secure	动词	获得；争取到；使安全（secure funding 获得资助）
+lead to	动词	导致；引起（lead to a conclusion 得出结论）
+result in	动词	导致；产生（结果）
+result from	动词	由…产生；起因于
+give rise to	动词	引起；导致（新情况、新问题）
+carry out	动词	执行；开展（研究、任务）（carry out a survey 开展调查）
+take into account	动词	考虑到；把…计算在内
+shed light on	动词	阐明；使…更清楚（≈ cast light on，偏「以新证据提供新视角」，shed light on the mechanism 阐明其机制）
+affect	动词	影响，对…产生影响（affect the results 影响结果）
+adapt	动词	适应；改编，使适合新用途（adapt to the environment 适应环境；勿与 adopt 混用）
+adjust	动词	调整，调节；适应（adjust the parameters 调整参数；adjust to new conditions 适应新情况）
+commit	动词	承诺，投入；犯（罪、错）（commit resources to the project 把资源投入项目；be committed to long-term goals 致力于长期目标）
+concentrate	动词	集中，专注（concentrate on the core issue 专注于核心问题）
+convert	动词	转换，转变（convert the data into a standard format 把数据转换成标准格式）
+detect	动词	检测到，察觉（detect a slight change in temperature 察觉温度的细微变化）
+fund	动词	资助，为…提供资金（fund a long-term study 资助长期研究；government-funded research 政府资助的研究）
+inhibit	动词	抑制，阻碍（inhibit enzyme activity 抑制酶活性）
+initiate	动词	发起，开始（initiate a new trial 启动一项新试验）
+motivate	动词	驱使，激励（be highly motivated 积极性很高；motivating factor 动机因素）
+persist	动词	持续，存留（symptoms persist for weeks 症状持续数周；persist into adulthood 延续到成年）
+pose	动词	造成，提出（pose a serious threat 构成严重威胁；pose fundamental questions 提出根本性问题）
+publish	动词	发表，出版（publish the findings 发表研究发现；previously published research 此前发表的研究）
+pursue	动词	追求，从事；推行（pursue a line of inquiry 从事某项探究；pursue economic reforms 推行经济改革）
+reject	动词	拒绝；驳回，否定（reject the hypothesis 否定该假设；rejected applications 被否决的申请）
+select	动词	选择，挑选（select a random sample 选取随机样本）
+submit	动词	提交，呈送（submit a paper for review 提交论文待审）
+suspend	动词	暂停，中止（be suspended pending review 经审查暂停；suspend the program 中止该计划）；悬挂，悬浮（be suspended in 悬浮于）
+transfer	动词	转移，调动；转让（transfer the data to a secure server 把数据转移到安全服务器；transfer between departments 部门之间调动）
+violate	动词	违反，违背（violate the underlying assumptions 违背基本假设；violate ethical protocols 违反伦理规程）
+withdraw	动词	撤回，取消；退出（withdraw consent 撤回同意；withdraw from the trial 退出试验）；抽取，取出（水源等；withdraw water from an aquifer 从含水层取水）
+accumulate	动词	积累，积聚（accumulate evidence/data 积累证据/数据；accumulated over time 随时间累积）
+cite	动词	引用，援引（cite the original study 引用原始研究；cited in 被引用于）
+dominate	动词	主导，支配；占绝对优势（dominate the market 主导市场；play a dominant role 起主导作用）
+exclude	动词	排除；不包括，剔除（excluded from the analysis 未纳入分析；excluding outliers 剔除异常值）
+interact	动词	相互作用，互动（interact with the environment 与环境相互作用；variables that interact 相互作用的变量）
+fluctuate	动词	波动，起伏（fluctuate between A and B 在A与B之间波动）
+diminish	动词	减少，减弱（diminish the risk 降低风险；influence diminished over time 影响力随时间减弱）
+display	动词	显示，展示；表现（display the results in a chart 用图表展示结果；behavior displayed by subjects 受试表现出的行为）
+export	动词	出口（export goods to foreign markets 向国外市场出口商品；net exports 净出口）；（把数据、文件等）导出（export the data 导出数据）
+inspect	动词	检查，审视（inspect the data for errors 检查数据有无错误）
+reverse	动词	逆转，扭转（reverse the trend 扭转趋势；reverse transcription 逆转录）
+track	动词	追踪，跟踪（track changes over time 追踪随时间的变化；tracked for five years 被跟踪观察五年）
+transmit	动词	传送，传播（transmit signals/data 传输信号/数据；transmit the virus 传播病毒）
+deteriorate	动词	恶化，退化（conditions deteriorated rapidly 状况迅速恶化；deteriorating air quality 不断恶化的空气质量）
+complicate	动词	使复杂化，使更困难（be complicated by 因…而更趋复杂；a complicated issue 棘手的问题）
+diffuse	动词	散布，扩散（diffuse through the atmosphere 在大气中扩散；innovations diffused across disciplines 创新在各学科间传播）
+adopt	动词	采用；采纳；收养
+administer	动词	管理；实施（问卷、考核）；施行
+advise	动词	建议；劝告；通报
+affiliate	动词	附属；隶属；使归属（机构）
+anticipate	动词	预期；预料；先于…发生
+authenticate	动词	认证；验证真伪；鉴别
+capture	动词	捕捉；捕获；夺得；记录下
+classify	动词	分类；归类；分级
+conceive	动词	构思；设想；构想
+concur	动词	同意；一致；同时发生
+conform	动词	符合；遵从；顺应
+consist	动词	由…组成；在于；构成（consist of / consist in）
+convey	动词	传达；运送；表达（意义、情感）
+cultivate	动词	培养；养成；耕作
+dedicate	动词	致力于；献给；专用于
+depict	动词	描绘；描述；刻画
+displace	动词	取代；迫使离开原位；挤出
+emerge	动词	出现；显露；浮现；兴起
+intensify	动词	加强；加剧；增强
+incur	动词	招致；承受（损失、费用）；蒙受
+portray	动词	描绘；刻画；表现（角色、形象）
+stipulate	动词	规定；明确要求（条款、条件）
+stress	动词	强调；着重指出；使紧张
+weaken	动词	削弱；减弱；变弱
+contend	动词	声称，主张（contend that… 声称…）；争辩
+concede	动词	承认（尤指不情愿地）；让步；（体育）失（分）
+rebut	动词	反驳，驳斥（rebut a claim 驳斥某一主张）
+affirm	动词	肯定，断言；确认（affirm a commitment 确认承诺）
+allege	动词	指控，声称（未经证实的断言；allegedly 据称）
+purport	动词	声称，号称（purport to be… 自称是…）
+signify	动词	表示，意味着；具有重要意义
+presuppose	动词	预设，以…为前提；预先假定
+accelerate	动词	（使）加速；促进
+exacerbate	动词	使恶化，加剧（exacerbate tensions 加剧紧张）
+aggravate	动词	使加重，使恶化；激怒
+escalate	动词	（使）升级，（使）逐步扩大
+stagnate	动词	停滞，不发展（stagnant 停滞的；stagnation 停滞）
+oscillate	动词	振荡，摆动；（观点）摇摆不定
+plummet	动词	骤然下跌，暴跌（prices plummeted 价格暴跌）
+soar	动词	猛增，骤升；翱翔
+dwindle	动词	逐渐减少，缩小（dwindling resources 日益减少的资源）
+abate	动词	减弱，减退（the storm abated 风暴减弱了）
+prolong	动词	延长，拖长（prolonged exposure 长期暴露）
+spiral	动词	螺旋式上升/下降（spiral out of control 失控攀升）；螺旋
+marginalize	动词	使边缘化，忽视（marginalized groups 边缘化群体）
+stigmatize	动词	使蒙受耻辱，污名化（stigmatized 被污名化的）
+ratify	动词	（正式）批准，签署认可（ratify a treaty 批准条约）

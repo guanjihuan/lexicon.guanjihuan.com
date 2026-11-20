@@ -1,0 +1,594 @@
+{
+ "_comment": "例句挖空(cloze)回退清单:以下词的 3 条例句均不含本词原形(全是屈折形),出「例句挖空」题时自动回退「看词选义」。非缺陷——回退路径有守卫。若想扩大挖空题池:每词把最自然的一句改写为含原形的版本(例句源在 data/examples_parts/,改完重跑 merge_examples.py + make_examples.py)。2026-11-19 全库扫描产出,词库 2222 词口径（2026-11-19 复扫，84 词保持一致）。",
+ "count": 84,
+ "words": [
+  {
+   "word": "hinder",
+   "samples": [
+    "Heavy snow hindered the delivery of medical supplies to remote villages.",
+    "Lack of funding hindered the team's ability to conduct field trials."
+   ]
+  },
+  {
+   "word": "inherit",
+   "samples": [
+    "She inherited a small print shop from her grandfather and modernized it entirely.",
+    "The new director inherits a research group with an impressive publication record."
+   ]
+  },
+  {
+   "word": "decline",
+   "samples": [
+    "Enrollment in the graduate program has declined steadily over the past five years.",
+    "The publisher declined to comment on the allegations raised by the editorial board."
+   ]
+  },
+  {
+   "word": "render",
+   "samples": [
+    "The injury rendered him unable to continue his research.",
+    "Experienced staff readily rendered assistance to visitors unfamiliar with the equipment."
+   ]
+  },
+  {
+   "word": "witness",
+   "samples": [
+    "Two researchers witnessed the collision between the two experimental vehicles.",
+    "The committee invited colleagues who witnessed the events to testify."
+   ]
+  },
+  {
+   "word": "collapse",
+   "samples": [
+    "The old bridge collapsed after the flood weakened its foundations.",
+    "Talks collapsed when the two governments refused to compromise."
+   ]
+  },
+  {
+   "word": "encompass",
+   "samples": [
+    "The revised curriculum encompasses both theoretical and applied aspects of economics.",
+    "The summit's agenda encompassed climate, migration, and financial regulation."
+   ]
+  },
+  {
+   "word": "underpin",
+   "samples": [
+    "Solid evidence underpins every conclusion drawn in the final chapter.",
+    "Trust between researchers underpins the open publication model adopted by the journal."
+   ]
+  },
+  {
+   "word": "entail",
+   "samples": [
+    "Accepting the position entails a long-term commitment to fieldwork abroad.",
+    "Such a decision inevitably entails considerable risk for the entire organization."
+   ]
+  },
+  {
+   "word": "consist in",
+   "samples": [
+    "The success of the experiment consists in careful control of temperature.",
+    "Its distinctive advantage consists in the clarity of the underlying method."
+   ]
+  },
+  {
+   "word": "impose",
+   "samples": [
+    "The new policy imposes strict limits on the use of personal data.",
+    "Regulators imposed heavy fines on two companies for safety violations."
+   ]
+  },
+  {
+   "word": "originate",
+   "samples": [
+    "This method of measurement originated in nineteenth-century laboratory practice.",
+    "Most of the debate about urban transport originated in the 1960s."
+   ]
+  },
+  {
+   "word": "coin",
+   "samples": [
+    "The phrase was coined by a journalist during an interview in 1994.",
+    "Researchers coined a new term to describe this unusual pattern of growth."
+   ]
+  },
+  {
+   "word": "devise",
+   "samples": [
+    "Engineers devised a new method for sealing leaks in underground pipes.",
+    "The committee devised a plan to reduce the processing time considerably."
+   ]
+  },
+  {
+   "word": "leap",
+   "samples": [
+    "Sales figures leapt by thirty percent in the final quarter.",
+    "The country leapt from obscurity into the ranks of leading economies."
+   ]
+  },
+  {
+   "word": "embed",
+   "samples": [
+    "The sensor is embedded deep inside the device to avoid external damage.",
+    "Teachers embedded the new vocabulary activities into everyday classroom routines."
+   ]
+  },
+  {
+   "word": "characterize",
+   "samples": [
+    "Rapid growth has characterized the digital economy over the past two decades.",
+    "What characterizes this method is its ability to handle incomplete data."
+   ]
+  },
+  {
+   "word": "broaden",
+   "samples": [
+    "The conference broadened the discussion to include environmental impacts.",
+    "Researchers broadened their sample to include participants from rural areas."
+   ]
+  },
+  {
+   "word": "emanate",
+   "samples": [
+    "A sense of confidence emanates from the young research team.",
+    "The speaker's calm authority emanated from the podium and filled the crowded auditorium."
+   ]
+  },
+  {
+   "word": "disperse",
+   "samples": [
+    "Heavy rain dispersed the crowd within minutes of the announcement.",
+    "The seeds are dispersed by birds across a wide area."
+   ]
+  },
+  {
+   "word": "construct",
+   "samples": [
+    "Engineers constructed a temporary bridge to restore traffic after the flood.",
+    "The theory is constructed on decades of field observation and careful measurement."
+   ]
+  },
+  {
+   "word": "obviate",
+   "samples": [
+    "Clear labeling obviates the need for additional documentation in most cases.",
+    "Automation has largely obviated the manual sorting of incoming applications."
+   ]
+  },
+  {
+   "word": "propel",
+   "samples": [
+    "Strong winds propelled the research vessel across the Atlantic in nine days.",
+    "A single bold decision propelled her career into senior management."
+   ]
+  },
+  {
+   "word": "lay the foundation for",
+   "samples": [
+    "These early experiments laid the foundation for modern molecular genetics.",
+    "Careful negotiation laid the foundation for a lasting regional partnership."
+   ]
+  },
+  {
+   "word": "comprise",
+   "samples": [
+    "The final report comprises twelve chapters and forty appendices.",
+    "The delegation comprises experts from eleven universities across three continents."
+   ]
+  },
+  {
+   "word": "spur",
+   "samples": [
+    "The award spurred further research into renewable energy storage technologies.",
+    "Rising fuel costs spurred manufacturers to adopt more efficient production methods."
+   ]
+  },
+  {
+   "word": "uncover",
+   "samples": [
+    "Investigators uncovered evidence of systematic fraud within the procurement department.",
+    "Archaeologists uncovered a previously unknown chamber beneath the temple floor."
+   ]
+  },
+  {
+   "word": "validate",
+   "samples": [
+    "The ethics board validated the revised protocol before the study began.",
+    "Independent reviewers validated the findings through a separate replication effort."
+   ]
+  },
+  {
+   "word": "stagger",
+   "samples": [
+    "The team staggered the start times to reduce pressure on the shared equipment.",
+    "Staggered schedules allow every participant access to the laboratory instruments."
+   ]
+  },
+  {
+   "word": "exert",
+   "samples": [
+    "Regulators exerted considerable pressure on banks to disclose their risk exposures.",
+    "The new director exerted her authority to reorganize the entire research unit."
+   ]
+  },
+  {
+   "word": "disrupt",
+   "samples": [
+    "The unexpected announcement disrupted the carefully arranged program of the conference.",
+    "New digital platforms have disrupted traditional retail businesses across the country."
+   ]
+  },
+  {
+   "word": "assume",
+   "samples": [
+    "The model assumes that demand for electricity will double over the next decade.",
+    "Early scholars assumed that the stars moved in perfect circular paths."
+   ]
+  },
+  {
+   "word": "combine",
+   "samples": [
+    "The treatment combines traditional methods with recently developed genetic techniques.",
+    "These two datasets can be combined to produce a much larger sample."
+   ]
+  },
+  {
+   "word": "design",
+   "samples": [
+    "The team designed a low-cost sensor for monitoring water quality in rural areas.",
+    "The architect designed the new library around a central reading courtyard."
+   ]
+  },
+  {
+   "word": "develop",
+   "samples": [
+    "The institute developed a new method for detecting trace amounts of pollutants.",
+    "Over decades, the two regions developed distinctly different agricultural traditions."
+   ]
+  },
+  {
+   "word": "discuss",
+   "samples": [
+    "The panel discussed the ethical implications of publishing incomplete data.",
+    "The author discusses several possible explanations for the observed pattern."
+   ]
+  },
+  {
+   "word": "enhance",
+   "samples": [
+    "Regular feedback greatly enhances the quality of student writing.",
+    "The redesign enhances both comfort and energy efficiency in older buildings."
+   ]
+  },
+  {
+   "word": "examine",
+   "samples": [
+    "The inspector examined the structural damage before approving the certificate of occupancy.",
+    "The study examines how family income affects educational attainment across regions."
+   ]
+  },
+  {
+   "word": "highlight",
+   "samples": [
+    "The report highlights the growing gap between rural and urban incomes.",
+    "She highlighted the need for clearer guidelines in the industry."
+   ]
+  },
+  {
+   "word": "occur",
+   "samples": [
+    "Such an error rarely occurs in carefully audited systems.",
+    "The idea occurred to her while she was traveling abroad."
+   ]
+  },
+  {
+   "word": "report",
+   "samples": [
+    "The inspector reported serious safety failures at the plant.",
+    "Employees reported that the working conditions had steadily improved."
+   ]
+  },
+  {
+   "word": "respond",
+   "samples": [
+    "The company responded quickly to complaints about the faulty device.",
+    "Regulators responded to the scandal by tightening disclosure requirements."
+   ]
+  },
+  {
+   "word": "test",
+   "samples": [
+    "Researchers tested the hypothesis using a large sample of respondents.",
+    "The laboratory tests soil samples for heavy metals every month."
+   ]
+  },
+  {
+   "word": "trace",
+   "samples": [
+    "Researchers traced the contamination back to a single chemical plant.",
+    "The design of the bowl can be traced to ancient Greece."
+   ]
+  },
+  {
+   "word": "formulate",
+   "samples": [
+    "The research team formulated a new hypothesis about how memories are stored.",
+    "The committee formulated clear guidelines for the ethical review of clinical trials."
+   ]
+  },
+  {
+   "word": "allocate",
+   "samples": [
+    "The ministry allocated additional funds to rural health clinics last quarter.",
+    "Time must be allocated carefully when several urgent tasks compete for attention."
+   ]
+  },
+  {
+   "word": "synthesize",
+   "samples": [
+    "The review synthesizes evidence from over sixty independent clinical studies.",
+    "The author synthesizes theory, historical evidence, and quantitative data into a coherent argument."
+   ]
+  },
+  {
+   "word": "refine",
+   "samples": [
+    "The team refined the model after noticing systematic errors in the predictions.",
+    "Further analysis refined our understanding of how the catalyst actually works."
+   ]
+  },
+  {
+   "word": "underscore",
+   "samples": [
+    "The report underscores the urgent need for investment in public health infrastructure.",
+    "Her lecture underscored how language shapes the way individuals categorize experience."
+   ]
+  },
+  {
+   "word": "propose",
+   "samples": [
+    "The committee proposed new standards for reporting clinical trial data.",
+    "Economists proposed raising interest rates to control runaway inflation."
+   ]
+  },
+  {
+   "word": "refute",
+   "samples": [
+    "The evidence refuted the hypothesis that the two variables were unrelated.",
+    "She refuted the critic's claim with three published studies."
+   ]
+  },
+  {
+   "word": "deploy",
+   "samples": [
+    "Engineers deployed a sensor network across the forest to measure moisture.",
+    "The agency deployed extra staff during the emergency response."
+   ]
+  },
+  {
+   "word": "eliminate",
+   "samples": [
+    "The redesign eliminated most of the errors in data entry.",
+    "We eliminated unnecessary steps from the approval process entirely."
+   ]
+  },
+  {
+   "word": "embody",
+   "samples": [
+    "The constitution embodies the values of equality and justice.",
+    "Her leadership style embodies the ideals of collaborative research."
+   ]
+  },
+  {
+   "word": "endorse",
+   "samples": [
+    "Several leading scientists endorsed the statement published in Nature.",
+    "The board endorsed the proposal to expand the scholarship program."
+   ]
+  },
+  {
+   "word": "juxtapose",
+   "samples": [
+    "The exhibition juxtaposes traditional craft techniques with modern industrial design.",
+    "The author juxtaposes two conflicting accounts to highlight the disagreement."
+   ]
+  },
+  {
+   "word": "quote",
+   "samples": [
+    "The scholar quoted an ancient manuscript to support her interpretation.",
+    "In his report, he quotes several witnesses describing the incident."
+   ]
+  },
+  {
+   "word": "establish",
+   "samples": [
+    "The team established a new protocol for recording laboratory results.",
+    "Researchers established that the two variables were strongly correlated."
+   ]
+  },
+  {
+   "word": "standardize",
+   "samples": [
+    "The agency standardized its reporting format to improve data comparability.",
+    "Standardized tests can reduce teacher bias during annual evaluation."
+   ]
+  },
+  {
+   "word": "assert",
+   "samples": [
+    "The author asserts that institutional culture shapes research practice more than funding does.",
+    "Critics have asserted that the model rests on an oversimplified view of migration."
+   ]
+  },
+  {
+   "word": "ground",
+   "samples": [
+    "The framework is grounded in sociocultural theories of learning.",
+    "Interview questions were grounded in the pilot phase findings."
+   ]
+  },
+  {
+   "word": "associate",
+   "samples": [
+    "Sleep deprivation is associated with impaired concentration.",
+    "Respondents associated the brand with reliability rather than novelty."
+   ]
+  },
+  {
+   "word": "give rise to",
+   "samples": [
+    "The new measurement device gave rise to questions about comparability with earlier data.",
+    "Rapid urbanization has given rise to fresh challenges for public transport planning."
+   ]
+  },
+  {
+   "word": "carry out",
+   "samples": [
+    "The team carried out semi-structured interviews with thirty practitioners.",
+    "Replication studies carried out in different countries strengthened the original finding."
+   ]
+  },
+  {
+   "word": "initiate",
+   "samples": [
+    "The committee initiated an independent review of the case.",
+    "Interviews were initiated only after written consent was obtained."
+   ]
+  },
+  {
+   "word": "motivate",
+   "samples": [
+    "Intrinsic curiosity motivated the researchers to persist for a decade.",
+    "Students are more motivated when they see the purpose of a task."
+   ]
+  },
+  {
+   "word": "suspend",
+   "samples": [
+    "The trial was suspended after two patients developed complications.",
+    "Funding will be suspended until the audit is complete."
+   ]
+  },
+  {
+   "word": "withdraw",
+   "samples": [
+    "Two participants withdrew from the study before the final interview.",
+    "The authors withdrew the paper after a calculation error was found."
+   ]
+  },
+  {
+   "word": "exclude",
+   "samples": [
+    "We excluded participants who did not complete the baseline survey.",
+    "The definition excludes informal work carried out within the household."
+   ]
+  },
+  {
+   "word": "administer",
+   "samples": [
+    "A trained researcher administered the questionnaire to each participant in a private room.",
+    "The agency administers the national program for student financial aid."
+   ]
+  },
+  {
+   "word": "advise",
+   "samples": [
+    "The panel advised the ministry to revise the draft regulation before its adoption.",
+    "Several senior colleagues advised her to seek a second opinion from the specialist."
+   ]
+  },
+  {
+   "word": "consist",
+   "samples": [
+    "The final sample consists of graduate students enrolled in several disciplines.",
+    "The difficulty of the task consists in the ambiguity of the instructions."
+   ]
+  },
+  {
+   "word": "dedicate",
+   "samples": [
+    "The research team dedicated the remaining months to refining the survey instrument.",
+    "This volume is dedicated to all those who sustained the project through difficult years."
+   ]
+  },
+  {
+   "word": "displace",
+   "samples": [
+    "Automation displaced many routine clerical jobs within the banking sector.",
+    "Rising rents displaced long-established families from the inner urban districts."
+   ]
+  },
+  {
+   "word": "emerge",
+   "samples": [
+    "A clear pattern emerged from the interview data once the coding process was completed.",
+    "The dispute emerged when the ministry published revised allocation figures without prior consultation."
+   ]
+  },
+  {
+   "word": "affirm",
+   "samples": [
+    "The follow-up study affirmed the link between sleep and memory consolidation.",
+    "The court affirmed the principle that data subjects must give informed consent."
+   ]
+  },
+  {
+   "word": "allege",
+   "samples": [
+    "The report alleges that the laboratory bypassed standard ethical review.",
+    "It is alleged that the firm manipulated emissions data for several years."
+   ]
+  },
+  {
+   "word": "stagnate",
+   "samples": [
+    "Real wages stagnated for a decade despite steady productivity growth.",
+    "The sector stagnated after subsidies were withdrawn in the early 2000s."
+   ]
+  },
+  {
+   "word": "plummet",
+   "samples": [
+    "Enrollment plummeted after tuition fees were doubled.",
+    "Confidence in the currency plummeted during the debt crisis."
+   ]
+  },
+  {
+   "word": "soar",
+   "samples": [
+    "Housing prices soared in metropolitan areas during the boom.",
+    "Demand for rare earth metals has soared with the growth of electric vehicles."
+   ]
+  },
+  {
+   "word": "dwindle",
+   "samples": [
+    "Funding for basic research dwindled as priorities shifted to applied projects.",
+    "The committee's membership dwindled from twenty to six."
+   ]
+  },
+  {
+   "word": "ramification",
+   "samples": [
+    "The court ruling has far-reaching ramifications for data governance.",
+    "The paper explores the ethical ramifications of predictive policing."
+   ]
+  },
+  {
+   "word": "repercussion",
+   "samples": [
+    "The recall had immediate repercussions across the supply chain.",
+    "Economic shocks have political repercussions that outlast the crisis itself."
+   ]
+  },
+  {
+   "word": "ratify",
+   "samples": [
+    "Parliament ratified the accord after months of debate.",
+    "Only twelve states have ratified the convention so far."
+   ]
+  }
+ ]
+}

@@ -1,0 +1,98 @@
+[
+  {
+    "word": "select",
+    "field": "example_zh",
+    "index": 2,
+    "problem": "英文宾语是 pages（页面），译文却写成「结果」，与 en 语义不一致。",
+    "current": "该算法从上百万个候选页面中筛出最相关的结果。",
+    "suggest": "该算法从上百万个候选页面中筛出最相关的页面。"
+  },
+  {
+    "word": "publish",
+    "field": "example_zh",
+    "index": 1,
+    "problem": "量词错误：期刊不能用「家」，应为「一种/份」。",
+    "current": "研究结果发表于一家同行评审期刊。",
+    "suggest": "研究结果发表于一种同行评审期刊。"
+  },
+  {
+    "word": "infinitely",
+    "field": "example_zh",
+    "index": 1,
+    "problem": "analytical 误译为「解析的」（多指语法解析或数学解析），此处应为「分析的」。",
+    "current": "这一方法的吸引力在于它具有无穷灵活的解析结构。",
+    "suggest": "这一方法的吸引力在于它具有无穷灵活的分析结构。"
+  },
+  {
+    "word": "reliably",
+    "field": "example_zh",
+    "index": 1,
+    "problem": "reliably（稳定地、可靠地）被译成「通常」，语义强度与含义均发生偏移。",
+    "current": "多项重复调查表明，毕业生通常能在完成学业后六个月内找到工作。",
+    "suggest": "多项重复调查表明，毕业生能稳定地在完成学业后六个月内找到工作。"
+  },
+  {
+    "word": "entirely",
+    "field": "example_en",
+    "index": 2,
+    "problem": "英式拼写 standardised，全库统一美式拼写，应为 standardized。",
+    "current": "Entirely new vocabulary items were added to the standardised reading test.",
+    "suggest": "Entirely new vocabulary items were added to the standardized reading test."
+  },
+  {
+    "word": "especially",
+    "field": "example_en",
+    "index": 1,
+    "problem": "英式拼写 Programmes，全库统一美式拼写，应为 Programs。",
+    "current": "Programmes of remediation are especially costly when applied late in the academic year.",
+    "suggest": "Programs of remediation are especially costly when applied late in the academic year."
+  },
+  {
+    "word": "temporarily",
+    "field": "example_en",
+    "index": 2,
+    "problem": "英式拼写 catalogue，全库统一美式拼写（他处已用 cataloged），应为 catalog。",
+    "current": "The reading room was temporarily closed while the damaged catalogue was restored.",
+    "suggest": "The reading room was temporarily closed while the damaged catalog was restored."
+  },
+  {
+    "word": "altogether",
+    "field": "example_en",
+    "index": 1,
+    "problem": "英式拼写 favours，全库统一美式拼写，应为 favors。",
+    "current": "Altogether, the evidence favours a modest effect rather than a decisive causal claim.",
+    "suggest": "Altogether, the evidence favors a modest effect rather than a decisive causal claim."
+  },
+  {
+    "word": "above all",
+    "field": "example_en",
+    "index": 1,
+    "problem": "英式拼写 emphasises，全库统一美式拼写（同库 emphasize 一词用美式），应为 emphasizes。",
+    "current": "Above all, the report emphasises the need for independent replication of its central claim.",
+    "suggest": "Above all, the report emphasizes the need for independent replication of its central claim."
+  },
+  {
+    "word": "as",
+    "field": "example_en",
+    "index": 2,
+    "problem": "英式拼写 enrolment，全库统一美式拼写，应为 enrollment。",
+    "current": "The gradient persisted as enrolment expanded into more rural districts across the region.",
+    "suggest": "The gradient persisted as enrollment expanded into more rural districts across the region."
+  },
+  {
+    "word": "whenever",
+    "field": "example_en",
+    "index": 2,
+    "problem": "英式拼写 anonymised，全库统一美式拼写，应为 anonymized。",
+    "current": "Whenever possible, the researchers anonymised records before the data were released for secondary analysis.",
+    "suggest": "Whenever possible, the researchers anonymized records before the data were released for secondary analysis."
+  },
+  {
+    "word": "when",
+    "field": "sense",
+    "index": 0,
+    "problem": "义项串错：「然而」是 whereas/while 的义项，不是 when 的义项。",
+    "current": "当…时；在…之际；然而",
+    "suggest": "当…时；在…之际"
+  }
+]

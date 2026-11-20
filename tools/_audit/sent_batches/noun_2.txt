@@ -1,0 +1,305 @@
+proposition	名词	命题；主张；提议
+constituent	名词	组成部分；成分
+periphery	名词	边缘；外围；次要地位
+elasticity	名词	弹性；适应性
+workload	名词	工作量；负荷
+view	名词	观点；看法；见解（point of view 观点；view X as Y 把…视为）
+concern	名词	关切；关注；所涉及的问题（concerning 关乎；be concerned about 关切）；使担忧，使担心（作动词；Rising sea levels concern coastal planners 海平面上升令沿海规划者担忧）
+aim	名词	目标；目的；宗旨
+case	名词	情况；案例；情形
+point	名词	要点；论点；观点；道理，益处（there is some point in… 有…的道理）
+type	名词	类型；种类；类别
+field	名词	领域；学科
+degree	名词	程度；水平；学位
+effect	名词	效应；影响；效果（effect size 效应量）
+parameter	名词	参数；参量（model parameter 模型参数）
+anomaly	名词	异常；反常现象（anomalous result 异常结果）
+convention	名词	惯例；规范；学术会议（research convention 研究惯例）
+power	名词	功效；检验力；力量（statistical power 统计功效）
+interpretation	名词	解释；解读；阐释（interpretation of results 结果解读）
+imbalance	名词	不平衡；失衡（imbalance in the sample 样本失衡）
+inverse	名词	反面；相反事物；逆（逆数、逆函数）
+span	名词	跨度；范围；期间（time span 时间跨度）
+spread	名词	分布；传播；展开（spread of the phenomenon 现象分布）
+subset	名词	子集；一部分（a subset of respondents 受访者子集）
+skew	名词	偏斜；倾斜（data skew 数据偏斜）
+weight	名词	权重；重量；分量（assign weights 赋予权重）
+algorithm	名词	算法；计算程序
+covariate	名词	协变量；伴随变量
+stratum	名词	层；分层（sampling stratum 抽样层）
+sampling	名词	抽样；采样（sampling strategy 抽样策略）
+recruitment	名词	招募；征集（participant recruitment 参与者招募）
+dropout	名词	脱落；退出（study dropout 研究脱落）
+attrition	名词	流失；损耗（attrition rate 流失率）
+ethics	名词	伦理；道德规范（research ethics 研究伦理）
+anonymity	名词	匿名；匿名性（ensure anonymity 保证匿名）
+interview	名词	访谈；采访（in-depth interview 深度访谈）
+setting	名词	场景；研究情境（institutional setting 机构场景）
+confounding	名词	混杂；混淆（confounding factor 混杂因素）
+policy	名词	政策；方针（policy implementation 政策执行）
+inclusion	名词	纳入；包含；包容
+norm	名词	规范；准则（social norm 社会规范）
+interviewer	名词	访谈者；采访者；问询者（research interviewer 研究访谈者）
+measurement	名词	测量；度量；测量值
+percentage	名词	百分比；百分率
+frequency	名词	频率；频数，次数
+exposure	名词	暴露；接触（exposure to … 接触…）；接触程度
+risk	名词	风险；危险（at risk 处于风险中）
+determinant	名词	决定因素；决定性要素（determinant of … 的决定因素）
+mediator	名词	中介变量；中介因素（mediating variable 中介变量）
+moderator	名词	调节变量（moderating effect 调节效应）
+replicability	名词	可复现性；可重复性（replicability of findings 结果的可复现性）
+generalizability	名词	可推广性；外部效度（generalizability of results 结果的可推广性）
+response	名词	回答；反应；响应（response rate 回应率）
+follow-up	名词	随访；后续研究（follow-up study 随访研究）
+meta-analysis	名词	元分析；荟萃分析
+multicollinearity	名词	多重共线性（回归模型中自变量高度相关）
+efficiency	名词	效率；效能；有效性（allocate resources efficiently 有效配置资源）
+contribution	名词	贡献；作用；贡献度（contribution to … 对…的贡献）
+operationalization	名词	操作化；操作定义（operationalization of a concept 概念的操作化）
+confounder	名词	混杂变量；混淆因素
+mediation	名词	中介作用；中介效应
+moderation	名词	调节作用；调节效应
+endogeneity	名词	内生性；内生偏差
+propensity	名词	倾向；倾向性（propensity score 倾向得分）
+placebo	名词	安慰剂；安慰剂对照
+blinding	名词	盲法；盲评（single blinding 单盲法）
+allocation	名词	分配；配置（random allocation 随机分配）
+effect size	名词	效应量；效果大小
+cluster	名词	群组；簇；聚类（cluster analysis 聚类分析）
+panel	名词	专家小组；评审组；面板（panel data 面板数据）
+reflexivity	名词	自反性；反思性（researcher reflexivity 研究者的自反性）
+positionality	名词	位置性；立场性（researcher positionality 研究者的位置性）
+critique	名词	批评；评论（a critique of a theory 对某一理论的批评）
+adoption	名词	采用；采纳；接受（adoption of a practice 某项做法的采纳）
+uptake	名词	接受度；采纳率；推广应用
+adherence	名词	依从性；遵守；遵循（adherence to protocol 遵循研究方案）
+dissemination	名词	传播；散布；推广（knowledge dissemination 知识传播）
+scalability	名词	可扩展性；可规模化程度
+equity	名词	公平；公正；平等（health equity 健康公平）
+bottleneck	名词	瓶颈；制约环节（bottleneck in the process 流程中的瓶颈）
+alignment	名词	一致性；对齐；协同（strategic alignment 战略协同）
+overlap	名词	重叠；交叠；共同部分（overlap between the two 两者之间的重叠；the two overlap 两者部分重叠）
+milestone	名词	里程碑；阶段性成果（key milestone 关键里程碑）
+blueprint	名词	蓝图；蓝本；范本（policy blueprint 政策蓝图）
+tipping point	名词	临界点；拐点（reach a tipping point 达到临界点）
+conceptualization	名词	概念化；概念建构
+quantification	名词	量化；量化分析
+preregistration	名词	预注册（研究方案的预注册）
+disclosure	名词	披露；公开；信息披露
+confidentiality	名词	保密；保密性（confidentiality of data 数据保密）
+plagiarism	名词	剽窃；抄袭
+register	名词	语域；语体（academic register 学术语域）
+genre	名词	体裁；文类
+counterargument	名词	反驳；反论点
+cohesion	名词	连贯；衔接（textual cohesion 语篇衔接）
+wording	名词	措辞；用语（careful wording 谨慎的措辞）
+triangulation	名词	三角互证；三角验证（methodological triangulation 方法学三角互证）
+domain	名词	领域；域（domain knowledge 领域知识）
+shift	名词	转变；变迁（paradigm shift 范式转变；a shift in … 的转变）
+notion	名词	概念；观念（the notion of … 的概念）
+agenda	名词	议程；研究议题（research agenda 研究议程；set the agenda 确立议题）
+causality	名词	因果关系；因果性（establish causality 建立因果联系）
+mortality	名词	死亡率（mortality rate 死亡率；infant mortality 婴儿死亡率）
+credibility	名词	可信度；公信力（credibility of the findings 研究结果的可信度）
+fieldwork	名词	实地调查；田野工作（conduct fieldwork 开展实地调查）
+case study	名词	个案研究；案例研究（a case study of … 的个案研究）
+literature review	名词	文献综述（conduct a literature review 做文献综述）
+grounded theory	名词	扎根理论（质性研究方法，自资料中归纳理论）
+association	名词	联系；关联；协会
+communication	名词	交流；传达；沟通
+community	名词	社群；界；社区（research community 学术界）
+author	名词	作者；著者（first author 第一作者）
+conference	名词	会议；学术会议（conference paper 会议论文）
+department	名词	系；部门；科室
+economy	名词	经济；经济体系
+emotion	名词	情绪；情感（emotion regulation 情绪调节）
+layer	名词	层；层次；阶层
+output	名词	产出；输出；成果
+project	名词	项目；研究计划
+region	名词	地区；区域；范围
+revenue	名词	收入；税收（government revenue 政府收入）
+reward	名词	奖励；报酬；激励（reward function 奖励函数）；奖励，回报（作动词；Bonus schemes reward quantity 奖金方案奖励数量而非质量）
+sector	名词	部门；领域（public sector 公共部门）
+site	名词	地点；场所；网站（research site 研究现场）
+status	名词	地位；状况（status quo 现状）
+symbol	名词	符号；象征
+theme	名词	主题；母题（thematic analysis 主题分析）
+topic	名词	话题；主题（topic sentence 主题句）
+volume	名词	量；容量；卷（volume of traffic 流量）
+administration	名词	管理，行政；政府，政权（public administration 公共管理；the new administration 新政府）
+benefit	名词	利益，好处；福利，补助金（the benefits of regular exercise 规律锻炼的益处；social benefits 社会福利）；受益，使受益（作动词；benefit from 从…受益）
+incentive	名词	激励，动机（economic incentives 经济激励；incentive for innovation 创新的动力）
+resource	名词	资源，财力（research resources 研究资源；natural resources 自然资源）
+finance	名词	金融，财政（corporate finance 公司金融；the finance sector 金融部门）
+format	名词	格式，版式（file format 文件格式；present the data in a standard format 以标准格式呈现数据）
+parallel	名词	相似之处，可比拟的事物；并行（draw a parallel between 在…之间作类比；in parallel 并行地）
+schedule	名词	日程，时间表；计划安排（a tight schedule 紧张的日程；on schedule 按计划进行）
+contract	名词	合同，契约（sign a contract 签订合同；labor contracts 劳动合同）
+ambiguity	名词	歧义；含混；模棱两可
+component	名词	成分；组成部分；部件
+consequence	名词	后果；结果；重要性
+construction	名词	建构；构造；建造物
+consumption	名词	消耗；消费；消耗量
+cooperation	名词	合作；协作；协同
+controversy	名词	争议；论争；争论
+density	名词	密度；密集度
+depth	名词	深度；深浅；深刻程度
+detection	名词	探测；检出；发现（察觉）
+duration	名词	持续时间；时长；期间
+ecology	名词	生态；生态学；生态关系
+epidemiology	名词	流行病学；疫病分布
+equilibrium	名词	平衡；均衡；平衡状态
+equivalence	名词	等价；等同；对等性
+essence	名词	本质；实质；精髓
+exclusion	名词	排除；剔除；排斥
+expectation	名词	期望；预期；期待
+expenditure	名词	支出；开支；耗费
+extension	名词	延伸；扩展；推广
+facility	名词	设施；设备；便利
+feedback	名词	反馈；反馈意见；回授
+friction	名词	摩擦；冲突；阻力
+generation	名词	一代；世代；产生
+hierarchy	名词	层级体系；等级制度；层级
+identity	名词	身份；同一性；特性
+index	名词	指数；指标；索引
+induction	名词	归纳；归纳法；引入
+initiative	名词	主动性；倡议；举措
+inspection	名词	检查；检验；视察
+institution	名词	机构；制度；学会
+integration	名词	整合；一体化；融入
+intensity	名词	强度；烈度；紧张程度
+interaction	名词	互动；交互作用；相互作用
+latency	名词	潜伏期；延迟时间
+manifestation	名词	表现；体现；显示
+maturity	名词	成熟；成熟度
+modification	名词	调整；修改；修饰
+momentum	名词	动量；势头；推动力
+motivation	名词	动机；积极性；动因
+necessity	名词	必要性；必需品；必需
+neutrality	名词	中立；中立性；公正
+obligation	名词	义务；责任；约束
+orientation	名词	定位；导向；立场
+participation	名词	参与；参加；参与度
+partition	名词	划分；分区；分界
+partnership	名词	伙伴关系；合作关系；搭档
+persistence	名词	持续；坚持；存续
+practitioner	名词	从业者；实践者；执业者
+priority	名词	优先事项；优先权；优先
+productivity	名词	生产率；生产力；成效
+proficiency	名词	熟练；精通；能力水平
+profile	名词	概况；特征；剖析
+projection	名词	预测；投射；推算
+promotion	名词	晋升；推广；促进
+provision	名词	规定；条款；供应
+qualification	名词	资格；限定；限定条件
+quota	名词	配额；定额；限额
+realism	名词	现实主义；务实；写实
+reciprocity	名词	互惠；对等；相互性
+recommendation	名词	建议；推荐；推荐书
+recurrence	名词	复发；再现；重现
+reduction	名词	减少；降低；缩小
+refinement	名词	提炼；改进；精细化
+reinforcement	名词	强化；加强；增援
+remedy	名词	补救措施；疗法；弥补
+reputation	名词	声誉；声望；名气
+reservation	名词	保留；保留意见；预订
+restriction	名词	限制；约束；限定
+retrieval	名词	检索；提取；取回
+revision	名词	修订；修订本；修正
+rigor	名词	严谨；严密；严格性
+selection	名词	选择；选取；选拔
+separation	名词	分离；分隔；分开
+severity	名词	严重程度；严厉；严重性
+simulation	名词	模拟；仿真；模拟物
+specification	名词	规格；规范；详细说明
+stability	名词	稳定性；稳定；牢固
+sufficiency	名词	充分性；充足；足够
+supervision	名词	监督；指导；管理
+supplement	名词	补充；增补；补编
+survival	名词	生存；存活；幸存
+tactic	名词	策略；手段；做法
+technology	名词	技术；科技；工艺
+tendency	名词	倾向；趋势；习性
+terminology	名词	术语；术语体系；专门词汇
+tolerance	名词	容忍；耐受性；宽容
+transformation	名词	转型；转变；改造
+transmission	名词	传播；传递；传染
+typology	名词	类型学；类型划分
+utilization	名词	利用；使用；效用
+variability	名词	可变性；变异性；波动性
+variation	名词	变异；变化；变体
+viability	名词	可行性；生存能力；能存续性
+vitality	名词	活力；生命力；强健
+volatility	名词	波动性；易变性；不稳定性
+welfare	名词	福利；福祉；安康
+fallacy	名词	谬误，谬见（logical fallacy 逻辑谬误）
+connotation	名词	内涵意义，言外之意；隐含意义
+ramification	名词	（间接的）后果，衍生影响（legal ramifications 法律后果）
+repercussion	名词	反响，影响，后果（have serious repercussions 产生严重后果）
+aftermath	名词	（不愉快的）后果期；余波（in the aftermath of… 在…之后）
+corollary	名词	推论，必然结果（a direct corollary of… 的直接推论）
+precursor	名词	先兆，前兆；前身（precursors of the crisis 危机的前兆）；（化学）前体
+antecedent	名词	前因，前身；（语法）先行词
+drawback	名词	缺点，不利条件（the main drawback 主要缺点）
+pitfall	名词	陷阱，隐患；易犯的错误（common pitfalls 常见误区）
+shortcoming	名词	缺点，不足之处
+setback	名词	挫折，倒退（suffer a setback 遭受挫折）
+hurdle	名词	障碍，难关（clear the hurdle 跨过障碍）；栏架
+impediment	名词	妨碍，阻碍（an impediment to progress 进步的障碍）
+liability	名词	不利条件，累赘；责任；（复数）负债
+deficit	名词	赤字，亏空；不足（budget deficit 预算赤字；attention deficit 注意缺陷）
+surplus	名词	盈余，过剩（trade surplus 贸易盈余）；过剩的
+hindsight	名词	事后聪明，事后认识（in hindsight 事后看来）
+foresight	名词	远见，预见性（lack of foresight 缺乏远见）
+breadth	名词	宽度；广度，广博（the breadth of the curriculum 课程的广度）
+journal	名词	期刊，学报；日记（peer-reviewed journal 同行评审期刊）
+manuscript	名词	手稿；投稿稿（submit a manuscript 投稿）
+thesis	名词	学位论文；论题，论点（master's thesis 硕士论文；the thesis of the paper 论文论点）
+appendix	名词	附录；（解剖学）阑尾（复数 appendices/appendixes）
+footnote	名词	脚注；次要事物（名词/动词）
+bibliography	名词	参考文献目录，书目
+symposium	名词	专题研讨会，座谈会（复数 symposia）
+proceedings	名词	会议论文集；（法律）诉讼程序
+curriculum	名词	课程体系，课程（curriculum design 课程设计；复数 curricula）
+syllabus	名词	教学大纲，课程大纲（复数 syllabi/syllabuses）
+pedagogy	名词	教学法，教育学（pedagogical 教学法的）
+faculty	名词	全体教员；才能；（美）院系
+mentor	名词	导师，指导者；（动词）指导
+ideology	名词	意识形态，思想体系（ideological 意识形态的）
+hegemony	名词	霸权，支配地位（cultural hegemony 文化霸权）
+bureaucracy	名词	官僚体制，官僚机构；繁文缛节
+urbanization	名词	城市化，都市化
+globalization	名词	全球化
+citizenship	名词	公民身份，公民资格；公民素质
+electorate	名词	全体选民，选区
+referendum	名词	全民公投，公民投票（复数 referendums/referenda）
+treaty	名词	条约，协定（sign a treaty 签署条约）
+statute	名词	成文法，法令；法规
+jurisdiction	名词	管辖权，司法权；管辖范围
+litigation	名词	诉讼，打官司
+tariff	名词	关税；价目表
+subsidy	名词	补贴，津贴（government subsidies 政府补贴；复数 subsidies）
+inflation	名词	通货膨胀；膨胀
+monopoly	名词	垄断，专营服务（state monopoly 国家垄断；复数 monopolies）
+neuron	名词	神经元，神经细胞
+polymer	名词	聚合物，聚合体
+catalyst	名词	催化剂；促进因素（act as a catalyst for… 成为…的催化剂）
+enzyme	名词	酶
+protein	名词	蛋白质
+genome	名词	基因组，染色体组
+metabolism	名词	新陈代谢
+emission	名词	排放，排放物（carbon emissions 碳排放；emission standards 排放标准）
+climate	名词	气候；风气，氛围（climate change 气候变化）
+semiconductor	名词	半导体
+database	名词	数据库
+bandwidth	名词	带宽；（引）精力，处理能力
+diagnosis	名词	诊断（复数 diagnoses；early diagnosis 早期诊断）
+epidemic	名词	流行病；（引）泛滥（an epidemic of obesity 肥胖的流行）；流行性的
+pandemic	名词	（全国/全球性）大流行病；（形容词）大流行的
+outbreak	名词	爆发，突然发生（an outbreak of cholera 霍乱爆发）
+confidence interval	名词	置信区间（统计学术语）
+standard deviation	名词	标准差（统计学术语）
+symptom	名词	症状；征兆（clinical symptoms 临床症状）
+syndrome	名词	综合征，综合症状（metabolic syndrome 代谢综合征）
+therapy	名词	治疗，疗法（gene therapy 基因治疗；复数 therapies）

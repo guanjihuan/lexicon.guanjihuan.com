@@ -1,0 +1,184 @@
+{
+ "intermittently": [
+  {
+   "en": "The network failed intermittently, so the researchers repeated each trial several times.",
+   "zh": "网络间歇性地出现故障，因此研究人员将每次试验重复了数遍。"
+  },
+  {
+   "en": "Rainfall in the region falls intermittently, so crop yields vary correspondingly from year to year.",
+   "zh": "该地区的降水间歇性地出现，因而作物产量相应地逐年波动。"
+  },
+  {
+   "en": "Support for the reform appeared intermittently in the minutes, suggesting a divided committee.",
+   "zh": "会议记录中间歇性地出现对该改革的支持，表明委员会内部分歧明显。"
+  }
+ ],
+ "spontaneously": [
+  {
+   "en": "The participants spontaneously raised questions once the moderator opened the floor to discussion.",
+   "zh": "一旦主持人开放自由讨论，参与者便自发地提出问题。"
+  },
+  {
+   "en": "The sample crystallized spontaneously, indicating that the reaction proceeded without an external trigger.",
+   "zh": "样品自发地结晶，表明该反应无需外部触发即可进行。"
+  },
+  {
+   "en": "Vegetation spontaneously recovered on abandoned plots, providing evidence of persistent seed banks.",
+   "zh": "废弃样地上的植被自发地恢复，为持久存在的土壤种子库提供了证据。"
+  }
+ ],
+ "voluntarily": [
+  {
+   "en": "Respondents voluntarily completed the follow-up questionnaire, which may introduce selection bias.",
+   "zh": "受访者自愿填写了随访问卷，这可能引入选择偏倚。"
+  },
+  {
+   "en": "Staff voluntarily transferred to rural clinics during the reform, easing pressure on urban hospitals.",
+   "zh": "改革期间，医务人员自愿转往乡村诊所，减轻了城市医院的压力。"
+  },
+  {
+   "en": "Departments voluntarily adopted the open-data policy before the national guideline required it.",
+   "zh": "在国家指南出台之前，各部门便自愿采纳了开放数据政策。"
+  }
+ ],
+ "intentionally": [
+  {
+   "en": "The authors intentionally excluded incomplete cases, which they describe in the sampling notes.",
+   "zh": "作者有意地剔除了不完整的案例，并在抽样说明中对其加以描述。"
+  },
+  {
+   "en": "Some institutions intentionally limit laboratory hours, reducing exposure to unnecessary reagents.",
+   "zh": "一些机构有意地缩短实验室开放时间，以减少不必要的试剂接触。"
+  },
+  {
+   "en": "Participants were not intentionally deceived, since all deception was disclosed during debriefing.",
+   "zh": "参与者并未受到有意欺骗，因为所有欺骗情形都在事后说明环节中予以披露。"
+  }
+ ],
+ "successfully": [
+  {
+   "en": "The team successfully replicated the experiment across four laboratories with independent samples.",
+   "zh": "该团队以独立样本在四个实验室成功重复了这项实验。"
+  },
+  {
+   "en": "Interventions that successfully reduce costs rarely replicate when local conditions change.",
+   "zh": "能够成功降低成本的干预措施在本地条件变化时很少得到重复验证。"
+  },
+  {
+   "en": "She successfully defended her dissertation on the economics of informal credit markets.",
+   "zh": "她成功地以非正式信贷市场的经济学为题完成了博士论文答辩。"
+  }
+ ],
+ "beforehand": [
+  {
+   "en": "Participants were told beforehand how the results would be stored and later destroyed.",
+   "zh": "事先已告知参与者研究结果将如何保存以及日后如何销毁。"
+  },
+  {
+   "en": "Registering hypotheses beforehand limits selective reporting of the primary outcomes.",
+   "zh": "事先登记假设可以限制对主要结果的选择性报告。"
+  },
+  {
+   "en": "Researchers should review the sampling frame beforehand to avoid unobserved coverage errors.",
+   "zh": "研究人员应在事先审阅抽样框，以避免出现未观测到的覆盖误差。"
+  }
+ ],
+ "afterwards": [
+  {
+   "en": "Participants afterwards rated the clarity of the instructions on a standard questionnaire.",
+   "zh": "参与者事后在标准问卷上评定了说明的清晰程度。"
+  },
+  {
+   "en": "The policy was revised afterwards to incorporate concerns raised during the public consultation.",
+   "zh": "该政策事后经过修订，以纳入公众咨询期间所提出的意见。"
+  },
+  {
+   "en": "Cost estimates were revised afterwards, and the revised figures informed the final appropriation.",
+   "zh": "成本估算事后进行了修正，修正后的数字成为最终拨款的依据。"
+  }
+ ],
+ "once": [
+  {
+   "en": "Once the sample reached equilibrium, the instrument recorded a stable baseline.",
+   "zh": "一旦样本达到平衡，仪器便记录到稳定的基线读数。"
+  },
+  {
+   "en": "Participants were allowed to revise their answers once before the form was submitted.",
+   "zh": "表单提交之前，参与者有一次修改答案的机会。"
+  },
+  {
+   "en": "The extinction event occurred once during the entire period covered by the record.",
+   "zh": "在记录所涵盖的整个时期内，灭绝事件仅发生过一次。"
+  }
+ ],
+ "altogether": [
+  {
+   "en": "Altogether, the survey covered four provinces and nearly three thousand rural households.",
+   "zh": "该调查总共覆盖了四个省份和近三千户农村家庭。"
+  },
+  {
+   "en": "Altogether, the evidence favors a modest effect rather than a decisive causal claim.",
+   "zh": "总体而言，证据支持一种温和的效应，而非具有决定性的因果主张。"
+  },
+  {
+   "en": "Altogether, the review identified only limited evidence for the proposed mechanism.",
+   "zh": "总的说来，该综述仅为所提出的机制找到了有限的证据。"
+  }
+ ],
+ "certainly": [
+  {
+   "en": "The pattern certainly warrants further investigation, given its implications for regional planning.",
+   "zh": "考虑到其对区域规划的影响，该模式确实值得进一步调查。"
+  },
+  {
+   "en": "Early results are certainly promising, but replication remains necessary before firm conclusions.",
+   "zh": "早期结果确实令人鼓舞，但在得出确定结论之前仍需重复验证。"
+  },
+  {
+   "en": "The mechanism certainly cannot be inferred from a single controlled experiment.",
+   "zh": "单一受控实验确实无法推断出该机制。"
+  }
+ ],
+ "definitely": [
+  {
+   "en": "The two measures are definitely not interchangeable, since they capture different constructs.",
+   "zh": "这两项测量明确地不可互换，因为它们捕捉的是不同的构念。"
+  },
+  {
+   "en": "Additional replication would definitely strengthen the claim, although it would also extend the timeline.",
+   "zh": "进一步的重复验证肯定会增强该主张，尽管这也会延长研究周期。"
+  },
+  {
+   "en": "The presence of such a bias was definitely ruled out by a placebo comparison.",
+   "zh": "通过安慰剂对照比较，这种偏倚的存在被明确地排除了。"
+  }
+ ],
+ "even": [
+  {
+   "en": "Even experienced reviewers missed the same error, which suggests a limitation in the design.",
+   "zh": "即使经验丰富的审稿人也漏掉了同一处错误，这提示该设计存在局限。"
+  },
+  {
+   "en": "The effect appeared even after adjusting for age, education, and prior employment.",
+   "zh": "即使在控制年龄、教育程度与既往就业之后，该效应依然存在。"
+  },
+  {
+   "en": "Not even the control group showed the expected change in the recorded attitudes.",
+   "zh": "连对照组在所记录的态度上也没有出现预期变化。"
+  }
+ ],
+ "rather": [
+  {
+   "en": "Regulators would rather reduce compliance costs than impose stricter reporting requirements.",
+   "zh": "监管者宁愿降低合规成本，也不愿施加更为严格的报告要求。"
+  },
+  {
+   "en": "The sample was rather small, which limits the precision of the estimated effect.",
+   "zh": "样本相当小，这限制了效应估计的精度。"
+  },
+  {
+   "en": "I would rather revise the analysis than defend an implausible interpretation.",
+   "zh": "我宁可修订分析，也不愿为一种难以置信的解释辩护。"
+  }
+ ]
+}

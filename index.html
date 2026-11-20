@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+<meta name="description" content="GUAN 学术英语词汇学习网站：2222 词学术词库，含 1060 个核心高频词与词性、感情色彩、语体色彩三维分类；按记忆曲线复习单词，五种题型测验，配收藏与学习统计，完全离线可用。">
+<meta name="theme-color" content="#0b0b0e">
+<title>GUAN 学术英语词汇库</title>
+<link rel="icon" href="icon.jpg" type="image/jpeg">
+<link rel="apple-touch-icon" href="icon.jpg">
+<link rel="shortcut icon" href="icon.jpg" type="image/jpeg">
+<script>
+/* 首屏定主题：默认深色（dark2026），在样式生效前就把 data-theme 写到 <html> 上
+   —— 否则深色用户会先闪一帧浅色。
+   主题只有「浅色 / 深色」两档，不再跟随系统：旧存档里的「跟随系统」(auto)
+   一律落到深色（默认深色）。 */
+(function () {
+  var KEY = 'wl_state_v1';
+  var raw = null, st = null, t = 'dark';
+  try { raw = localStorage.getItem(KEY) || localStorage.getItem('wl_state'); } catch (e) { /* 忽略 */ }
+  if (raw) { try { st = JSON.parse(raw); } catch (e) { st = null; } }
+  if (st && st.settings) t = st.settings.theme || 'dark';
+  if (t !== 'light') t = 'dark';
+  document.documentElement.dataset.theme = t;
+})();
+</script>
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body data-view="home">
+
+<a class="skip-link" href="#main">跳到主要内容</a>
+
+<noscript><div class="noscript">本站是纯前端应用：词库、学习、测验与学习进度都依赖 JavaScript 渲染和本地存储。请在浏览器设置中启用 JavaScript 后刷新页面。</div></noscript>
+
+<header class="topbar">
+  <div class="topbar-inner">
+    <div class="brand" id="brandHome" title="返回首页" role="button" tabindex="0" aria-label="GUAN 学术英语词汇库 Academic English Lexicon，返回首页">
+      <span class="brand-logo">
+        <img class="brand-img" src="icon.jpg" alt="" width="36" height="36">
+      </span>
+      <span class="brand-text">GUAN 学术英语词汇库<em>Academic English Lexicon</em></span>
+    </div>
+
+    <nav class="mainnav" id="mainnav" aria-label="主导航">
+      <a href="#home"     data-view="home"     class="nav-item"><span class="ni"><svg class="ic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M3.5,10.5 L12,3.5 L20.5,10.5"/><path d="M5.5,9.5 L5.5,20 L10,20 L10,14.5 L14,14.5 L14,20 L18.5,20 L18.5,9.5"/></svg></span><span>首页</span></a>
+      <a href="#browse"   data-view="browse"   class="nav-item"><span class="ni"><svg class="ic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12,6.5 C10,4.8 6.8,4.5 4,5.5 L4,19 C6.8,18 10,18.3 12,20 C14,18.3 17.2,18 20,19 L20,5.5 C17.2,4.5 14,4.8 12,6.5 Z"/><path d="M12,6.5 L12,20"/></svg></span><span>词库</span></a>
+      <a href="#study"    data-view="study"    class="nav-item"><span class="ni"><svg class="ic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="7" y="8" width="13" height="13" rx="2"/><path d="M15,8 L15,5 C15,3.9 14.1,3 13,3 L5,3 C3.9,3 3,3.9 3,5 L3,13 C3,14.1 3.9,15 5,15 L7,15"/></svg></span><span>学习</span></a>
+      <a href="#fav"      data-view="fav"      class="nav-item"><span class="ni"><svg class="ic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12,3.5 L14.9,9.6 L21.5,10.2 L16.5,14.6 L18.1,21 L12,17.5 L5.9,21 L7.5,14.6 L2.5,10.2 L9.1,9.6 Z"/></svg></span><span>收藏</span></a>
+      <a href="#stats"    data-view="stats"    class="nav-item"><span class="ni"><svg class="ic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M3,20.5 L21,20.5"/><path d="M6.5,20.5 L6.5,13"/><path d="M12,20.5 L12,6"/><path d="M17.5,20.5 L17.5,10.5"/></svg></span><span>统计</span></a>
+      <a href="#settings" data-view="settings" class="nav-item"><span class="ni"><svg class="ic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M19.47,9.43 L22.07,10.40 L22.07,13.60 L19.47,14.57 L17.96,17.18 L18.42,19.93 L15.66,21.52 L13.51,19.75 L10.49,19.75 L8.34,21.52 L5.58,19.93 L6.04,17.18 L4.53,14.57 L1.93,13.60 L1.93,10.40 L4.53,9.43 L6.04,6.82 L5.58,4.07 L8.34,2.48 L10.49,4.25 L13.51,4.25 L15.66,2.48 L18.42,4.07 L17.96,6.82 Z"/><circle cx="12" cy="12" r="3.2"/></svg></span><span>设置</span></a>
+    </nav>
+
+    <div class="topbar-right">
+      <button class="icon-btn" id="btnSearch" title="搜索 (按 /)" aria-label="搜索"><svg class="ic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="M21,21 L16.3,16.3"/></svg></button>
+            <button class="icon-btn" id="btnTheme" title="切换深浅色" aria-label="切换主题"><svg class="ic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M20,13.2 A8.8,8.8 0 1 1 10.8,3.2 A7,7 0 0 0 20,13.2 Z"/></svg></button>
+      <span class="visit-pill" id="visitPill" title="最近 30 天访问本站的次数" role="img" aria-label="最近 30 天访问 0 次"><svg class="ic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12,21.5 C8.4,21.5 5.5,18.8 5.5,15.2 C5.5,10.6 9.8,8.5 10.2,3 C13.6,5.2 14.5,8 14,10.5 C15.5,9.8 16.8,8.4 17,6.5 C18.8,8.8 18.5,12.5 18.5,15.2 C18.5,18.8 15.6,21.5 12,21.5 Z"/></svg><b id="visitCount">0</b></span>
+    </div>
+  </div>
+</header>
+
+<!-- 全局搜索 -->
+<div class="search-overlay" id="searchOverlay" hidden role="dialog" aria-modal="true" aria-label="搜索词条">
+  <div class="search-box">
+    <input type="search" id="searchInput" placeholder="搜索单词或中文释义…" autocomplete="off" aria-label="搜索单词或释义" role="combobox" aria-expanded="false" aria-autocomplete="list" aria-controls="searchList">
+    <div class="search-results" id="searchResults">
+      <div class="search-status" id="searchStatus"></div>
+      <div class="search-list" id="searchList" role="listbox" aria-label="搜索结果"></div>
+    </div>
+    <div class="search-more" id="searchMore" hidden></div>
+    <div class="search-hint"><span>↑↓ 选择 · Enter 打开 · Esc 关闭</span><span id="searchCount" aria-live="polite">全库</span></div>
+  </div>
+</div>
+
+<main id="main" class="view-container" tabindex="-1"></main>
+
+<!-- 词条详情 -->
+<div class="modal" id="wordModal" hidden>
+  <!-- aria-labelledby 指向运行时才注入的 #wmTitle；aria-label 作为首帧兜底名 -->
+  <div class="modal-card" role="dialog" aria-modal="true" aria-labelledby="wmTitle" aria-label="词条详情">
+    <button class="modal-close" id="wmClose" aria-label="关闭">✕</button>
+    <div class="modal-scroll" id="wordModalBody"></div>
+  </div>
+</div>
+
+<!-- 快捷键说明 -->
+<div class="shortcuts-overlay" id="shortcutsOverlay" hidden role="dialog" aria-modal="true" aria-labelledby="scTitle">
+  <div class="shortcuts-card">
+    <button class="modal-close" id="scClose" aria-label="关闭">✕</button>
+    <h2 id="scTitle" style="font-size:19px;margin-bottom:4px">键盘快捷键</h2>
+    <p class="faint" style="margin-bottom:20px">在任意页面都可使用以下快捷键。</p>
+    <div class="shortcuts-grid" id="shortcutsGrid"></div>
+  </div>
+</div>
+
+<div class="toast-wrap" id="toastWrap" aria-live="polite" aria-atomic="false"></div>
+
+<footer class="footer">
+  <div class="footer-inner">
+    <span class="footer-name">GUAN 学术英语词汇库<em>Academic English Lexicon</em></span>
+  </div>
+</footer>
+
+<!-- 打印清单（仅在 @media print 下显示） -->
+<div class="print-list" id="printList" aria-hidden="true"></div>
+
+<script src="js/data.js"></script>
+<script src="js/examples.js"></script>
+<script src="js/app.js"></script>
+
+<!-- 访客统计 -->
+<script async src="https://stats.guanjihuan.com/tracker/tracker.min.js" data-site-id="site_3d1104f81db3fa51"></script>
+</body>
+</html>

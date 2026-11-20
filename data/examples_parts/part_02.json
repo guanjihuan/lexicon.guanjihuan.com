@@ -1,0 +1,534 @@
+{
+ "alternate": [
+  {
+   "en": "The committee offered two alternate proposals before selecting a final design.",
+   "zh": "委员会在选定最终设计之前提出了两个备选方案。"
+  },
+  {
+   "en": "Traffic flows in alternate directions during the construction period.",
+   "zh": "施工期间，交通轮流单向通行。"
+  },
+  {
+   "en": "If the primary server fails, the system automatically switches to an alternate unit.",
+   "zh": "如果主服务器发生故障，系统会自动切换到备用设备。"
+  }
+ ],
+ "rigid": [
+  {
+   "en": "The academy has historically maintained a rigid code of academic conduct.",
+   "zh": "该学院在历史上一直维持着一套严格的学术行为规范。"
+  },
+  {
+   "en": "Her rigid attitude prevented the committee from reaching a practical compromise.",
+   "zh": "她僵化固执的态度使委员会无法达成务实的妥协。"
+  },
+  {
+   "en": "The proposed schedule proved too rigid for teams working across time zones.",
+   "zh": "对于分布在不同时区的团队来说，拟定的进度安排显得过于僵化。"
+  }
+ ],
+ "comment": [
+  {
+   "en": "The reviewer commented extensively on the structure of the argument.",
+   "zh": "评审人对论证结构发表了大量评论。"
+  },
+  {
+   "en": "Two colleagues commented on the draft paper before it was submitted for review.",
+   "zh": "稿件送审之前，两位同事对其发表了意见。"
+  },
+  {
+   "en": "The minister declined to comment on the ongoing investigation.",
+   "zh": "部长拒绝对正在进行的调查发表评论。"
+  }
+ ],
+ "incorporate": [
+  {
+   "en": "The revised protocol incorporates feedback from all three review panels.",
+   "zh": "修订后的方案纳入了三个评审组的全部反馈意见。"
+  },
+  {
+   "en": "Students must incorporate at least ten sources into their literature review.",
+   "zh": "学生必须在文献综述中至少纳入 10 个来源。"
+  },
+  {
+   "en": "The new framework incorporates regional data that earlier models had ignored.",
+   "zh": "新框架纳入了早期模型所忽略的区域数据。"
+  }
+ ],
+ "clarify": [
+  {
+   "en": "The author added a footnote to clarify the meaning of the third term.",
+   "zh": "作者加了一条脚注来阐明第三个术语的含义。"
+  },
+  {
+   "en": "Could you clarify whether the deadline applies to doctoral students as well?",
+   "zh": "您能否说明这一截止日期是否也适用于博士生？"
+  },
+  {
+   "en": "The diagram was simplified to clarify how the two models interact.",
+   "zh": "该图经过简化，以更清晰地说明两个模型如何相互作用。"
+  }
+ ],
+ "illustrate": [
+  {
+   "en": "Recent data from coastal regions illustrate the wider effects of rising sea levels.",
+   "zh": "来自沿海地区的最新数据说明了海平面上升的更广泛影响。"
+  },
+  {
+   "en": "This case illustrates why early intervention can save considerable resources.",
+   "zh": "这个案例说明了为何及早干预能节省大量资源。"
+  },
+  {
+   "en": "Several graphs illustrate the seasonal variation in electricity demand.",
+   "zh": "几张图表说明了电力需求的季节性变化。"
+  }
+ ],
+ "subtle": [
+  {
+   "en": "There is a subtle difference between the two versions of the manuscript.",
+   "zh": "这份稿件的两个版本之间存在细微的差别。"
+  },
+  {
+   "en": "Her argument rests on a subtle assumption that critics rarely question.",
+   "zh": "她的论点建立在一个批评者很少质疑的微妙假设之上。"
+  },
+  {
+   "en": "The test detected a subtle shift in the sample's chemical composition.",
+   "zh": "该检测发现样品化学成分发生了细微变化。"
+  }
+ ],
+ "pinpoint": [
+  {
+   "en": "Using satellite images, researchers pinpointed the origin of the wildfire.",
+   "zh": "研究人员利用卫星图像准确确定了这场野火的起火点。"
+  },
+  {
+   "en": "The exact moment of the collapse cannot yet be pinpointed.",
+   "zh": "倒塌的确切时刻目前还无法确定。"
+  },
+  {
+   "en": "These figures help pinpoint where the budget was spent inefficiently.",
+   "zh": "这些数据有助于准确找出预算使用效率低下的环节。"
+  }
+ ],
+ "conventional": [
+  {
+   "en": "Conventional farming methods have gradually given way to sustainable alternatives.",
+   "zh": "传统耕作方法逐渐让位于可持续的替代方案。"
+  },
+  {
+   "en": "Her lecture challenged conventional wisdom about early childhood education.",
+   "zh": "她的讲座挑战了关于幼儿教育的传统观念。"
+  },
+  {
+   "en": "The engine uses conventional fuel rather than an electric battery.",
+   "zh": "这台发动机使用常规燃料，而非电动电池。"
+  }
+ ],
+ "salient": [
+  {
+   "en": "The most salient finding was that treatment effects persisted after five years.",
+   "zh": "最显著的发现是治疗效果在五年后依然持续存在。"
+  },
+  {
+   "en": "We highlighted the three salient differences between the two theoretical frameworks.",
+   "zh": "我们突出了两个理论框架之间三处显著的差异。"
+  },
+  {
+   "en": "Photographs provide the most salient evidence for the argument presented.",
+   "zh": "照片为文中提出的论点提供了最显著的证据。"
+  }
+ ],
+ "elusive": [
+  {
+   "en": "The exact cause of the failure proved elusive despite months of investigation.",
+   "zh": "尽管调查了数月，失败的确切原因仍难以查明。"
+  },
+  {
+   "en": "Researchers are searching for a shared definition that has remained elusive.",
+   "zh": "研究人员一直在寻找一个一直难以确定的共同定义。"
+  },
+  {
+   "en": "Good documentation remains elusive in many small research laboratories.",
+   "zh": "在许多小型研究实验室中，良好的文档记录仍然难以获得。"
+  }
+ ],
+ "precise": [
+  {
+   "en": "We cannot draw a precise conclusion without additional longitudinal data.",
+   "zh": "没有额外的纵向数据，我们无法得出精确的结论。"
+  },
+  {
+   "en": "The report gives a precise account of how the error entered the system.",
+   "zh": "该报告精确地叙述了错误是如何进入系统的。"
+  },
+  {
+   "en": "Her precise wording prevented any ambiguity in the final agreement.",
+   "zh": "她精确的措辞使最终协议没有任何歧义。"
+  }
+ ],
+ "hinder": [
+  {
+   "en": "Heavy snow hindered the delivery of medical supplies to remote villages.",
+   "zh": "大雪阻碍了医疗物资向偏远村庄的运送。"
+  },
+  {
+   "en": "Lack of funding hindered the team's ability to conduct field trials.",
+   "zh": "资金不足阻碍了团队开展田间试验的能力。"
+  },
+  {
+   "en": "Poor documentation hinders new members from contributing effectively to the project.",
+   "zh": "糟糕的文档管理使新成员难以有效地为项目做出贡献。"
+  }
+ ],
+ "substantial": [
+  {
+   "en": "The university received a substantial grant for renewable energy research.",
+   "zh": "该大学获得了一笔用于可再生能源研究的大额拨款。"
+  },
+  {
+   "en": "There has been a substantial improvement in the accuracy of the model.",
+   "zh": "该模型的准确度已有显著提高。"
+  },
+  {
+   "en": "The reform would require a substantial restructuring of the national tax system.",
+   "zh": "这项改革需要对国家税收体系进行重大重组。"
+  }
+ ],
+ "genuine": [
+  {
+   "en": "Laboratory tests confirmed that the manuscript contained a genuine medieval seal.",
+   "zh": "实验室检测确认该手稿中包含一枚真正的中世纪印章。"
+  },
+  {
+   "en": "Her concern about student workload appears genuine rather than strategic.",
+   "zh": "她对学生课业负担的担忧似乎是真诚的，而非出于策略。"
+  },
+  {
+   "en": "The interview revealed a genuine interest in public health research.",
+   "zh": "这次访谈显示出受访者对公共卫生研究的真正兴趣。"
+  }
+ ],
+ "initially": [
+  {
+   "en": "The model was initially trained on a small dataset from two hospitals.",
+   "zh": "该模型最初使用来自两家医院的小型数据集进行训练。"
+  },
+  {
+   "en": "Researchers initially expected the experiment to produce clearer results.",
+   "zh": "研究人员最初预期该实验会产生更清晰的结果。"
+  },
+  {
+   "en": "The theory was initially controversial but later widely accepted.",
+   "zh": "这一理论最初颇具争议，但后来得到了广泛认可。"
+  }
+ ],
+ "routine": [
+  {
+   "en": "Morning inspections are a routine part of laboratory safety procedures.",
+   "zh": "晨检是实验室安全流程中例行公事的一部分。"
+  },
+  {
+   "en": "After several months of careful routine maintenance, the instruments performed flawlessly.",
+   "zh": "经过数月的细致日常维护，这些仪器运行得非常稳定。"
+  },
+  {
+   "en": "The committee reviewed the routine budget expenditure for the fiscal year.",
+   "zh": "该委员会审查了本财政年度的常规预算支出。"
+  }
+ ],
+ "essentially": [
+  {
+   "en": "The two proposals are essentially the same in both scope and cost.",
+   "zh": "这两份提案在范围和成本上本质上是相同的。"
+  },
+  {
+   "en": "The vaccine is essentially unchanged from the version approved last year.",
+   "zh": "该疫苗与去年获批的版本基本没有变化。"
+  },
+  {
+   "en": "What began as a local dispute became essentially an international dispute.",
+   "zh": "起初的局部争端最终本质上变成了国际争端。"
+  }
+ ],
+ "claim": [
+  {
+   "en": "The authors claim that their method outperforms all previous approaches.",
+   "zh": "作者声称他们的方法优于此前所有方法。"
+  },
+  {
+   "en": "No credible evidence supports the claim made in the press release.",
+   "zh": "没有可信的证据支持新闻稿中提出的这一说法。"
+  },
+  {
+   "en": "Both parties claim to have been wronged by the regulatory decision.",
+   "zh": "双方都声称自己受到了监管决定的损害。"
+  }
+ ],
+ "thorough": [
+  {
+   "en": "A thorough review of the literature revealed several gaps in current research.",
+   "zh": "对文献的彻底回顾揭示了当前研究中的若干空白。"
+  },
+  {
+   "en": "The patient required a thorough examination before treatment could begin.",
+   "zh": "在治疗开始之前，该患者需要接受全面检查。"
+  },
+  {
+   "en": "Her thorough preparation ensured that every question from the panel was addressed.",
+   "zh": "她充分的准备确保了评审组的每个问题都得到了回应。"
+  }
+ ],
+ "amenable": [
+  {
+   "en": "The raw data proved amenable to standard statistical analysis.",
+   "zh": "原始数据证明适用于标准的统计分析。"
+  },
+  {
+   "en": "Students are generally more amenable to advice from trusted peers.",
+   "zh": "学生通常更愿意接受信任的同龄人的建议。"
+  },
+  {
+   "en": "The question is not amenable to a simple yes or no answer.",
+   "zh": "这个问题不适合用简单的是或不是来回答。"
+  }
+ ],
+ "inherent": [
+  {
+   "en": "Every design contains an inherent trade-off between speed and accuracy.",
+   "zh": "任何设计都包含速度与准确性之间固有的权衡。"
+  },
+  {
+   "en": "The method has an inherent weakness that cannot be removed entirely.",
+   "zh": "该方法存在一种无法完全消除的固有弱点。"
+  },
+  {
+   "en": "There are inherent risks in relying on a single supplier.",
+   "zh": "依赖单一供应商存在固有的风险。"
+  }
+ ],
+ "novelty": [
+  {
+   "en": "The novelty of the device lies in its ability to self-calibrate.",
+   "zh": "该装置的新颖之处在于其自我校准的能力。"
+  },
+  {
+   "en": "Despite its initial novelty, the approach is now widely used.",
+   "zh": "尽管最初很新奇，这种做法如今已得到广泛应用。"
+  },
+  {
+   "en": "The exhibition used light to explore novelty in contemporary industrial design.",
+   "zh": "该展览借助灯光探索当代工业设计中的新意。"
+  }
+ ],
+ "competitive": [
+  {
+   "en": "The company must remain competitive in a rapidly expanding international market.",
+   "zh": "该公司必须在一个迅速扩张的国际市场中保持竞争力。"
+  },
+  {
+   "en": "A competitive examination determines admission to the national academy.",
+   "zh": "一场竞争性考试决定了国家学院的录取结果。"
+  },
+  {
+   "en": "Competitive funding applications are reviewed by an independent panel.",
+   "zh": "竞争性资助申请由独立评审组进行审查。"
+  }
+ ],
+ "dominant": [
+  {
+   "en": "The dominant theory explains the data more successfully than competing proposals.",
+   "zh": "主流理论比竞争性提案更成功地解释了这些数据。"
+  },
+  {
+   "en": "Three firms hold a dominant position in the regional energy market.",
+   "zh": "三家公司占据该区域能源市场的主导地位。"
+  },
+  {
+   "en": "English remains the dominant language of scientific publishing worldwide.",
+   "zh": "英语仍然是全球科学出版界占主导地位的语言。"
+  }
+ ],
+ "additionally": [
+  {
+   "en": "Additionally, the sample size was too small to support firm conclusions.",
+   "zh": "此外，样本量太小，无法支持确凿的结论。"
+  },
+  {
+   "en": "Additionally, the facility must install sensors to monitor structural vibration.",
+   "zh": "此外，该设施必须安装传感器来监测结构振动。"
+  },
+  {
+   "en": "Additionally, the review committee requested access to the raw data.",
+   "zh": "另外，评审委员会要求查阅原始数据。"
+  }
+ ],
+ "consequently": [
+  {
+   "en": "The funding was withdrawn; consequently, the entire project was suspended.",
+   "zh": "经费被撤销；因此，整个项目被暂停。"
+  },
+  {
+   "en": "Rainfall dropped sharply and consequently the reservoir level fell considerably.",
+   "zh": "降雨量急剧下降，因此水库水位明显降低。"
+  },
+  {
+   "en": "The evidence was inconclusive and consequently no decision could be justified.",
+   "zh": "证据不充分，因此无法为任何决定提供正当理由。"
+  }
+ ],
+ "likewise": [
+  {
+   "en": "Other laboratories have likewise reported similar results in recent trials.",
+   "zh": "其他实验室最近也报告了类似的结果。"
+  },
+  {
+   "en": "The second hypothesis implies, likewise, a measurable change in behavior.",
+   "zh": "第二个假设同样意味着行为上可测量的变化。"
+  },
+  {
+   "en": "Students who prepare regularly tend, likewise, to perform better in examinations.",
+   "zh": "经常做准备的学生同样往往在考试中表现更好。"
+  }
+ ],
+ "prohibit": [
+  {
+   "en": "The regulations prohibit the use of unlabeled chemicals in teaching laboratories.",
+   "zh": "规定禁止在教学实验室中使用未贴标签的化学品。"
+  },
+  {
+   "en": "Strict copyright law prohibits reproducing the article without written permission.",
+   "zh": "严格的版权法禁止在未经书面许可的情况下复制该文章。"
+  },
+  {
+   "en": "The court prohibited the company from selling products manufactured abroad.",
+   "zh": "法院禁止该公司销售在海外生产的产品。"
+  }
+ ],
+ "prerequisite": [
+  {
+   "en": "Completion of the introductory course is a prerequisite for advanced study.",
+   "zh": "完成入门课程是进行高阶学习的先决条件。"
+  },
+  {
+   "en": "Sound ethical judgment is an essential prerequisite of academic leadership.",
+   "zh": "健全的伦理判断是学术领导力的必要前提。"
+  },
+  {
+   "en": "Applicants must list every prerequisite they have already satisfied.",
+   "zh": "申请人必须列出他们已经满足的所有先决条件。"
+  }
+ ],
+ "noteworthy": [
+  {
+   "en": "It is noteworthy that the two groups produced nearly identical results.",
+   "zh": "值得注意的是，两组实验得出了几乎相同的结果。"
+  },
+  {
+   "en": "One noteworthy feature of the design is its unusually low energy consumption.",
+   "zh": "该设计一个值得注意的特点是能耗异常之低。"
+  },
+  {
+   "en": "The most noteworthy finding concerns the decline in infant mortality.",
+   "zh": "最值得注意的发现与婴儿死亡率的下降有关。"
+  }
+ ],
+ "analogous": [
+  {
+   "en": "The situation in coastal towns is analogous to that in drought regions.",
+   "zh": "沿海城镇的情况与干旱地区的情况类似。"
+  },
+  {
+   "en": "The researchers drew an analogous conclusion from a separate set of data.",
+   "zh": "研究人员从另一组数据中得出了类似的结论。"
+  },
+  {
+   "en": "His argument follows a pattern analogous to one used in economic theory.",
+   "zh": "他的论证采用了与经济理论中某种做法相似的模式。"
+  }
+ ],
+ "compensate": [
+  {
+   "en": "Higher yields compensated for the drop in the price of exports.",
+   "zh": "更高的产量弥补了出口价格下跌造成的损失。"
+  },
+  {
+   "en": "The hospital compensated patients who had received unnecessary treatment.",
+   "zh": "该医院对接受了不必要治疗的患者作出了赔偿。"
+  },
+  {
+   "en": "Extra staff were hired to compensate for the increased workload during summer.",
+   "zh": "公司额外雇用了员工，以弥补夏季增加的工作量。"
+  }
+ ],
+ "trigger": [
+  {
+   "en": "The decision to raise interest rates triggered a sharp fall in share prices.",
+   "zh": "加息的决定触发了股价的急剧下跌。"
+  },
+  {
+   "en": "Dust and smoke can trigger severe asthma attacks in vulnerable patients.",
+   "zh": "灰尘和烟雾可能诱发敏感患者严重的哮喘发作。"
+  },
+  {
+   "en": "Researchers are studying what triggered the sudden collapse of the colony.",
+   "zh": "研究人员正在研究究竟是什么触发了该菌落的突然崩溃。"
+  }
+ ],
+ "compelling": [
+  {
+   "en": "The authors present a compelling argument for reforming the funding system.",
+   "zh": "作者提出了一个关于改革资助体系的有力论据。"
+  },
+  {
+   "en": "The evidence for the treatment is compelling, though further trials are needed.",
+   "zh": "支持该疗法的证据很有说服力，但仍需进一步的试验。"
+  },
+  {
+   "en": "The documentary offers a compelling portrait of life in the fishing village.",
+   "zh": "这部纪录片以动人的笔触描绘了渔村的生活。"
+  }
+ ],
+ "compose": [
+  {
+   "en": "The committee is composed of twelve members from four institutions.",
+   "zh": "该委员会由来自四个机构的 12 名成员组成。"
+  },
+  {
+   "en": "She composed herself before entering the negotiation room.",
+   "zh": "她在进入谈判室之前让自己镇定下来。"
+  },
+  {
+   "en": "Water and dissolved minerals compose the bulk of plant sap.",
+   "zh": "水和溶解于其中的矿物质构成了植物汁液的主要成分。"
+  }
+ ],
+ "resemble": [
+  {
+   "en": "The findings of the second trial resemble those of the first.",
+   "zh": "第二次试验的结果与第一次相似。"
+  },
+  {
+   "en": "Its structure closely resembles that of a nineteenth-century cathedral.",
+   "zh": "其结构与一座 19 世纪的大教堂非常相似。"
+  },
+  {
+   "en": "The synthetic material resembles natural bone in density and strength.",
+   "zh": "这种合成材料在密度和强度上与天然骨骼相似。"
+  }
+ ],
+ "paradox": [
+  {
+   "en": "It is a paradox that greater efficiency sometimes produces more waste.",
+   "zh": "效率提高有时反而带来更多浪费，这是一种悖论。"
+  },
+  {
+   "en": "The apparent paradox disappears once the longer time horizon is considered.",
+   "zh": "一旦考虑到更长的时间跨度，这个表面的悖论就消失了。"
+  },
+  {
+   "en": "Her essay explores the paradox of rapid growth and rising inequality.",
+   "zh": "她的文章探讨了快速增长与不平等加剧之间的悖论。"
+  }
+ ]
+}

@@ -1,0 +1,67 @@
+{
+ "historically": [
+  {"en": "Historically, the discipline has been dominated by a small number of research groups.", "zh": "从历史角度看，该学科长期由少数几个研究小组主导。"},
+  {"en": "The manuscript situates the reform historically, tracing its roots to earlier administrative practice.", "zh": "该手稿从历史维度为这场改革定位，追溯其早期行政实践的根源。"},
+  {"en": "Such patterns have historically recurred whenever fiscal pressure weakened local oversight capacity.", "zh": "每当财政压力削弱地方监督能力时，此类现象在历史上都会反复出现。"}
+ ],
+ "critically": [
+  {"en": "The review critically assesses the assumptions underlying the dominant theoretical framework.", "zh": "该述评批判性地审视了主流理论框架背后的基本假设。"},
+  {"en": "The housing subsidy is critically important for low-income households in rural districts.", "zh": "住房补贴对农村地区的低收入家庭而言至关重要。"},
+  {"en": "Data drawn from self-reported diaries should be interpreted critically because of systematic bias.", "zh": "源自自我报告日记的数据存在系统性偏差，因而应加以审慎解读。"}
+ ],
+ "mathematically": [
+  {"en": "The result can be proved mathematically, although its interpretation remains philosophically contested.", "zh": "该结论可在数学上得到证明，尽管其解释在学理上仍存争议。"},
+  {"en": "Mathematically, the growth rate equals the sum of the component rates over the same period.", "zh": "在数学上，增长率等于同一时期各分项增长率之和。"},
+  {"en": "It is mathematically possible to model the diffusion process as a simple random walk.", "zh": "在数学上，扩散过程可被建模为简单的随机游走。"}
+ ],
+ "logically": [
+  {"en": "The two sections of the report logically follow from the assumptions stated in the introduction.", "zh": "报告的两个部分在逻辑上均由导言中所述假设推出。"},
+  {"en": "A logically consistent argument must address every premise on which its conclusion depends.", "zh": "逻辑自洽的论证必须回应其结论所依赖的每一项前提。"},
+  {"en": "Such a policy is logically inconsistent with the stated objective of reducing regional inequality.", "zh": "此类政策与缩小地区差距的既定目标在逻辑上并不一致。"}
+ ],
+ "culturally": [
+  {"en": "The findings are culturally specific and cannot be generalized without further comparative evidence.", "zh": "这些发现具有文化特异性，若无进一步比较证据则无法推广。"},
+  {"en": "Culturally, the community regarded the festival as a marker of collective identity.", "zh": "从文化上看，该社群将该节庆视为集体身份的标志。"},
+  {"en": "Such practices remain culturally significant even after their economic function has disappeared.", "zh": "即便其经济功能已经消失，此类实践仍然具有重要的文化意义。"}
+ ],
+ "previously": [
+  {"en": "Previously unpublished correspondence substantially revises the accepted chronology of the reform.", "zh": "此前未公开的往来书信实质上修正了人们所接受的改革时间顺序。"},
+  {"en": "The institute previously employed a larger staff before the budget was restructured.", "zh": "在预算重组之前，该研究所的雇员规模更大。"},
+  {"en": "Estimates previously reported for the northern provinces have since been revised downward.", "zh": "先前报告的北部省份估计数值此后已被下调。"}
+ ],
+ "immediately": [
+  {"en": "The committee immediately suspended the license pending an independent review of the records.", "zh": "委员会立即暂停了该项许可，等待对档案进行独立审查。"},
+  {"en": "Such reminders immediately reduce the incidence of duplicate submissions in online forms.", "zh": "此类提示可立即减少在线表单中重复提交的情形。"},
+  {"en": "The amendment immediately altered the eligibility criteria for admission to the program.", "zh": "修正案立即改变了该项目的入学资格标准。"}
+ ],
+ "already": [
+  {"en": "The preliminary results already suggest a substantial decline in reported infections.", "zh": "初步结果已经显示出所报告的感染人数大幅下降。"},
+  {"en": "Several theoretical objections to the framework have already been articulated in the literature.", "zh": "针对该框架的若干理论异议早已在文献中得到阐述。"},
+  {"en": "The revised edition already incorporates the errata circulated among contributing authors.", "zh": "修订版已经纳入了各撰稿人之间流传的勘误。"}
+ ],
+ "suddenly": [
+  {"en": "The decline in enrollment suddenly reversed after the new admission criteria took effect.", "zh": "在新的录取标准生效之后，入学人数的下降突然逆转。"},
+  {"en": "Publication in a leading journal suddenly raised the visibility of the paper within the field.", "zh": "在权威期刊上发表论文突然提高了该文在本领域的可见度。"},
+  {"en": "The apparent stability of the series suddenly collapsed once the measurement error was corrected.", "zh": "在测量误差得到校正之后，该序列表面的稳定突然崩塌。"}
+ ],
+ "slowly": [
+  {"en": "Structural change in employment tends to occur slowly and becomes visible only in aggregate data.", "zh": "就业结构的变迁往往缓慢发生，只有在汇总数据中才可见。"},
+  {"en": "The sediment record indicates that the lake filled slowly over many centuries.", "zh": "沉积记录表明，该湖是在许多世纪中缓慢淤积而成。"},
+  {"en": "Regulatory agencies slowly adjusted their requirements as the pattern of regional decline became clearer.", "zh": "随着地区衰退的格局日渐清晰，监管机构缓慢地调整了监管要求。"}
+ ],
+ "temporarily": [
+  {"en": "The dataset was temporarily withdrawn while an inconsistency in the coding scheme was corrected.", "zh": "在编码方案的一处不一致得到纠正之前，数据集被暂时撤下。"},
+  {"en": "Hospitals temporarily reduced elective admissions in order to preserve capacity for emergency care.", "zh": "各医院暂时削减了选择性收治，以保留应急救治所需的收治能力。"},
+  {"en": "The reading room was temporarily closed while the damaged catalog was restored.", "zh": "受损的目录得到修复期间，阅览室被暂时关闭。"}
+ ],
+ "indefinitely": [
+  {"en": "The grant was renewed indefinitely, which weakened the incentive to seek alternative sources of support.", "zh": "该资助被无限期地续拨，这削弱了寻求其他支持来源的激励。"},
+  {"en": "Such arrangements cannot be maintained indefinitely without eroding the quality of teaching.", "zh": "若不牺牲教学质量，此类安排不可能无限期维持下去。"},
+  {"en": "The mandate allows the agency to extend the program indefinitely without any parliamentary review.", "zh": "该授权允许该机构无需议会审议即可无限期延长项目期限。"}
+ ],
+ "continuously": [
+  {"en": "The sensors continuously record temperature and salinity throughout the water column.", "zh": "传感器沿整个水柱持续记录温度与盐度。"},
+  {"en": "Continuously rising costs have eroded the competitiveness of the manufacturing sector.", "zh": "成本的持续上升削弱了制造业部门的竞争力。"},
+  {"en": "The model was continuously updated as new observations became available from the monitoring network.", "zh": "随着监测网络提供新的观测数据，该模型被持续更新。"}
+ ]
+}

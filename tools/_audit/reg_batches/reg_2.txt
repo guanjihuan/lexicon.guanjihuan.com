@@ -1,0 +1,670 @@
+issue	名词	问题；议题；争议点；期刊的一期，期号
+knowledge	名词	知识；学识；了解
+level	名词	水平；层次；级别；程度
+limit	名词	限度；限制；界限
+method	名词	方法；办法；条理
+model	名词	模型；模式；典型；模范
+objective	名词	目标；目的；宗旨；客观的（objective assessment 客观评估）
+outcome	名词	结果；成果；结局
+pattern	名词	模式；格局；样式；范例
+phase	名词	阶段；期；局面；相位
+principle	名词	原则；原理；准则；定律
+problem	名词	问题；难题；习题
+purpose	名词	目的；意图；用途
+quality	名词	质量；品质；特性；性能
+range	名词	范围；幅度；区间；系列；山脉（mountain range）
+rate	名词	比率；比例；速度；费率；等级
+reason	名词	原因；理由；理性
+requirement	名词	要求；需求；必要条件
+research	名词	研究；调查；研究工作
+result	名词	结果；成果；结论
+role	名词	作用；角色；地位；职能
+rule	名词	规则；规章；规律；统治
+section	名词	部分；章节；部门；区域
+source	名词	来源；出处；源头；原始资料
+standard	名词	标准；水平；准则；规格
+step	名词	步骤；阶段；步；措施
+strategy	名词	策略；战略；谋略
+structure	名词	结构；构造；组织；体系（organizational structure 组织结构）
+technique	名词	技术；技巧；手法；工艺
+term	名词	术语；词；条款；期限（terms of reference 职权范围）
+theory	名词	理论；学说；看法；原理
+value	名词	价值；重要性；数值；价值观
+variable	名词	变量；可变因素；变量项
+abstract	形容词	抽象的；纯理论的；摘要（名词用法）
+accurate	形容词	准确的；精确的；正确无误的
+additional	形容词	附加的；额外的；补充的
+alternative	形容词	可供选择的；替代的；（作名词时：an alternative to… 替代方案）
+appropriate	形容词	适当的；恰当的；合适的
+available	形容词	可获得的；可用的；有空的
+basic	形容词	基本的；基础的；初步的
+central	形容词	中心的；核心的；主要的
+common	形容词	常见的；普遍的；共同的
+complex	形容词	复杂的；难懂的；复合的
+correct	形容词	正确的；恰当的；改正，纠正（动词用法；correct a mistake 改正错误）
+current	形容词	当前的；现行的；最新的
+detailed	形容词	详尽的；细致的；详细的
+difficult	形容词	困难的；难对付的；费力的
+effective	形容词	有效的；生效的；有影响的
+efficient	形容词	高效的；效率高的；有能力的
+essential	形容词	必要的；本质的；必需的
+exact	形容词	精确的；确切的；严谨的
+existing	形容词	现有的；既存的；已存在的
+explicit	形容词	明确的；清楚的；直言的
+familiar	形容词	熟悉的；常见的；通晓的
+final	形容词	最终的；最后的；不可更改的
+general	形容词	一般的；普遍的；总体的
+important	形容词	重要的；重大的；有影响的
+independent	形容词	独立的；自主的；单独的
+initial	形容词	最初的；开始的；首字母的
+key	形容词	关键的；最主要的
+large	形容词	大的；大量的；广大的
+likely	形容词	可能的；大概的
+main	形容词	主要的；最重要的；总部的
+major	形容词	主要的；重大的；首要的；主修的；主修，专修（动词用法；major in 主修）
+modern	形容词	现代的；新式的；时髦的
+natural	形容词	自然的；天然的；正常的；固有的
+necessary	形容词	必要的；必需的；必然的
+normal	形容词	正常的；普通的；标准的
+obvious	形容词	明显的；显而易见的；明白易懂的
+particular	形容词	特定的；特别的；讲究的；挑剔的
+permanent	形容词	永久的；长期的；固定的
+potential	形容词	潜在的；可能的；潜在的事物（名词用法）
+practical	形容词	实际的；实用的；可行的
+previous	形容词	先前的；以往的；上一个的
+primary	形容词	主要的；初级的；首要的
+principal	形容词	主要的；首要的；首席的；主体的
+probable	形容词	大概的；很可能发生的；可能的
+professional	形容词	专业的；职业的；内行的
+rapid	形容词	快速的；迅速的；急促的
+reasonable	形容词	合理的；讲道理的；公道的
+recent	形容词	最近的；近来的；新近的
+relevant	形容词	相关的；切题的；有价值的
+reliable	形容词	可靠的；可信赖的
+safe	形容词	安全的；可靠的；稳妥的
+scarce	形容词	稀少的；缺乏的；不足的
+sensitive	形容词	敏感的；灵敏的；易受影响的
+severe	形容词	严重的；严厉的；剧烈的
+significant	形容词	显著的；重要的；有意义的
+similar	形容词	相似的；类似的；同样的
+simple	形容词	简单的；朴素的；单一的
+specific	形容词	具体的；特定的；明确的；专门的
+stable	形容词	稳定的；稳固的；不波动的
+strict	形容词	严格的；严厉的；严谨的
+strong	形容词	强烈的；坚固的；有力的；浓的
+sufficient	形容词	足够的；充分的
+suitable	形容词	合适的；适宜的；相称的
+technical	形容词	技术的；专业的；技术性的
+theoretical	形容词	理论的；理论上的；假设的
+traditional	形容词	传统的；惯例的；守旧的
+typical	形容词	典型的；有代表性的；一贯的
+universal	形容词	普遍的；通用的；普适的；包罗万象的
+useful	形容词	有用的；有益的；有帮助的
+usual	形容词	通常的；平常的；一贯的
+valid	形容词	有效的；正当的；确凿的
+valuable	形容词	有价值的；贵重的；宝贵的
+various	形容词	各种各样的；不同的；多方面的
+wide	形容词	广泛的；宽广的；大量的
+wrong	形容词	错误的；不适当的；不对的；出毛病；有故障（something is wrong with …）
+actually	副词	实际上；真的；竟然
+apparently	副词	显然；据说；看来
+approximately	副词	大约；近似地；约
+basically	副词	基本上；大体上；根本地
+clearly	副词	清楚地；明显地；显然
+closely	副词	紧密地；密切地；仔细地
+considerably	副词	相当大地；显著地；可观地
+consistently	副词	一贯地；始终如一地
+constantly	副词	不断地；持续地；经常地
+currently	副词	目前；当前；现阶段
+deliberately	副词	故意地；蓄意地；深思熟虑地
+effectively	副词	有效地；实际上；事实上
+eventually	副词	最终；终于；到最后
+exactly	副词	确切地；正是；完全
+frequently	副词	经常；频繁地；屡次
+generally	副词	一般地；通常；普遍地；大体上
+greatly	副词	极大地；大大地；非常
+increasingly	副词	越来越多地；日益地；逐渐地
+mainly	副词	主要地；大体上；大部分
+mostly	副词	主要地；多半；通常；大部分
+normally	副词	通常；正常情况下；一般
+obviously	副词	明显地；显然；毫无疑问地
+particularly	副词	尤其；特别是；格外
+probably	副词	很可能；大概；多半；说不定
+quickly	副词	迅速地；很快地；敏捷地
+rarely	副词	很少；难得；不常
+recently	副词	最近；近来；不久前
+regularly	副词	定期地；经常地；有规律地
+relatively	副词	相对地；比较地
+reportedly	副词	据报道；据说
+sharply	副词	急剧地；清晰地；严厉地
+simply	副词	简单地；仅仅；只是；简直
+somewhat	副词	有点；稍微；略微
+specifically	副词	具体地；明确地；特别地
+steadily	副词	稳步地；持续地；逐渐地
+subsequently	副词	随后；后来；之后
+surely	副词	当然；无疑；肯定；想必
+therefore	副词	因此；所以；因而
+thus	副词	因此；从而；这样；如此
+typically	副词	典型地；通常；一般地；一贯地
+widely	副词	广泛地；普遍地；到处；广为人知地
+although	连词	虽然；尽管（引导让步状语从句）
+because	连词	因为；由于（引导原因状语从句）
+besides	副词	而且；此外；除…之外（介词用法）
+but	连词	但是；然而；不过
+however	副词	然而；不过；可是；无论多么，不管怎样（后接形容词或副词）
+moreover	副词	而且；此外；再者
+so	副词	因此；所以
+though	连词	虽然；尽管；不过
+whether	连词	是否；不管；无论（whether or not）
+while	连词	当…时；然而；虽然；尽管
+yet	副词	然而；不过；还；仍然
+since	连词	自从；既然；因为；由于
+integrate	动词	整合；使一体化；融入
+isolate	动词	隔离；分离；单独考察（变量）
+formulate	动词	制定；构想；系统阐述（理论、假设）
+derive	动词	得出；源于；推导
+exhibit	动词	展示；表现出；展出
+allocate	动词	分配；拨给；配置（资源）
+aggregate	动词	汇总；聚集；合计；总量（名词用法；in aggregate 总体而言）
+simulate	动词	模拟；仿真
+synthesize	动词	综合；归纳；综合概括；合成
+differentiate	动词	区分；辨别；使有别于
+correlate	动词	相关联；相互关联；求相关（correlate A with B）
+refine	动词	改进；提炼；使更精确
+regulate	动词	调节；调控；管理；规范
+retrieve	动词	检索；取回；重新获得
+visualize	动词	使可视化；形象化；直观呈现
+elaborate	动词	详述；阐述；详细说明
+hypothesize	动词	假设；假定；提出假设
+conceptualize	动词	概念化；构想；形成概念
+streamline	动词	精简；使高效；简化流程
+prioritize	动词	优先处理；确定优先次序
+attain	动词	达到；获得（目标、水平）
+ascertain	动词	查明；确定；弄清
+comprehend	动词	理解；领会；把握
+underscore	动词	强调；突出；着重说明
+foster	动词	促进；培养；营造（氛围）
+rationale	名词	基本原理；理论依据；理由
+indicator	名词	指标；指示物；信号
+taxonomy	名词	分类法；分类体系；类目
+corpus	名词	语料库；语料；文库；汇编
+discrepancy	名词	差异；不一致；出入
+trade-off	名词	权衡；取舍；权衡利弊
+robustness	名词	稳健性；鲁棒性；抗干扰能力
+bias	名词	偏差；偏见；系统性偏差
+variance	名词	方差；差异性；变异
+threshold	名词	阈值；临界值；门槛
+pipeline	名词	流程；管线；工序
+workflow	名词	工作流；业务流程
+stakeholder	名词	利益相关者；相关方
+compliance	名词	遵守；合规；遵从
+legislation	名词	立法；法规；法律条文
+governance	名词	治理；管理方式；治理结构
+accountability	名词	问责；责任制；可追责性
+transparency	名词	透明度；公开性；透明化
+sustainability	名词	可持续性；可维持性
+resilience	名词	韧性；恢复力；适应力
+infrastructure	名词	基础设施；基础架构
+ecosystem	名词	生态系统；生态
+literacy	名词	素养；读写能力；专业素养
+coherence	名词	连贯性；一致性；协调性
+distinction	名词	区别；区分；差异
+magnitude	名词	重要性；量级；规模
+dimension	名词	维度；方面；尺度
+mechanism	名词	机制；原理；作用机理；（设备的）机构；机械装置（gear mechanism 齿轮机构）
+methodology	名词	方法论；研究方法；研究设计
+synthesis	名词	综合；综合产物；综合论述；合成（化学义）
+nuance	名词	细微差别；微妙之处
+precedent	名词	先例；判例；范例
+notation	名词	记号；符号体系；标记法
+abstraction	名词	抽象；抽象概念；提炼、抽取（动作义）
+granularity	名词	粒度；精细程度；具体程度
+attribution	名词	归因；归属；责任归属（attribution of blame）
+correlation	名词	相关性；关联；相关分析
+deviation	名词	偏差；偏离；离差
+calibration	名词	校准；标定（calibration curve 校准曲线）
+feasibility	名词	可行性；可行性研究
+resolution	名词	分辨率；解决；决议；决心
+comprehension	名词	理解力；领会；理解
+traceability	名词	可追溯性；溯源能力
+authenticity	名词	真实性；可靠性；原真性
+integrity	名词	完整性；诚信；正直
+provenance	名词	来源；出处；来源信息
+redundancy	名词	冗余；多余；备用；备用装置（备份义）
+throughput	名词	吞吐量；处理能力
+perception	名词	感知；看法；认识
+robust	形容词	稳健的；鲁棒的；强健的
+coherent	形容词	连贯的；一致的；协调的
+comprehensive	形容词	全面的；综合的；完备的
+implicit	形容词	含蓄的；隐含的；不言明的
+novel	形容词	新颖的；全新的；前所未有的
+conclusive	形容词	决定性的；结论性的；确凿的
+arbitrary	形容词	任意的；武断的；任性的
+heterogeneous	形容词	异质的；不均质的；混杂的
+homogeneous	形容词	同质的；均质的；同种的（生物学义）
+optimal	形容词	最优的；最佳的；最适宜的
+partial	形容词	部分的；不完整的；局部的
+systematic	形容词	系统的；系统化的；有条理的
+transparent	形容词	透明的；清晰明了的；公开的
+holistic	形容词	整体的；全局的；全面的
+interdisciplinary	形容词	跨学科的；多学科交叉的
+nuanced	形容词	细致入微的；有细微差别的；分寸得当的
+quantitative	形容词	定量的；数量上的
+methodological	形容词	方法论的；方法上的
+sustainable	形容词	可持续的；可长期维持的
+cohesive	形容词	有凝聚力的；紧密结合的
+discrete	形容词	离散的；独立的；分离的
+succinct	形容词	简洁的；简明的；言简意赅的
+substantive	形容词	实质性的；实质的；有实际内容的
+tangible	形容词	有形的；确实的；可感知的
+transient	形容词	短暂的；转瞬即逝的；暂时的
+sequential	形容词	顺序的；连续的；次序的
+overarching	形容词	统摄的；总括的；根本的
+pervasive	形容词	普遍的；弥漫的；渗透性的
+profound	形容词	深刻的；深远的；意义重大的
+thereby	副词	从而；因此；借此
+respectively	副词	分别地；各自地
+similarly	副词	同样地；类似地；相似地
+meanwhile	副词	与此同时；其间
+arguably	副词	可以说；有理由认为；或许
+presumably	副词	推测起来；大概；很可能
+predominantly	副词	主要地；大体上；以…为主
+simultaneously	副词	同时地；同步地
+markedly	副词	明显地；显著地；清楚地
+jointly	副词	共同地；联合地；协同地
+mutually	副词	相互地；彼此；互相地
+collectively	副词	集体地；总体上；作为整体
+uniformly	副词	均匀地；一致地；一律地
+by contrast	副词	相比之下；与此形成对照
+in contrast	副词	与…形成对比；相反
+in addition	副词	此外；而且；in addition to 除…之外（后接名词/动名词）
+hence	副词	因此；所以；由此
+given that	连词	鉴于；考虑到；假定；假设
+even if	连词	即使；即便
+even though	连词	尽管；虽然
+so that	连词	以便；使得；结果是
+as long as	连词	只要；以…为条件
+rather than		而不是；与其…不如
+investigate	动词	调查；研究；查明
+justify	动词	为…提供理由；证明…正当
+maximize	动词	使最大化；增至最大
+minimize	动词	使最小化；尽量减少
+modify	动词	修改；调整；修饰
+monitor	动词	监测；监控；持续跟踪
+optimize	动词	优化；使达到最优
+presume	动词	推定；推测；假定
+promote	动词	促进；推动；倡导
+propose	动词	提出；提议；建议
+refute	动词	驳斥；反驳；证明…有误
+substantiate	动词	证实；用证据支持
+undermine	动词	削弱；损害（论点、信心）
+utilize	动词	利用；使用
+gauge	动词	评估；衡量；判断
+harness	动词	利用；驾驭；调动（资源）
+deploy	动词	部署；调动；运用（方法、资源）
+eliminate	动词	排除；消除；淘汰
+embody	动词	体现；具体表现；包含
+endorse	动词	赞同；支持；认可
+augment	动词	增强；增加；补充
+impede	动词	阻碍；妨碍
+juxtapose	动词	并置；对照比较
+rectify	动词	纠正；改正；修正
+temper	动词	缓和；调节；使适中
+transcend	动词	超越；胜过
+warrant	动词	使…有正当理由；使…有必要
+probe	动词	探查；探测；调查研究
+offset	动词	抵消；补偿；与…相抵
+mean	动词	意味着；表示；平均（为）
+generalize	动词	概括；归纳；推广
+paraphrase	动词	改述；转述（用自己的话）
+quote	动词	引用；引述；援引；（给…）报价
+caveat	名词	警告；提醒；限定条件
+confound	动词	混淆；使困惑；使（两个因素）混杂，无法区分；混杂因素（作名词时）
+dataset	名词	数据集；资料集
+disparity	名词	差异；悬殊；不平等
+discourse	名词	话语；论述；语篇
+distribution	名词	分布；分配；散布
+diversity	名词	多样性；差异
+endpoint	名词	终点；端点
+error	名词	误差；错误
+evaluation	名词	评价；评估；估价
+fidelity	名词	保真度；忠实度
+finding	名词	发现；研究结果；发现物
+gap	名词	差距；缺口；研究空白
+gradient	名词	梯度；变化率；陡度
+heterogeneity	名词	异质性；差异性；不均一
+incidence	名词	发生率；影响范围
+inference	名词	推论；结论；推断（过程）
+intervention	名词	干预；介入；干预措施
+justification	名词	理由；正当性依据
+limitation	名词	局限；限制；限制条件
+literature	名词	文献；研究资料
+margin	名词	余地；差额；边际；误差幅度（margin of error）
+narrative	名词	叙述；叙事；说明
+outlier	名词	离群值；异常值
+oversight	名词	监管；监督；疏忽
+phenomenon	名词	现象
+prevalence	名词	普遍程度；流行率；患病率
+proportion	名词	比例；部分；占比
+proxy	名词	代理指标；替代变量
+regression	名词	回归；倒退；退步
+reliability	名词	可靠性；信度
+reproducibility	名词	可复现性；可重复性
+retrospective	形容词	回顾的；回溯性的
+sample	名词	样本；样品；抽样
+saturation	名词	饱和；饱和度；饱和点（point of saturation）
+sensitivity	名词	敏感性；灵敏度
+specificity	名词	特异性；专一性；确切性
+spectrum	名词	光谱；范围；谱系
+statistic	名词	统计量；统计数据
+tension	名词	张力；紧张关系；矛盾
+theorem	名词	定理；命题
+uncertainty	名词	不确定性；（程度上的）不确定；不确定度，不确定量（数学义）
+verification	名词	验证；核实；证实
+boundary	名词	边界；界限；范围
+baseline	名词	基线；基准值
+consistency	名词	一致性；连贯性
+precision	名词	精确性；精度
+population	名词	总体；人口；种群
+coverage	名词	覆盖率；涵盖范围
+replication	名词	重复；复制；复现
+retention	名词	保持；保留；留存率
+significance	名词	显著性；重要性；意义
+probability	名词	概率；可能性
+publication	名词	出版；发表；出版物
+insight	名词	洞察；见解；领悟
+formulation	名词	表述；构想；系统阐述；制定（policy formulation 政策制定）
+contradiction	名词	矛盾；相反的说法
+comparison	名词	比较；对比
+dependence	名词	依赖；相关性
+causation	名词	因果关系；因果作用
+estimation	名词	估计；估算；估计值
+prediction	名词	预测；预报
+citation	名词	引用；引文；引注（出处标注）；嘉奖，表彰（正式用语）
+introduction	名词	引言；导论；介绍；引进，采用（the introduction of a policy 一项政策的引入）
+summary	名词	摘要；总结；概要
+background	名词	背景；研究背景
+instrument	名词	工具；测量工具；问卷（survey 义）
+respondent	名词	受访者；应答者
+participant	名词	参与者；研究对象
+survey	名词	调查；调查研究
+questionnaire	名词	问卷；调查表
+cohort	名词	队列；同期群；一批人
+treatment	名词	处理；对待；实验处理
+iteration	名词	迭代；反复；版本
+proposition	名词	命题；主张；提议
+constituent	名词	组成部分；成分
+periphery	名词	边缘；外围；次要地位
+elasticity	名词	弹性；适应性
+workload	名词	工作量；负荷
+applicable	形容词	适用的；可应用的；切合实际的
+deterministic	形容词	确定性的；可确定的；无随机性的
+fundamental	形容词	基本的；根本的；首要的
+meaningful	形容词	有意义的；意味深长的
+multidimensional	形容词	多维的；多方面的
+operational	形容词	操作性的；可供操作的；运营的；实际的；运行有效的
+systemic	形容词	系统的；系统性的（影响）
+unified	形容词	统一的；一致的
+random	形容词	随机的；任意的
+experimental	形容词	实验的；试验性的
+comparable	形容词	可比较的；类似的
+respective	形容词	各自的；分别的
+ancillary	形容词	辅助的；附属的；次要的
+observational	形容词	观察性的；观测的（observational studies 观察性研究）；观察的，观察力的（observational skills）
+cross-sectional	形容词	横截面的；截面调查的
+dependent	形容词	依赖的；取决于…的；受…制约的
+correspondingly	副词	相应地；对应地
+empirically	副词	实证地；从实证角度看
+implicitly	副词	含蓄地；隐含地；不言而喻地
+principally	副词	主要地；大体上
+quantitatively	副词	定量地；数量上
+qualitatively	副词	定性地；性质上
+retrospectively	副词	回顾地；事后看来
+significantly	副词	显著地；重要地
+tentatively	副词	暂时地；试探性地；暂定地
+largely	副词	在很大程度上；主要地
+precisely	副词	精确地；正是如此
+rapidly	副词	迅速地；急速地
+comparatively	副词	比较而言；相对地
+for example	副词	例如；比如
+for instance	副词	例如；比如
+in general	副词	一般来说；通常
+in fact	副词	事实上；其实
+in particular	副词	尤其；特别是
+in terms of		就…而言；从…方面看
+with respect to		关于；就…而言
+compared with		与…相比
+versus		与…相对；与…相比；对…
+despite		尽管；不管
+until	连词	直到；在…之前
+on the other hand	副词	另一方面；相反
+in other words	副词	换句话说；也就是说
+as a result	副词	因此；从而；as a result of 由于…的结果
+in conclusion	副词	总之；综上所述
+in short	副词	简言之；总之
+to sum up	副词	总而言之；概括来说
+that is	副词	也就是说；换句话说
+correspond	动词	符合；与…一致；相符
+comply	动词	遵从；服从；符合（要求、标准）
+establish	动词	建立；确立；证实
+facilitate	动词	促进；使便利；使…变得容易
+note	动词	指出；注意到；表明
+present	动词	提出；呈现；举出（证据、观点）
+record	动词	记录；记载
+seek	动词	寻求；寻找；试图
+show	动词	表明；显示；证明
+tend	动词	倾向于；往往会
+view	名词	观点；看法；见解（point of view 观点；view X as Y 把…视为）
+concern	名词	关切；关注；所涉及的问题（concerning 关乎；be concerned about 关切）；使担忧，使担心（作动词；Rising sea levels concern coastal planners 海平面上升令沿海规划者担忧）
+enable	动词	使能够；使可能；使成为可能
+lack	动词	缺乏；缺少
+aim	名词	目标；目的；宗旨
+case	名词	情况；案例；情形
+point	名词	要点；论点；观点；道理，益处（there is some point in… 有…的道理）
+type	名词	类型；种类；类别
+field	名词	领域；学科
+degree	名词	程度；水平；学位
+imply	动词	暗示；意味着；表明（the data imply that 数据显示…）
+posit	动词	假定；主张（posit a hypothesis 提出假设）
+converge	动词	趋同；汇聚；一致（findings converge 结论趋同）
+contextualize	动词	置于语境中；结合背景（contextualize findings 语境化解读）
+normalize	动词	标准化；归一化；使正常
+standardize	动词	使标准化；使统一（standardized test 标准化测验）
+stratify	动词	分层；按层划分（stratified sample 分层样本）
+impute	动词	插补；用估计值填补（missing data imputation 缺失值插补）
+triangulate	动词	三角验证；交叉验证（triangulate findings 三角互证）
+saturate	动词	使饱和；达到饱和（theoretical saturation 理论饱和）
+overestimate	动词	高估；估计过高
+underestimate	动词	低估；估计过低
+enforce	动词	执行；实施；强制推行（enforce a policy 执行政策）
+regress	动词	回归；退行（regression analysis 回归分析）
+control	动词	控制；对…加以控制（control group 对照组）
+verify	动词	核实；证实；查证（verify the results 核实结果）
+operationalize	动词	操作化；把…转化为可测量的指标
+effect	名词	效应；影响；效果（effect size 效应量）
+parameter	名词	参数；参量（model parameter 模型参数）
+anomaly	名词	异常；反常现象（anomalous result 异常结果）
+replicate	动词	复现；重复验证；重复（实验，replicate an experiment）
+document	动词	记录；记载；用文件证明（document the procedure 记录流程）
+attribute	动词	归因于；把…归功于（attribute sth to sb 把…归因于…）
+convention	名词	惯例；规范；学术会议（research convention 研究惯例）
+post hoc	副词	事后；事后地（作状语；post hoc 亦可作定语：post hoc test 事后检验、post hoc analysis 事后分析）
+power	名词	功效；检验力；力量（statistical power 统计功效）
+interpretation	名词	解释；解读；阐释（interpretation of results 结果解读）
+equivalent	形容词	等同的；相同的；相当的；对等物（作名词时）
+imbalance	名词	不平衡；失衡（imbalance in the sample 样本失衡）
+inverse	名词	反面；相反事物；逆（逆数、逆函数）
+span	名词	跨度；范围；期间（time span 时间跨度）
+spread	名词	分布；传播；展开（spread of the phenomenon 现象分布）
+subset	名词	子集；一部分（a subset of respondents 受访者子集）
+skew	名词	偏斜；倾斜（data skew 数据偏斜）
+weight	名词	权重；重量；分量（assign weights 赋予权重）
+algorithm	名词	算法；计算程序
+covariate	名词	协变量；伴随变量
+stratum	名词	层；分层（sampling stratum 抽样层）
+sampling	名词	抽样；采样（sampling strategy 抽样策略）
+recruitment	名词	招募；征集（participant recruitment 参与者招募）
+dropout	名词	脱落；退出（study dropout 研究脱落）
+attrition	名词	流失；损耗（attrition rate 流失率）
+ethics	名词	伦理；道德规范（research ethics 研究伦理）
+anonymity	名词	匿名；匿名性（ensure anonymity 保证匿名）
+interview	名词	访谈；采访（in-depth interview 深度访谈）
+setting	名词	场景；研究情境（institutional setting 机构场景）
+confounding	名词	混杂；混淆（confounding factor 混杂因素）
+mediating	形容词	中介的；起中介作用的（mediating variable 中介变量）
+moderating	形容词	调节的；起调节作用的（moderating effect 调节效应）
+policy	名词	政策；方针（policy implementation 政策执行）
+institutional	形容词	制度的；机构的；体制的（institutional setting 制度情境）
+organizational	形容词	组织的；组织层面的（organizational change 组织变革）
+societal	形容词	社会的；社会层面的（societal change 社会变迁）
+demographic	形容词	人口统计的；人口结构的（demographic change 人口结构变化）；人群，特定群体（作名词时）
+inclusion	名词	纳入；包含；包容
+disproportionate	形容词	不成比例的；失衡的（disproportionate impact 不成比例的影响）
+inferential	形容词	推断的；推论统计的（inferential statistics 推断统计）
+norm	名词	规范；准则（social norm 社会规范）
+solely	副词	仅仅；只是；完全地
+statistically	副词	在统计上；统计意义上（statistically significant 统计显著的）
+analytically	副词	在分析上；分析性地
+conceptually	副词	在概念上；概念性地
+evidently	副词	显然；看来；从…可以看出
+ostensibly	副词	表面上；据称（ostensibly neutral 表面中立）
+seemingly	副词	看似；似乎（seemingly unrelated 看似无关）
+interviewer	名词	访谈者；采访者；问询者（research interviewer 研究访谈者）
+measurement	名词	测量；度量；测量值
+percentage	名词	百分比；百分率
+frequency	名词	频率；频数，次数
+exposure	名词	暴露；接触（exposure to … 接触…）；接触程度
+risk	名词	风险；危险（at risk 处于风险中）
+determinant	名词	决定因素；决定性要素（determinant of … 的决定因素）
+mediator	名词	中介变量；中介因素（mediating variable 中介变量）
+moderator	名词	调节变量（moderating effect 调节效应）
+replicability	名词	可复现性；可重复性（replicability of findings 结果的可复现性）
+generalizability	名词	可推广性；外部效度（generalizability of results 结果的可推广性）
+response	名词	回答；反应；响应（response rate 回应率）
+follow-up	名词	随访；后续研究（follow-up study 随访研究）
+meta-analysis	名词	元分析；荟萃分析
+disaggregate	动词	分解；拆分（disaggregate data 分解数据）
+multicollinearity	名词	多重共线性（回归模型中自变量高度相关）
+efficiency	名词	效率；效能；有效性（allocate resources efficiently 有效配置资源）
+deductive	形容词	演绎的；推论的（deductive reasoning 演绎推理）
+inductive	形容词	归纳的（inductive reasoning 归纳推理）
+contribution	名词	贡献；作用；贡献度（contribution to … 对…的贡献）
+operationalization	名词	操作化；操作定义（operationalization of a concept 概念的操作化）
+confounder	名词	混杂变量；混淆因素
+falsify	动词	证伪；推翻；证明…为假（falsify a hypothesis 证伪一个假设）
+mediation	名词	中介作用；中介效应
+moderation	名词	调节作用；调节效应
+endogeneity	名词	内生性；内生偏差
+propensity	名词	倾向；倾向性（propensity score 倾向得分）
+placebo	名词	安慰剂；安慰剂对照
+blinding	名词	盲法；盲评（single blinding 单盲法）
+allocation	名词	分配；配置（random allocation 随机分配）
+case-control	形容词	病例对照的；对照的（case-control study 病例对照研究）
+effect size	名词	效应量；效果大小
+mixed-method	形容词	混合方法的；混合研究方法的（mixed-methods design 混合方法研究设计）
+cluster	名词	群组；簇；聚类（cluster analysis 聚类分析）
+panel	名词	专家小组；评审组；面板（panel data 面板数据）
+pooled	形容词	合并的；汇总的（pooled estimate 合并估计值）
+prospective	形容词	前瞻性的；预期的（prospective cohort 前瞻性队列）
+pragmatic	形容词	务实的；实用主义的（pragmatic approach 务实的做法）
+reflexivity	名词	自反性；反思性（researcher reflexivity 研究者的自反性）
+positionality	名词	位置性；立场性（researcher positionality 研究者的位置性）
+critique	名词	批评；评论（a critique of a theory 对某一理论的批评）
+normative	形容词	规范的；规范性的；价值判断的（哲学义，normative statements）
+interpretive	形容词	解释性的；诠释的
+adoption	名词	采用；采纳；接受（adoption of a practice 某项做法的采纳）
+uptake	名词	接受度；采纳率；推广应用
+adherence	名词	依从性；遵守；遵循（adherence to protocol 遵循研究方案）
+dissemination	名词	传播；散布；推广（knowledge dissemination 知识传播）
+scalability	名词	可扩展性；可规模化程度
+equity	名词	公平；公正；平等（health equity 健康公平）
+bottleneck	名词	瓶颈；制约环节（bottleneck in the process 流程中的瓶颈）
+alignment	名词	一致性；对齐；协同（strategic alignment 战略协同）
+overlap	名词	重叠；交叠；共同部分（overlap between the two 两者之间的重叠；the two overlap 两者部分重叠）
+milestone	名词	里程碑；阶段性成果（key milestone 关键里程碑）
+blueprint	名词	蓝图；蓝本；范本（policy blueprint 政策蓝图）
+tipping point	名词	临界点；拐点（reach a tipping point 达到临界点）
+explicate	动词	阐明；详细解释
+enumerate	动词	列举；逐项列出；枚举
+discern	动词	辨别；识别；看出
+elicit	动词	引出；诱出；征求（elicit responses 引出回答）
+illuminate	动词	阐明；启发（illuminate the debate 阐明这场争论）
+preclude	动词	排除；阻止（preclude the possibility 排除可能性）
+surmount	动词	克服；越过（surmount obstacles 克服障碍）
+undertake	动词	承担；着手进行（undertake a study 开展研究）
+necessitate	动词	需要；使成为必要
+alleviate	动词	减轻；缓解（alleviate the burden 减轻负担；alleviate pressure 缓解压力）
+deviate	动词	偏离；背离（deviate from 偏离…）
+consolidate	动词	巩固；合并；加强（consolidate findings 巩固结论）
+conceptualization	名词	概念化；概念建构
+quantification	名词	量化；量化分析
+preregistration	名词	预注册（研究方案的预注册）
+disclosure	名词	披露；公开；信息披露
+confidentiality	名词	保密；保密性（confidentiality of data 数据保密）
+plagiarism	名词	剽窃；抄袭
+register	名词	语域；语体（academic register 学术语域）
+genre	名词	体裁；文类
+counterargument	名词	反驳；反论点
+cohesion	名词	连贯；衔接（textual cohesion 语篇衔接）
+wording	名词	措辞；用语（careful wording 谨慎的措辞）
+triangulation	名词	三角互证；三角验证（methodological triangulation 方法学三角互证）
+conceptual	形容词	概念上的（conceptual framework 概念框架）
+multidisciplinary	形容词	多学科的；跨学科的
+thematic	形容词	主题的；主题性的（thematic analysis 主题分析）
+rhetorical	形容词	修辞的；论辩的（rhetorical strategy 修辞策略）
+exploratory	形容词	探索性的；探索的（exploratory study 探索性研究）
+influential	形容词	有影响力的（influential factor 影响因素）
+require	动词	需要；要求；规定（require further investigation 需要进一步研究）
+confirm	动词	证实；确认（confirm the hypothesis 证实假设）
+assert	动词	断言；主张（assert that… 主张…）
+emphasize	动词	强调；着重（emphasize the importance of 强调…的重要性）
+underlie	动词	构成…的基础；是…的根本原因（the assumptions underlying the model 模型背后的假设）
+constrain	动词	限制；约束（be constrained by 受…制约）
+ground	动词	使基于；使立足（be grounded in theory 以理论为依据）
+domain	名词	领域；域（domain knowledge 领域知识）
+shift	名词	转变；变迁（paradigm shift 范式转变；a shift in … 的转变）
+notion	名词	概念；观念（the notion of … 的概念）
+agenda	名词	议程；研究议题（research agenda 研究议程；set the agenda 确立议题）
+causality	名词	因果关系；因果性（establish causality 建立因果联系）
+mortality	名词	死亡率（mortality rate 死亡率；infant mortality 婴儿死亡率）
+credibility	名词	可信度；公信力（credibility of the findings 研究结果的可信度）
+fieldwork	名词	实地调查；田野工作（conduct fieldwork 开展实地调查）
+case study	名词	个案研究；案例研究（a case study of … 的个案研究）
+literature review	名词	文献综述（conduct a literature review 做文献综述）
+grounded theory	名词	扎根理论（质性研究方法，自资料中归纳理论）
+exhaustive	形容词	详尽的；彻底的（an exhaustive review 详尽的综述）
+broad	形容词	宽泛的；广泛的（in a broad sense 广义上）
+verbatim	形容词	逐字的；一字不差的（verbatim transcription 逐字转录）；亦作副词，逐字地
+in light of		鉴于；考虑到（in light of these findings 鉴于这些发现）
+on the basis of		基于；根据（on the basis of the data 基于数据）
+by means of		借助；通过（by means of interviews 通过访谈）
+as such	副词	就其本身而言；因此（严格指「以其身份而言」；论文中常作 therefore 用，但受文体诟病，慎用）
+per se	副词	本身；就其本身而言（the method per se 该方法本身）
+with regard to		关于；就…而言（with regard to X 关于 X）
+inter alia	副词	其中包括；除其他事项外（拉丁语，正式文体，= among other things）
+vice versa	副词	反之亦然（A depends on B and vice versa A 依赖 B，反之亦然）
+acknowledge	动词	承认；认可；对…表示感谢（acknowledge limitations 承认局限）
+assemble	动词	汇集；收集；组装（assemble the evidence 汇集证据）；（人）聚集、集合（不及物；panels assemble 评审组聚集开会）
+assist	动词	帮助；协助（assist sb with/in sth 协助某人做某事）
+associate	动词	联系；联想（be associated with 与…相关）
+communicate	动词	传达；交流；表达（communicate results to readers 向读者传达结果）
+compile	动词	汇编；编制；收集（compile a list 编制清单）
+consume	动词	消耗；耗费（consume considerable time 耗费大量时间）
+cooperate	动词	合作；协作（cooperate with partner institutions 与合作机构协作）
+create	动词	创造；产生；造成（create new knowledge 创造新知识）
+distort	动词	歪曲；曲解；使变形（distort the findings 歪曲结果）
+expand	动词	扩大；扩展；详述（expand on this point 详述这一点）
+participate	动词	参加；参与（participate in the study 参与研究）
+prescribe	动词	开处方；规定；要求（prescribe stricter guidelines 规定更严格的准则）
+secure	动词	获得；争取到；使安全（secure funding 获得资助）
+association	名词	联系；关联；协会
+communication	名词	交流；传达；沟通
+community	名词	社群；界；社区（research community 学术界）
+author	名词	作者；著者（first author 第一作者）
+conference	名词	会议；学术会议（conference paper 会议论文）
+department	名词	系；部门；科室
+economy	名词	经济；经济体系
+emotion	名词	情绪；情感（emotion regulation 情绪调节）
+layer	名词	层；层次；阶层
+output	名词	产出；输出；成果
+project	名词	项目；研究计划

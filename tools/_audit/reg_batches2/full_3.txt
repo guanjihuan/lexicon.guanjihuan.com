@@ -1,0 +1,741 @@
+spontaneously	副词	自发地；自然地；不由自主地
+voluntarily	副词	自愿地；主动地
+intentionally	副词	有意地；故意地；刻意地
+successfully	副词	成功地；圆满地
+beforehand	副词	事先；预先；事前
+afterwards	副词	事后；此后；后来
+once	副词	一次；曾；一旦
+altogether	副词	总共；总的说来；总体上
+certainly	副词	确实；当然；无疑
+definitely	副词	明确地；肯定；确定无疑
+even	副词	甚至；连；更加
+rather	副词	相当；宁愿；宁可
+finally	副词	最后；终于；最终
+broadly	副词	大体上；广泛地；总体而言
+as well	副词	也；同样；此外
+at least	副词	至少；起码
+at most	副词	至多；最多
+on the contrary	副词	恰恰相反；相反地
+above all	副词	首先；最重要的是
+after all	副词	毕竟；归根结底；终究
+if	连词	如果；假如；是否（引导条件状语从句）
+than	连词	比；较之；不同于（用于比较结构）
+as	连词	当…时；如同；像；随着…而；既然
+then	副词	那么；然后；那时
+when	连词	当…时；在…之际
+whenever	连词	每当；无论何时
+wherever	连词	无论哪里；在哪里…就在哪里
+whichever	连词	无论哪个；不管哪一个
+whatever	连词	无论什么；不管什么
+whoever	连词	无论谁；不管是谁
+lest	连词	以免；唯恐（引导目的或让步状语从句）
+nor	连词	也不；也没有（与 neither 连用，两者都不）
+neither	连词	两者都不；也不（与 nor 连用的固定结构）
+as if	连词	好像；仿佛（引导方式状语从句）
+as well as	连词	以及；和…一样；除…之外
+as far as	连词	就…而言；到…程度；据…所知
+no matter	连词	不管；无论
+even so	副词	即便如此；即使这样
+in case	连词	以防；以免（引导目的状语从句）
+now that	连词	既然；现在既然
+as soon as	连词	一…就；刚…就
+in order that	连词	为了；以便（引导目的状语从句）
+supposing	连词	假定；假设；倘若
+assuming	连词	假定；假设
+adopt	动词	采用；采纳；收养
+administer	动词	管理；实施（问卷、考核）；施行
+advise	动词	建议；劝告；通报
+affiliate	动词	附属；隶属；使归属（机构）
+anticipate	动词	预期；预料；先于…发生
+authenticate	动词	认证；验证真伪；鉴别
+capture	动词	捕捉；捕获；夺得；记录下
+classify	动词	分类；归类；分级
+conceive	动词	构思；设想；构想
+concur	动词	同意；一致；同时发生
+conform	动词	符合；遵从；顺应
+consist	动词	由…组成；在于；构成（consist of / consist in）
+convey	动词	传达；运送；表达（意义、情感）
+cultivate	动词	培养；养成；耕作
+dedicate	动词	致力于；献给；专用于
+depict	动词	描绘；描述；刻画
+displace	动词	取代；迫使离开原位；挤出
+emerge	动词	出现；显露；浮现；兴起
+intensify	动词	加强；加剧；增强
+incur	动词	招致；承受（损失、费用）；蒙受
+portray	动词	描绘；刻画；表现（角色、形象）
+stipulate	动词	规定；明确要求（条款、条件）
+stress	动词	强调；着重指出；使紧张
+weaken	动词	削弱；减弱；变弱
+ambiguity	名词	歧义；含混；模棱两可
+component	名词	成分；组成部分；部件
+consequence	名词	后果；结果；重要性
+construction	名词	建构；构造；建造物
+consumption	名词	消耗；消费；消耗量
+cooperation	名词	合作；协作；协同
+controversy	名词	争议；论争；争论
+density	名词	密度；密集度
+depth	名词	深度；深浅；深刻程度
+detection	名词	探测；检出；发现（察觉）
+duration	名词	持续时间；时长；期间
+ecology	名词	生态；生态学；生态关系
+epidemiology	名词	流行病学；疫病分布
+equilibrium	名词	平衡；均衡；平衡状态
+equivalence	名词	等价；等同；对等性
+essence	名词	本质；实质；精髓
+exclusion	名词	排除；剔除；排斥
+expectation	名词	期望；预期；期待
+expenditure	名词	支出；开支；耗费
+extension	名词	延伸；扩展；推广
+facility	名词	设施；设备；便利
+feedback	名词	反馈；反馈意见；回授
+friction	名词	摩擦；冲突；阻力
+generation	名词	一代；世代；产生
+hierarchy	名词	层级体系；等级制度；层级
+identity	名词	身份；同一性；特性
+index	名词	指数；指标；索引
+induction	名词	归纳；归纳法；引入
+initiative	名词	主动性；倡议；举措
+inspection	名词	检查；检验；视察
+institution	名词	机构；制度；学会
+integration	名词	整合；一体化；融入
+intensity	名词	强度；烈度；紧张程度
+interaction	名词	互动；交互作用；相互作用
+latency	名词	潜伏期；延迟时间
+manifestation	名词	表现；体现；显示
+maturity	名词	成熟；成熟度
+modification	名词	调整；修改；修饰
+momentum	名词	动量；势头；推动力
+motivation	名词	动机；积极性；动因
+necessity	名词	必要性；必需品；必需
+neutrality	名词	中立；中立性；公正
+obligation	名词	义务；责任；约束
+orientation	名词	定位；导向；立场
+participation	名词	参与；参加；参与度
+partition	名词	划分；分区；分界
+partnership	名词	伙伴关系；合作关系；搭档
+persistence	名词	持续；坚持；存续
+practitioner	名词	从业者；实践者；执业者
+priority	名词	优先事项；优先权；优先
+productivity	名词	生产率；生产力；成效
+proficiency	名词	熟练；精通；能力水平
+profile	名词	概况；特征；剖析
+projection	名词	预测；投射；推算
+promotion	名词	晋升；推广；促进
+provision	名词	规定；条款；供应
+qualification	名词	资格；限定；限定条件
+quota	名词	配额；定额；限额
+realism	名词	现实主义；务实；写实
+reciprocity	名词	互惠；对等；相互性
+recommendation	名词	建议；推荐；推荐书
+recurrence	名词	复发；再现；重现
+reduction	名词	减少；降低；缩小
+refinement	名词	提炼；改进；精细化
+reinforcement	名词	强化；加强；增援
+remedy	名词	补救措施；疗法；弥补
+reputation	名词	声誉；声望；名气
+reservation	名词	保留；保留意见；预订
+restriction	名词	限制；约束；限定
+retrieval	名词	检索；提取；取回
+revision	名词	修订；修订本；修正
+rigor	名词	严谨；严密；严格性
+selection	名词	选择；选取；选拔
+separation	名词	分离；分隔；分开
+severity	名词	严重程度；严厉；严重性
+simulation	名词	模拟；仿真；模拟物
+specification	名词	规格；规范；详细说明
+stability	名词	稳定性；稳定；牢固
+sufficiency	名词	充分性；充足；足够
+supervision	名词	监督；指导；管理
+supplement	名词	补充；增补；补编
+survival	名词	生存；存活；幸存
+tactic	名词	策略；手段；做法
+technology	名词	技术；科技；工艺
+tendency	名词	倾向；趋势；习性
+terminology	名词	术语；术语体系；专门词汇
+tolerance	名词	容忍；耐受性；宽容
+transformation	名词	转型；转变；改造
+transmission	名词	传播；传递；传染
+typology	名词	类型学；类型划分
+utilization	名词	利用；使用；效用
+variability	名词	可变性；变异性；波动性
+variation	名词	变异；变化；变体
+viability	名词	可行性；生存能力；能存续性
+vitality	名词	活力；生命力；强健
+volatility	名词	波动性；易变性；不稳定性
+welfare	名词	福利；福祉；安康
+accessible	形容词	易获取的；可接近的；可达的
+accountable	形容词	应负责任的；负有问责的；可说明责任的
+apparent	形容词	明显的；表面上的；显然的
+authentic	形容词	真实的；可信的；正宗的
+autonomous	形容词	自主的；自治的；自主运作的
+beneficial	形容词	有益的；有利的
+categorical	形容词	分类的；绝对化的；明确划分的
+characteristic	形容词	典型的；特有的；构成特征的
+collective	形容词	集体的；共同的；总计的
+conditional	形容词	有条件的；附条件的；取决于…的
+deliberate	形容词	故意的；深思熟虑的；审慎的
+ethical	形容词	伦理的；合乎道德的；道德的
+finite	形容词	有限的；有尽的
+formal	形容词	形式的；正式的；正规的
+hypothetical	形容词	假设的；假想的；设想的
+identical	形容词	完全相同的；一致的；同一的
+innovative	形容词	创新的；革新性的；新式的
+interdependent	形容词	相互依存的；相互依赖的
+logical	形容词	合乎逻辑的；条理清楚的；逻辑的
+measurable	形容词	可测量的；可量化的；可衡量的
+misleading	形容词	有误导性的；使人误解的；易生错觉的
+neutral	形容词	中性的；中立的；不带倾向的
+observable	形容词	可观察的；可观测的；看得见的
+paradoxical	形容词	悖论性的；看似矛盾的；反常的
+productive	形容词	多产的；富有成效的；生产性的
+questionable	形容词	有疑问的；可疑的；成问题的
+rational	形容词	理性的；合理的；讲求实际的
+realistic	形容词	现实的；切合实际的；写实的
+recurrent	形容词	反复出现的；重现的；周期的
+reputable	形容词	有声望的；信誉良好的
+scientific	形容词	科学的；合乎科学方法的
+structural	形容词	结构的；构造的；结构性的
+technological	形容词	技术的；科技的；工艺的
+vulnerable	形容词	脆弱的；易受伤害的；易受影响的
+and	连词	和；与；并且；然后（并列连词）
+or	连词	或者；还是；否则；也不（not…or 结构）
+as though	连词	好像；仿佛（引导方式状语从句）
+other than		除了…以外；不同于
+given		鉴于；考虑到（引导前提，常置于句首）
+even when	连词	即使在…时；即便当
+so long as	连词	只要；只要…就
+to the extent that	连词	就…而言；在…范围内
+in the sense that	连词	在…的意义上；也就是说
+on the assumption that	连词	在假定…的前提下
+in the event that	连词	万一；如果（正式语域）
+except that	连词	除…之外（从句除外）
+on condition that	连词	以…为条件；条件是
+not only	连词	不仅；而且（与 but also 连用）
+in any case	副词	无论如何；就这一点而言
+by the same token	副词	同样地；同理
+that said	副词	话虽如此；即便如此
+on the whole	副词	总的来说；大体上
+with this in mind	副词	考虑到这一点；以此为前提
+by analogy	副词	类比地；通过类比
+as a case in point	副词	典型的例子；恰当的例证
+of note	副词	值得注意的是
+in the meantime	副词	在此期间；与此同时
+by chance	副词	偶然；碰巧
+in order to		为了；以便
+in spite of		尽管；不管
+on behalf of		代表；为了…的利益
+for the sake of		为了…的缘故；出于…考虑
+at the expense of		以…为代价
+in lieu of		代替；取代
+by virtue of		凭…（之力）；由于
+where	连词	在…的地方；在…的情况下；与…有关（where X is concerned）
+both	连词	两者都；都（both…and 关联结构）
+presuming	连词	假定；假设；倘若（引导条件从句）
+where applicable	副词	在适用的情况下；酌情
+if applicable	副词	在适用的情况下；如适用
+where possible	副词	在可能的情况下；尽可能
+where necessary	副词	在必要的情况下；必要时
+if necessary	副词	必要时；如果需要
+as appropriate	副词	视情况而定；适当地
+more precisely	副词	更确切地说；更准确地讲
+more specifically	副词	更具体地说；具体而言
+to be precise	副词	确切地说；准确地说
+to be sure	副词	的确；诚然；可以肯定地说
+first of all	副词	首先；第一
+to begin with	副词	首先；起初
+firstly	副词	首先；第一
+secondly	副词	其次；第二
+thirdly	副词	第三
+lastly	副词	最后；末了
+in sum	副词	总而言之；概括地说
+in all	副词	总共；合计
+as a whole	副词	总体上；作为一个整体
+by and large	副词	大体上；总的来说
+to a certain extent	副词	在某种程度上；在一定程度上
+if anything	副词	倒不如说；甚至更…
+by definition	副词	按定义；根据定义
+in essence	副词	本质上；实质上
+in effect	副词	实际上；实质上等于
+that is to say	副词	也就是说；换句话说
+so as to		以便；以便能够
+with the exception of		除…之外；只有…例外
+subject to		受…约束；须经…同意
+on account of		因为；由于
+by reason of		由于；因为
+in favor of		支持；赞成
+by reference to		参照；根据
+with reference to		关于；就…而言
+in the wake of		随着…而来；在…之后
+before	连词	在…之前（引导时间状语从句）；早于
+after	连词	在…之后（引导时间状语从句）；一旦
+till	连词	直到（引导时间状语从句）
+barring		除…之外（引导排除条件）
+still	副词	仍然；还；不过（still, X 表让步）
+well	副词	嗯；那么；不过（well, X 引出话题或让步）
+anyway	副词	无论如何；反正
+of course	副词	当然；自然；不难理解
+at any rate	副词	无论如何；不管怎样
+in any event	副词	无论如何；无论怎么说
+on balance	副词	总的来说；大体上
+all in all	副词	总的来说；总而言之
+in the first place	副词	首先；本来；压根儿
+at last	副词	最后；终于
+in the end	副词	最终；结果；到头来
+in the long run	副词	从长远看；从长期看
+sooner or later	副词	迟早；早晚
+in the main	副词	大体上；基本上
+for the most part	副词	大体上；多半
+by the way	副词	顺便说；附带地
+by all means	副词	务必；尽可以；千方百计
+in which case	副词	在这种情况下；那样的话
+in that case	副词	那样的话；若是如此
+that being so	副词	既然如此；有鉴于此
+all the same	副词	尽管如此；还是；不过
+considering that	连词	考虑到；鉴于
+admittedly	副词	诚然；的确（承认性让步）
+in so doing	副词	这样做时；在此过程中
+thanks to		多亏；由于
+because of		因为；由于
+for fear that	连词	唯恐；以免
+to the end that	连词	为了；以便
+with a view to		为了；着眼于
+with the aim of		旨在；以…为目的
+anyhow	副词	无论如何；反正
+needless to say	副词	不用说；不言而喻
+it goes without saying	副词	不言而喻；无需多说
+to put it another way	副词	换句话说；换言之
+put differently	副词	换个说法；换言之
+in simple terms	副词	用简单的话说；简明地说
+as follows	副词	如下（用于引出下文）
+first and foremost	副词	首先；首要地
+last but not least	副词	最后但同样重要的是
+at the same time	副词	同时；然而（表转折）
+for that matter	副词	就这一点而言；同样地
+on that note	副词	说到这里；顺着这个话题
+to that end	副词	为此目的；为此
+in this vein	副词	沿着这个思路；类似地
+all things considered	副词	考虑到各方面；通盘考虑
+in no small measure	副词	在不小程度上；很大程度上
+at any cost	副词	不惜一切代价
+as it stands	副词	就目前情况而言；目前看来
+for the time being	副词	暂时；眼下
+in the interim	副词	在此期间；其间
+from now on	副词	从现在起；今后
+in no way	副词	决不；绝不（用于否定句）
+to no avail	副词	徒劳；不起作用
+at the outset	副词	一开始；起初
+in the context of		在…的语境下；在…背景下
+in relation to		关于；与…有关；就…而言
+in connection with		关于；与…有关
+as regards	副词	关于；就…而论
+aside from		除去；撇开
+in place of		代替；取代
+for the purpose of		为了…的目的
+for the purposes of		就…而言；就…的目的而言
+in pursuit of		追求；寻求
+in the absence of		在缺乏…的情况下；没有…时
+contend	动词	声称，主张（contend that… 声称…）；争辩
+concede	动词	承认（尤指不情愿地）；让步；（体育）失（分）
+rebut	动词	反驳，驳斥（rebut a claim 驳斥某一主张）
+affirm	动词	肯定，断言；确认（affirm a commitment 确认承诺）
+allege	动词	指控，声称（未经证实的断言；allegedly 据称）
+purport	动词	声称，号称（purport to be… 自称是…）
+signify	动词	表示，意味着；具有重要意义
+presuppose	动词	预设，以…为前提；预先假定
+accelerate	动词	（使）加速；促进
+exacerbate	动词	使恶化，加剧（exacerbate tensions 加剧紧张）
+aggravate	动词	使加重，使恶化；激怒
+escalate	动词	（使）升级，（使）逐步扩大
+stagnate	动词	停滞，不发展（stagnant 停滞的；stagnation 停滞）
+oscillate	动词	振荡，摆动；（观点）摇摆不定
+plummet	动词	骤然下跌，暴跌（prices plummeted 价格暴跌）
+soar	动词	猛增，骤升；翱翔
+dwindle	动词	逐渐减少，缩小（dwindling resources 日益减少的资源）
+abate	动词	减弱，减退（the storm abated 风暴减弱了）
+prolong	动词	延长，拖长（prolonged exposure 长期暴露）
+spiral	动词	螺旋式上升/下降（spiral out of control 失控攀升）；螺旋
+inevitable	形容词	不可避免的，必然发生的
+irreversible	形容词	不可逆的，不可挽回的
+vague	形容词	模糊的，不明确的（a vague definition 含糊的定义）
+obscure	形容词	晦涩难懂的；无名的；（动词）使模糊，掩盖
+opaque	形容词	不透明的；晦涩难懂的（an opaque process 不透明的过程）
+superficial	形容词	肤浅的，浅薄的；表面的
+erroneous	形容词	错误的（erroneous assumptions 错误的假设）
+flawed	形容词	有缺陷的，有瑕疵的（a flawed argument 有缺陷的论证）
+unfounded	形容词	无根据的，无事实依据的（unfounded claims 无根据的断言）
+unwarranted	形容词	无正当理由的，不必要的（unwarranted criticism 无端批评）
+tenuous	形容词	站不住脚的，脆弱的（tenuous evidence 单薄的证据）
+cogent	形容词	有说服力的，令人信服的（a cogent argument 有力的论证）
+dubious	形容词	可疑的，靠不住的；半信半疑的
+anecdotal	形容词	轶事的；仅凭传闻的（anecdotal evidence 轶事证据，非系统证据）
+decisive	形容词	决定性的；果断的（a decisive factor 决定性因素）
+fallacy	名词	谬误，谬见（logical fallacy 逻辑谬误）
+connotation	名词	内涵意义，言外之意；隐含意义
+ramification	名词	（间接的）后果，衍生影响（legal ramifications 法律后果）
+repercussion	名词	反响，影响，后果（have serious repercussions 产生严重后果）
+aftermath	名词	（不愉快的）后果期；余波（in the aftermath of… 在…之后）
+corollary	名词	推论，必然结果（a direct corollary of… 的直接推论）
+precursor	名词	先兆，前兆；前身（precursors of the crisis 危机的前兆）；（化学）前体
+antecedent	名词	前因，前身；（语法）先行词
+drawback	名词	缺点，不利条件（the main drawback 主要缺点）
+pitfall	名词	陷阱，隐患；易犯的错误（common pitfalls 常见误区）
+shortcoming	名词	缺点，不足之处
+setback	名词	挫折，倒退（suffer a setback 遭受挫折）
+hurdle	名词	障碍，难关（clear the hurdle 跨过障碍）；栏架
+impediment	名词	妨碍，阻碍（an impediment to progress 进步的障碍）
+liability	名词	不利条件，累赘；责任；（复数）负债
+deficit	名词	赤字，亏空；不足（budget deficit 预算赤字；attention deficit 注意缺陷）
+surplus	名词	盈余，过剩（trade surplus 贸易盈余）；过剩的
+hindsight	名词	事后聪明，事后认识（in hindsight 事后看来）
+foresight	名词	远见，预见性（lack of foresight 缺乏远见）
+breadth	名词	宽度；广度，广博（the breadth of the curriculum 课程的广度）
+journal	名词	期刊，学报；日记（peer-reviewed journal 同行评审期刊）
+manuscript	名词	手稿；投稿稿（submit a manuscript 投稿）
+thesis	名词	学位论文；论题，论点（master's thesis 硕士论文；the thesis of the paper 论文论点）
+appendix	名词	附录；（解剖学）阑尾（复数 appendices/appendixes）
+footnote	名词	脚注；次要事物（名词/动词）
+bibliography	名词	参考文献目录，书目
+symposium	名词	专题研讨会，座谈会（复数 symposia）
+proceedings	名词	会议论文集；（法律）诉讼程序
+curriculum	名词	课程体系，课程（curriculum design 课程设计；复数 curricula）
+syllabus	名词	教学大纲，课程大纲（复数 syllabi/syllabuses）
+pedagogy	名词	教学法，教育学（pedagogical 教学法的）
+faculty	名词	全体教员；才能；（美）院系
+mentor	名词	导师，指导者；（动词）指导
+doctoral	形容词	博士的（doctoral dissertation 博士论文；doctoral studies 博士阶段学习）
+ideology	名词	意识形态，思想体系（ideological 意识形态的）
+hegemony	名词	霸权，支配地位（cultural hegemony 文化霸权）
+bureaucracy	名词	官僚体制，官僚机构；繁文缛节
+marginalize	动词	使边缘化，忽视（marginalized groups 边缘化群体）
+stigmatize	动词	使蒙受耻辱，污名化（stigmatized 被污名化的）
+urbanization	名词	城市化，都市化
+globalization	名词	全球化
+citizenship	名词	公民身份，公民资格；公民素质
+electorate	名词	全体选民，选区
+referendum	名词	全民公投，公民投票（复数 referendums/referenda）
+treaty	名词	条约，协定（sign a treaty 签署条约）
+ratify	动词	（正式）批准，签署认可（ratify a treaty 批准条约）
+statute	名词	成文法，法令；法规
+jurisdiction	名词	管辖权，司法权；管辖范围
+litigation	名词	诉讼，打官司
+tariff	名词	关税；价目表
+subsidy	名词	补贴，津贴（government subsidies 政府补贴；复数 subsidies）
+inflation	名词	通货膨胀；膨胀
+monetary	形容词	货币的，金融的（monetary policy 货币政策）
+fiscal	形容词	财政的（fiscal year 财政年度；fiscal policy 财政政策）
+monopoly	名词	垄断，专营服务（state monopoly 国家垄断；复数 monopolies）
+neural	形容词	神经的（neural networks 神经网络）
+neuron	名词	神经元，神经细胞
+polymer	名词	聚合物，聚合体
+catalyst	名词	催化剂；促进因素（act as a catalyst for… 成为…的催化剂）
+enzyme	名词	酶
+protein	名词	蛋白质
+genome	名词	基因组，染色体组
+metabolism	名词	新陈代谢
+toxic	形容词	有毒的（toxic substances 有毒物质）
+emission	名词	排放，排放物（carbon emissions 碳排放；emission standards 排放标准）
+climate	名词	气候；风气，氛围（climate change 气候变化）
+renewable	形容词	可再生的（renewable energy 可再生能源）
+semiconductor	名词	半导体
+database	名词	数据库
+bandwidth	名词	带宽；（引）精力，处理能力
+clinical	形容词	临床的（clinical trial 临床试验；clinical practice 临床实践）
+diagnosis	名词	诊断（复数 diagnoses；early diagnosis 早期诊断）
+epidemic	名词	流行病；（引）泛滥（an epidemic of obesity 肥胖的流行）；流行性的
+pandemic	名词	（全国/全球性）大流行病；（形容词）大流行的
+outbreak	名词	爆发，突然发生（an outbreak of cholera 霍乱爆发）
+confidence interval	名词	置信区间（统计学术语）
+standard deviation	名词	标准差（统计学术语）
+chronic	形容词	慢性的，长期的（chronic disease 慢性病；chronic stress 长期压力）
+acute	形容词	急性的；严重的，剧烈的；敏锐的（acute shortage 严重短缺）
+episodic	形容词	偶尔发生的，阵发性的；（叙事）分集的，片段式的；（记忆）情景的（episodic memory 情景记忆）
+sustained	形容词	持续的，持久的（sustained growth 持续增长；sustained attention 持续注意）
+intermittent	形容词	间歇的，断断续续的（intermittent fasting 间歇性禁食）
+cognitive	形容词	认知的（cognitive development 认知发展；cognitive load 认知负荷）
+symptom	名词	症状；征兆（clinical symptoms 临床症状）
+syndrome	名词	综合征，综合症状（metabolic syndrome 代谢综合征）
+therapy	名词	治疗，疗法（gene therapy 基因治疗；复数 therapies）
+providing	连词	如果；只要（providing (that)… 与 provided that 同义）
+considering		考虑到；鉴于（介词性 Considering the risks, …；considering that 见连词条）
+just as	连词	正如；正当…时（just as X does, Y does）
+even as	连词	正当…的同时；即使当
+much as	连词	尽管…很（much as I admire the plan, … 引导让步从句）
+such that	连词	如此…以至于；使得（引导结果从句，the design was such that…）
+so far as	连词	就…而言；到…程度（so far as X is concerned，与 as far as 同义）
+as much as	连词	尽管；与…几乎一样（as much as I agree, …）
+to the degree that	连词	到…的程度；在…范围内（与 to the extent that 同族）
+to the point that	连词	到了…的地步；以至于
+with the result that	连词	结果是；从而（引导结果从句）
+on the grounds that	连词	理由是；以…为依据（refused on the grounds that…）
+regardless of whether	连词	无论是否；不管（regardless of whether X or Y）
+the moment	连词	一…就；正当…时（the moment (that)…，与 as soon as 同族）
+the minute	连词	一…就（the minute (that)…，口语化）
+the instant	连词	一…就（the instant (that)…）
+by the time	连词	到…的时候（by the time (that)…）
+every time	连词	每次；每当（every time (that)…）
+each time	连词	每次；每当（each time (that)…）
+the way	连词	像…那样；以…的方式（引导方式从句，the way X does）
+if only	连词	要是…就好了（虚拟语气感叹 If only I had known）；只要
+only if	连词	只有…才；只有在…的时候（only if X will Y，强调唯一条件）
+also	副词	也；此外（还）（She also teaches 她也教书）
+too	副词	也；还；而且（句尾 I think so, too；多用于口语）
+instead	副词	反而；却；作为替代（没有 instead of 的介词性用法）
+only	副词	只；仅仅；只不过
+just	副词	刚刚；正好；只是
+later	副词	后来；稍后（later on 后来）
+first	副词	首先；第一（first of all 之义）
+next	副词	接着；然后；下一步
+last	副词	最后（lastly 之义）；上一次
+soon	副词	不久；很快（soon after 不久之后）
+always	副词	总是；一直；永远
+nowadays	副词	如今；现今（与过去对比）
+afterward	副词	之后；后来（美式，= afterwards）
+directly	副词	直接地；径直地；一…就（英式，directly (that)… 引导时间从句）
+naturally	副词	自然地；理所当然地（Naturally, … 当然）
+so far	副词	到目前为止；迄今为止
+thus far	副词	迄今；至此（正式，= so far）
+as yet	副词	到目前为止（多用于否定 as yet unexplained）
+to date	副词	迄今为止；至今（the largest study to date）
+the former	副词	前者（the former…the latter… 前者…后者…）
+the latter	副词	后者（the former…the latter…）
+for one thing	副词	一方面；首先（for one thing… for another…）
+either way	副词	无论哪种情况；反正
+in consequence	副词	结果；因此（正式，= as a result）
+as a matter of fact	副词	事实上；其实（强调或纠正）
+no doubt	副词	无疑；很可能（承认性缓称 No doubt he meant well）
+incidentally	副词	顺便说一句；附带地（= by the way）
+or rather	副词	或者说；更确切地说（自我修正）
+by comparison	副词	相比之下（= in comparison）
+most importantly	副词	更重要的是；尤其
+to be fair	副词	平心而论；说句公道话
+at best	副词	充其量；至多（往好里说，at best a partial solution）
+at worst	副词	在最坏的情况下；往坏里说（at best…and at worst…）
+better still	副词	更好的是；甚至更好
+worse still	副词	更糟的是；甚至更糟
+in this regard	副词	在这方面；就这一点而言
+in this respect	副词	在这一方面（= in this regard）
+by extension	副词	引申开来；由此推广
+having said that	副词	话虽如此（承认之后转折）
+even then	副词	即便那样；即使到那时
+let alone	副词	更不用说；遑论（连接并列成分的递进，not to mention 同族）
+and so on	副词	等等；诸如此类（列举收尾）
+and so forth	副词	等等；依此类推（= and so on）
+as for		至于；说到（话题转换 As for the budget, …）
+as to		关于；就…而言（多接疑问或争论点 doubt as to whether…）
+as opposed to		与…相对；而非（actual data as opposed to estimates）
+during		在…期间（介词）
+following		在…之后；由于（介词性 Following the reform, …）
+like		像；如同；类似（介词；亦作连词引导方式从句，非正式）
+interestingly	副词	有趣的是；耐人寻味地（结果评论标记）
+surprisingly	副词	出乎意料地；意外地（反预期标记）
+remarkably	副词	显著地；异常地（程度评论标记）
+strikingly	副词	醒目地；惊人地（差异评论，strikingly different）
+tellingly	副词	说明问题地；有力地（tellingly, … 证据评论）
+curiously	副词	奇怪的是（curiously enough 反预期标记）
+wherein	副词	在其中；在…方面（正式书面，a situation wherein…）
+thereof	副词	由此；其（法律/正式书面，the result thereof）
+confer	动词	授予；带来（confer an advantage；confer with 协商）
+afford	动词	提供；给予（afford an opportunity；买得起）
+circumvent	动词	规避；绕过（circumvent the limitation）
+curtail	动词	削减；限制（curtail spending / freedom）
+curb	动词	抑制；约束（curb inflation / emissions）
+thwart	动词	阻挠；使受挫（thwart the attempt）
+hamper	动词	妨碍；阻碍（hamper progress）
+halt	动词	使停止；终止（bring to a halt；calls to halt）
+erode	动词	侵蚀；逐步削弱（erode confidence / margins）
+corrode	动词	腐蚀；（比喻）损害（corrode trust）
+accrue	动词	积累；产生（benefits accrue to…）
+uphold	动词	维持（原判）；支持；维护（uphold the decision / standards）
+permeate	动词	渗透；弥漫（permeate every aspect of…）
+pervade	动词	遍及；充斥（pervade the literature）
+subsume	动词	纳入；归入（be subsumed under a category）
+demarcate	动词	划界；区分（demarcate the boundary between…）
+preempt	动词	预先制止；先发制人（preempt criticism）
+facet	名词	方面；侧面（every facet of the problem）
+hindrance	名词	妨碍；阻碍（a hindrance to progress）
+boon	名词	裨益；福音（a boon to researchers）
+property	名词	性质；属性（physical properties）；财产
+landscape	名词	图景；格局（the research/policy landscape）；风景
+terrain	名词	地形；（比喻）领域（familiar terrain）
+strand	名词	（思路、论证的）一条线索（a strand of argument）；股、缕
+thread	名词	线索；脉络（the thread of the argument）；线
+asymmetry	名词	不对称（information asymmetry 信息不对称）
+homogeneity	名词	同质性（test for homogeneity）
+symmetry	名词	对称（性）（symmetry breaking 对称破缺）；匀称
+mismatch	名词	错配；不匹配（skill mismatch）
+inconsistency	名词	不一致；矛盾（internal inconsistency）
+submission	名词	提交；投稿（manuscript submission；revisions on resubmission）
+rebuttal	名词	反驳；答辩（peer-review rebuttal letter）
+preprint	名词	预印本（post a preprint on arXiv）
+erratum	名词	（出版物）勘误（复数 errata）
+corrigendum	名词	（作者更正启事）勘误表（复数 corrigenda）
+abrupt	形容词	突然的；陡然的（an abrupt change/transition）
+abruptly	副词	突然地；陡然地（fall abruptly）
+gradual	形容词	逐渐的；渐进的（a gradual decline）
+swift	形容词	迅速的；敏捷的（a swift recovery）
+swiftly	副词	迅速地（respond swiftly）
+steep	形容词	陡的；（比喻）急剧的（a steep rise）；苛刻的（a steep price）
+steeply	副词	陡峭地；急剧地（decline steeply）
+smooth	形容词	平滑的；顺利的（a smooth transition）
+smoothly	副词	平滑地；顺利地（proceed smoothly）
+marked	形容词	显著的；明显的（a marked improvement）
+persistent	形容词	持续存在的；顽固的（persistent inequality）
+fleeting	形容词	转瞬即逝的（a fleeting glimpse）
+enduring	形容词	持久的；经久不衰的（enduring influence）
+lasting	形容词	持久的；长久的（a lasting impact）
+invariant	形容词	不变的（量、性质）（scale-invariant；an invariant of the transformation）
+argue	动词	主张，论证说（argue that… 主张…；argue for/against 支持/反对）
+appraise	动词	评价；评估（appraise the evidence / appraise the significance of…）
+appraisal	名词	评估；评价；鉴定（a critical appraisal of the method）
+reiterate	动词	重申；反复说明（reiterate the importance of…）
+restate	动词	重述；重新表述（restate the hypothesis / restate the question）
+reconsider	动词	重新考虑；重新审视（reconsider the design / reconsider our interpretation）
+situate	动词	把…置于（背景/框架）中（situate the study within…）
+delimit	动词	划定界限；界定范围（delimit the scope / delimit the research question）
+reconstruct	动词	重建；还原（reconstruct the process / reconstruct the history）
+overstate	动词	夸大；言过其实（overstate the findings / overstate the implications）
+bolster	动词	支持；增强（bolster the argument / bolster the case）
+reframe	动词	重新表述；重构框架（reframe the question / reframe the analysis）
+rethink	动词	重新思考；重构思路（rethink the unit of analysis）
+interrogate	动词	追问；细查（interrogate the data / interrogate an assumption）
+objection	名词	反对意见；异议（raise objections to / a valid objection）
+counterexample	名词	反例（a counterexample to the claim）
+misconception	名词	误解；错误观念（students' misconceptions）
+burden	名词	负担；举证责任（the burden of proof / the burden of explanation）
+concordance	名词	一致；符合（concordance correlation；语料索引）
+modality	名词	方式；模态；表现形式（modalities of governance）
+sound	形容词	可靠的；严谨的（sound reasoning；methodologically sound）
+credible	形容词	可信的；有信誉的（credible evidence / credible mechanism）
+convincing	形容词	有说服力的；令人信服的（convincing evidence / a convincing argument）
+germane	形容词	切题的；贴切的（germane to the question）
+epistemological	形容词	认识论的；知识论的（epistemological grounding）
+ontological	形容词	本体论的；存在论的（ontological commitments）
+axiomatic	形容词	公理的；基于公理的（an axiomatic foundation）
+abductive	形容词	溯因的；最佳解释推论的（abductive inference）
+descriptive	形容词	描述性的；描述统计的（descriptive statistics）
+prescriptive	形容词	规定性的；规范的（a prescriptive claim）
+incisive	形容词	尖锐的；切入要害的（an incisive critique）
+penetrating	形容词	有洞察力的；透彻的（a penetrating analysis）
+scholarly	形容词	学术的；学术性的（scholarly debate / scholarly tradition）
+judicious	形容词	明智的；审慎的（a judicious use of sources）
+prudent	形容词	谨慎的；审慎的（prudent policy recommendations）
+astute	形容词	精明的；敏锐的（an astute reading of the evidence）
+apt	形容词	恰当的；切题的（an apt description / an apt term）
+appreciable	形容词	相当大的；可观的（an appreciable effect）
+landmark	形容词	里程碑式的；划时代的（a landmark study / a landmark discovery）
+invariably	副词	总是；始终如一地（invariably follows from…）
+narrow	形容词	狭窄的；局限的（a narrow scope / a narrow focus）
+inconsistent	形容词	不一致的；自相矛盾的（inconsistent with prior findings）
+conflict	名词	冲突；抵触（a conflict between theory and evidence）
+conflicting	形容词	相互冲突的；抵触的（conflicting evidence）
+contested	形容词	有争议的；被争夺的（a contested concept）
+disputed	形容词	有争议的；受到质疑的（disputed findings）
+contentious	形容词	有争议的；易引起争执的（a contentious issue）
+inconclusive	形容词	不确定的；无定论的（inconclusive results）
+indirect	形容词	间接的（an indirect effect / indirect evidence）
+unbiased	形容词	无偏的（an unbiased estimator）
+nontrivial	形容词	不平凡的；显著的（a nontrivial effect）
+desirable	形容词	可取的；合乎需要的（a desirable property）
+secondary	形容词	次要的；辅助的（a secondary outcome）
+unambiguous	形容词	明确的；不含糊的（unambiguous evidence）
+insufficient	形容词	不足的；不充分的（insufficient evidence / insufficient power）
+multiple	形容词	多个的；多重的（multiple regression / multiple comparisons）
+study	名词	研究；研究论文（a longitudinal study；the study reports）
+paper	名词	论文；（学术）文章
+discussion	名词	讨论；（论文的）讨论部分
+review	名词	综述；评述；评审（a systematic review；peer review）；作动词：综述，评述（review the literature）
+practice	名词	实践；惯例（best practice；clinical practice）；作动词：练习，执业（practise what one preaches）
+statistics	名词	统计学；统计数据（the statistics reported here）
+input	名词	输入；投入（model inputs；policy inputs）
+task	名词	任务；研究任务（the task was to…）
+standpoint	名词	立场；观点（尤指分析或解释的出发点）
+lens	名词	透镜；视角（through the lens of）
+barrier	名词	障碍；壁垒（barriers to adoption）
+continuum	名词	连续体；连续谱（a continuum of care）
+utility	名词	效用；效用（论）（utility function）
+match	动词	配对，使（两组）在可观测特征上可比（matched design 配对设计）
+nonresponse	名词	无应答；未回应（nonresponse rate 无应答率）
+census	名词	普查；全样本调查（census data 普查数据）
+pilot	名词	试点；预试验（a pilot study 预试验研究）
+quasi-experimental	形容词	准实验的（a quasi-experimental design）
+CONSORT	名词	CONSORT 声明（随机对照试验报告规范）
+STROBE	名词	STROBE 声明（观察性研究报告规范）
+standard error	名词	标准误
+covariance	名词	协方差
+heteroskedasticity	名词	异方差性；异方差
+autocorrelation	名词	自相关
+missing data	名词	数据缺失；缺失值
+bootstrap	动词	以自助法重抽样（估计）
+permutation	名词	置换；置换检验（a permutation test）
+degrees of freedom	名词	自由度
+chi-square	名词	卡方；卡方检验（χ²）
+Monte Carlo	名词	蒙特卡洛（模拟方法）
+median	名词	中位数
+quartile	名词	四分位数
+percentile	名词	百分位数
+recall	名词	召回率；查全率
+confusion matrix	名词	混淆矩阵
+ground truth	名词	真值；真值标注
+overfitting	名词	过拟合
+regularization	名词	正则化；规则化
+annotation	名词	标注；注释
+coding	名词	编码（质性研究中的编码过程）
+transcription	名词	转录；文字转写
+member checking	名词	成员核验（让受访者核对分析结果）
+audit trail	名词	审计轨迹；决策留痕记录
+purposive	形容词	目的性（抽样的）（purposive sampling 目的性抽样）
+ethnography	名词	民族志（研究方法）
+latent	形容词	潜在的；潜伏的（a latent variable 潜在变量）
+screening	名词	筛查；筛选（受试者或文献筛选）
+surveillance	名词	监测；疾病监测（surveillance data）
+scoping review	名词	范围综述
+peer review	名词	同行评议；同行评审
+conflict of interest	名词	利益冲突
+open access	名词	开放获取（开放存取）
+grant	名词	资助；课题经费（a grant proposal 基金申请书）
+platform	名词	平台；（计算/传播/研究）承载数据与服务的底层平台
+architecture	名词	体系结构；架构
+repository	名词	存储库；资料库；数据仓储
+interoperability	名词	互操作性
+metadata	名词	元数据
+ontology	名词	本体（知识表示体系）
+privacy	名词	隐私（隐私保护）
+cybersecurity	名词	网络安全
+intellectual property	名词	知识产权
+copyright	名词	版权
+open science	名词	开放科学
+open data	名词	开放数据
+climate change	名词	气候变化
+land use	名词	土地利用
+public health	名词	公共卫生
+health inequality	名词	健康不平等
+life expectancy	名词	预期寿命
+mental health	名词	心理健康
+risk factor	名词	风险因素
+randomized controlled trial	名词	随机对照试验
+numeracy	名词	计算能力；数理素养
+instruction	名词	教学；教学活动
+scholarship	名词	学术研究成果
+enrollment	名词	入组；招募入组；注册入学（enrollment rate）
+engagement	名词	参与度；投入
+behavior	名词	行为
+taxation	名词	税收；税制
+cost-effectiveness	名词	成本效果（成本效益比）
+disincentive	名词	抑制因素
+audit	名词	审计；核查
+supply chain	名词	供应链
+entrepreneurship	名词	创业；企业家精神
+unemployment	名词	失业
+workforce	名词	劳动力；全体员工
+inequality	名词	不平等
+artificial intelligence	名词	人工智能
+machine learning	名词	机器学习
+fairness	名词	公平性
+framing	名词	框架化；框定（叙事/媒体框架）
+misinformation	名词	错误信息
+disinformation	名词	虚假信息（蓄意）
+statistical significance	名词	统计显著性
+systematic review	名词	系统综述
+mixed methods	名词	混合方法
+gender	名词	性别
+ethnicity	名词	族裔；民族

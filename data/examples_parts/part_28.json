@@ -1,0 +1,562 @@
+{
+ "gap": [
+  {
+   "en": "There remains a significant gap in our understanding of early neural development.",
+   "zh": "我们对早期神经发育的理解仍存在显著空白。"
+  },
+  {
+   "en": "The pay gap between senior and junior staff widened considerably last year.",
+   "zh": "去年高级员工与初级员工之间的薪酬差距明显扩大。"
+  },
+  {
+   "en": "This review identifies a gap in the literature regarding adolescent sleep patterns.",
+   "zh": "这篇综述指出了现有文献在青少年睡眠模式方面的研究空白。"
+  }
+ ],
+ "gradient": [
+  {
+   "en": "The gradient of the hill becomes much steeper beyond the second ridge.",
+   "zh": "越过第二道山脊后，山坡的坡度变得陡峭得多。"
+  },
+  {
+   "en": "Researchers measured the concentration gradient across the river estuary over time.",
+   "zh": "研究人员沿河口测量了浓度梯度随时间的变化。"
+  },
+  {
+   "en": "A sharp gradient in temperature can cause thermal stress for coral reefs.",
+   "zh": "水温梯度过大会对珊瑚礁造成热应激。"
+  }
+ ],
+ "heterogeneity": [
+  {
+   "en": "Substantial heterogeneity in treatment effects was observed across the twelve participating clinics.",
+   "zh": "在 12 家参与诊所之间观察到了治疗效果的显著异质性。"
+  },
+  {
+   "en": "The index was designed to capture heterogeneity within the population rather than averages.",
+   "zh": "该指标旨在捕捉总体内部的不均一性，而非平均水平。"
+  },
+  {
+   "en": "Inter-rater heterogeneity reduced the overall reliability of the qualitative coding.",
+   "zh": "评分者之间的差异降低了定性编码的整体信度。"
+  }
+ ],
+ "incidence": [
+  {
+   "en": "The incidence of the disease has declined sharply since vaccination programs began.",
+   "zh": "自疫苗接种项目启动以来，该病的发生率大幅下降。"
+  },
+  {
+   "en": "These estimates of incidence rely on hospital records collected over fifteen years.",
+   "zh": "这些发生率估算依赖于 15 年间收集的医院记录。"
+  },
+  {
+   "en": "Higher incidence of respiratory infection was reported among older residents.",
+   "zh": "老年居民中呼吸道感染的发生率更高。"
+  }
+ ],
+ "inference": [
+  {
+   "en": "The inference from experimental data to real-world outcomes requires careful reasoning.",
+   "zh": "从实验数据推断现实结果需要谨慎的推理。"
+  },
+  {
+   "en": "Bayesian inference allows researchers to update beliefs as new data arrive.",
+   "zh": "贝叶斯推断使研究者能够随新数据的到来更新信念。"
+  },
+  {
+   "en": "Any inference drawn from a single small sample should be treated cautiously.",
+   "zh": "任何基于单个小样本得出的推论都应谨慎对待。"
+  }
+ ],
+ "intervention": [
+  {
+   "en": "A targeted intervention reduced hospital readmissions among patients with chronic conditions.",
+   "zh": "一项有针对性的干预措施减少了慢性病患者的再次住院率。"
+  },
+  {
+   "en": "The policy intervention was piloted in three districts before national rollout.",
+   "zh": "该政策干预在三个地区先行试点，然后才在全国推行。"
+  },
+  {
+   "en": "Early intervention in the classroom improved long-term literacy outcomes considerably.",
+   "zh": "课堂上的早期干预显著改善了长期的读写能力结果。"
+  }
+ ],
+ "justification": [
+  {
+   "en": "The authors provide a clear justification for choosing this particular dataset.",
+   "zh": "作者为选择这一特定数据集给出了清晰的理由。"
+  },
+  {
+   "en": "No compelling justification was offered for excluding participants from the analysis.",
+   "zh": "对于将参与者排除在分析之外，并未给出令人信服的理由。"
+  },
+  {
+   "en": "The ethical committee demanded further justification of the proposed procedure.",
+   "zh": "伦理委员会要求对所提议的程序作出进一步的理由说明。"
+  }
+ ],
+ "limitation": [
+  {
+   "en": "A major limitation of the study is its relatively small sample size.",
+   "zh": "该研究的一个主要局限在于样本量相对较小。"
+  },
+  {
+   "en": "The authors acknowledge several limitations concerning measurement and geographic representativeness.",
+   "zh": "作者承认了测量和地理代表性方面的若干局限。"
+  },
+  {
+   "en": "This limitation restricts the conclusions that can reasonably be drawn.",
+   "zh": "这一局限限制了可以合理得出的结论。"
+  }
+ ],
+ "literature": [
+  {
+   "en": "The literature on climate adaptation has grown rapidly over the past decade.",
+   "zh": "关于气候适应的文献在过去 10 年中迅速增长。"
+  },
+  {
+   "en": "A comprehensive review of the literature reveals considerable disagreement among scholars.",
+   "zh": "对文献的综合评述显示学者之间存在相当大的分歧。"
+  },
+  {
+   "en": "Students must engage with the primary literature before writing their essays.",
+   "zh": "学生在撰写论文之前必须研读原始文献。"
+  }
+ ],
+ "margin": [
+  {
+   "en": "The margin of error in the estimate is roughly three percentage points.",
+   "zh": "该估计值的误差范围约为三个百分点。"
+  },
+  {
+   "en": "Profit margin improved significantly after the company restructured its supply chain.",
+   "zh": "公司重组供应链后，利润率显著提高。"
+  },
+  {
+   "en": "There is very little margin for delay in this tight schedule.",
+   "zh": "在这份紧凑的日程安排中，几乎没有延误的余地。"
+  }
+ ],
+ "narrative": [
+  {
+   "en": "The author constructs a compelling narrative around a single family's experience.",
+   "zh": "作者围绕一个家庭的经历构建了引人入胜的叙事。"
+  },
+  {
+   "en": "Quantitative data alone cannot capture the narrative behind these statistics.",
+   "zh": "仅凭定量数据无法呈现这些统计数据背后的叙事。"
+  },
+  {
+   "en": "The final chapter shifts the narrative focus to rural communities.",
+   "zh": "最后一章将叙事的焦点转向农村社区。"
+  }
+ ],
+ "outlier": [
+  {
+   "en": "We removed each outlier only after confirming the measurement error.",
+   "zh": "只有在确认测量误差后，我们才剔除每一个离群值。"
+  },
+  {
+   "en": "This extreme outlier skewed the mean and distorted the trend line.",
+   "zh": "这个极端离群值使均值发生偏移并扭曲了趋势线。"
+  },
+  {
+   "en": "A formal outlier analysis revealed three observations that required further investigation.",
+   "zh": "离群值分析揭示出三个需要进一步调查的观测值。"
+  }
+ ],
+ "oversight": [
+  {
+   "en": "Regulatory oversight of the laboratory ensured compliance with safety standards.",
+   "zh": "对该实验室的监管确保了安全标准的遵守。"
+  },
+  {
+   "en": "The error resulted from a simple lack of oversight during the night shift.",
+   "zh": "这一错误源于夜班期间缺乏监督。"
+  },
+  {
+   "en": "Recent oversight reforms have strengthened accountability across the public sector.",
+   "zh": "近期的监管改革加强了公共部门的问责。"
+  }
+ ],
+ "phenomenon": [
+  {
+   "en": "This linguistic phenomenon occurs in every major language studied so far.",
+   "zh": "这一语言现象出现在迄今为止研究过的所有主要语言中。"
+  },
+  {
+   "en": "The emergence of new trade routes was a gradual phenomenon spanning centuries.",
+   "zh": "新贸易路线的出现是一个延续数百年的渐进现象。"
+  },
+  {
+   "en": "Scientists still debate whether the observed phenomenon reflects a genuine effect.",
+   "zh": "科学家仍在争论所观察到的现象是否反映了真实效应。"
+  }
+ ],
+ "prevalence": [
+  {
+   "en": "The prevalence of diabetes has increased steadily over the past decade.",
+   "zh": "过去 10 年中糖尿病的患病率持续上升。"
+  },
+  {
+   "en": "Estimates of prevalence were derived from a nationally representative survey.",
+   "zh": "患病率估计值来自一项具有全国代表性的调查。"
+  },
+  {
+   "en": "High prevalence of the condition makes early screening clinically valuable.",
+   "zh": "该疾病的高患病率使早期筛查具有临床价值。"
+  }
+ ],
+ "proportion": [
+  {
+   "en": "A large proportion of respondents reported working more than fifty hours weekly.",
+   "zh": "很大一部分受访者报告每周工作 50 小时以上。"
+  },
+  {
+   "en": "The proportion of women in senior positions rose to thirty percent.",
+   "zh": "担任高级职务的女性比例上升到了 30%。"
+  },
+  {
+   "en": "Only a small proportion of the total sample received the intervention.",
+   "zh": "总样本中只有一小部分接受了干预。"
+  }
+ ],
+ "proxy": [
+  {
+   "en": "Income is often used as a proxy for household consumption in developing regions.",
+   "zh": "在发展中地区，收入常被用作家庭消费的代理指标。"
+  },
+  {
+   "en": "Tree rings serve as a useful proxy for historical rainfall over centuries.",
+   "zh": "年轮可作为数百年来历史降雨情况的有用替代指标。"
+  },
+  {
+   "en": "Researchers warned that the proxy variable may introduce serious measurement error.",
+   "zh": "研究人员警告说，该替代变量可能引入严重的测量误差。"
+  }
+ ],
+ "regression": [
+  {
+   "en": "Multiple regression analysis revealed that income explained most of the variation.",
+   "zh": "多元回归分析显示，收入解释了大部分变异。"
+  },
+  {
+   "en": "The new model showed no regression in accuracy over the past year.",
+   "zh": "新模型在过去一年中精度没有出现倒退。"
+  },
+  {
+   "en": "Further regression testing confirmed that the software upgrade fixed the original bug.",
+   "zh": "进一步的回归测试确认软件升级修复了原有的缺陷。"
+  }
+ ],
+ "reliability": [
+  {
+   "en": "Inter-rater reliability exceeded eighty percent across both coders in this study.",
+   "zh": "在本研究中，两位编码者的评分者间信度超过 80%。"
+  },
+  {
+   "en": "The reliability of the instrument improves substantially after extensive pilot testing.",
+   "zh": "经过大量预试后，该工具的可靠性显著提高。"
+  },
+  {
+   "en": "Reviewers questioned the reliability of self-reported data collected by email.",
+   "zh": "审稿人质疑了通过电子邮件收集的自报数据的可靠性。"
+  }
+ ],
+ "reproducibility": [
+  {
+   "en": "The reproducibility of published findings is a cornerstone of good scientific practice.",
+   "zh": "已发表结果的可复现性是良好科学实践的基石。"
+  },
+  {
+   "en": "The journal now requires full reproducibility of computational analyses where possible.",
+   "zh": "该期刊现要求在可能的情况下实现计算分析完全可复现。"
+  },
+  {
+   "en": "Improving reproducibility reduces duplicated effort across research laboratories worldwide.",
+   "zh": "提高可复现性可以减少全球各研究实验室的重复劳动。"
+  }
+ ],
+ "retrospective": [
+  {
+   "en": "This retrospective analysis examined records collected between 1998 and 2012.",
+   "zh": "这项回顾性分析考察了 1998 年至 2012 年间收集的记录。"
+  },
+  {
+   "en": "A retrospective review of the data revealed a previously unnoticed seasonal pattern.",
+   "zh": "对数据的回顾发现了一个此前未被注意到的季节性模式。"
+  },
+  {
+   "en": "The team adopted a retrospective design because no baseline data existed.",
+   "zh": "由于不存在基线数据，团队采用了回顾性设计。"
+  }
+ ],
+ "sample": [
+  {
+   "en": "The convenience sample was drawn from students at a single university.",
+   "zh": "便利样本取自一所大学的学生。"
+  },
+  {
+   "en": "Each soil sample was analyzed in triplicate by the laboratory.",
+   "zh": "实验室对每个土壤样品进行了三次平行分析。"
+  },
+  {
+   "en": "The sample size was determined through a formal power calculation.",
+   "zh": "样本量通过正式的效能计算确定。"
+  }
+ ],
+ "saturation": [
+  {
+   "en": "Data collection continued until saturation was reached in the interview transcripts.",
+   "zh": "数据收集持续进行，直到访谈转录文本达到饱和。"
+  },
+  {
+   "en": "Market saturation in developed economies has slowed revenue growth considerably.",
+   "zh": "发达经济体的市场饱和已明显减缓了收入增长。"
+  },
+  {
+   "en": "Oxygen saturation remained stable throughout the entire experimental procedure.",
+   "zh": "在整个实验过程中血氧饱和度保持稳定。"
+  }
+ ],
+ "sensitivity": [
+  {
+   "en": "The instrument demonstrated good sensitivity for detecting early signs of disease.",
+   "zh": "该工具在检测疾病早期迹象方面表现出良好的灵敏度。"
+  },
+  {
+   "en": "A sensitivity analysis showed that the results were robust to alternative assumptions.",
+   "zh": "敏感性分析表明，结果对替代假设而言是稳健的。"
+  },
+  {
+   "en": "Researchers reported high sensitivity but only moderate specificity in the test.",
+   "zh": "研究人员报告该检测的敏感性很高，但特异性仅为中等。"
+  }
+ ],
+ "specificity": [
+  {
+   "en": "The high specificity of the test means few false positives occur.",
+   "zh": "该检测的高特异性意味着假阳性很少出现。"
+  },
+  {
+   "en": "A specificity analysis confirmed that the marker distinguishes closely related cell types.",
+   "zh": "特异性分析证实该标记物能够区分密切相关的细胞类型。"
+  },
+  {
+   "en": "Critics questioned the specificity of these findings across different populations.",
+   "zh": "批评者质疑这些发现在不同人群中是否具有特异性。"
+  }
+ ],
+ "spectrum": [
+  {
+   "en": "Electromagnetic radiation covers a wide spectrum of wavelengths beyond visible light.",
+   "zh": "电磁辐射涵盖可见光以外宽广的波长谱。"
+  },
+  {
+   "en": "The findings represent one end of the spectrum of possible interpretations.",
+   "zh": "这些发现代表了由各种可能解释构成的连续体中的一端。"
+  },
+  {
+   "en": "Researchers analyzed the whole spectrum of responses from the participants.",
+   "zh": "研究人员分析了参与者的全部反应类型。"
+  }
+ ],
+ "statistic": [
+  {
+   "en": "This statistic summarizes the central tendency of the observed measurements.",
+   "zh": "该统计量概括了观测测量值的集中趋势。"
+  },
+  {
+   "en": "The reported statistic was calculated from only a handful of observations.",
+   "zh": "所报告的统计量仅根据少数几个观测值计算得出。"
+  },
+  {
+   "en": "Before quoting a statistic, always report the sample size and units.",
+   "zh": "引用统计量之前，总要报告样本量和计量单位。"
+  }
+ ],
+ "tension": [
+  {
+   "en": "There is growing tension between economic growth and environmental protection.",
+   "zh": "经济增长与环境保护之间的紧张关系日益加剧。"
+  },
+  {
+   "en": "The negotiations were marked by considerable tension between the two delegations.",
+   "zh": "谈判中两个代表团之间存在相当大的紧张关系。"
+  },
+  {
+   "en": "The film explores the tension between tradition and modernity in rural communities.",
+   "zh": "该影片探讨了农村社区中传统与现代之间的矛盾。"
+  }
+ ],
+ "theorem": [
+  {
+   "en": "The proof of this theorem rests on a well-established lemma.",
+   "zh": "该定理的证明建立在一个公认引理的基础之上。"
+  },
+  {
+   "en": "The theorem has been generalized in several subsequent papers.",
+   "zh": "该定理在随后的几篇论文中已被推广。"
+  },
+  {
+   "en": "Applying the theorem to real data requires additional assumptions about error.",
+   "zh": "将该定理应用于真实数据需要关于误差的额外假设。"
+  }
+ ],
+ "uncertainty": [
+  {
+   "en": "The model quantifies uncertainty through bootstrap confidence intervals around each estimate.",
+   "zh": "该模型通过每个估计值周围的自助法置信区间来量化不确定性。"
+  },
+  {
+   "en": "Honest reporting of uncertainty strengthens the credibility of published research.",
+   "zh": "如实报告不确定性可以增强已发表研究的可信度。"
+  },
+  {
+   "en": "Policy decisions must account for genuine uncertainty in the underlying evidence.",
+   "zh": "政策决策必须考虑底层证据中真实存在的不确定性。"
+  }
+ ],
+ "verification": [
+  {
+   "en": "Independent verification of the results confirmed the original laboratory findings.",
+   "zh": "对结果的独立验证证实了实验室最初的发现。"
+  },
+  {
+   "en": "The audit included verification of all reported financial figures.",
+   "zh": "这次审计包括对所有已报告财务数据的核实。"
+  },
+  {
+   "en": "Document verification is required before any claim can be published.",
+   "zh": "在任何主张发表之前都必须进行文件核查。"
+  }
+ ],
+ "boundary": [
+  {
+   "en": "The boundary between private and public funding remains blurred in practice.",
+   "zh": "私人资助与公共资助之间的界限在实践中仍然模糊。"
+  },
+  {
+   "en": "The study examines the boundary conditions under which the effect holds.",
+   "zh": "该研究考察了效应成立所需的边界条件。"
+  },
+  {
+   "en": "Marking the boundary of the study area helped standardize field measurements.",
+   "zh": "标出研究区域的边界有助于统一野外测量标准。"
+  }
+ ],
+ "baseline": [
+  {
+   "en": "All participants were assessed at baseline before receiving the treatment.",
+   "zh": "所有参与者在接受治疗前都接受了基线评估。"
+  },
+  {
+   "en": "The baseline data allowed us to compare subsequent outcomes across the two groups.",
+   "zh": "基线数据使我们能够比较两组之后的结局。"
+  },
+  {
+   "en": "The new method performs better than the baseline model on every dataset.",
+   "zh": "在每个数据集上，新方法都优于基线模型。"
+  }
+ ],
+ "consistency": [
+  {
+   "en": "There is a marked consistency in the findings across three independent laboratories.",
+   "zh": "三个独立实验室的结果具有显著的一致性。"
+  },
+  {
+   "en": "The internal consistency of the scale was assessed with an appropriate coefficient.",
+   "zh": "该量表的内部一致性以恰当的系数进行了评估。"
+  },
+  {
+   "en": "Reviewers praised the consistency of the argument throughout the manuscript.",
+   "zh": "审稿人赞赏了全稿论证的一致性。"
+  }
+ ],
+ "precision": [
+  {
+   "en": "The instrument achieves a precision of two decimal places.",
+   "zh": "该仪器的精度达到小数点后两位。"
+  },
+  {
+   "en": "Greater measurement precision improved the accuracy of the estimated effect.",
+   "zh": "更高的测量精确度提升了效应估计的准确性。"
+  },
+  {
+   "en": "In this context, precision is less important than validity.",
+   "zh": "在这一情境下，精确性不如效度重要。"
+  }
+ ],
+ "population": [
+  {
+   "en": "The study population included adults aged forty and above.",
+   "zh": "研究总体包括 40 岁及以上的成年人。"
+  },
+  {
+   "en": "Higher population density influences the cost of delivering health services.",
+   "zh": "较高的人口密度会影响提供医疗服务的成本。"
+  },
+  {
+   "en": "The population of the region has declined steadily over the past decade.",
+   "zh": "该地区的人口在过去 10 年中持续下降。"
+  }
+ ],
+ "control": [
+  {
+   "en": "Every participant in the control group received the standard treatment.",
+   "zh": "对照组的每位参与者都接受了标准治疗。"
+  },
+  {
+   "en": "Researchers controlled the temperature throughout the trial.",
+   "zh": "研究人员在整个试验期间控制着温度。"
+  },
+  {
+   "en": "Randomly assigning participants to conditions controls for known confounders.",
+   "zh": "将参与者随机分配到各条件组可以控制已知的混杂因素。"
+  }
+ ],
+ "coverage": [
+  {
+   "en": "Insurance coverage for mental health services remains limited in many countries.",
+   "zh": "在许多国家，心理健康服务的保险覆盖仍然有限。"
+  },
+  {
+   "en": "Data coverage varied considerably across the participating regions.",
+   "zh": "各参与地区的数据覆盖范围差异相当大。"
+  },
+  {
+   "en": "The review achieved full coverage of all published studies.",
+   "zh": "该综述实现了对所有已发表研究的完整覆盖。"
+  }
+ ],
+ "replication": [
+  {
+   "en": "Direct replication of the study in a second laboratory confirmed the effect.",
+   "zh": "在第二个实验室对该研究的直接复现证实了效应。"
+  },
+  {
+   "en": "A replication of the analysis confirmed that the estimates remained stable.",
+   "zh": "对分析的复现证实了估计值保持稳定。"
+  },
+  {
+   "en": "The crisis exposed serious gaps in the replication of published results.",
+   "zh": "这场危机暴露了已发表结果复现方面的严重缺陷。"
+  }
+ ],
+ "retention": [
+  {
+   "en": "Employee retention improved markedly after the company introduced flexible working arrangements.",
+   "zh": "公司引入弹性工作安排后，员工留存率明显提高。"
+  },
+  {
+   "en": "Water retention in sandy soils depends largely on organic matter content.",
+   "zh": "沙质土壤的保水能力在很大程度上取决于有机质含量。"
+  },
+  {
+   "en": "The study examined retention rates across three successive cohorts of participants.",
+   "zh": "该研究考察了连续三个参与者队列的留存率。"
+  }
+ ]
+}

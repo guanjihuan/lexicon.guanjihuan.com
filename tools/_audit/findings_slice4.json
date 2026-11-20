@@ -1,0 +1,50 @@
+[
+  {
+    "word": "so",
+    "field": "pos",
+    "index": -1,
+    "problem": "该词三条例句全部用于连接两个分句（“…, so the experiment was repeated”），在本库实际用法中起连词作用，标为「副词」不当（同类的 because/but 均标连词）。",
+    "current": "POS: 副词 | SUB: -",
+    "suggest": "POS: 连词 | SUB: -"
+  },
+  {
+    "word": "therefore",
+    "field": "pos",
+    "index": -1,
+    "problem": "三条例句中 therefore 均用于连接前后分句（“and therefore the conclusion must remain tentative”），在本库例句里是连词用法，标「副词」与实际用法不符。",
+    "current": "POS: 副词 | SUB: -",
+    "suggest": "POS: 连词 | SUB: -"
+  },
+  {
+    "word": "hence",
+    "field": "pos",
+    "index": -1,
+    "problem": "三条例句中 hence 均用于引出结果分句（“…; hence all readings from that week were discarded”），属连词用法，标「副词」不当。",
+    "current": "POS: 副词 | SUB: -",
+    "suggest": "POS: 连词 | SUB: -"
+  },
+  {
+    "word": "rather than",
+    "field": "pos",
+    "index": -1,
+    "problem": "词性字段为空值（(null/no-class)），本词在本库例句中用于连接两个成分（“revised the hypothesis rather than discarding the original dataset”），应给出具体词性。",
+    "current": "POS: (null/no-class) | SUB: -",
+    "suggest": "POS: 连词 | SUB: -"
+  },
+  {
+    "word": "approximately",
+    "field": "example_zh",
+    "index": 2,
+    "problem": "en 的 student population 指「学生群体/全体学生」，译成「学生人口」是人口统计义的生硬直译，汉语不成句义。",
+    "current": "ZH: 其质量大约相当于全部学生人口的总和。",
+    "suggest": "ZH: 其质量大约相当于全体学生的总和。"
+  },
+  {
+    "word": "uniformly",
+    "field": "example_zh",
+    "index": 1,
+    "problem": "en 的 uniformly 意为「一致地、一律地」（与本词条义项「一律地」一致），译文写成「普遍有所提高」变成「大多数」，与「无例外地一致」语义不一致。",
+    "current": "ZH: 在得到教师个性化反馈后，学生的表现普遍有所提高。",
+    "suggest": "ZH: 在得到教师个性化反馈后，学生的表现一致地有所提高。"
+  }
+]

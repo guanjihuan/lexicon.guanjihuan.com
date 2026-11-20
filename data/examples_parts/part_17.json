@@ -1,0 +1,548 @@
+{
+ "realm": [
+  {
+   "en": "Digital marketing now occupies a realm that traditional advertising never occupied.",
+   "zh": "数字营销如今占据着传统广告从未涉足的一个领域。"
+  },
+  {
+   "en": "The agreement opened a new realm of cooperation between the two universities.",
+   "zh": "该协议开启了两所大学之间合作的新领域。"
+  },
+  {
+   "en": "Questions of artistic taste belong to a realm that empirical evidence cannot settle.",
+   "zh": "审美趣味问题属于实证证据无法裁决的领域。"
+  }
+ ],
+ "arena": [
+  {
+   "en": "Graduate students increasingly compete in the global arena of scientific publishing.",
+   "zh": "研究生越来越多地在科学出版的全球竞技场中竞争。"
+  },
+  {
+   "en": "The proposal won broad support within the academic arena of environmental policy.",
+   "zh": "该提案在环境政策这一学术领域获得了广泛支持。"
+  },
+  {
+   "en": "Debate about data privacy has moved firmly into the political arena.",
+   "zh": "关于数据隐私的辩论已经明确进入了政治舞台。"
+  }
+ ],
+ "anchor": [
+  {
+   "en": "Researchers anchor their arguments in previously published empirical evidence.",
+   "zh": "研究者把论证锚定于此前已发表的实证证据上。"
+  },
+  {
+   "en": "A single reliable dataset can anchor the entire statistical model.",
+   "zh": "一个可靠的数据集就能为整个统计模型提供稳固的基础。"
+  },
+  {
+   "en": "The keynote speech anchored the entire afternoon conference session.",
+   "zh": "这篇主旨演讲支撑起整个下午的会议环节。"
+  }
+ ],
+ "territory": [
+  {
+   "en": "Traditional linguists once regarded written grammar as their exclusive territory.",
+   "zh": "传统语言学家曾把书面语法视为自己的专属领域。"
+  },
+  {
+   "en": "The theory of evolution transformed the territory of early nineteenth-century biology.",
+   "zh": "进化论改变了 19 世纪初生物学的疆域。"
+  },
+  {
+   "en": "Much of the scholarly territory remains contested among competing research groups.",
+   "zh": "其中相当一部分学术领域仍在相互竞争的研究团体之间存在争议。"
+  }
+ ],
+ "nominal": [
+  {
+   "en": "The reform delivered only nominal gains, since real incomes remained unchanged.",
+   "zh": "这项改革只带来了名义上的收益，因为实际收入并未改变。"
+  },
+  {
+   "en": "Membership on the committee is largely nominal and carries little decision-making power.",
+   "zh": "委员会成员资格在很大程度上只是名义上的，几乎没有决策权。"
+  },
+  {
+   "en": "The difference between the two proposals was nominal rather than substantial.",
+   "zh": "两个提案之间的差别是名义上的，而非实质性的。"
+  }
+ ],
+ "exert": [
+  {
+   "en": "Regulators exerted considerable pressure on banks to disclose their risk exposures.",
+   "zh": "监管机构对银行施加强大压力，要求披露风险敞口。"
+  },
+  {
+   "en": "The new director exerted her authority to reorganize the entire research unit.",
+   "zh": "新主任运用她的职权重组了整个研究部门。"
+  },
+  {
+   "en": "Gravity exerts a powerful influence on the motion of every satellite in orbit.",
+   "zh": "引力对轨道上每颗卫星的运动都施加着强大的影响。"
+  }
+ ],
+ "viable": [
+  {
+   "en": "Solar power is now a viable alternative to fossil fuel in many regions.",
+   "zh": "在许多地区，太阳能已成为化石燃料的可行替代方案。"
+  },
+  {
+   "en": "Without sufficient funding, the research project is unlikely to remain viable.",
+   "zh": "没有充足的资金，该研究项目不太可能继续维持下去。"
+  },
+  {
+   "en": "The committee concluded that the proposed reform was technically and politically viable.",
+   "zh": "委员会认为所提议的改革在技术上和政治上都是可行的。"
+  }
+ ],
+ "disrupt": [
+  {
+   "en": "The unexpected announcement disrupted the carefully arranged program of the conference.",
+   "zh": "这一出人意料的公告打乱了会议精心安排的议程。"
+  },
+  {
+   "en": "New digital platforms have disrupted traditional retail businesses across the country.",
+   "zh": "新的数字平台颠覆了全国的传统零售业务。"
+  },
+  {
+   "en": "Noise from the construction site disrupted the experiment running in the adjacent laboratory.",
+   "zh": "工地传来的噪音干扰了相邻实验室里正在进行的实验。"
+  }
+ ],
+ "impetus": [
+  {
+   "en": "Her criticism provided the necessary impetus for a complete reform of the curriculum.",
+   "zh": "她的批评为课程的全面改革提供了必要的推动力。"
+  },
+  {
+   "en": "The publication of the study gave fresh impetus to debates about statistical practice.",
+   "zh": "该研究的发表为关于统计实践的讨论注入了新的动力。"
+  },
+  {
+   "en": "Financial constraints removed much of the impetus behind the original project proposal.",
+   "zh": "财政限制大大削弱了最初项目提案背后的动力。"
+  }
+ ],
+ "onset": [
+  {
+   "en": "The onset of symptoms typically occurs within forty-eight hours.",
+   "zh": "症状通常在 48 小时内发作。"
+  },
+  {
+   "en": "The onset of severe weather delayed the departure of the research vessel.",
+   "zh": "恶劣天气的来临延误了科考船的出发。"
+  },
+  {
+   "en": "Since the onset of the crisis, enrollment in the program has declined sharply.",
+   "zh": "自危机开始以来，该项目的入学人数急剧下降。"
+  }
+ ],
+ "category": [
+  {
+   "en": "The classification assigns each observation to a single clearly defined category.",
+   "zh": "该分类将每个观测值归入一个明确界定的类别。"
+  },
+  {
+   "en": "Books of this category rarely circulate outside specialist libraries and archives.",
+   "zh": "这一类别的书籍很少在专业图书馆和档案馆之外流通。"
+  },
+  {
+   "en": "The scheme creates a new category for interdisciplinary research proposals.",
+   "zh": "该计划为跨学科研究提案设立了一个新类别。"
+  }
+ ],
+ "accuracy": [
+  {
+   "en": "The accuracy of the final figures depends on the quality of the raw measurements.",
+   "zh": "最终数据的准确性取决于原始测量的质量。"
+  },
+  {
+   "en": "Independent auditors verified the accuracy of the published financial statements.",
+   "zh": "独立审计人员核查了已发布财务报表的准确性。"
+  },
+  {
+   "en": "Students praised the explanation for its clarity and historical accuracy.",
+   "zh": "学生们称赞这一解释清晰明了且符合史实。"
+  }
+ ],
+ "analyze": [
+  {
+   "en": "Researchers analyzed survey data from more than two thousand households.",
+   "zh": "研究者分析了两千多户家庭的调查数据。"
+  },
+  {
+   "en": "The software analyzes large genomic datasets in a matter of hours.",
+   "zh": "该软件只需数小时即可分析庞大的基因组数据集。"
+  },
+  {
+   "en": "It is necessary to analyze the causes rather than merely describe the symptoms.",
+   "zh": "有必要分析原因，而不只是描述症状。"
+  }
+ ],
+ "approach": [
+  {
+   "en": "The research approach combines statistical modeling with qualitative interviews.",
+   "zh": "这套研究方法把统计建模与定性访谈结合起来。"
+  },
+  {
+   "en": "Our chosen approach allows the data to be collected at a manageable scale.",
+   "zh": "我们选用的做法使数据能够在可承受的规模上收集。"
+  },
+  {
+   "en": "The team approached the problem from a completely different angle.",
+   "zh": "团队从完全不同的角度处理了这个问题。"
+  }
+ ],
+ "apply": [
+  {
+   "en": "Clinicians may apply these results directly to practice in rural hospitals.",
+   "zh": "临床医生可以把这些结果直接应用于乡村医院的实践。"
+  },
+  {
+   "en": "Researchers must apply for funding before continuing the long-term observation study.",
+   "zh": "研究者必须申请资金，才能继续这项长期观察研究。"
+  },
+  {
+   "en": "Supervisors should apply the same method to datasets of any size.",
+   "zh": "导师应当把同样的方法应用于各种规模的数据集。"
+  }
+ ],
+ "assess": [
+  {
+   "en": "The panel will assess each proposal against clear scientific and ethical criteria.",
+   "zh": "评审委员会将依据明确的科学与伦理标准评估每份提案。"
+  },
+  {
+   "en": "Doctors assess the severity of the patient's condition before deciding treatment.",
+   "zh": "医生在决定治疗方案前评估病情的严重程度。"
+  },
+  {
+   "en": "It is difficult to assess the long-term impact of the policy change.",
+   "zh": "很难评估这一政策变化的长期影响。"
+  }
+ ],
+ "assume": [
+  {
+   "en": "The model assumes that demand for electricity will double over the next decade.",
+   "zh": "该模型假定未来 10 年电力需求将翻一番。"
+  },
+  {
+   "en": "Early scholars assumed that the stars moved in perfect circular paths.",
+   "zh": "早期学者假定星辰沿完美的圆周运行。"
+  },
+  {
+   "en": "The newly appointed chair assumed responsibility for the entire research program.",
+   "zh": "新任主席承担了整个研究项目的责任。"
+  }
+ ],
+ "calculate": [
+  {
+   "en": "Engineers calculated the total load before approving the final structural design.",
+   "zh": "工程师在批准最终结构设计之前计算了总负载。"
+  },
+  {
+   "en": "The team calculated that the experiment would require another six months.",
+   "zh": "团队估算该实验还需要六个月时间。"
+  },
+  {
+   "en": "It is difficult to calculate the social cost of such delays.",
+   "zh": "很难计算此类延误所带来的社会成本。"
+  }
+ ],
+ "combine": [
+  {
+   "en": "The treatment combines traditional methods with recently developed genetic techniques.",
+   "zh": "该疗法将传统方法与新近开发的基因技术结合起来。"
+  },
+  {
+   "en": "These two datasets can be combined to produce a much larger sample.",
+   "zh": "这两个数据集可以合并，形成大得多的样本。"
+  },
+  {
+   "en": "The design combines simplicity with durability, and remains inexpensive to manufacture.",
+   "zh": "该设计兼具简洁与耐用，而且制造成本依然低廉。"
+  }
+ ],
+ "compare": [
+  {
+   "en": "The study compares rainfall patterns across four regions over thirty years.",
+   "zh": "该研究比较了四个地区 30 年间的降雨模式。"
+  },
+  {
+   "en": "Compared with the previous model, the new one predicts outcomes far more accurately.",
+   "zh": "与先前模型相比，新模型对结果的预测准确得多。"
+  },
+  {
+   "en": "Historians often compare the French Revolution to the American War of Independence.",
+   "zh": "历史学家常常把法国大革命与美国独立战争相比较。"
+  }
+ ],
+ "conclude": [
+  {
+   "en": "The authors concluded that further research is needed to confirm these findings.",
+   "zh": "作者得出结论，认为需要进一步研究来证实这些发现。"
+  },
+  {
+   "en": "The review will conclude with a summary of recommendations for policymakers.",
+   "zh": "综述将以对政策制定者的建议摘要结束。"
+  },
+  {
+   "en": "The two departments concluded a formal agreement on shared laboratory facilities.",
+   "zh": "两个系就共用实验室设施达成了正式协议。"
+  }
+ ],
+ "conduct": [
+  {
+   "en": "The team conducted a controlled experiment with two matched groups of participants.",
+   "zh": "团队用两个匹配的参与者小组进行了一项对照实验。"
+  },
+  {
+   "en": "An experienced officer conducted the interview in a calm and professional manner.",
+   "zh": "一位经验丰富的官员以冷静而专业的方式进行了访谈。"
+  },
+  {
+   "en": "Good governance requires that researchers conduct their work with full transparency.",
+   "zh": "良好的治理要求研究者以完全透明的方式开展工作。"
+  }
+ ],
+ "consider": [
+  {
+   "en": "The committee will consider all proposals before announcing its decision in June.",
+   "zh": "委员会将在六月宣布决定之前考虑所有提案。"
+  },
+  {
+   "en": "Many economists consider high inflation a serious threat to long-term growth.",
+   "zh": "许多经济学家认为高通胀是对长期增长的严重威胁。"
+  },
+  {
+   "en": "Please consider the ethical implications before publishing your results.",
+   "zh": "在发表你的研究结果之前，请考虑其中的伦理影响。"
+  }
+ ],
+ "contribute": [
+  {
+   "en": "Regular exercise contributes greatly to the prevention of chronic disease.",
+   "zh": "规律运动对预防慢性疾病大有帮助。"
+  },
+  {
+   "en": "She contributed an article on medieval trade to the history journal.",
+   "zh": "她向历史学期刊投稿了一篇关于中世纪贸易的论文。"
+  },
+  {
+   "en": "Several factors contribute to the gradual decline of the regional dialect.",
+   "zh": "若干因素促成了该地方方言的逐渐衰落。"
+  }
+ ],
+ "define": [
+  {
+   "en": "The committee will define the criteria before accepting any new submissions.",
+   "zh": "委员会将在接受任何新投稿之前界定相关标准。"
+  },
+  {
+   "en": "This case defines the boundary between commercial and academic research.",
+   "zh": "这一案例界定了商业研究与学术研究之间的界线。"
+  },
+  {
+   "en": "Words like 'efficiency' can define an entire political program.",
+   "zh": "像「效率」这样的词可以界定整个政治纲领。"
+  }
+ ],
+ "demonstrate": [
+  {
+   "en": "The experiment demonstrated that the new material conducts heat remarkably well.",
+   "zh": "实验证明这种新材料导热性能非常好。"
+  },
+  {
+   "en": "The lecturer demonstrated how the device operates during the afternoon session.",
+   "zh": "讲师在下午的课上示范了该设备的工作原理。"
+  },
+  {
+   "en": "The results demonstrate a clear link between diet and recovery speed.",
+   "zh": "研究结果证明了饮食与恢复速度之间的明确联系。"
+  }
+ ],
+ "depend": [
+  {
+   "en": "Crop yields depend heavily on rainfall and the availability of fertile soil.",
+   "zh": "作物产量在很大程度上取决于降雨量和肥沃土壤的可获得性。"
+  },
+  {
+   "en": "The success of the project depends on cooperation between the two laboratories.",
+   "zh": "该项目的成功取决于两个实验室之间的合作。"
+  },
+  {
+   "en": "Funding for long-term research depends on sustained public and private commitment.",
+   "zh": "长期研究的资金依赖于公共和私人方面的持续投入。"
+  }
+ ],
+ "describe": [
+  {
+   "en": "The article describes how ancient trade routes shaped Mediterranean economies.",
+   "zh": "该文章描述了古代贸易路线如何塑造地中海经济。"
+  },
+  {
+   "en": "Witnesses describe the hours following the earthquake as chaotic and terrifying.",
+   "zh": "目击者形容地震后的几个小时既混乱又可怕。"
+  },
+  {
+   "en": "No single term adequately describes this unusual mixture of traditions.",
+   "zh": "没有任何一个词能充分描述这种不同传统的独特混合。"
+  }
+ ],
+ "design": [
+  {
+   "en": "The team designed a low-cost sensor for monitoring water quality in rural areas.",
+   "zh": "团队设计了一款用于监测乡村水质的低成本传感器。"
+  },
+  {
+   "en": "The architect designed the new library around a central reading courtyard.",
+   "zh": "建筑师围绕中央阅读庭院设计了新图书馆。"
+  },
+  {
+   "en": "She designed the study to measure long-term changes in student motivation.",
+   "zh": "她设计这项研究旨在衡量学生动机的长期变化。"
+  }
+ ],
+ "determine": [
+  {
+   "en": "Genes alone do not determine a person's chances of developing the disease.",
+   "zh": "仅凭基因并不能决定一个人罹患该病的可能性。"
+  },
+  {
+   "en": "Further experiments will determine whether the treatment works in practice.",
+   "zh": "进一步的实验将确定该疗法在实践中是否有效。"
+  },
+  {
+   "en": "The committee determined that the proposal lacked sufficient methodological rigor.",
+   "zh": "委员会认定该提案缺乏足够的方法论严谨性。"
+  }
+ ],
+ "develop": [
+  {
+   "en": "The institute developed a new method for detecting trace amounts of pollutants.",
+   "zh": "该研究所开发出一种检测痕量污染物的新方法。"
+  },
+  {
+   "en": "Over decades, the two regions developed distinctly different agricultural traditions.",
+   "zh": "数十年来，这两个地区形成了截然不同的农业传统。"
+  },
+  {
+   "en": "She developed an interest in medieval history while studying in Edinburgh.",
+   "zh": "她在爱丁堡求学时逐渐对中世纪历史产生了兴趣。"
+  }
+ ],
+ "discuss": [
+  {
+   "en": "The panel discussed the ethical implications of publishing incomplete data.",
+   "zh": "评审组讨论了发表不完整数据所涉及的伦理问题。"
+  },
+  {
+   "en": "The author discusses several possible explanations for the observed pattern.",
+   "zh": "作者讨论了针对所观察模式的几种可能解释。"
+  },
+  {
+   "en": "We discussed the proposal informally before the formal meeting began.",
+   "zh": "我们在正式会议开始前非正式地讨论了该提案。"
+  }
+ ],
+ "enhance": [
+  {
+   "en": "Regular feedback greatly enhances the quality of student writing.",
+   "zh": "经常性的反馈能大幅提升学生写作的质量。"
+  },
+  {
+   "en": "The redesign enhances both comfort and energy efficiency in older buildings.",
+   "zh": "这项改造既提升了旧建筑的舒适度，也提高了其能源效率。"
+  },
+  {
+   "en": "Careful editing enhances the clarity of the argument considerably.",
+   "zh": "细致的编辑显著增强了论证的清晰度。"
+  }
+ ],
+ "ensure": [
+  {
+   "en": "The protocol ensures that every participant provides informed written consent.",
+   "zh": "该规程确保每位参与者都提供知情书面同意。"
+  },
+  {
+   "en": "Careful archiving ensures that the original data remain accessible to future researchers.",
+   "zh": "妥善的归档确保原始数据可供未来研究者查阅。"
+  },
+  {
+   "en": "Auditors ensure that published results comply with accepted standards of conduct.",
+   "zh": "审计人员确保已发表的结果符合公认的行为规范。"
+  }
+ ],
+ "estimate": [
+  {
+   "en": "Researchers estimate that the glacier has retreated nearly two kilometers since 1990.",
+   "zh": "研究者估计自 1990 年以来该冰川已后退近两公里。"
+  },
+  {
+   "en": "The contractor estimated the total cost of repairs at two million euros.",
+   "zh": "承包商估算维修总成本为 200 万欧元。"
+  },
+  {
+   "en": "We estimate the remaining lifespan of the equipment at roughly five years.",
+   "zh": "我们估计该设备的剩余使用寿命约为五年。"
+  }
+ ],
+ "examine": [
+  {
+   "en": "The inspector examined the structural damage before approving the certificate of occupancy.",
+   "zh": "检查员在签发入住许可前检查了结构性损坏情况。"
+  },
+  {
+   "en": "The study examines how family income affects educational attainment across regions.",
+   "zh": "该研究考察家庭收入如何影响不同地区的教育成就。"
+  },
+  {
+   "en": "Doctors examined the patient carefully and ordered additional laboratory tests.",
+   "zh": "医生仔细检查了病人，并安排了额外的实验室检测。"
+  }
+ ],
+ "exist": [
+  {
+   "en": "No reliable evidence exists to support that particular claim.",
+   "zh": "没有可靠的证据支持那个特定的说法。"
+  },
+  {
+   "en": "Such a large research institute did not exist before the war years.",
+   "zh": "在战争年代之前并不存在如此庞大的研究所。"
+  },
+  {
+   "en": "A delicate balance must exist between academic freedom and institutional responsibility.",
+   "zh": "学术自由与机构责任之间必须保持一种微妙的平衡。"
+  }
+ ],
+ "expect": [
+  {
+   "en": "Analysts expect the economy to expand by two percent next year.",
+   "zh": "分析师预计明年经济将增长 2%。"
+  },
+  {
+   "en": "Participants expected the task to be difficult, yet they completed it quickly.",
+   "zh": "参与者原以为这项任务很难，却很快完成了。"
+  },
+  {
+   "en": "The university expects a record number of applications for the new doctoral program.",
+   "zh": "大学预计新博士项目的申请人数将创纪录。"
+  }
+ ],
+ "explain": [
+  {
+   "en": "The lecturer explained how the two statistical measures differ in practice.",
+   "zh": "讲师解释了这两种统计指标在实际应用中的差异。"
+  },
+  {
+   "en": "Genes alone cannot explain the observed differences in recovery times.",
+   "zh": "仅凭基因无法解释康复时间上观察到的差异。"
+  },
+  {
+   "en": "He explained his reasoning in a short note attached to the manuscript.",
+   "zh": "他在随稿件附上的简短说明中解释了自己的推理过程。"
+  }
+ ]
+}

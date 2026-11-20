@@ -1,0 +1,72 @@
+{
+ "adopt": [
+  {"en": "The committee adopted a revised protocol after reviewing the pilot data.", "zh": "委员会审阅试点数据后采纳了修订后的研究方案。"},
+  {"en": "Many universities have adopted open access policies to broaden dissemination of research findings.", "zh": "许多大学已采纳开放获取政策，以扩大研究成果的传播范围。"},
+  {"en": "The couple decided to adopt a child from the public foster care system.", "zh": "这对夫妇决定从公共寄养体系中收养一名儿童。"}
+ ],
+ "administer": [
+  {"en": "A trained researcher administered the questionnaire to each participant in a private room.", "zh": "一名受过专门训练的研究人员在独立房间内向每位受访者发放问卷。"},
+  {"en": "The agency administers the national program for student financial aid.", "zh": "该机构负责实施全国学生助学项目。"},
+  {"en": "The same dose was administered intravenously under close clinical supervision.", "zh": "在严密临床监护下以静脉方式给药，剂量与前次相同。"}
+ ],
+ "advise": [
+  {"en": "The panel advised the ministry to revise the draft regulation before its adoption.", "zh": "专家小组建议主管部门在草案通过之前先行修订。"},
+  {"en": "Several senior colleagues advised her to seek a second opinion from the specialist.", "zh": "几位资深同事建议她向该领域专家再行请教。"},
+  {"en": "The supervisor advised the committee of the change in research protocol.", "zh": "指导教师就研究方案的变动向委员会作了通报。"}
+ ],
+ "affiliate": [
+  {"en": "Several departments affiliated themselves with the newly established center for interdisciplinary research.", "zh": "若干院系挂靠新组建的跨学科研究中心。"},
+  {"en": "The ministry required private testing centers to affiliate with an accredited national body.", "zh": "主管部门要求各私营检测机构隶属一家经认证的国家机构。"},
+  {"en": "Two research teams affiliated their archives with the national library to improve long-term access.", "zh": "两个研究团队将各自的档案挂靠国家图书馆，以改善长期取用条件。"}
+ ],
+ "anticipate": [
+  {"en": "Researchers anticipated that the reform would reduce delays in the review of grant proposals.", "zh": "研究人员预期该项改革将缩短科研基金申请的评审周期。"},
+  {"en": "We anticipate substantial variation in reading times across the sample of adult learners.", "zh": "我们预计成年学习者样本在阅读时长上存在显著差异。"},
+  {"en": "The conference proceedings were released earlier than the organizers had anticipated.", "zh": "会议文集的发布时间早于组织者的预期。"}
+ ],
+ "authenticate": [
+  {"en": "The archive employs a cryptographic protocol to authenticate each digital record.", "zh": "该档案馆采用加密协议对每一份数字记录进行认证。"},
+  {"en": "The laboratory authenticates the provenance of samples before reporting their isotopic values.", "zh": "实验室在报告同位素数值之前对样本来源加以鉴别。"},
+  {"en": "Historians authenticate manuscripts by comparing inks, seals and scribal conventions.", "zh": "历史学者通过比较墨迹、印章与书写习惯来鉴别手稿真伪。"}
+ ],
+ "capture": [
+  {"en": "The questionnaire was designed to capture variation in students' prior exposure to academic writing.", "zh": "问卷的设计旨在捕捉学生先前学术写作接触程度的差异。"},
+  {"en": "The camera captured the onset of the storm as it crossed the valley.", "zh": "摄像机记录下风暴越过河谷时的初始景象。"},
+  {"en": "The special issue captured a wide range of methodological approaches to the study of bilingualism.", "zh": "该专刊广泛汇集了双语研究中多种多样的方法路径。"}
+ ],
+ "classify": [
+  {"en": "Researchers classify responses according to the level of agreement reported by participants.", "zh": "研究者依据受访者所报告的认同程度对作答进行归类。"},
+  {"en": "Taxonomists classify organisms by shared morphological traits rather than by superficial resemblance.", "zh": "分类学家依据共同的形态特征而非表面相似性对生物加以分类。"},
+  {"en": "The commission would classify the country as a high-income economy with rapid growth.", "zh": "该委员会将把该国归类为高收入且增长迅速的经济体。"}
+ ],
+ "conceive": [
+  {"en": "The team conceived the study as a response to recurring gaps in published evidence.", "zh": "该团队将这项研究设想为对已发表证据中反复出现的空白的回应。"},
+  {"en": "It is difficult to conceive of a reform that would satisfy all stakeholders.", "zh": "很难设想出一项能够满足所有利益相关方诉求的改革。"},
+  {"en": "She conceived the framework after reviewing archival records from earlier decades.", "zh": "她在审阅了此前数十年的档案记录之后构想出这一框架。"}
+ ],
+ "concur": [
+  {"en": "Most reviewers concur that the sampling strategy limits the strength of the conclusions.", "zh": "多数评审者一致认为抽样策略限制了结论的效力。"},
+  {"en": "The committee concurred with the recommendation of the independent review panel.", "zh": "委员会同意独立评审小组提出的建议。"},
+  {"en": "Three separate surveys concur in their conclusion that rural schools face persistent shortages.", "zh": "三项彼此独立的调查得出相同结论，认为农村学校持续面临资源短缺。"}
+ ],
+ "conform": [
+  {"en": "The revised protocol must conform to the ethical guidelines issued by the review board.", "zh": "修订后的方案必须符合审查委员会发布的伦理准则。"},
+  {"en": "The measurement scale conformed closely to the structure proposed in the original theoretical framework.", "zh": "该测量量表与原始理论框架所提出的结构高度吻合。"},
+  {"en": "Newly hired staff were expected to conform to the department's standards of academic writing.", "zh": "新入职的教职人员应当符合该院系对学术写作的规范要求。"}
+ ],
+ "consist": [
+  {"en": "The final sample consists of graduate students enrolled in several disciplines.", "zh": "最终样本由来自若干学科的在校研究生构成。"},
+  {"en": "The difficulty of the task consists in the ambiguity of the instructions.", "zh": "该任务的难点在于指令表述的含糊性。"},
+  {"en": "The committee consists of senior scholars and representatives of the participating institutions.", "zh": "委员会由资深学者和各参与机构的代表组成。"}
+ ],
+ "convey": [
+  {"en": "The abstract should convey the main finding without overstating its significance.", "zh": "摘要应当传达主要发现而不得夸大其意义。"},
+  {"en": "Nonverbal cues such as tone and posture convey meaning that words alone cannot capture.", "zh": "语调与体态等非言语线索传达出单纯依靠言语无法获取的意义。"},
+  {"en": "Pipelines convey crude oil from the producing region to coastal refineries.", "zh": "管道将原油从产区输送到沿海炼油厂。"}
+ ],
+ "cultivate": [
+  {"en": "Universities cultivate the reading habits that underpin lifelong academic engagement.", "zh": "大学培养支撑终身学术投入的阅读习惯。"},
+  {"en": "She cultivated a disciplined writing routine through regular practice and feedback.", "zh": "她通过规律练习与反馈养成了一套严谨的写作习惯。"},
+  {"en": "The region cultivated rice on terraced fields that follow the contour of the valley.", "zh": "该地区在沿河谷等高线修筑的梯田上种植水稻。"}
+ ]
+}

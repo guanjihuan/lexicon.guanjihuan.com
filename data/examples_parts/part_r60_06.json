@@ -1,0 +1,67 @@
+{
+ "finally": [
+  {"en": "The replication study finally confirmed the earlier finding that moderate doses improve recall.", "zh": "复制研究最终证实了先前关于中等剂量可改善记忆的发现。"},
+  {"en": "After years of dispute, the committee finally issued a formal statement on the matter.", "zh": "经过多年的争论，委员会终于就此事发表了正式声明。"},
+  {"en": "Only after the instruments were recalibrated did the sensor readings finally stabilize within the tolerance range.", "zh": "只有在仪器重新校准之后，传感器读数才终于稳定在容差范围之内。"}
+ ],
+ "broadly": [
+  {"en": "Both studies broadly agree that the effect persists after controlling for demographic differences.", "zh": "两项研究大体一致地认为，在控制人口学差异之后该效应依然存在。"},
+  {"en": "The proposal was broadly supported by regional authorities, although funding details remained unresolved.", "zh": "该提案得到了地方当局的广泛支持，尽管资金细节仍未解决。"},
+  {"en": "Broadly speaking, the literature treats institutional trust as a precondition for compliance.", "zh": "总体而言，文献把制度信任视为遵守规定的前提条件。"}
+ ],
+ "as well": [
+  {"en": "The instrument measures reading comprehension as well as vocabulary size in secondary school pupils.", "zh": "该工具既能测量中学生的阅读理解水平，也能测量其词汇量。"},
+  {"en": "This approach reduces dropout rates as well as lowering the cost of each assessment.", "zh": "这一做法既能降低辍学率，也能减少每次评估的成本。"},
+  {"en": "Critics argued that the sample excluded rural households as well as very young children.", "zh": "批评者指出，该样本既排除了农村家庭，也排除了年龄极小的儿童。"}
+ ],
+ "at least": [
+  {"en": "Participants completed at least three practice trials before the experimental block began.", "zh": "参与者在实验区组开始之前至少完成三次练习试次。"},
+  {"en": "The review found at least a dozen studies reporting a similar association in clinical cohorts.", "zh": "该综述发现至少有十余项研究在临床队列中报告了类似的关联。"},
+  {"en": "A reading age of at least eleven was required for entry into the longitudinal program.", "zh": "进入该纵向项目的条件是阅读年龄至少达到十一岁。"}
+ ],
+ "at most": [
+  {"en": "Each respondent was allowed at most two questions in the follow-up interview.", "zh": "每位受访者在后续访谈中最多只能提出两个问题。"},
+  {"en": "The intervention may increase the sample at most by a small margin in rural districts.", "zh": "该干预措施至多只能使农村地区的样本小幅增加。"},
+  {"en": "Such a model would explain at most a modest share of the observed variation in attainment.", "zh": "这样的模型至多只能解释学业表现中已观测到的一小部分变异。"}
+ ],
+ "on the contrary": [
+  {"en": "On the contrary, the follow-up survey found no evidence of the reported decline in engagement.", "zh": "恰恰相反，后续调查并未发现所报道的参与度下降的证据。"},
+  {"en": "The two traditions are not merely different; on the contrary, they imply incompatible standards of evidence.", "zh": "这两种传统并非仅仅不同，恰恰相反，它们预设了互不相容的证据标准。"},
+  {"en": "The policy did not merely fail to improve outcomes; on the contrary, it widened existing inequalities.", "zh": "该政策不仅未能改善结果，恰恰相反，它还扩大了既有的不平等。"}
+ ],
+ "above all": [
+  {"en": "Above all, the design must ensure that participants can withdraw without any penalty.", "zh": "最重要的是，实验设计必须确保参与者能够不受任何惩罚地退出。"},
+  {"en": "Above all, the report emphasizes the need for independent replication of its central claim.", "zh": "最重要的是，该报告强调需要对其核心论断进行独立的重复验证。"},
+  {"en": "The committee's recommendation reflects, above all, a concern for equitable access to public services.", "zh": "该委员会的建议首要地体现了对公共服务公平可及的关切。"}
+ ],
+ "after all": [
+  {"en": "The intervention was modest, and after all it addressed a problem that had persisted for decades.", "zh": "该干预措施幅度有限，但它毕竟应对的是一个延续数十年的问题。"},
+  {"en": "After all, a measure of agreement is preferable to a prolonged dispute over terminology.", "zh": "毕竟，达成一定程度的共识总比围绕术语长期争论要好。"},
+  {"en": "It is unreasonable to dismiss the theory; after all, it accounts for a substantial share of the data.", "zh": "把这一理论弃置一旁是不合理的，毕竟它解释了数据中相当大的一部分。"}
+ ],
+ "if": [
+  {"en": "If the sample size is insufficient, the estimator will produce misleadingly narrow confidence intervals.", "zh": "如果样本量不足，估计量将产生具有误导性的过窄置信区间。"},
+  {"en": "The grant can be renewed only if the investigators submit a detailed data management plan.", "zh": "只有在研究者提交详细的数据管理计划时，该资助才能获得续期。"},
+  {"en": "Replication remains difficult if raw materials and protocols are not publicly archived.", "zh": "如果原始材料与实验方案未公开存档，重复验证仍然难以实现。"}
+ ],
+ "than": [
+  {"en": "A longitudinal design yields stronger evidence than a single cross-sectional survey of attitudes.", "zh": "纵向设计所获证据比单次的横断面态度调查更为有力。"},
+  {"en": "Participants who received feedback performed better than those who received none.", "zh": "获得反馈的参与者表现优于未获得反馈的参与者。"},
+  {"en": "The revised scale was easier to administer than the earlier instrument had been.", "zh": "修订后的量表比先前的工具更易于施测。"}
+ ],
+ "as": [
+  {"en": "As the longitudinal dataset grows, estimates of regional inequality become progressively more stable.", "zh": "随着纵向数据集的扩充，地区不平等的估计值逐渐趋于稳定。"},
+  {"en": "As testing conditions changed over the decade, earlier scores cannot be directly compared with later ones.", "zh": "由于十年间测试条件发生了变化，早期的分数无法与后期分数直接比较。"},
+  {"en": "The gradient persisted as enrollment expanded into more rural districts across the region.", "zh": "随着招生范围扩展到该地区更多的农村学区，这一梯度依然存在。"}
+ ],
+ "then": [
+  {"en": "If the estimates converge, then the model can be accepted as an adequate description.", "zh": "如果各项估计彼此收敛，那么该模型可以被接受为一种充分的描述。"},
+  {"en": "The policy failed; then, what remained was to explain why implementation had diverged from design.", "zh": "该政策失败了，那么剩下的便是解释为何执行偏离了原设计。"},
+  {"en": "Suppose the estimates agree; then the conclusion is robust to a reasonable range of specifications.", "zh": "假设各项估计彼此一致，那么结论对于合理范围内的模型设定是稳健的。"}
+ ],
+ "when": [
+  {"en": "When the control variables were included, the association between exposure and outcome weakened substantially.", "zh": "当纳入控制变量之后，暴露与结果之间的关联明显减弱。"},
+  {"en": "Researchers must document when and why participants were excluded from the final analysis.", "zh": "研究者必须说明参与者何时以及为何被排除在最终分析之外。"},
+  {"en": "The reform was introduced when fiscal conditions made gradual adjustment politically feasible.", "zh": "该改革是在财政条件使渐进调整在政治上变得可行之时引入的。"}
+ ]
+}

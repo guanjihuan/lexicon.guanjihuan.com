@@ -1,0 +1,102 @@
+{
+ "contend": [
+  {"en": "The authors contend that the observed decline reflects policy changes rather than weather.", "zh": "作者们主张，观察到的下降反映的是政策变化而非天气。"},
+  {"en": "Critics contend that the sample was too small to support such a broad conclusion.", "zh": "批评者争辩说，样本太小，不足以支持如此宽泛的结论。"},
+  {"en": "Several scholars contend that definitions of literacy vary across cultures.", "zh": "几位学者主张，对文化素养的定义因文化而异。"}
+ ],
+ "concede": [
+  {"en": "The author concedes that the effect size is modest but insists it is meaningful.", "zh": "作者承认效应量不大，但坚持认为它有意义。"},
+  {"en": "Even opponents concede that the reform improved transparency in public procurement.", "zh": "即便是反对者也承认，这项改革提高了公共采购的透明度。"},
+  {"en": "The researchers concede the limitations of their design and call for replication.", "zh": "研究者们承认其设计的局限，并呼吁进行重复验证。"}
+ ],
+ "rebut": [
+  {"en": "The paper rebuts earlier claims with a much larger dataset.", "zh": "该论文用大得多的数据集驳斥了先前的主张。"},
+  {"en": "Two commentaries sought to rebut the methodology of the original study.", "zh": "两篇评论试图反驳原研究的方法。"},
+  {"en": "The panel rebutted the accusation that the results had been selectively reported.", "zh": "专家组驳斥了结果被选择性报告的指责。"}
+ ],
+ "affirm": [
+  {"en": "The follow-up study affirmed the link between sleep and memory consolidation.", "zh": "后续研究确认了睡眠与记忆巩固之间的联系。"},
+  {"en": "The court affirmed the principle that data subjects must give informed consent.", "zh": "法院确认了数据主体必须给予知情同意的原则。"},
+  {"en": "Interviews with teachers affirmed the questionnaire findings.", "zh": "对教师的访谈证实了问卷的结果。"}
+ ],
+ "allege": [
+  {"en": "The report alleges that the laboratory bypassed standard ethical review.", "zh": "该报告指控该实验室绕过了标准的伦理审查。"},
+  {"en": "It is alleged that the firm manipulated emissions data for several years.", "zh": "据称，该公司多年来一直操纵排放数据。"},
+  {"en": "The article alleges conflicts of interest among several panel members.", "zh": "该文章指控数名小组成员存在利益冲突。"}
+ ],
+ "purport": [
+  {"en": "The technique purports to measure implicit attitudes without self-report.", "zh": "该技术号称能在没有自我报告的情况下测量内隐态度。"},
+  {"en": "Several apps purport to improve attention, yet few publish evaluation data.", "zh": "一些应用号称能改善注意力，但很少公布评估数据。"},
+  {"en": "The document purports to summarize a decade of field observations.", "zh": "该文件自称总结了十年的实地观察。"}
+ ],
+ "signify": [
+  {"en": "In this diagram, a dashed line signifies an indirect pathway.", "zh": "在此图中，虚线表示间接路径。"},
+  {"en": "A rising vacancy rate may signify weakening demand in the local economy.", "zh": "空置率上升可能意味着当地经济需求走弱。"},
+  {"en": "The gesture signifies agreement in some cultures and refusal in others.", "zh": "这一手势在某些文化中表示同意，在另一些文化中表示拒绝。"}
+ ],
+ "presuppose": [
+  {"en": "The argument presupposes that respondents interpret the scale in the same way.", "zh": "该论证预设受访者以相同方式理解这份量表。"},
+  {"en": "Interview methods presuppose a degree of trust between researcher and participant.", "zh": "访谈方法预设研究者与参与者之间有一定程度的信任。"},
+  {"en": "Cost-benefit analysis presupposes that all outcomes can be assigned monetary values.", "zh": "成本效益分析预设所有结果都能被赋予货币价值。"}
+ ],
+ "accelerate": [
+  {"en": "Urbanization has accelerated the loss of surrounding farmland.", "zh": "城市化加速了周边农田的流失。"},
+  {"en": "Rising temperatures accelerate the melting of mountain glaciers.", "zh": "气温上升加速了山地冰川的消融。"},
+  {"en": "Digital tools can accelerate the analysis of large text corpora.", "zh": "数字工具可以加速对大型文本语料的分析。"}
+ ],
+ "exacerbate": [
+  {"en": "Fuel subsidies often exacerbate air pollution in dense cities.", "zh": "燃料补贴常常加剧密集城市的空气污染。"},
+  {"en": "The staffing shortage exacerbated delays in patient discharge.", "zh": "人手短缺加剧了患者出院的延误。"},
+  {"en": "Policy makers must avoid measures that exacerbate regional inequality.", "zh": "政策制定者必须避免加剧区域不平等的举措。"}
+ ],
+ "aggravate": [
+  {"en": "Poorly timed interventions can aggravate rather than ease the crisis.", "zh": "时机不当的干预可能加重而非缓解危机。"},
+  {"en": "The study found that noise exposure aggravates sleep disturbances in children.", "zh": "研究发现噪声暴露会加重儿童的睡眠障碍。"},
+  {"en": "Cutting maintenance budgets aggravated the deterioration of the road network.", "zh": "削减养护预算加重了道路网的劣化。"}
+ ],
+ "escalate": [
+  {"en": "Trade disputes escalated into broader restrictions on technology transfer.", "zh": "贸易争端升级为对技术转移更广泛的限制。"},
+  {"en": "The cost of clinical trials has escalated over the past two decades.", "zh": "临床试验的成本在过去二十年里不断攀升。"},
+  {"en": "Officials worried that local protests might escalate into national unrest.", "zh": "官员们担心地方抗议可能升级为全国性的骚动。"}
+ ],
+ "stagnate": [
+  {"en": "Real wages stagnated for a decade despite steady productivity growth.", "zh": "尽管生产率持续增长，实际工资却停滞了十年。"},
+  {"en": "The sector stagnated after subsidies were withdrawn in the early 2000s.", "zh": "21 世纪初补贴取消后，该行业陷入停滞。"},
+  {"en": "Firms in the region stagnated as investment flowed elsewhere.", "zh": "随着资金流向别处，该地区的企业陷入停滞。"}
+ ],
+ "oscillate": [
+  {"en": "The pendulum oscillates with a period that depends on its length.", "zh": "摆锤以取决于其长度的周期振荡。"},
+  {"en": "Public opinion oscillated between support for and distrust of the program.", "zh": "公众舆论在对该计划的支持与不信任之间摇摆。"},
+  {"en": "Lake levels oscillate seasonally in response to rainfall patterns.", "zh": "湖泊水位随降水模式发生季节性波动。"}
+ ],
+ "plummet": [
+  {"en": "Enrollment plummeted after tuition fees were doubled.", "zh": "学费翻倍后，入学人数骤降。"},
+  {"en": "Confidence in the currency plummeted during the debt crisis.", "zh": "债务危机期间对该货币的信心暴跌。"},
+  {"en": "The population of the species plummeted following habitat fragmentation.", "zh": "栖息地破碎化之后，该物种的种群数量骤减。"}
+ ],
+ "soar": [
+  {"en": "Housing prices soared in metropolitan areas during the boom.", "zh": "繁荣时期大都市地区的房价飙升。"},
+  {"en": "Demand for rare earth metals has soared with the growth of electric vehicles.", "zh": "随着电动汽车的增长，对稀土金属的需求猛增。"},
+  {"en": "Publication output soared after the journal moved to open access.", "zh": "该期刊转为开放获取后，发文量猛增。"}
+ ],
+ "dwindle": [
+  {"en": "Funding for basic research dwindled as priorities shifted to applied projects.", "zh": "随着重心转向应用项目，基础研究经费逐渐减少。"},
+  {"en": "The committee's membership dwindled from twenty to six.", "zh": "委员会成员从二十人缩减到六人。"},
+  {"en": "Aquifer reserves are dwindling faster than they can be replenished.", "zh": "含水层的储量消耗得比补充的速度还快。"}
+ ],
+ "abate": [
+  {"en": "The epidemic did not abate until widespread vaccination began.", "zh": "直到广泛开展疫苗接种，疫情才有所减缓。"},
+  {"en": "Public opposition showed no sign of abating.", "zh": "公众的反对毫无减弱的迹象。"},
+  {"en": "Wind speeds abated sufficiently for the survey flights to resume.", "zh": "风速减弱到足以让测量飞行恢复。"}
+ ],
+ "prolong": [
+  {"en": "Delays in diagnosis prolong hospital stays and raise costs.", "zh": "诊断延误延长住院时间并推高成本。"},
+  {"en": "The therapy can prolong survival in advanced stages of the disease.", "zh": "该疗法可以延长疾病晚期的生存期。"},
+  {"en": "Bureaucratic approval procedures prolonged the preparation period before fieldwork by a year.", "zh": "官僚式的审批程序使实地调查前的准备期拖长了一年。"}
+ ],
+ "spiral": [
+  {"en": "Debt spiraled as interest payments consumed an ever larger share of revenue.", "zh": "随着利息支出占收入的份额越来越大，债务螺旋式攀升。"},
+  {"en": "Costs spiraled out of control before the project was halted.", "zh": "项目叫停之前，成本已失控攀升。"},
+  {"en": "The paper traces how distrust between groups can spiral into open conflict.", "zh": "论文追溯了群体间的不信任如何螺旋式演变为公开冲突。"}
+ ]
+}

@@ -1,0 +1,97 @@
+{
+ "interviewer": [
+  {"en": "A trained interviewer asked each participant the same set of questions.", "zh": "经过培训的访谈者向每位参与者提出了完全相同的问题。"},
+  {"en": "The interviewer recorded the participants' answers verbatim on a tablet.", "zh": "访谈者用平板逐字记录下了参与者的回答。"},
+  {"en": "Interviews conducted by a trained interviewer showed consistent results across sites.", "zh": "由经过培训的访谈者所做的访谈在各研究中心都得到了一致的结果。"}
+ ],
+ "measurement": [
+  {"en": "Each measurement was repeated three times to reduce random error.", "zh": "每次测量都重复三次，以减少随机误差。"},
+  {"en": "The measurement of temperature was performed with a calibrated sensor.", "zh": "温度测量使用的是经过校准的传感器。"},
+  {"en": "Measurement uncertainty was reported for every value in the table.", "zh": "表中每一个数值都报告了测量不确定度。"}
+ ],
+ "percentage": [
+  {"en": "A large percentage of the participants preferred the shorter survey format.", "zh": "相当大比例的参与者更偏好简短的问卷形式。"},
+  {"en": "The percentage of missing data was below five percent in each group.", "zh": "各组数据缺失的百分比都低于 5%。"},
+  {"en": "We report the percentage change rather than the absolute values.", "zh": "我们报告的是变化的百分比，而不是绝对数值。"}
+ ],
+ "frequency": [
+  {"en": "The frequency of the adverse events was recorded throughout the trial.", "zh": "整个试验期间都记录了不良事件的发生频率。"},
+  {"en": "Table two shows the frequency of each response category.", "zh": "表二列出了每个回答类别的频数。"},
+  {"en": "The high frequency of the pattern suggests a systematic effect.", "zh": "该模式出现频率很高，提示存在系统性影响。"}
+ ],
+ "exposure": [
+  {"en": "Exposure to the pollutant was measured across three residential areas.", "zh": "在三个居民区都测量了对该污染物的暴露水平。"},
+  {"en": "Long-term exposure to fine particles is linked to respiratory illness.", "zh": "长期暴露于细颗粒物与呼吸系统疾病有关。"},
+  {"en": "The study adjusted for exposure to prior antiviral treatment.", "zh": "研究对先前接受过抗病毒治疗的情况进行了校正。"}
+ ],
+ "risk": [
+  {"en": "Participants at risk of dropout were contacted weekly by telephone.", "zh": "有脱落风险的参与者每周都会收到电话联系。"},
+  {"en": "The risk of bias was assessed with a validated instrument.", "zh": "采用经过验证的工具对偏倚风险进行了评估。"},
+  {"en": "No increase in risk was observed after the intervention ended.", "zh": "干预结束后未观察到风险上升。"}
+ ],
+ "determinant": [
+  {"en": "Access to funding was a major determinant of participation.", "zh": "能否获得经费是参与程度的一个主要决定因素。"},
+  {"en": "The analysis identifies sleep duration as a key determinant of performance.", "zh": "该分析把睡眠时长识别为表现的一个关键决定因素。"},
+  {"en": "Study design is an important determinant of the generalizability of findings.", "zh": "研究设计是结果能否推广的一个重要决定因素。"}
+ ],
+ "mediator": [
+  {"en": "The mediator accounted for half of the observed treatment effect.", "zh": "该中介变量解释了所观察到的治疗效应的一半。"},
+  {"en": "We tested whether motivation could act as a mediator between training and outcome.", "zh": "我们检验了动机能否在训练与结果之间充当中介变量。"},
+  {"en": "Mediation analysis indicated that self-efficacy was a significant mediator.", "zh": "中介效应分析表明，自我效能是一个显著的中介变量。"}
+ ],
+ "moderator": [
+  {"en": "Age was tested as a moderator of the relationship between stress and sleep.", "zh": "年龄被检验为压力与睡眠关系的调节变量。"},
+  {"en": "The moderator analysis revealed no significant interaction between the two factors.", "zh": "调节效应分析显示两个因子之间没有显著交互作用。"},
+  {"en": "Baseline severity served as a moderator of treatment response.", "zh": "基线严重程度充当了治疗反应的调节变量。"}
+ ],
+ "replicability": [
+  {"en": "The replicability of these findings across three laboratories was confirmed.", "zh": "这些发现在三个实验室之间的可复现性得到了确认。"},
+  {"en": "We provide the code and data needed to assess replicability.", "zh": "我们提供了评估可复现性所需的代码与数据。"},
+  {"en": "Concerns about replicability have reshaped how results are reported.", "zh": "对可复现性的关注改变了结果报告的方式。"}
+ ],
+ "generalizability": [
+  {"en": "The generalizability of the results is limited by the narrow sample.", "zh": "样本范围狭窄限制了结果的可推广性。"},
+  {"en": "A multi-site design was chosen to improve generalizability.", "zh": "研究采用多中心设计以提高可推广性。"},
+  {"en": "Reviewers questioned the generalizability of the conclusions.", "zh": "审稿人质疑了这些结论的可推广性。"}
+ ],
+ "response": [
+  {"en": "The response rate in the second wave was sixty-eight percent.", "zh": "第二轮的回应率为 68%。"},
+  {"en": "Each response was coded into one of four categories.", "zh": "每份回答都被归入四个类别之一。"},
+  {"en": "We examined whether response length predicted a correct answer.", "zh": "我们考察了回答长度能否预测作答是否正确。"}
+ ],
+ "follow-up": [
+  {"en": "A follow-up survey was conducted six months after discharge.", "zh": "在出院六个月后进行了一次随访调查。"},
+  {"en": "The follow-up revealed a sustained improvement in symptom severity.", "zh": "随访显示症状严重程度持续改善。"},
+  {"en": "Long-term follow-up is required before drawing firm conclusions.", "zh": "在得出确切结论之前，需要进行长期随访。"}
+ ],
+ "meta-analysis": [
+  {"en": "A meta-analysis of twelve trials confirmed the treatment effect.", "zh": "一项纳入 12 项试验的元分析证实了治疗效应。"},
+  {"en": "The meta-analysis pooled results from studies with similar endpoints.", "zh": "该元分析合并了终点指标相近的研究结果。"},
+  {"en": "Our meta-analysis reports substantial heterogeneity across the included trials.", "zh": "我们的元分析报告了纳入试验间存在较大的异质性。"}
+ ],
+ "disaggregate": [
+  {"en": "Analysts should disaggregate the results by relevant subgroups.", "zh": "分析者应当按相关子群分解结果。"},
+  {"en": "It is essential to disaggregate aggregated statistics when reporting them.", "zh": "报告汇总统计量时，分解这些数据是必要的。"},
+  {"en": "The authors disaggregate the combined totals into four age bands.", "zh": "作者把合并后的总数拆分为四个年龄组。"}
+ ],
+ "multicollinearity": [
+  {"en": "Multicollinearity inflated the standard errors of both coefficients.", "zh": "多重共线性使两个系数的标准误被放大。"},
+  {"en": "We checked for multicollinearity by examining the correlation matrix.", "zh": "我们通过检查相关矩阵来检验多重共线性。"},
+  {"en": "Severe multicollinearity made the individual predictors hard to interpret.", "zh": "严重的多重共线性使各个预测变量难以解释。"}
+ ],
+ "efficiency": [
+  {"en": "The efficiency of the algorithm improves with larger training sets.", "zh": "该算法的效率随训练集增大而提升。"},
+  {"en": "We compared the efficiency of two competing statistical approaches.", "zh": "我们比较了两种相互竞争的统计方法的效率。"},
+  {"en": "Operational efficiency declined slightly during the peak season.", "zh": "运营效率在旺季略有下降。"}
+ ],
+ "deductive": [
+  {"en": "Deductive reasoning moves from general principles to specific conclusions.", "zh": "演绎推理从一般原理出发走向具体结论。"},
+  {"en": "The study combines deductive hypothesis testing with inductive exploration.", "zh": "该研究把演绎式假设检验与归纳式探索结合起来。"},
+  {"en": "His deductive argument identifies a flaw in the second premise.", "zh": "他的演绎论证指出了第二个前提中的缺陷。"}
+ ],
+ "inductive": [
+  {"en": "Inductive reasoning builds general patterns from specific observations.", "zh": "归纳推理从具体观察出发建立一般模式。"},
+  {"en": "The authors adopt an inductive approach to theory development.", "zh": "作者在理论建构上采用了归纳式路径。"},
+  {"en": "Inductive coding categories were refined during the pilot study.", "zh": "归纳式编码类别在试点研究过程中得到了细化。"}
+ ]
+}

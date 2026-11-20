@@ -1,0 +1,926 @@
+{
+ "journal": [
+  {
+   "en": "The manuscript was rejected by three journals before its acceptance.",
+   "zh": "这篇稿件在录用前被三家期刊拒稿。"
+  },
+  {
+   "en": "She serves on the editorial board of a leading sociology journal.",
+   "zh": "她在一份重要的社会学期刊的编辑委员会任职。"
+  },
+  {
+   "en": "The researcher kept a field journal throughout the expedition.",
+   "zh": "这位研究员在考察期间一直坚持写野外日志。"
+  }
+ ],
+ "manuscript": [
+  {
+   "en": "Reviewers requested major revisions to the manuscript.",
+   "zh": "审稿人要求对稿件进行大修。"
+  },
+  {
+   "en": "The medieval manuscript was digitized for the online archive.",
+   "zh": "这份中世纪手稿已被数字化并收入在线档案。"
+  },
+  {
+   "en": "Authors must declare competing interests when submitting a manuscript.",
+   "zh": "作者投稿时必须声明利益冲突。"
+  }
+ ],
+ "thesis": [
+  {
+   "en": "Her doctoral thesis examines migration in coastal cities.",
+   "zh": "她的博士论文研究沿海城市的迁移问题。"
+  },
+  {
+   "en": "The paper's central thesis is that institutions shape technological change.",
+   "zh": "这篇论文的中心论点是制度塑造技术变革。"
+  },
+  {
+   "en": "He defended his master's thesis in the spring semester.",
+   "zh": "他在春季学期完成了硕士论文答辩。"
+  }
+ ],
+ "appendix": [
+  {
+   "en": "The full questionnaire is reproduced in Appendix B.",
+   "zh": "完整问卷见附录 B。"
+  },
+  {
+   "en": "Two appendix tables contain the derivation and robustness checks.",
+   "zh": "两张附录表包含推导过程与稳健性检验。"
+  },
+  {
+   "en": "The surgeon removed the patient's inflamed appendix.",
+   "zh": "外科医生切除了患者发炎的阑尾。"
+  }
+ ],
+ "footnote": [
+  {
+   "en": "The definition appears in a footnote on the first page.",
+   "zh": "该定义出现在第一页的一个脚注里。"
+  },
+  {
+   "en": "She footnoted every quotation to satisfy the reviewers.",
+   "zh": "她给每条引文都加了脚注，以满足审稿人的要求。"
+  },
+  {
+   "en": "The disputed figure is discussed only in a footnote.",
+   "zh": "那处有争议的数字只在脚注里讨论。"
+  }
+ ],
+ "bibliography": [
+  {
+   "en": "The annotated bibliography lists over two hundred sources.",
+   "zh": "这份带注解的参考文献目录列出了两百多个来源。"
+  },
+  {
+   "en": "A selective bibliography closes each chapter.",
+   "zh": "每章末尾附有一个精选书目。"
+  },
+  {
+   "en": "Check the bibliography for the correct citation format.",
+   "zh": "请核对参考文献目录中的引用格式是否正确。"
+  }
+ ],
+ "symposium": [
+  {
+   "en": "The annual symposium brings together researchers from four disciplines.",
+   "zh": "这个年度研讨会汇集了四个学科的研究者。"
+  },
+  {
+   "en": "Selected papers from the symposium appear in a special issue.",
+   "zh": "研讨会的精选论文刊于某期特刊。"
+  },
+  {
+   "en": "He presented preliminary results at the graduate symposium.",
+   "zh": "他在研究生研讨会上展示了初步结果。"
+  }
+ ],
+ "proceedings": [
+  {
+   "en": "The paper appeared in the conference proceedings rather than a journal.",
+   "zh": "这篇论文发表于会议论文集而非期刊。"
+  },
+  {
+   "en": "Legal proceedings against the company are still pending.",
+   "zh": "对该公司的法律诉讼仍在进行中。"
+  },
+  {
+   "en": "Proceedings of the workshop were published within three months.",
+   "zh": "研讨会的论文集在三个月内出版。"
+  }
+ ],
+ "curriculum": [
+  {
+   "en": "The revised curriculum adds a required course in research ethics.",
+   "zh": "修订后的课程体系增加了一门必修的研究伦理课。"
+  },
+  {
+   "en": "Curriculum reform aimed to reduce reliance on rote memorization.",
+   "zh": "课程改革旨在减少对死记硬背的依赖。"
+  },
+  {
+   "en": "Schools differ widely in how the national curriculum is implemented.",
+   "zh": "各校在落实国家课程方面的差异很大。"
+  }
+ ],
+ "syllabus": [
+  {
+   "en": "The syllabus lists weekly readings and assessment deadlines.",
+   "zh": "教学大纲列出了每周阅读材料和考核截止日期。"
+  },
+  {
+   "en": "Instructors may adapt the syllabus to local conditions.",
+   "zh": "授课教师可根据当地情况调整教学大纲。"
+  },
+  {
+   "en": "Ethics training now appears in the first-year syllabus.",
+   "zh": "伦理训练现在已列入一年级的教学大纲。"
+  }
+ ],
+ "pedagogy": [
+  {
+   "en": "The program trains teachers in evidence-based pedagogy.",
+   "zh": "该项目培训教师掌握循证教学法。"
+  },
+  {
+   "en": "Digital pedagogy raises new questions about assessment.",
+   "zh": "数字化教学法给评估提出了新的问题。"
+  },
+  {
+   "en": "Her research links classroom pedagogy to student motivation.",
+   "zh": "她的研究把课堂教学法与学生动机联系起来。"
+  }
+ ],
+ "faculty": [
+  {
+   "en": "The faculty voted to adopt the new grading policy.",
+   "zh": "全体教员投票通过了新的评分政策。"
+  },
+  {
+   "en": "She joined the faculty of the economics department in 2019.",
+   "zh": "她于 2019 年加入该校经济学系任教。"
+  },
+  {
+   "en": "Faculty members supervise both master's and doctoral students.",
+   "zh": "教员们同时指导硕士生和博士生。"
+  }
+ ],
+ "mentor": [
+  {
+   "en": "Each incoming student is paired with a faculty mentor.",
+   "zh": "每名新生都配有一位教师导师。"
+  },
+  {
+   "en": "The senior scientists mentor junior colleagues through co-authorship.",
+   "zh": "资深科学家通过合作发表论文来指导年轻同事。"
+  },
+  {
+   "en": "A good mentor provides both critique and encouragement.",
+   "zh": "好的导师既给批评也给鼓励。"
+  }
+ ],
+ "doctoral": [
+  {
+   "en": "Doctoral candidates complete coursework before the dissertation stage.",
+   "zh": "博士候选人在论文阶段之前先修完课程。"
+  },
+  {
+   "en": "The grant covers doctoral research on wetland restoration.",
+   "zh": "这笔资助覆盖关于湿地恢复的博士研究。"
+  },
+  {
+   "en": "Doctoral training increasingly includes data management skills.",
+   "zh": "博士培养越来越包括数据管理技能。"
+  }
+ ],
+ "ideology": [
+  {
+   "en": "The study asks how ideology shapes policy preferences.",
+   "zh": "该研究探讨意识形态如何塑造政策偏好。"
+  },
+  {
+   "en": "Textbook analysis reveals the ideology embedded in the curriculum.",
+   "zh": "教科书分析揭示了课程中蕴含的意识形态。"
+  },
+  {
+   "en": "The movement appealed to voters across ideology and class.",
+   "zh": "这场运动吸引了跨越意识形态和阶层的选民。"
+  }
+ ],
+ "hegemony": [
+  {
+   "en": "The essay examines the cultural hegemony of the metropolitan elite.",
+   "zh": "这篇文章考察了大都市精英的文化霸权。"
+  },
+  {
+   "en": "Regional hegemony depended on control of trade routes.",
+   "zh": "地区霸权依赖于对贸易路线的控制。"
+  },
+  {
+   "en": "Hegemony is maintained through consent as much as coercion.",
+   "zh": "霸权的维持既靠强制，也靠同意。"
+  }
+ ],
+ "bureaucracy": [
+  {
+   "en": "Grant administration is slowed by layers of bureaucracy.",
+   "zh": "层层官僚体制拖慢了经费管理。"
+  },
+  {
+   "en": "The reform aimed to make the bureaucracy more responsive.",
+   "zh": "这项改革旨在让官僚机构更快速地回应。"
+  },
+  {
+   "en": "Weber described bureaucracy as the most rational form of organization.",
+   "zh": "韦伯将官僚制描述为最理性的组织形式。"
+  }
+ ],
+ "marginalize": [
+  {
+   "en": "Rising rents marginalize low-income households in central districts.",
+   "zh": "上涨的租金使低收入家庭在中心城区被边缘化。"
+  },
+  {
+   "en": "The design marginalized the voices of part-time students.",
+   "zh": "该设计把非全日制学生的声音边缘化了。"
+  },
+  {
+   "en": "Marginalized communities bear the greatest environmental burden.",
+   "zh": "被边缘化的社区承受着最重的环境负担。"
+  }
+ ],
+ "stigmatize": [
+  {
+   "en": "Labeling policies can stigmatize the very people they intend to help.",
+   "zh": "贴标签式的政策可能污名化其本想帮助的人。"
+  },
+  {
+   "en": "Media coverage often stigmatizes mental illness.",
+   "zh": "媒体报道常常污名化精神疾病。"
+  },
+  {
+   "en": "Participants feared being stigmatized within their community.",
+   "zh": "参与者担心在自己社区里被污名化。"
+  }
+ ],
+ "urbanization": [
+  {
+   "en": "Rapid urbanization has outpaced the provision of sanitation.",
+   "zh": "快速的城市化已使环卫设施的供给跟不上。"
+  },
+  {
+   "en": "The century of urbanization redrew the country's economic map.",
+   "zh": "这一个世纪的城市化重画了该国的经济地图。"
+  },
+  {
+   "en": "Urbanization explains part of the decline in agricultural employment.",
+   "zh": "城市化可以部分解释农业就业的下降。"
+  }
+ ],
+ "globalization": [
+  {
+   "en": "Globalization has intensified competition among port cities.",
+   "zh": "全球化加剧了港口城市之间的竞争。"
+  },
+  {
+   "en": "Critics argue that globalization widened within-country inequality.",
+   "zh": "批评者认为全球化扩大了一国内部的不平等。"
+  },
+  {
+   "en": "The book traces globalization back to premodern trade networks.",
+   "zh": "该书把全球化追溯到前现代的贸易网络。"
+  }
+ ],
+ "citizenship": [
+  {
+   "en": "The state grants citizenship to children born on its territory.",
+   "zh": "该国向在其境内出生的儿童授予公民身份。"
+  },
+  {
+   "en": "Service learning is said to foster democratic citizenship.",
+   "zh": "服务式学习被认为能培养民主公民素养。"
+  },
+  {
+   "en": "Dual citizenship is permitted under the new statute.",
+   "zh": "新法律允许双重公民身份。"
+  }
+ ],
+ "electorate": [
+  {
+   "en": "The electorate approved the constitutional amendment narrowly.",
+   "zh": "全体选民以微弱优势通过了宪法修正案。"
+  },
+  {
+   "en": "Urban voters now dominate the national electorate.",
+   "zh": "城市选民如今在全国选民中占主导。"
+  },
+  {
+   "en": "Turnout was highest among an older, rural electorate.",
+   "zh": "年长的农村选民群体投票率最高。"
+  }
+ ],
+ "referendum": [
+  {
+   "en": "The referendum on independence was held after years of negotiation.",
+   "zh": "经过多年谈判，独立公投终于举行。"
+  },
+  {
+   "en": "A referendum is required before the tax can be raised.",
+   "zh": "增税之前必须举行全民公投。"
+  },
+  {
+   "en": "Local referendums on school funding have become more frequent.",
+   "zh": "关于学校经费的地方公投变得更频繁了。"
+  }
+ ],
+ "treaty": [
+  {
+   "en": "The treaty binds signatories to verifiable emission cuts.",
+   "zh": "该条约约束签署方进行可核查的减排。"
+  },
+  {
+   "en": "Ratification of the treaty required a two-thirds majority.",
+   "zh": "该条约的批准需要三分之二多数。"
+  },
+  {
+   "en": "Border adjustments were negotiated in a separate treaty.",
+   "zh": "边境调整在另一项条约中协商确定。"
+  }
+ ],
+ "ratify": [
+  {
+   "en": "Parliament ratified the accord after months of debate.",
+   "zh": "经过数月辩论，议会批准了该协定。"
+  },
+  {
+   "en": "Only twelve states have ratified the convention so far.",
+   "zh": "迄今只有十二个国家批准了该公约。"
+  },
+  {
+   "en": "The amendments were ratified unanimously.",
+   "zh": "修正案获得了一致批准。"
+  }
+ ],
+ "statute": [
+  {
+   "en": "The statute requires disclosure of all external funding.",
+   "zh": "该成文法要求披露所有外部资助。"
+  },
+  {
+   "en": "Courts interpreted the statute broadly in later cases.",
+   "zh": "后来的判例对这一法令作了宽泛解释。"
+  },
+  {
+   "en": "The limitation period is set by statute, not by contract.",
+   "zh": "诉讼时效由法律规定，而非合同约定。"
+  }
+ ],
+ "jurisdiction": [
+  {
+   "en": "The data center falls under the jurisdiction of two regulators.",
+   "zh": "该数据中心受两个监管机构管辖。"
+  },
+  {
+   "en": "The court dismissed the case for lack of jurisdiction.",
+   "zh": "法院以缺乏管辖权为由驳回了此案。"
+  },
+  {
+   "en": "Enforcement varies widely across jurisdictions.",
+   "zh": "执法力度在不同司法辖区差异很大。"
+  }
+ ],
+ "litigation": [
+  {
+   "en": "Patent litigation can outlast the underlying technology.",
+   "zh": "专利诉讼的时间可能超过其背后的技术寿命。"
+  },
+  {
+   "en": "The settlement ended a decade of litigation.",
+   "zh": "和解结束了长达十年的诉讼。"
+  },
+  {
+   "en": "Clear contracts reduce the risk of litigation.",
+   "zh": "清晰的合同能降低诉讼风险。"
+  }
+ ],
+ "tariff": [
+  {
+   "en": "The new tariff raised the price of imported steel.",
+   "zh": "新关税抬高了进口钢材的价格。"
+  },
+  {
+   "en": "Tariffs on solar panels were phased down over five years.",
+   "zh": "太阳能电池板的关税在五年内逐步下调。"
+  },
+  {
+   "en": "Retaliatory tariffs hit agricultural exports hardest.",
+   "zh": "报复性关税对农产品出口的打击最大。"
+  }
+ ],
+ "subsidy": [
+  {
+   "en": "The subsidy lowers the effective cost of childcare.",
+   "zh": "这项补贴降低了托育的实际成本。"
+  },
+  {
+   "en": "Fossil-fuel subsidies distort energy markets.",
+   "zh": "化石燃料补贴扭曲了能源市场。"
+  },
+  {
+   "en": "Farm subsidies were redirected toward conservation practices.",
+   "zh": "农业补贴被转用于保护性耕作。"
+  }
+ ],
+ "inflation": [
+  {
+   "en": "Inflation eroded the real value of the stipend.",
+   "zh": "通货膨胀侵蚀了助学金的实际价值。"
+  },
+  {
+   "en": "Central banks raised rates to contain inflation.",
+   "zh": "央行为遏制通货膨胀而加息。"
+  },
+  {
+   "en": "Grade inflation complicates comparisons across cohorts.",
+   "zh": "分数膨胀使不同队列之间的比较变得复杂。"
+  }
+ ],
+ "monetary": [
+  {
+   "en": "The monetary authority signaled a pause in rate increases.",
+   "zh": "货币当局示意暂停加息。"
+  },
+  {
+   "en": "Monetary union removed exchange-rate risk within the bloc.",
+   "zh": "货币联盟消除了集团内部的汇率风险。"
+  },
+  {
+   "en": "Compensation was awarded in both monetary and non-monetary forms.",
+   "zh": "补偿以货币与非货币两种形式给予。"
+  }
+ ],
+ "fiscal": [
+  {
+   "en": "The fiscal stimulus package passed in the spring.",
+   "zh": "财政刺激方案于春季获得通过。"
+  },
+  {
+   "en": "Fiscal decentralization shifted spending power to provinces.",
+   "zh": "财政分权把支出权力下放到各省。"
+  },
+  {
+   "en": "The report audits fiscal year 2023 expenditures.",
+   "zh": "该报告审计了 2023 财政年度的支出。"
+  }
+ ],
+ "monopoly": [
+  {
+   "en": "The utility holds a legal monopoly on electricity distribution.",
+   "zh": "该公用事业公司在配电上拥有法定专营权。"
+  },
+  {
+   "en": "Regulators broke up the monopoly in the 1980s.",
+   "zh": "监管机构在 20 世纪 80 年代拆分了这一垄断。"
+  },
+  {
+   "en": "The state monopoly on broadcasting ended in 1990.",
+   "zh": "国家广播垄断于 1990 年终结。"
+  }
+ ],
+ "neural": [
+  {
+   "en": "Neural activity in the prefrontal cortex predicted task performance.",
+   "zh": "前额叶皮层的神经活动预测了任务表现。"
+  },
+  {
+   "en": "The model uses a neural network trained on labeled images.",
+   "zh": "该模型使用在标注图像上训练的神经网络。"
+  },
+  {
+   "en": "Neural pathways for reward develop during adolescence.",
+   "zh": "奖赏相关的神经通路在青春期发育。"
+  }
+ ],
+ "neuron": [
+  {
+   "en": "A single neuron can receive inputs from thousands of others.",
+   "zh": "单个神经元可以接收来自数千个其他神经元的输入。"
+  },
+  {
+   "en": "Mirror neurons fire both when acting and when observing.",
+   "zh": "镜像神经元在行动和观察时都会放电。"
+  },
+  {
+   "en": "The staining method made individual neurons visible.",
+   "zh": "这种染色方法使单个神经元变得可见。"
+  }
+ ],
+ "polymer": [
+  {
+   "en": "The polymer degrades within six months in compost.",
+   "zh": "这种聚合物在堆肥中六个月内降解。"
+  },
+  {
+   "en": "Conductive polymers enable flexible electronic devices.",
+   "zh": "导电聚合物使柔性电子器件成为可能。"
+  },
+  {
+   "en": "Chain length determines the polymer's mechanical properties.",
+   "zh": "链长决定了聚合物的力学性质。"
+  }
+ ],
+ "catalyst": [
+  {
+   "en": "The catalyst lowers the activation energy of the reaction.",
+   "zh": "该催化剂降低了反应的活化能。"
+  },
+  {
+   "en": "The crisis acted as a catalyst for institutional reform.",
+   "zh": "这场危机成为制度改革的催化剂。"
+  },
+  {
+   "en": "Platinum remains the most studied catalyst for fuel cells.",
+   "zh": "铂仍是燃料电池中被研究最多的催化剂。"
+  }
+ ],
+ "enzyme": [
+  {
+   "en": "The enzyme catalyzes the breakdown of starch into sugars.",
+   "zh": "这种酶催化淀粉分解为糖。"
+  },
+  {
+   "en": "Enzyme activity peaked at forty degrees Celsius.",
+   "zh": "酶活性在 40 摄氏度时达到峰值。"
+  },
+  {
+   "en": "A single gene mutation disabled the enzyme entirely.",
+   "zh": "单个基因突变使这种酶完全失活。"
+  }
+ ],
+ "protein": [
+  {
+   "en": "The protein folds into a stable three-dimensional structure.",
+   "zh": "该蛋白质折叠成稳定的三维结构。"
+  },
+  {
+   "en": "Dietary protein requirements rise with physical training.",
+   "zh": "随着体能训练的增加，膳食蛋白质需求也上升。"
+  },
+  {
+   "en": "Misfolded proteins accumulate in the affected tissue.",
+   "zh": "错误折叠的蛋白质在受累组织中累积。"
+  }
+ ],
+ "genome": [
+  {
+   "en": "The team sequenced the entire genome of the landrace.",
+   "zh": "团队对这一地方品种的全基因组进行了测序。"
+  },
+  {
+   "en": "Comparing genomes across species reveals conserved regions.",
+   "zh": "跨物种比较基因组可揭示保守区域。"
+  },
+  {
+   "en": "Only a fraction of the genome codes for proteins.",
+   "zh": "基因组中只有一小部分编码蛋白质。"
+  }
+ ],
+ "metabolism": [
+  {
+   "en": "The drug is cleared from the body by hepatic metabolism.",
+   "zh": "该药物经肝脏代谢清除出体外。"
+  },
+  {
+   "en": "Basal metabolism declines gradually with age.",
+   "zh": "基础代谢随年龄增长逐渐下降。"
+  },
+  {
+   "en": "Cold exposure alters metabolism in hibernating mammals.",
+   "zh": "寒冷暴露会改变冬眠哺乳动物的代谢。"
+  }
+ ],
+ "toxic": [
+  {
+   "en": "The solvent is toxic to aquatic organisms even at low doses.",
+   "zh": "这种溶剂即使在低剂量下对水生生物也有毒。"
+  },
+  {
+   "en": "Toxic metals accumulated in the river sediment.",
+   "zh": "有毒金属在河底沉积物中累积。"
+  },
+  {
+   "en": "The panel reviewed evidence linking toxic stress to learning delays.",
+   "zh": "专家组审查了毒性应激与学习延迟相关的证据。"
+  }
+ ],
+ "emission": [
+  {
+   "en": "Carbon emissions fell 4% during the transport strike.",
+   "zh": "运输罢工期间碳排放下降了 4%。"
+  },
+  {
+   "en": "New engines must meet stricter emission standards.",
+   "zh": "新发动机必须满足更严格的排放标准。"
+  },
+  {
+   "en": "The inventory tracks emissions by sector and fuel type.",
+   "zh": "这份清单按部门和燃料类型追踪排放。"
+  }
+ ],
+ "climate": [
+  {
+   "en": "Climate models project more frequent heat extremes this century.",
+   "zh": "气候模式预计本世纪极端高温会更频繁。"
+  },
+  {
+   "en": "A supportive institutional climate encourages replication studies.",
+   "zh": "支持性的机构氛围鼓励重复研究。"
+  },
+  {
+   "en": "Vineyard choice follows both soil and climate conditions.",
+   "zh": "葡萄园选址同时取决于土壤与气候条件。"
+  }
+ ],
+ "renewable": [
+  {
+   "en": "Renewable capacity additions exceeded all fossil additions last year.",
+   "zh": "去年可再生能源新增装机超过所有化石能源。"
+  },
+  {
+   "en": "The grid must balance intermittent renewable supply.",
+   "zh": "电网必须平衡间歇性的可再生供应。"
+  },
+  {
+   "en": "Subsidies accelerated the shift to renewable electricity.",
+   "zh": "补贴加速了向可再生电力的转型。"
+  }
+ ],
+ "semiconductor": [
+  {
+   "en": "The semiconductor industry concentrates fabrication in a few regions.",
+   "zh": "半导体行业把制造集中在少数地区。"
+  },
+  {
+   "en": "Doping changes the electrical behavior of the semiconductor.",
+   "zh": "掺杂会改变半导体的电学行为。"
+  },
+  {
+   "en": "Chips are built on wafers of purified semiconductor material.",
+   "zh": "芯片以高纯半导体材料晶圆为基础制造。"
+  }
+ ],
+ "database": [
+  {
+   "en": "All participants were assigned identifiers in the study database.",
+   "zh": "所有参与者都在研究数据库中被分配了标识符。"
+  },
+  {
+   "en": "The database records every protocol deviation.",
+   "zh": "该数据库记录每一次方案偏离。"
+  },
+  {
+   "en": "Queries against the national database took days to approve.",
+   "zh": "查询国家数据库需要数天才能获得批准。"
+  }
+ ],
+ "bandwidth": [
+  {
+   "en": "Video transmission requires far more bandwidth than text.",
+   "zh": "视频传输所需的带宽远高于文本。"
+  },
+  {
+   "en": "The lab lacks the bandwidth to process new submissions quickly.",
+   "zh": "实验室没有足够的精力快速处理新提交的任务。"
+  },
+  {
+   "en": "Rural clinics cite bandwidth limits as a barrier to telehealth.",
+   "zh": "农村诊所把带宽限制列为远程医疗的障碍。"
+  }
+ ],
+ "clinical": [
+  {
+   "en": "The phase-two clinical trial enrolled 240 patients.",
+   "zh": "二期临床试验入组了 240 名患者。"
+  },
+  {
+   "en": "Clinical guidelines now recommend screening at age forty-five.",
+   "zh": "临床指南现在建议从 45 岁开始筛查。"
+  },
+  {
+   "en": "Benefits observed in the laboratory may not translate into clinical practice.",
+   "zh": "实验室观察到的获益未必能转化为临床实践。"
+  }
+ ],
+ "diagnosis": [
+  {
+   "en": "Early diagnosis substantially improves five-year survival.",
+   "zh": "早期诊断能显著提高五年生存率。"
+  },
+  {
+   "en": "The diagnosis was confirmed by two independent raters.",
+   "zh": "诊断由两名独立评定者确认。"
+  },
+  {
+   "en": "Criteria for the diagnosis of the syndrome were revised in 2013.",
+   "zh": "该综合征的诊断标准于 2013 年修订。"
+  }
+ ],
+ "epidemic": [
+  {
+   "en": "The obesity epidemic has spread to younger age groups.",
+   "zh": "肥胖流行已蔓延到更年轻的年龄组。"
+  },
+  {
+   "en": "The 1918 influenza epidemic infected a third of the population.",
+   "zh": "1918 年的流感大流行感染了三分之一的人口。"
+  },
+  {
+   "en": "An epidemic of misinformation accompanied the outbreak.",
+   "zh": "伴随疫情暴发的是一场错误信息的流行。"
+  }
+ ],
+ "pandemic": [
+  {
+   "en": "The pandemic disrupted schooling for more than a year.",
+   "zh": "疫情大流行使学校教育中断了一年多。"
+  },
+  {
+   "en": "Pandemic preparedness plans were updated after the review.",
+   "zh": "评审之后，大流行防备计划得到了更新。"
+  },
+  {
+   "en": "Remote surveys expanded rapidly during the pandemic.",
+   "zh": "疫情期间远程调查迅速扩大。"
+  }
+ ],
+ "outbreak": [
+  {
+   "en": "The outbreak was traced to a single contaminated well.",
+   "zh": "这次疫情暴发被追查到一口受污染的水井。"
+  },
+  {
+   "en": "Rapid sequencing helped contain the outbreak within weeks.",
+   "zh": "快速测序帮助疫情在数周内得到控制。"
+  },
+  {
+   "en": "Outbreaks of cholera follow the seasonal floods.",
+   "zh": "霍乱暴发随季节性洪水而来。"
+  }
+ ],
+ "confidence interval": [
+  {
+   "en": "The confidence interval for the odds ratio spans one.",
+   "zh": "比值比的置信区间跨越 1。"
+  },
+  {
+   "en": "We report a 95% confidence interval for every estimate.",
+   "zh": "我们对每个估计值都报告 95% 置信区间。"
+  },
+  {
+   "en": "A narrower confidence interval follows from the larger sample.",
+   "zh": "更大的样本带来更窄的置信区间。"
+  }
+ ],
+ "standard deviation": [
+  {
+   "en": "Scores fell within one standard deviation of the mean.",
+   "zh": "分数落在均值的一个标准差之内。"
+  },
+  {
+   "en": "The treatment group differed by nearly two standard deviations.",
+   "zh": "处理组的差异接近两个标准差。"
+  },
+  {
+   "en": "Report the standard deviation alongside every mean.",
+   "zh": "每个均值旁边都应报告标准差。"
+  }
+ ],
+ "chronic": [
+  {
+   "en": "Chronic pain affects sleep and mood in most patients.",
+   "zh": "慢性疼痛影响大多数患者的睡眠与情绪。"
+  },
+  {
+   "en": "The region suffers chronic underinvestment in maintenance.",
+   "zh": "该地区长期存在养护投入不足的问题。"
+  },
+  {
+   "en": "Chronic exposure to noise impairs reading development.",
+   "zh": "长期噪声暴露会损害阅读能力的发展。"
+  }
+ ],
+ "acute": [
+  {
+   "en": "The acute phase of the illness lasts about two weeks.",
+   "zh": "该病的急性期持续约两周。"
+  },
+  {
+   "en": "There is an acute shortage of trained nurses in rural areas.",
+   "zh": "农村地区训练有素的护士严重短缺。"
+  },
+  {
+   "en": "Her acute observation of classroom talk enriched the analysis.",
+   "zh": "她对课堂话语的敏锐观察丰富了这项分析。"
+  }
+ ],
+ "episodic": [
+  {
+   "en": "The disorder follows an episodic course with symptom-free intervals.",
+   "zh": "该障碍呈发作性病程，症状之间有无症状间歇期。"
+  },
+  {
+   "en": "Memory is both episodic and semantic in this taxonomy.",
+   "zh": "在这一分类里，记忆既包括情景记忆也包括语义记忆。"
+  },
+  {
+   "en": "Episodic rainfall makes multi-year averages essential.",
+   "zh": "降雨呈阵发性，因此多年平均值必不可少。"
+  }
+ ],
+ "sustained": [
+  {
+   "en": "Sustained attention declines measurably after twenty minutes.",
+   "zh": "持续注意在二十分钟后出现可测量的下降。"
+  },
+  {
+   "en": "The policy produced sustained gains in completion rates.",
+   "zh": "该政策带来了完成率的持续提升。"
+  },
+  {
+   "en": "Wind speeds remained sustained above fifty kilometers per hour.",
+   "zh": "风速持续保持在每小时 50 公里以上。"
+  }
+ ],
+ "intermittent": [
+  {
+   "en": "Intermittent connectivity hampered data collection in the field.",
+   "zh": "间歇性的网络连接妨碍了实地数据采集。"
+  },
+  {
+   "en": "Patients reported intermittent pain rather than constant discomfort.",
+   "zh": "患者报告的是间歇性疼痛而非持续不适。"
+  },
+  {
+   "en": "The stream flows intermittently during the dry season.",
+   "zh": "这条溪流在旱季间歇性断流。"
+  }
+ ],
+ "cognitive": [
+  {
+   "en": "Cognitive load theory explains why worked examples help novices.",
+   "zh": "认知负荷理论解释了为什么样例能帮助新手。"
+  },
+  {
+   "en": "Bilingual experience is linked to certain cognitive advantages.",
+   "zh": "双语经验与某些认知优势相关。"
+  },
+  {
+   "en": "The task measures cognitive flexibility rather than speed.",
+   "zh": "该任务测量的是认知灵活性而非速度。"
+  }
+ ],
+ "symptom": [
+  {
+   "en": "Fatigue is the most frequently reported symptom.",
+   "zh": "疲乏是被报告最多的症状。"
+  },
+  {
+   "en": "Rising defaults were an early symptom of the credit bubble.",
+   "zh": "违约上升是信贷泡沫的早期征兆。"
+  },
+  {
+   "en": "Symptoms remitted after the dosage was adjusted.",
+   "zh": "调整剂量后症状缓解了。"
+  }
+ ],
+ "syndrome": [
+  {
+   "en": "Metabolic syndrome clusters several cardiovascular risk factors.",
+   "zh": "代谢综合征聚集了多个心血管风险因素。"
+  },
+  {
+   "en": "The syndrome was first described in a 1936 case series.",
+   "zh": "该综合征最早于 1936 年在一系列病例中被描述。"
+  },
+  {
+   "en": "Burnout syndrome is common among emergency clinicians.",
+   "zh": "职业倦怠综合征在急诊临床医生中很常见。"
+  }
+ ],
+ "therapy": [
+  {
+   "en": "Cognitive behavioral therapy reduced symptom severity by half.",
+   "zh": "认知行为疗法使症状严重程度降低了一半。"
+  },
+  {
+   "en": "Gene therapy remains costly and tightly regulated.",
+   "zh": "基因治疗仍然费用高昂且受到严格监管。"
+  },
+  {
+   "en": "Adjuvant therapy follows surgical removal of the tumor.",
+   "zh": "辅助治疗在手术切除肿瘤之后进行。"
+  }
+ ]
+}

@@ -1,0 +1,520 @@
+{
+ "exploration": [
+  {
+   "en": "The exploration of the archive revealed previously unknown correspondence.",
+   "zh": "对该档案的探索揭示了此前无人知晓的通信往来。"
+  },
+  {
+   "en": "Deep-sea exploration requires funding that few private foundations provide.",
+   "zh": "深海勘探需要资金，而私人基金会中能提供这笔资助的寥寥无几。"
+  },
+  {
+   "en": "Her exploration of memory disorders shaped her doctoral research.",
+   "zh": "她对记忆障碍的探索影响了她的博士研究。"
+  }
+ ],
+ "confirmation": [
+  {
+   "en": "We are still awaiting written confirmation of the reservation.",
+   "zh": "我们仍在等待预订的书面确认。"
+  },
+  {
+   "en": "Confirmation bias affects how researchers interpret ambiguous evidence.",
+   "zh": "确认偏差会影响研究者如何解读模棱两可的证据。"
+  },
+  {
+   "en": "Her confirmation of the results prompted a formal review of the study.",
+   "zh": "她对研究结果的确认促使人们对该研究进行了正式审查。"
+  }
+ ],
+ "misinterpret": [
+  {
+   "en": "Students often misinterpret statistical significance as practical importance.",
+   "zh": "学生常常把统计显著性误解为实际重要性。"
+  },
+  {
+   "en": "Reviewers warned that the authors had misinterpreted the survey data.",
+   "zh": "审稿人警告说，作者们误读了调查数据。"
+  },
+  {
+   "en": "The advertisement misinterprets the original findings of the clinical trial.",
+   "zh": "这则广告曲解了临床试验的原始研究结果。"
+  }
+ ],
+ "lengthy": [
+  {
+   "en": "The lengthy review process delayed publication of the findings.",
+   "zh": "漫长的评审流程推迟了研究结果的发表。"
+  },
+  {
+   "en": "The minister faced a lengthy debate before the committee reached a decision.",
+   "zh": "在委员会作出决定之前，这位部长经历了一场冗长的辩论。"
+  },
+  {
+   "en": "Staff complained about the lengthy delay in receiving laboratory results.",
+   "zh": "员工抱怨收到实验室结果的时间拖延得太久。"
+  }
+ ],
+ "putative": [
+  {
+   "en": "The putative cause of the outbreak has not been confirmed.",
+   "zh": "这一疫情暴发的假定原因尚未得到证实。"
+  },
+  {
+   "en": "No evidence supports the putative link between diet and the disease.",
+   "zh": "没有证据支持饮食与该疾病之间那种推定的联系。"
+  },
+  {
+   "en": "Several putative authors have been proposed for the anonymous manuscript.",
+   "zh": "人们已为这部匿名手稿提出了好几位据称的作者。"
+  }
+ ],
+ "unintentional": [
+  {
+   "en": "The unintentional release of private data triggered an official investigation.",
+   "zh": "私人数据的无意泄露引发了官方调查。"
+  },
+  {
+   "en": "Unintentional errors in the transcription were detected by the peer reviewers.",
+   "zh": "同行评审发现了转录中的无心错误。"
+  },
+  {
+   "en": "The laboratory described the violation as unintentional and retrained its staff.",
+   "zh": "实验室称这次违规是无意的，并对员工进行了重新培训。"
+  }
+ ],
+ "debunk": [
+  {
+   "en": "The paper attempted to debunk a widely circulated nutritional myth.",
+   "zh": "该论文试图揭穿一个广为流传的营养学迷思。"
+  },
+  {
+   "en": "Researchers debunked the claim that the virus spread through surfaces.",
+   "zh": "研究人员驳斥了病毒通过表面传播的说法。"
+  },
+  {
+   "en": "Debunking popular misconceptions requires careful communication with the public.",
+   "zh": "揭穿流行的错误观念需要与公众进行审慎的沟通。"
+  }
+ ],
+ "untenable": [
+  {
+   "en": "The committee concluded that the argument was untenable and required revision.",
+   "zh": "委员会认定该论点站不住脚，需要修改。"
+  },
+  {
+   "en": "Without direct evidence, the hypothesis remains untenable and requires further testing.",
+   "zh": "没有直接证据，该假设依然难以成立，仍需进一步检验。"
+  },
+  {
+   "en": "His claim of absolute certainty is untenable given the available data.",
+   "zh": "就现有数据而言，他关于绝对确定性的说法是站不住脚的。"
+  }
+ ],
+ "imperative": [
+  {
+   "en": "It is imperative that the laboratory follow the revised safety protocol.",
+   "zh": "实验室必须遵守修订后的安全规程，这一点至关重要。"
+  },
+  {
+   "en": "Immediate action became imperative after the equipment failure revealed a leak.",
+   "zh": "设备故障暴露了泄漏问题后，采取紧急行动变得十分迫切。"
+  },
+  {
+   "en": "Officials stressed that it was imperative to publish the findings promptly.",
+   "zh": "官员强调，及时公布研究结果是一件极其重要的事。"
+  }
+ ],
+ "persuasive": [
+  {
+   "en": "The researcher presented a persuasive argument for revising the treatment guidelines.",
+   "zh": "研究人员提出了令人信服的论据，主张修订治疗指南。"
+  },
+  {
+   "en": "Her testimony was so persuasive that the board reversed its earlier decision.",
+   "zh": "她的证词极具说服力，董事会因此推翻了先前的决定。"
+  },
+  {
+   "en": "Well-designed visual data can be more persuasive than long statistical tables.",
+   "zh": "设计良好的可视化数据可能比冗长的统计表格更有说服力。"
+  }
+ ],
+ "trenchant": [
+  {
+   "en": "His trenchant critique exposed the weaknesses in the study's methodology.",
+   "zh": "他尖锐的评论揭露了该研究方法上的缺陷。"
+  },
+  {
+   "en": "She offered a trenchant analysis of the policy's hidden costs.",
+   "zh": "她对这项政策隐藏的成本作出了犀利的分析。"
+  },
+  {
+   "en": "The editorial was written in a trenchant style that readers admired.",
+   "zh": "这篇社论以犀利的笔法写成，令读者赞叹。"
+  }
+ ],
+ "far-reaching": [
+  {
+   "en": "The reform had far-reaching effects on public health across the region.",
+   "zh": "这项改革对整个地区的公共健康产生了深远影响。"
+  },
+  {
+   "en": "The scandal prompted far-reaching changes in corporate governance.",
+   "zh": "这起丑闻促成了公司治理方面的深远变革。"
+  },
+  {
+   "en": "Scientists warned of far-reaching consequences if emissions continued to rise.",
+   "zh": "科学家警告说，如果排放继续上升，后果将十分深远。"
+  }
+ ],
+ "occasionally": [
+  {
+   "en": "Researchers occasionally consult archived newspapers for historical context.",
+   "zh": "研究人员偶尔会查阅报纸档案以了解历史背景。"
+  },
+  {
+   "en": "The museum's collection occasionally includes manuscripts that have never been published.",
+   "zh": "该博物馆的馆藏中偶尔会出现从未出版过的手稿。"
+  },
+  {
+   "en": "She occasionally publishes short notes to clarify common points of confusion.",
+   "zh": "她偶尔会发表短文，澄清常见的困惑之处。"
+  }
+ ],
+ "gradually": [
+  {
+   "en": "The sample size gradually increased as new participants were recruited.",
+   "zh": "随着新参与者的招募，样本量逐渐扩大。"
+  },
+  {
+   "en": "Rainfall gradually declined across the region over the following decade.",
+   "zh": "在此后 10 年中，该地区的降雨量逐渐减少。"
+  },
+  {
+   "en": "These differences gradually disappeared after the software update was installed.",
+   "zh": "软件更新安装之后，这些差异逐渐消失了。"
+  }
+ ],
+ "evolve": [
+  {
+   "en": "The research question evolved as the researchers encountered unexpected data.",
+   "zh": "随着研究人员遇到意料之外的数据，研究问题也随之演变。"
+  },
+  {
+   "en": "Legal standards have evolved considerably over the past century.",
+   "zh": "过去一个世纪里，法律标准发生了巨大的演变。"
+  },
+  {
+   "en": "The team allowed the experimental design to evolve rather than fixing it prematurely.",
+   "zh": "研究小组允许实验设计逐步演变，而不是过早将其固定下来。"
+  }
+ ],
+ "commensurate": [
+  {
+   "en": "The funding granted was not commensurate with the scale of the project.",
+   "zh": "所获资助与该项目的规模并不相称。"
+  },
+  {
+   "en": "Salary increases should be commensurate with years of professional experience.",
+   "zh": "薪资增幅应与专业工作年限相称。"
+  },
+  {
+   "en": "The punishment imposed seemed wholly commensurate with the severity of the offense.",
+   "zh": "所施加的惩罚似乎与罪行的严重程度完全相称。"
+  }
+ ],
+ "vertical": [
+  {
+   "en": "The cliff face is nearly vertical and extremely dangerous to climb.",
+   "zh": "这处崖壁近乎垂直，攀登起来极其危险。"
+  },
+  {
+   "en": "Vertical integration can reduce costs throughout the supply chain.",
+   "zh": "纵向一体化可以降低整个供应链的成本。"
+  },
+  {
+   "en": "Researchers mapped the vertical distribution of pollutants in the water column.",
+   "zh": "研究人员绘制了水柱中污染物的垂直分布图。"
+  }
+ ],
+ "prove": [
+  {
+   "en": "The method proved too slow for datasets of this size.",
+   "zh": "事实证明，这种方法对于这种规模的数据集来说太慢了。"
+  },
+  {
+   "en": "Further experiments may prove that the observed effect is negligible.",
+   "zh": "进一步的实验或许会证明观察到的效应可以忽略不计。"
+  },
+  {
+   "en": "The new instruments proved highly effective under field conditions.",
+   "zh": "这些新仪器在野外条件下被证明非常有效。"
+  }
+ ],
+ "sparse": [
+  {
+   "en": "Data from the region remain sparse and difficult to interpret.",
+   "zh": "来自该地区的数据仍然十分稀少，难以解读。"
+  },
+  {
+   "en": "Vegetation on the cliff is sparse because rainfall there is minimal.",
+   "zh": "崖上的植被稀疏，因为那里的降雨极少。"
+  },
+  {
+   "en": "Only sparse evidence supports the earlier chronological dating of the site.",
+   "zh": "只有零星的证据支持对该遗址年代更早的断代。"
+  }
+ ],
+ "ideally": [
+  {
+   "en": "Ideally, the survey should include participants from every province.",
+   "zh": "理想情况下，这项调查应当涵盖每个省份的受访者。"
+  },
+  {
+   "en": "The reactor should ideally be inspected at least twice a year.",
+   "zh": "反应堆理想情况下应每年至少检查两次。"
+  },
+  {
+   "en": "Ideally, these measures would reduce costs as well as emissions.",
+   "zh": "理想情况下，这些措施既减少排放，也降低成本。"
+  }
+ ],
+ "undoubtedly": [
+  {
+   "en": "The new evidence undoubtedly strengthens the case for institutional reform.",
+   "zh": "新证据无疑加强了对机构改革的论证。"
+  },
+  {
+   "en": "Undoubtedly, the transition will be difficult for many small businesses.",
+   "zh": "无疑，这一转变对许多小企业来说将是困难的。"
+  },
+  {
+   "en": "Such patterns undoubtedly reflect wider changes in the labor market.",
+   "zh": "这类模式无疑反映了劳动力市场更广泛的变化。"
+  }
+ ],
+ "asset": [
+  {
+   "en": "Her ability to explain technical findings was a genuine asset to the team.",
+   "zh": "她解释技术性研究结果的能力是团队中的一项真正优势。"
+  },
+  {
+   "en": "The archive remains an invaluable asset for historians of the period.",
+   "zh": "该档案仍是研究这一时期的历史学家们无价的宝贵资料。"
+  },
+  {
+   "en": "Debts consumed the family assets within a single decade.",
+   "zh": "10 年之内，债务就耗尽了家里的全部财产。"
+  }
+ ],
+ "qualitative": [
+  {
+   "en": "The study used qualitative interviews to explore participants' attitudes.",
+   "zh": "该研究采用定性访谈来探究参与者的态度。"
+  },
+  {
+   "en": "Qualitative analysis revealed patterns that the numerical data had missed.",
+   "zh": "定性分析揭示出数值数据所遗漏的规律。"
+  },
+  {
+   "en": "Graders should not confuse a qualitative judgment with a measured score.",
+   "zh": "评分者不应把定性的判断与实测分数混为一谈。"
+  }
+ ],
+ "sequence": [
+  {
+   "en": "The lecture introduced the sequence of events that led to the crisis.",
+   "zh": "这堂讲座介绍了导致危机的一系列事件。"
+  },
+  {
+   "en": "Researchers examined the gene sequence for signs of mutation.",
+   "zh": "研究人员检查了该基因序列，寻找突变的迹象。"
+  },
+  {
+   "en": "The documentary footage was edited into a tighter sequence for broadcast.",
+   "zh": "这段纪录片素材被剪辑成更紧凑的片段用于播出。"
+  }
+ ],
+ "formula": [
+  {
+   "en": "The formula predicts the reaction rate at much higher temperatures.",
+   "zh": "该公式可以预测在更高温度下的反应速率。"
+  },
+  {
+   "en": "The team derived a new formula for estimating groundwater recharge.",
+   "zh": "研究小组推导出一个估算地下水补给量的新公式。"
+  },
+  {
+   "en": "This infant formula contains no added sugar or coloring agent.",
+   "zh": "这种婴儿配方奶粉不含添加糖或色素。"
+  }
+ ],
+ "prototypical": [
+  {
+   "en": "The low-cost water filter was recognized as a prototypical example of appropriate technology.",
+   "zh": "这款低成本滤水器被视为适用技术的典型范例。"
+  },
+  {
+   "en": "This case is prototypical of the disputes that arise in collaborative research.",
+   "zh": "这个案例是合作研究中常见争端的典型代表。"
+  },
+  {
+   "en": "Prototypical examples help students grasp the general principle quickly.",
+   "zh": "典型的例子能帮助学生迅速理解一般原理。"
+  }
+ ],
+ "adequate": [
+  {
+   "en": "The sample size was not adequate to detect such a small effect.",
+   "zh": "样本量不足以检测出如此微小的效应。"
+  },
+  {
+   "en": "The laboratory lacked adequate ventilation during the summer months.",
+   "zh": "实验室在夏季数月里通风不足。"
+  },
+  {
+   "en": "Existing funding proved adequate for the first phase of the project.",
+   "zh": "现有资金被证明足以支撑项目的第一阶段。"
+  }
+ ],
+ "pronounced": [
+  {
+   "en": "There was a pronounced difference between the two experimental groups.",
+   "zh": "两个实验组之间存在明显的差异。"
+  },
+  {
+   "en": "The temperature gradient showed a pronounced decline over the past decade.",
+   "zh": "过去 10 年里，温度梯度呈现出明显的下降。"
+  },
+  {
+   "en": "The speaker's accent was so pronounced that we asked her to slow down.",
+   "zh": "发言者的口音如此明显，以至于我们请她放慢语速。"
+  }
+ ],
+ "albeit": [
+  {
+   "en": "The method is elegant, albeit slow when applied to large datasets.",
+   "zh": "这种方法虽然优美，但在应用于大数据集时速度较慢。"
+  },
+  {
+   "en": "Funding for the program was renewed, albeit at a reduced level.",
+   "zh": "该项目的资金得到了续拨，尽管额度有所减少。"
+  },
+  {
+   "en": "The results support the hypothesis, albeit with some methodological caveats.",
+   "zh": "结果支持该假设，尽管在方法上存在一些需要注意之处。"
+  }
+ ],
+ "leap": [
+  {
+   "en": "Sales figures leapt by thirty percent in the final quarter.",
+   "zh": "最后一个季度的销售数字猛增了 30%。"
+  },
+  {
+   "en": "The country leapt from obscurity into the ranks of leading economies.",
+   "zh": "这个国家从默默无闻一跃跻身主要经济体之列。"
+  },
+  {
+   "en": "Her career leapt forward when the paper was widely cited.",
+   "zh": "那篇论文被广泛引用后，她的职业生涯迅速跃升。"
+  }
+ ],
+ "not to mention": [
+  {
+   "en": "The proposal is expensive, not to mention environmentally destructive.",
+   "zh": "这项提案成本高昂，更不用说它还会破坏环境。"
+  },
+  {
+   "en": "He ignored the safety rules, not to mention the repeated warnings he received.",
+   "zh": "他无视安全规定，更不用说那些他一再收到的警告了。"
+  },
+  {
+   "en": "The delay harmed the entire project, not to mention several junior researchers.",
+   "zh": "延误损害了整个项目，更不用说好几位初级研究人员。"
+  }
+ ],
+ "prevalent": [
+  {
+   "en": "This misconception remains prevalent among first-year undergraduates in economics.",
+   "zh": "这种误解在经济学专业的一年级大学生中依然十分普遍。"
+  },
+  {
+   "en": "Malaria is still prevalent in several regions during the wet season.",
+   "zh": "在雨季，疟疾在若干地区仍然流行。"
+  },
+  {
+   "en": "The trait is so prevalent in the population that screening is unnecessary.",
+   "zh": "这种特征在该人群中如此普遍，以至于无需进行筛查。"
+  }
+ ],
+ "mitigate": [
+  {
+   "en": "Planting trees can mitigate the effects of urban heat.",
+   "zh": "植树能够缓解城市高温带来的影响。"
+  },
+  {
+   "en": "The company introduced flexible hours to mitigate staff turnover.",
+   "zh": "该公司引入弹性工作时间，以减轻员工流失。"
+  },
+  {
+   "en": "Insurance schemes help mitigate the financial risk of crop failure.",
+   "zh": "保险制度有助于减轻作物歉收带来的财务风险。"
+  }
+ ],
+ "metaphor": [
+  {
+   "en": "The metaphor of the body as a machine shaped nineteenth-century physiology.",
+   "zh": "把身体比作机器这一隐喻塑造了 19 世纪的生理学。"
+  },
+  {
+   "en": "Writers often rely on metaphor to make abstract ideas concrete.",
+   "zh": "作家常常借助隐喻使抽象的概念变得具体。"
+  },
+  {
+   "en": "Her use of metaphor transformed an otherwise dry technical discussion.",
+   "zh": "她对隐喻的运用把一场原本枯燥的技术讨论变得生动起来。"
+  }
+ ],
+ "emulate": [
+  {
+   "en": "Junior researchers often try to emulate their supervisor's writing style.",
+   "zh": "青年研究者常常试图模仿导师的写作风格。"
+  },
+  {
+   "en": "The laboratory sought to emulate the success of its Singapore branch.",
+   "zh": "该实验室试图效仿其新加坡分部的成功。"
+  },
+  {
+   "en": "Engineers emulate natural patterns to design efficient structures.",
+   "zh": "工程师模仿自然界中的形态来设计高效的结构。"
+  }
+ ],
+ "constitute": [
+  {
+   "en": "These three factors constitute the core of the theoretical framework.",
+   "zh": "这三个因素构成了该理论框架的核心。"
+  },
+  {
+   "en": "Women constitute nearly half of the university's research staff.",
+   "zh": "女性占该大学研究人员的近一半。"
+  },
+  {
+   "en": "The selection criteria constitute the first stage of the review process.",
+   "zh": "这些选拔标准构成评审流程的第一阶段。"
+  }
+ ],
+ "merit": [
+  {
+   "en": "The proposal has considerable merit despite its technical flaws.",
+   "zh": "尽管存在技术缺陷，这份提案仍有相当的价值。"
+  },
+  {
+   "en": "His essay on civic responsibility earned the annual merit award.",
+   "zh": "他关于公民责任的论文获得了年度优秀奖。"
+  },
+  {
+   "en": "There is little merit in repeating an argument that has already failed.",
+   "zh": "重复一个已经失败过的论点几乎没有价值。"
+  }
+ ]
+}

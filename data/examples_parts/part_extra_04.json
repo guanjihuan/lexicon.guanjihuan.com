@@ -1,0 +1,506 @@
+{
+ "contribution": [
+  {
+   "en": "The contribution of this study to the field is its longitudinal design.",
+   "zh": "这项研究对该领域的贡献在于其纵向设计。"
+  },
+  {
+   "en": "Each author's contribution to the final manuscript is listed in the appendix.",
+   "zh": "每位作者对最终稿的贡献都列在附录中。"
+  },
+  {
+   "en": "The contribution of funding agencies must be acknowledged in every paper.",
+   "zh": "资助机构的贡献必须在每篇论文中致谢说明。"
+  }
+ ],
+ "operationalization": [
+  {
+   "en": "The operationalization of quality differed across the participating laboratories.",
+   "zh": "各参与实验室对质量的操作化方式并不相同。"
+  },
+  {
+   "en": "Without a clear operationalization, the concept cannot be measured reliably.",
+   "zh": "没有清晰的操作化，这一概念就无法被可靠测量。"
+  },
+  {
+   "en": "The operationalization of the construct required three validated indicators.",
+   "zh": "该概念的操作化需要三个经过验证的指标。"
+  }
+ ],
+ "confounder": [
+  {
+   "en": "Age was treated as a potential confounder in the regression models.",
+   "zh": "年龄在回归模型中被作为潜在混杂变量处理。"
+  },
+  {
+   "en": "Randomization alone does not remove every confounder, even in a well-conducted trial.",
+   "zh": "即便在开展规范的试验中，仅靠随机化也不能排除所有混杂变量。"
+  },
+  {
+   "en": "The authors discuss how each confounder was identified and controlled.",
+   "zh": "作者讨论了每个混杂变量是如何被识别与控制的。"
+  }
+ ],
+ "falsify": [
+  {
+   "en": "A single contradictory result cannot falsify the entire theory.",
+   "zh": "一个矛盾的结果不足以证伪整个理论。"
+  },
+  {
+   "en": "We designed the analysis to falsify our own initial hypothesis.",
+   "zh": "我们把分析设计成能够证伪自己最初的假设。"
+  },
+  {
+   "en": "Popper argued that science advances by attempting to falsify accepted claims.",
+   "zh": "波普尔主张科学通过尝试证伪已被接受的论断而进步。"
+  }
+ ],
+ "mediation": [
+  {
+   "en": "Mediation analysis revealed that sleep quality accounted for most of the effect.",
+   "zh": "中介效应分析显示，睡眠质量解释了大部分效应。"
+  },
+  {
+   "en": "The mediation effect of self-efficacy was significant in the structural model.",
+   "zh": "在结构模型中，自我效能的中介效应显著。"
+  },
+  {
+   "en": "We tested the mediation pathway linking stress, support, and sleep quality.",
+   "zh": "我们检验了连接压力、支持与睡眠质量的中介路径。"
+  }
+ ],
+ "moderation": [
+  {
+   "en": "Moderation analysis showed that gender altered the strength of the effect.",
+   "zh": "调节效应分析显示性别改变了效应的强度。"
+  },
+  {
+   "en": "The moderation of the intervention effect by baseline severity was small.",
+   "zh": "基线严重程度对干预效应的调节作用很小。"
+  },
+  {
+   "en": "A moderation test was prespecified to avoid selective reporting.",
+   "zh": "研究预先设定了一个调节效应检验，以避免选择性报告。"
+  }
+ ],
+ "endogeneity": [
+  {
+   "en": "Instrumental variables were used to address endogeneity in the estimates.",
+   "zh": "研究使用工具变量来处理估计中的内生性问题。"
+  },
+  {
+   "en": "Concerns about endogeneity led us to re-estimate the model with fixed effects.",
+   "zh": "对内生性的担忧促使我们用固定效应重新估计了模型。"
+  },
+  {
+   "en": "The severity of endogeneity determines the degree of bias in the estimates.",
+   "zh": "内生性的严重程度决定了估计值的偏差程度。"
+  }
+ ],
+ "propensity": [
+  {
+   "en": "Each participant received a propensity score from the fitted model.",
+   "zh": "每位参与者都从拟合模型中得到一个倾向得分。"
+  },
+  {
+   "en": "Propensity score matching balanced the observed characteristics of the two groups.",
+   "zh": "倾向得分匹配使两组的可观测特征达到平衡。"
+  },
+  {
+   "en": "The propensity to participate was higher among younger respondents.",
+   "zh": "年轻受访者参与的倾向更高。"
+  }
+ ],
+ "placebo": [
+  {
+   "en": "All participants received an identical placebo during the control phase.",
+   "zh": "在对照阶段，所有参与者都服用了成分相同的安慰剂。"
+  },
+  {
+   "en": "The placebo effect cannot explain the difference between the two conditions.",
+   "zh": "安慰剂效应无法解释两种条件之间的差异。"
+  },
+  {
+   "en": "Participants who guessed they were receiving the active treatment reported more side effects than those confident they had taken the placebo.",
+   "zh": "猜到自己正接受活性治疗的参与者，比确信自己服下安慰剂的参与者报告了更多副作用。"
+  }
+ ],
+ "blinding": [
+  {
+   "en": "Single blinding was applied so that participants could not identify their group.",
+   "zh": "研究采用单盲法，使参与者无法辨认自己所在的组。"
+  },
+  {
+   "en": "The blinding of outcome assessors reduced the risk of observer bias.",
+   "zh": "对结局评估者实施盲法降低了观察者偏倚的风险。"
+  },
+  {
+   "en": "Breaking the blinding revealed that allocation had not been fully concealed.",
+   "zh": "揭盲显示随机分配并未被完全隐藏。"
+  }
+ ],
+ "allocation": [
+  {
+   "en": "Random allocation concealed the treatment assignment from all participants.",
+   "zh": "随机分配向所有参与者隐藏了治疗分组。"
+  },
+  {
+   "en": "The allocation of resources across departments followed a transparent formula.",
+   "zh": "各部门之间的资源配置遵循一套透明的公式。"
+  },
+  {
+   "en": "Allocation concealment is essential in any properly randomized trial.",
+   "zh": "分配隐藏是任何规范随机试验的必备环节。"
+  }
+ ],
+ "case-control": [
+  {
+   "en": "The case-control design efficiently examined rare outcomes in the population.",
+   "zh": "病例对照设计高效地考察了人群中的罕见结局。"
+  },
+  {
+   "en": "In this case-control study, controls were matched on age and site.",
+   "zh": "在这项病例对照研究中，对照组按年龄与研究中心进行了匹配。"
+  },
+  {
+   "en": "A case-control comparison identified exposure differences between the two groups.",
+   "zh": "病例对照比较识别出了两组之间的暴露差异。"
+  }
+ ],
+ "effect size": [
+  {
+   "en": "The effect size was small but statistically significant in the primary analysis.",
+   "zh": "在主要分析中，效应量虽小但具有统计显著性。"
+  },
+  {
+   "en": "We report the effect size alongside the confidence interval for every outcome.",
+   "zh": "我们为每个结局同时报告效应量与置信区间。"
+  },
+  {
+   "en": "Reporting the effect size prevents small findings from appearing more important than they are.",
+   "zh": "报告效应量可以避免让微小的发现显得过于重要。"
+  }
+ ],
+ "mixed-method": [
+  {
+   "en": "The mixed-method design combined survey data with in-depth interviews.",
+   "zh": "该混合方法设计把问卷数据与深度访谈结合起来。"
+  },
+  {
+   "en": "Findings from both strands of the mixed-method study converged on the same conclusion.",
+   "zh": "这项混合方法研究的两个部分都得出了相同的结论。"
+  },
+  {
+   "en": "A mixed-method approach captures both the scale and the experience of the phenomenon.",
+   "zh": "混合方法路径同时捕捉到该现象的规模与体验。"
+  }
+ ],
+ "cluster": [
+  {
+   "en": "Cluster analysis identified four distinct groups within the survey responses.",
+   "zh": "聚类分析在问卷回答中识别出四个不同的群体。"
+  },
+  {
+   "en": "Participants were assigned to a cluster by their clinic site of enrollment.",
+   "zh": "参与者按入组所在的诊所站点被分配到各个群组。"
+  },
+  {
+   "en": "Standard errors were adjusted for correlation within each cluster.",
+   "zh": "标准误已针对每个群组内部的相关性进行了校正。"
+  }
+ ],
+ "panel": [
+  {
+   "en": "The expert panel reviewed the draft and recommended substantial revisions.",
+   "zh": "专家组审阅了草稿并建议进行大幅修改。"
+  },
+  {
+   "en": "Panel data tracking the same firms over ten years were analyzed.",
+   "zh": "研究分析了追踪同一批企业 10 年的面板数据。"
+  },
+  {
+   "en": "Members of the review panel worked independently before meeting to reach consensus.",
+   "zh": "评审组的成员先独立工作，然后开会达成共识。"
+  }
+ ],
+ "pooled": [
+  {
+   "en": "The pooled estimate combined data from nine independent clinical trials.",
+   "zh": "合并估计值综合了九项独立临床试验的数据。"
+  },
+  {
+   "en": "Pooled results confirmed the direction of the effect observed at each site.",
+   "zh": "合并结果证实了各研究中心所观察到的效应方向。"
+  },
+  {
+   "en": "We present the pooled analysis alongside the individual study estimates.",
+   "zh": "我们同时呈现合并分析与各单项研究的估计值。"
+  }
+ ],
+ "prospective": [
+  {
+   "en": "The prospective cohort followed participants for eight years after enrollment.",
+   "zh": "这个前瞻性队列在入组后随访了参与者八年。"
+  },
+  {
+   "en": "A prospective design avoids the biases that plague retrospective records.",
+   "zh": "前瞻性设计避免了困扰回顾性记录的那些偏倚。"
+  },
+  {
+   "en": "Prospective data were collected before any outcome was observed.",
+   "zh": "前瞻性数据在任何结局被观察到之前就已采集。"
+  }
+ ],
+ "pragmatic": [
+  {
+   "en": "A pragmatic trial measures outcomes that matter to routine practice.",
+   "zh": "务实型试验测量的是对日常实践真正重要的结局。"
+  },
+  {
+   "en": "The authors defend a pragmatic approach to evaluating complex interventions.",
+   "zh": "作者主张以务实的路径评估复杂干预措施。"
+  },
+  {
+   "en": "Pragmatic decisions were made as new evidence arrived during the project.",
+   "zh": "项目推进中每有新的证据出现，就会作出务实的决策。"
+  }
+ ],
+ "reflexivity": [
+  {
+   "en": "The paper reflects on researcher reflexivity and its effect on the analysis.",
+   "zh": "论文反思了研究者的自反性及其对分析的影响。"
+  },
+  {
+   "en": "Reflexivity is central to qualitative research because the researcher shapes the data.",
+   "zh": "由于研究者本身塑造了资料，自反性在定性研究中居于核心地位。"
+  },
+  {
+   "en": "Journals can foster reflexivity when researchers record how their choices shape the data.",
+   "zh": "当研究者记录自己的选择如何塑造数据时，日志能培养自反性。"
+  }
+ ],
+ "positionality": [
+  {
+   "en": "The researcher's positionality shaped which questions were asked in interviews.",
+   "zh": "研究者的位置性影响了访谈中提出哪些问题。"
+  },
+  {
+   "en": "Stating positionality helps readers evaluate the claims of the analysis.",
+   "zh": "说明自身的位置性有助于读者评判分析的论断。"
+  },
+  {
+   "en": "The discussion treats positionality as a resource rather than a limitation.",
+   "zh": "讨论把位置性视为一种资源而非局限。"
+  }
+ ],
+ "critique": [
+  {
+   "en": "The panel published a critique of the study's sampling design.",
+   "zh": "评审组发表了对该研究抽样设计的批评。"
+  },
+  {
+   "en": "Her critique of the framework reshaped how the team defined the problem.",
+   "zh": "她对该框架的批评重塑了团队对问题的定义。"
+  },
+  {
+   "en": "The article offers a critique of quantitative indicators in policy evaluation.",
+   "zh": "该文章对政策评估中的定量指标提出了批评。"
+  }
+ ],
+ "normative": [
+  {
+   "en": "The paper draws a normative conclusion about how research should be funded.",
+   "zh": "该文就研究应如何获得资助提出了规范性结论。"
+  },
+  {
+   "en": "Distinguishing descriptive from normative claims clarifies the argument considerably.",
+   "zh": "区分描述性论断与规范性论断能大大厘清论证。"
+  },
+  {
+   "en": "The normative framework sets out the values that the policy should respect.",
+   "zh": "该规范框架阐明了政策应当尊重的价值观。"
+  }
+ ],
+ "interpretive": [
+  {
+   "en": "The interpretive approach treats the text as a situated social practice.",
+   "zh": "解释性路径把文本视为一种处于具体语境中的社会实践。"
+  },
+  {
+   "en": "Interpretive analysis requires careful attention to the context of each quotation.",
+   "zh": "诠释分析要求对每段引文的语境给予细致关注。"
+  },
+  {
+   "en": "The interpretive stance shapes which meanings the researcher foregrounds.",
+   "zh": "解释性立场会影响研究者凸显哪些意义。"
+  }
+ ],
+ "adoption": [
+  {
+   "en": "The adoption of the new protocol varied widely across participating sites.",
+   "zh": "新方案在各参与点的采纳情况差异很大。"
+  },
+  {
+   "en": "Adoption of the guideline was highest where local champions provided training.",
+   "zh": "在有本地骨干提供培训的地方，指南的采纳率最高。"
+  },
+  {
+   "en": "Rapid adoption depends on cost, training, and compatibility with existing routine.",
+   "zh": "快速采纳取决于成本、培训以及与现有流程的兼容性。"
+  }
+ ],
+ "uptake": [
+  {
+   "en": "The uptake of the intervention was highest among younger clinicians.",
+   "zh": "这项干预在年轻临床医生中的接受度最高。"
+  },
+  {
+   "en": "Low uptake limited the impact of the program despite a modest cost.",
+   "zh": "尽管成本不高，较低的接受度仍限制了项目效果。"
+  },
+  {
+   "en": "We measured uptake by counting the clinics that registered for the scheme.",
+   "zh": "我们通过统计登记参加该方案的诊所数量来衡量接受度。"
+  }
+ ],
+ "adherence": [
+  {
+   "en": "Adherence to the protocol was monitored through weekly diary reviews.",
+   "zh": "对研究方案的依从性通过每周的日记复核来监测。"
+  },
+  {
+   "en": "Poor adherence reduces the effective dose and dilutes the treatment effect.",
+   "zh": "依从性差会降低有效剂量并削弱治疗效应。"
+  },
+  {
+   "en": "Participants who received reminders showed markedly better adherence over time.",
+   "zh": "收到提醒的参与者，其依从性随时间推移明显改善。"
+  }
+ ],
+ "dissemination": [
+  {
+   "en": "Dissemination of the findings included workshops, articles, and open repositories.",
+   "zh": "研究结果的传播包括研讨会、论文和开放知识库。"
+  },
+  {
+   "en": "A dissemination plan should name the audiences and the channels in advance.",
+   "zh": "传播计划应事先明确目标受众与传播渠道。"
+  },
+  {
+   "en": "The team funded additional dissemination to reach practitioners in other regions.",
+   "zh": "团队为把成果传播到其他地区的从业者提供了额外经费。"
+  }
+ ],
+ "scalability": [
+  {
+   "en": "The scalability of the intervention was tested in three additional regions.",
+   "zh": "该干预措施的可扩展性在另外三个地区进行了检验。"
+  },
+  {
+   "en": "Scalability depends on whether local staff can deliver it without specialist support.",
+   "zh": "可扩展性取决于当地人员能否在没有专家支持的情况下实施。"
+  },
+  {
+   "en": "The pilot was designed to demonstrate the scalability of the approach.",
+   "zh": "这项试点旨在证明该路径的可规模化程度。"
+  }
+ ],
+ "equity": [
+  {
+   "en": "The intervention improved health equity across income groups in the region.",
+   "zh": "该干预改善了当地不同收入群体之间的健康公平。"
+  },
+  {
+   "en": "Equity was assessed by comparing outcomes for the most and least advantaged.",
+   "zh": "公平性通过比较最有利与最不利人群的结局来评估。"
+  },
+  {
+   "en": "Cost barriers remain the greatest threat to equity in access to care.",
+   "zh": "在医疗服务可及性方面，费用门槛仍是对公平的最大威胁。"
+  }
+ ],
+ "bottleneck": [
+  {
+   "en": "Data entry remains the main bottleneck in the analysis pipeline.",
+   "zh": "数据录入仍是分析流程中的主要瓶颈。"
+  },
+  {
+   "en": "The committee identified recruitment as the principal bottleneck for the study.",
+   "zh": "委员会认定招募是这项研究的主要制约环节。"
+  },
+  {
+   "en": "Removing that bottleneck cut the total processing time nearly in half.",
+   "zh": "移除该瓶颈使总处理时间几乎减半。"
+  }
+ ],
+ "alignment": [
+  {
+   "en": "Strategic alignment between the ministry and the universities improved the outcome.",
+   "zh": "部委与高校之间的战略协同改善了结果。"
+  },
+  {
+   "en": "The alignment of the curriculum with national standards took two years.",
+   "zh": "课程与国家标准的一致化花了两年时间。"
+  },
+  {
+   "en": "The study shows the alignment between stated goals and actual practice was weak.",
+   "zh": "研究显示既定目标与实际做法之间的一致性很弱。"
+  }
+ ],
+ "overlap": [
+  {
+   "en": "The overlap between the two samples was estimated before pooling the data.",
+   "zh": "在合并数据之前，研究估计了两个样本的重叠程度。"
+  },
+  {
+   "en": "There is substantial overlap in the topics covered by both reviews.",
+   "zh": "两篇综述所涵盖的主题存在大量重叠。"
+  },
+  {
+   "en": "The two curricula overlap considerably, which creates unnecessary duplication.",
+   "zh": "两套课程内容重叠严重，造成了不必要的重复。"
+  }
+ ],
+ "milestone": [
+  {
+   "en": "The first major milestone was the completion of the pilot study.",
+   "zh": "第一个重要里程碑是完成试点研究。"
+  },
+  {
+   "en": "Each milestone was reviewed against the criteria agreed with the funder.",
+   "zh": "每个里程碑都依据与资助方商定的标准进行审查。"
+  },
+  {
+   "en": "Passing this milestone secures the next three years of funding.",
+   "zh": "通过这个里程碑就能锁定未来三年的资助。"
+  }
+ ],
+ "blueprint": [
+  {
+   "en": "The report offers a blueprint for reforming graduate research training.",
+   "zh": "该报告为改革研究生科研训练提供了一份蓝本。"
+  },
+  {
+   "en": "This blueprint for policy design has been adopted by several agencies.",
+   "zh": "这份政策设计蓝本已被多个机构采纳。"
+  },
+  {
+   "en": "The working group produced a blueprint that other departments can adapt.",
+   "zh": "工作组产出了一份其他部门可以借鉴调整的范本。"
+  }
+ ],
+ "tipping point": [
+  {
+   "en": "The ecosystem reached a tipping point during the unusually warm summer.",
+   "zh": "在异常温暖的夏季，该生态系统到达了临界点。"
+  },
+  {
+   "en": "The data suggest the system has passed a tipping point for recovery.",
+   "zh": "数据显示该系统已越过恢复的临界点。"
+  },
+  {
+   "en": "Identifying a tipping point early allows managers to intervene before collapse.",
+   "zh": "及早识别临界点可以让管理者在崩塌前进行干预。"
+  }
+ ]
+}

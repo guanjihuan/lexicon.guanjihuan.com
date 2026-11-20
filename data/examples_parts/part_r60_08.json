@@ -1,0 +1,32 @@
+{
+ "in case": [
+  {"en": "Samples were stored in sealed containers in case contamination occurred during transport.", "zh": "样本被储存在密封容器中，以防在运输过程中发生污染。"},
+  {"en": "The protocol requires a written record in case the ethics committee requests further documentation.", "zh": "研究方案要求保留书面记录，以备伦理委员会要求补充材料时查验。"},
+  {"en": "Researchers should carry spare reagents in case equipment failure interrupts the experimental sequence.", "zh": "研究人员应携带备用的试剂，以防设备故障打断实验流程。"}
+ ],
+ "now that": [
+  {"en": "Now that the baseline data have been collected, the analysis can proceed to the next phase.", "zh": "既然基线数据已经收集完毕，分析工作即可进入下一阶段。"},
+  {"en": "Now that peer review has been completed, the editors have released the accepted manuscript for publication.", "zh": "既然同行评审已经完成，编辑便放行已录用的稿件以供发表。"},
+  {"en": "Now that international cooperation has been established, the survey will cover institutions across the region.", "zh": "既然国际合作已经建立起来，这项调查将覆盖该地区的各类机构。"}
+ ],
+ "as soon as": [
+  {"en": "The software notifies the reviewer as soon as a new version of the dataset becomes available.", "zh": "数据集的新版本一经发布，软件即会通知审阅人。"},
+  {"en": "Grant applications must be submitted as soon as the funding cycle opens in early spring.", "zh": "资助申请必须在春季资助周期启动后立即提交。"},
+  {"en": "The team will replicate the experiment as soon as the required laboratory space is allocated.", "zh": "所需的实验室空间一经分配，团队就会复现该实验。"}
+ ],
+ "in order that": [
+  {"en": "The protocol was revised in order that participants could withdraw consent without penalty.", "zh": "研究方案经过修订，以便参与者可以无惩罚地撤回同意。"},
+  {"en": "Sample sizes were increased in order that the confidence intervals would remain stable across subgroups.", "zh": "样本量得以增加，以使各亚组之间的置信区间保持稳定。"},
+  {"en": "The researchers recorded every deviation in order that the analysis could be replicated independently.", "zh": "研究人员记录下每一次偏离，以便该分析能够被独立复现。"}
+ ],
+ "supposing": [
+  {"en": "Supposing that the treatment reduces mortality, the trial could be shortened without loss of validity.", "zh": "倘若该干预措施确实降低死亡率，试验即可缩短而不损及效度。"},
+  {"en": "Supposing the grant is approved, the laboratory will recruit two additional research assistants next term.", "zh": "假设该项资助获得批准，实验室将在下学期增聘两名研究助理。"},
+  {"en": "Supposing that early findings hold, a larger multi-site study would appear justified.", "zh": "倘若早期结论成立，开展一项规模更大的多中心研究便显得合理。"}
+ ],
+ "assuming": [
+  {"en": "Assuming the sample remains representative, the estimates should generalize to the wider population.", "zh": "假定样本仍具代表性，这些估计应当可以推及更广泛的人口总体。"},
+  {"en": "Assuming that measurement error is random, the resulting bias would mainly reduce statistical power.", "zh": "假定测量误差是随机的，由此产生的偏倚主要会降低统计功效。"},
+  {"en": "Assuming that grants continue at current levels, the program cannot expand beyond existing capacity.", "zh": "假定资助维持现有水平，该项目便无法在现有承载能力之外继续扩展。"}
+ ]
+}

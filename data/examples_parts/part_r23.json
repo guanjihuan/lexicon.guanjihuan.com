@@ -1,0 +1,548 @@
+{
+ "acknowledge": [
+  {
+   "en": "The authors acknowledge the limitations of a single-site study.",
+   "zh": "作者承认单一站点研究的局限性。"
+  },
+  {
+   "en": "Few studies acknowledge the role of chance in these outcomes.",
+   "zh": "很少有研究承认偶然因素在这些结果中的作用。"
+  },
+  {
+   "en": "The report acknowledges contributions from all participating laboratories.",
+   "zh": "报告对所有参与实验室的贡献表示感谢。"
+  }
+ ],
+ "assemble": [
+  {
+   "en": "We assembled evidence from forty peer-reviewed studies.",
+   "zh": "我们从 40 篇同行评审论文中汇集了证据。"
+  },
+  {
+   "en": "Panels assemble to evaluate grant applications each spring.",
+   "zh": "评审组每年春季召开会议以评估基金申请。"
+  },
+  {
+   "en": "The team assembled a database of cross-national survey results.",
+   "zh": "团队汇编了一个跨国调查结果数据库。"
+  }
+ ],
+ "assist": [
+  {
+   "en": "Research librarians assist students in locating primary sources.",
+   "zh": "研究馆员协助学生查找原始文献。"
+  },
+  {
+   "en": "A laboratory assistant assisted participants with the equipment during trials.",
+   "zh": "试验中一名助手协助参与者操作设备。"
+  },
+  {
+   "en": "Software can assist but not replace careful data inspection.",
+   "zh": "软件可以辅助而不能替代细致的数据检查。"
+  }
+ ],
+ "associate": [
+  {
+   "en": "Sleep deprivation is associated with impaired concentration.",
+   "zh": "睡眠不足与注意力受损相关。"
+  },
+  {
+   "en": "Respondents associated the brand with reliability rather than novelty.",
+   "zh": "受访者将该品牌与可靠性而非新奇联系在一起。"
+  },
+  {
+   "en": "Higher intake was associated with better test performance overall.",
+   "zh": "更高的摄入量总体上与更好的测验表现相关。"
+  }
+ ],
+ "communicate": [
+  {
+   "en": "Clear figures help authors communicate complex results efficiently.",
+   "zh": "清晰的图表帮助作者高效传达复杂结果。"
+  },
+  {
+   "en": "Cells communicate through chemical signals in the bloodstream.",
+   "zh": "细胞通过血液中的化学信号进行交流。"
+  },
+  {
+   "en": "The study communicates its findings to both researchers and practitioners.",
+   "zh": "该研究向研究者和实践者双方传达其发现。"
+  }
+ ],
+ "compile": [
+  {
+   "en": "We compiled a list of all eligible trials published before 2020.",
+   "zh": "我们编制了 2020 年前发表的全部合格试验清单。"
+  },
+  {
+   "en": "The annex compiles statistics gathered across nine ministries.",
+   "zh": "附录汇编了九个部门收集的统计数据。"
+  },
+  {
+   "en": "Librarians compile citation records for the university repository.",
+   "zh": "馆员为学校知识库汇编引文记录。"
+  }
+ ],
+ "consume": [
+  {
+   "en": "Model training consumes considerable computational resources.",
+   "zh": "模型训练消耗大量计算资源。"
+  },
+  {
+   "en": "Households in the region consume more water than the national average.",
+   "zh": "该地区家庭耗水量高于全国平均水平。"
+  },
+  {
+   "en": "The revision consumed most of the research time budget.",
+   "zh": "修订工作耗费了大部分研究时间预算。"
+  }
+ ],
+ "cooperate": [
+  {
+   "en": "Hospitals across the region agreed to cooperate on the registry.",
+   "zh": "该地区各医院同意就登记库开展合作。"
+  },
+  {
+   "en": "Successful surveys depend on respondents willing to cooperate.",
+   "zh": "成功的调查依赖于愿意配合的受访者。"
+  },
+  {
+   "en": "The two labs cooperate by sharing equipment and samples.",
+   "zh": "两个实验室通过共享设备和样本进行协作。"
+  }
+ ],
+ "create": [
+  {
+   "en": "Random assignment helps create comparable treatment and control groups.",
+   "zh": "随机分组有助于形成可比的处理组与对照组。"
+  },
+  {
+   "en": "Feedback loops can create unintended inequalities in ranking systems.",
+   "zh": "反馈回路可能在排名体系中造成非预期的不平等。"
+  },
+  {
+   "en": "The intervention created new opportunities for rural learners.",
+   "zh": "该干预为农村学习者创造了新的机会。"
+  }
+ ],
+ "distort": [
+  {
+   "en": "Selective reporting can distort the apparent effectiveness of a treatment.",
+   "zh": "选择性报告可能歪曲治疗表面上的有效性。"
+  },
+  {
+   "en": "Outliers may distort the estimated trend if not handled carefully.",
+   "zh": "若不谨慎处理，离群值可能扭曲估计的趋势。"
+  },
+  {
+   "en": "Translation can distort nuanced items in attitudinal scales.",
+   "zh": "翻译可能使态度量表中的精细条目失真。"
+  }
+ ],
+ "expand": [
+  {
+   "en": "Later chapters expand on the theoretical framework.",
+   "zh": "后续章节对理论框架作了进一步阐述。"
+  },
+  {
+   "en": "The sample will expand to include secondary schools next year.",
+   "zh": "样本明年将扩大至包括中学。"
+  },
+  {
+   "en": "Demand for the service expanded rapidly after launch.",
+   "zh": "该服务的需求在推出后迅速扩大。"
+  }
+ ],
+ "participate": [
+  {
+   "en": "Over three hundred teachers participated in the survey.",
+   "zh": "三百多位教师参与了这项调查。"
+  },
+  {
+   "en": "Volunteers were compensated for participating in the experiment.",
+   "zh": "志愿者因参加实验而获得报酬。"
+  },
+  {
+   "en": "Not every eligible household chose to participate.",
+   "zh": "并非每个符合条件的家庭都选择参与。"
+  }
+ ],
+ "prescribe": [
+  {
+   "en": "Clinicians rarely prescribe antibiotics for viral infections.",
+   "zh": "临床医生很少为病毒感染患者开抗生素处方。"
+  },
+  {
+   "en": "Ethics codes prescribe how conflicts of interest should be disclosed.",
+   "zh": "伦理准则规定利益冲突应当如何披露。"
+  },
+  {
+   "en": "The protocol prescribes a washout period between conditions.",
+   "zh": "方案规定各处理条件之间需安排清洗期。"
+  }
+ ],
+ "secure": [
+  {
+   "en": "The team secured funding for a five-year follow-up.",
+   "zh": "团队获得了五年期随访研究的资助。"
+  },
+  {
+   "en": "Securing informed consent precedes any data collection.",
+   "zh": "取得知情同意先于任何数据收集。"
+  },
+  {
+   "en": "Researchers must secure records against accidental deletion.",
+   "zh": "研究者必须确保记录安全以防误删。"
+  }
+ ],
+ "association": [
+  {
+   "en": "The association between income and health is well documented.",
+   "zh": "收入与健康之间的关联已有充分文献记录。"
+  },
+  {
+   "en": "Correlation does not imply a causal association.",
+   "zh": "相关并不意味着因果关联。"
+  },
+  {
+   "en": "She joined a professional association of statisticians.",
+   "zh": "她加入了一个统计学家专业协会。"
+  }
+ ],
+ "communication": [
+  {
+   "en": "Open communication reduces errors in clinical teams.",
+   "zh": "开放的沟通可减少临床团队的差错。"
+  },
+  {
+   "en": "The project funds public communication of research results.",
+   "zh": "该项目资助研究结果的公众传播。"
+  },
+  {
+   "en": "Communication delays between departments distorted the timeline.",
+   "zh": "部门之间的沟通延误打乱了时间表。"
+  }
+ ],
+ "community": [
+  {
+   "en": "The research community welcomed the open dataset.",
+   "zh": "学术界对这一开放数据集表示欢迎。"
+  },
+  {
+   "en": "Local community leaders endorsed the recruitment plan.",
+   "zh": "当地社区负责人认可了招募计划。"
+  },
+  {
+   "en": "Peer review sustains trust within the scientific community.",
+   "zh": "同行评审维系着科学共同体内部的信任。"
+  }
+ ],
+ "author": [
+  {
+   "en": "Each author certified access to the raw data.",
+   "zh": "每位作者均确认可访问原始数据。"
+  },
+  {
+   "en": "The first author drafted the coding scheme.",
+   "zh": "第一作者起草了编码方案。"
+  },
+  {
+   "en": "Anonymous review conceals the identity of every author.",
+   "zh": "匿名评审隐去每位作者的身份。"
+  }
+ ],
+ "conference": [
+  {
+   "en": "The findings first appeared as a conference paper.",
+   "zh": "这些发现最初以会议论文形式发表。"
+  },
+  {
+   "en": "Conference presentations attracted useful methodological criticism.",
+   "zh": "会议报告获得了有益的方法学批评。"
+  },
+  {
+   "en": "Submission deadlines for the spring conference have passed.",
+   "zh": "春季会议的投稿截止日期已过。"
+  }
+ ],
+ "department": [
+  {
+   "en": "The department revised its graduate admission criteria.",
+   "zh": "该系修订了研究生录取标准。"
+  },
+  {
+   "en": "Funding comes jointly from two departments.",
+   "zh": "经费由两个系共同提供。"
+  },
+  {
+   "en": "A hospital department piloted the new triage form.",
+   "zh": "一家医院科室试用了新的分诊表格。"
+  }
+ ],
+ "economy": [
+  {
+   "en": "Inflation cooled as the economy slowed in 2023.",
+   "zh": "随着 2023 年经济放缓，通胀有所降温。"
+  },
+  {
+   "en": "The study compares health outcomes across a market economy and a planned one.",
+   "zh": "该研究比较了市场经济与计划经济体的健康结果。"
+  },
+  {
+   "en": "Household debt constrains growth in the whole economy.",
+   "zh": "家庭债务制约着整体经济的增长。"
+  }
+ ],
+ "emotion": [
+  {
+   "en": "Participants rated each image for emotion and familiarity.",
+   "zh": "参与者就情绪和熟悉度对每张图片评分。"
+  },
+  {
+   "en": "Naming an emotion reduces its intensity.",
+   "zh": "为情绪命名能降低其强度。"
+  },
+  {
+   "en": "The scale measures moral emotion rather than mood.",
+   "zh": "该量表测量的是道德情绪而非心境。"
+  }
+ ],
+ "layer": [
+  {
+   "en": "A thin layer of sediment sealed the artifacts.",
+   "zh": "一层薄薄的沉积物封存了这些人工遗物。"
+  },
+  {
+   "en": "The model adds a hidden layer between input and output.",
+   "zh": "该模型在输入与输出之间增加了一个隐藏层。"
+  },
+  {
+   "en": "Analysis proceeded layer by layer through the archive.",
+   "zh": "分析逐层推进，逐层深入档案之中。"
+  }
+ ],
+ "output": [
+  {
+   "en": "Factory output recovered to its pre-crisis level.",
+   "zh": "工厂产出恢复到危机前水平。"
+  },
+  {
+   "en": "We audited the model output for systematic bias.",
+   "zh": "我们对模型输出进行了系统性偏差审查。"
+  },
+  {
+   "en": "Research output is measured in publications and citations.",
+   "zh": "科研产出以论文和引用衡量。"
+  }
+ ],
+ "project": [
+  {
+   "en": "The longitudinal project tracked cohorts for two decades.",
+   "zh": "这项纵向项目追踪队列达 20 年。"
+  },
+  {
+   "en": "Budget overruns delayed the construction project.",
+   "zh": "预算超支延误了该建设项目。"
+  },
+  {
+   "en": "Each student presents an individual research project.",
+   "zh": "每位学生展示一个独立研究项目。"
+  }
+ ],
+ "region": [
+  {
+   "en": "The effect held in every region surveyed.",
+   "zh": "该效应在所调查的每个地区都成立。"
+  },
+  {
+   "en": "A desert region supplied most of the samples.",
+   "zh": "一个沙漠地区提供了大部分样本。"
+  },
+  {
+   "en": "Policies differ markedly across the same economic region.",
+   "zh": "同一经济区域内的政策差异显著。"
+  }
+ ],
+ "revenue": [
+  {
+   "en": "Tuition forms a shrinking share of university revenue.",
+   "zh": "学费占大学收入的比例不断缩小。"
+  },
+  {
+   "en": "The tax reform shifted revenue toward local government.",
+   "zh": "税制改革将收入重心转移至地方政府。"
+  },
+  {
+   "en": "Advertising revenue declined as subscriptions rose.",
+   "zh": "随着订阅量上升，广告收入有所下降。"
+  }
+ ],
+ "reward": [
+  {
+   "en": "Delayed reward is central to intertemporal choice studies.",
+   "zh": "延迟奖励是跨期选择研究的核心。"
+  },
+  {
+   "en": "Bonus schemes reward quantity more than quality.",
+   "zh": "奖金方案奖励数量而非质量。"
+  },
+  {
+   "en": "The algorithm learns by maximizing a reward signal.",
+   "zh": "算法通过最大化奖励信号进行学习。"
+  }
+ ],
+ "sector": [
+  {
+   "en": "Employment grew fastest in the service sector.",
+   "zh": "服务业就业增长最快。"
+  },
+  {
+   "en": "Public-sector wages lag behind comparable private jobs.",
+   "zh": "公共部门工资落后于可比的私营岗位。"
+  },
+  {
+   "en": "The policy targets emissions across every sector.",
+   "zh": "该政策针对所有部门的排放。"
+  }
+ ],
+ "site": [
+  {
+   "en": "Excavation began at the coastal dig site.",
+   "zh": "发掘工作始于沿海的发掘现场。"
+  },
+  {
+   "en": "Each field site received identical training for enumerators.",
+   "zh": "每个田野站点为调查员提供相同培训。"
+  },
+  {
+   "en": "The data are mirrored on a university web site.",
+   "zh": "数据已镜像同步到一所大学的网站上。"
+  }
+ ],
+ "status": [
+  {
+   "en": "Migrant workers occupy an ambiguous legal status.",
+   "zh": "外来务工人员处于模糊的法律地位。"
+  },
+  {
+   "en": "We recorded the completion status of every case.",
+   "zh": "我们记录了每个个案的完成状态。"
+  },
+  {
+   "en": "Socioeconomic status remains the strongest predictor.",
+   "zh": "社会经济地位仍是最强的预测因子。"
+  }
+ ],
+ "symbol": [
+  {
+   "en": "Each symbol denotes one logical operator.",
+   "zh": "每个符号表示一个逻辑运算符。"
+  },
+  {
+   "en": "The flag operates as a political symbol.",
+   "zh": "这面旗帜发挥着政治象征的作用。"
+  },
+  {
+   "en": "Notation varies: no single symbol is universal.",
+   "zh": "记法各异：没有任何符号是通用的。"
+  }
+ ],
+ "theme": [
+  {
+   "en": "Trust emerged as a central theme in the interviews.",
+   "zh": "信任成为访谈中的一个核心主题。"
+  },
+  {
+   "en": "Coding proceeded from surface codes to broader themes.",
+   "zh": "编码从表层编码推进到更宽泛的主题。"
+  },
+  {
+   "en": "The exhibition explores the theme of migration.",
+   "zh": "展览探讨了移民这一主题。"
+  }
+ ],
+ "topic": [
+  {
+   "en": "The workshop rotates its topic every semester.",
+   "zh": "该工作坊每学期更换主题。"
+  },
+  {
+   "en": "Topic modeling assigned each abstract to a cluster.",
+   "zh": "主题模型将每篇摘要归入一个类别。"
+  },
+  {
+   "en": "Off-topic replies were excluded from analysis.",
+   "zh": "离题的回复被排除在分析之外。"
+  }
+ ],
+ "volume": [
+  {
+   "en": "Traffic volume doubles during the harvest season.",
+   "zh": "收获季节交通流量会翻倍。"
+  },
+  {
+   "en": "The journal volume includes a memorial issue.",
+   "zh": "该期刊的这一卷包含一期纪念专刊。"
+  },
+  {
+   "en": "High volume can compromise careful review.",
+   "zh": "数量过大可能影响细致的评审质量。"
+  }
+ ],
+ "chemical": [
+  {
+   "en": "Chemical analysis confirmed the presence of phosphates.",
+   "zh": "化学分析证实了磷酸盐的存在。"
+  },
+  {
+   "en": "The compound shows remarkable chemical stability.",
+   "zh": "该化合物表现出显著的化学稳定性。"
+  },
+  {
+   "en": "Chemical treatments increased weed resistance over time.",
+   "zh": "随着时间推移，化学处理提高了杂草的抗性。"
+  }
+ ],
+ "digital": [
+  {
+   "en": "Digital archiving transformed access to manuscripts.",
+   "zh": "数字化存档改变了手稿的可及性。"
+  },
+  {
+   "en": "The experiment compared digital and printed reading.",
+   "zh": "该实验比较了数字阅读与纸质阅读。"
+  },
+  {
+   "en": "Digital traces allow precise measurement of behavior.",
+   "zh": "数字足迹允许对行为进行精确测量。"
+  }
+ ],
+ "dynamic": [
+  {
+   "en": "Group norms are dynamic rather than fixed.",
+   "zh": "群体规范是动态的而非固定的。"
+  },
+  {
+   "en": "Prices adjust in a dynamic equilibrium model.",
+   "zh": "价格在动态均衡模型中调整。"
+  },
+  {
+   "en": "The relationship between the two variables is highly dynamic.",
+   "zh": "两个变量之间的关系是高度动态的。"
+  }
+ ],
+ "molecular": [
+  {
+   "en": "Molecular evidence revised the species classification.",
+   "zh": "分子证据修正了物种分类。"
+  },
+  {
+   "en": "The lab specializes in molecular diagnostics.",
+   "zh": "该实验室专攻分子诊断。"
+  },
+  {
+   "en": "Results hold from the molecular to the behavioral level.",
+   "zh": "结果从分子层面到行为层面均成立。"
+  }
+ ]
+}

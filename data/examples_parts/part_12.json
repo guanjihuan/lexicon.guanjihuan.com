@@ -1,0 +1,464 @@
+{
+ "adverse": [
+  {
+   "en": "The new policy faced strong adverse criticism from several senior researchers.",
+   "zh": "这项新政策遭到了多位资深研究者的强烈负面批评。"
+  },
+  {
+   "en": "Adverse weather conditions delayed the experiment for nearly two months.",
+   "zh": "恶劣的天气条件使实验延误了近两个月。"
+  },
+  {
+   "en": "Prolonged exposure to chemicals can have adverse effects on human health.",
+   "zh": "长期接触化学品可能对人类健康产生不利影响。"
+  }
+ ],
+ "elucidate": [
+  {
+   "en": "The professor elucidated the theory in terms accessible to beginners.",
+   "zh": "教授用初学者也能理解的方式阐明了这一理论。"
+  },
+  {
+   "en": "This brief report elucidates the main differences between the two approaches.",
+   "zh": "这份简短的报告解释了这两种方法的主要差异。"
+  },
+  {
+   "en": "Additional experiments were needed to elucidate the mechanism behind the reaction.",
+   "zh": "需要进一步的实验来阐明该反应背后的机制。"
+  }
+ ],
+ "adjacent": [
+  {
+   "en": "The laboratory occupies a building adjacent to the main library.",
+   "zh": "这间实验室位于紧邻主图书馆的一栋建筑里。"
+  },
+  {
+   "en": "Two adjacent plots of land were purchased by the university.",
+   "zh": "大学购买了两块相邻的土地。"
+  },
+  {
+   "en": "The hotel provides adjacent rooms for families traveling together.",
+   "zh": "该酒店为结伴出行的家庭提供相邻的房间。"
+  }
+ ],
+ "prospect": [
+  {
+   "en": "The prospect of further economic growth remains uncertain this year.",
+   "zh": "今年经济进一步增长的前景仍不确定。"
+  },
+  {
+   "en": "Few graduates saw the prospect of unemployment as a serious threat.",
+   "zh": "很少有毕业生把失业的可能性视为严重威胁。"
+  },
+  {
+   "en": "They debated the prospect of relocating the entire research facility.",
+   "zh": "他们讨论了将整个研究设施迁址的前景。"
+  }
+ ],
+ "reveal": [
+  {
+   "en": "The audit revealed serious errors in the university's financial records.",
+   "zh": "审计揭示了大学财务记录中的严重错误。"
+  },
+  {
+   "en": "New genetic analysis reveals a link between the disease and sleep loss.",
+   "zh": "新的基因分析揭示了这种疾病与睡眠不足之间的联系。"
+  },
+  {
+   "en": "The publisher refused to reveal the identity of the anonymous reviewer.",
+   "zh": "出版社拒绝透露那位匿名评论者的身份。"
+  }
+ ],
+ "irrespective": [
+  {
+   "en": "All applicants are welcome, irrespective of their academic background.",
+   "zh": "所有申请者都受欢迎，不论其学术背景如何。"
+  },
+  {
+   "en": "The grant covers travel costs, irrespective of the length of stay.",
+   "zh": "该资助涵盖差旅费用，不论停留时间长短。"
+  },
+  {
+   "en": "The rules apply irrespective of whether the course is taken online.",
+   "zh": "无论该课程是否在线进行，这些规则都适用。"
+  }
+ ],
+ "obsolete": [
+  {
+   "en": "The laboratory replaced its obsolete equipment with modern digital instruments.",
+   "zh": "实验室用现代数字仪器替换了过时的设备。"
+  },
+  {
+   "en": "Several vocabulary lists still contain obsolete words that no one uses.",
+   "zh": "一些词汇表仍收录着无人使用的过时词语。"
+  },
+  {
+   "en": "The software interface has already become obsolete after only two years.",
+   "zh": "该软件界面才两年就已被淘汰。"
+  }
+ ],
+ "consensus": [
+  {
+   "en": "The panel reached a broad consensus on the need for reform.",
+   "zh": "专家组就改革的必要性达成了广泛共识。"
+  },
+  {
+   "en": "There is growing consensus among economists that inflation will slow.",
+   "zh": "经济学家中日益形成通胀将会放缓的共识。"
+  },
+  {
+   "en": "The report reflects the consensus of the entire editorial board.",
+   "zh": "该报告反映了整个编辑委员会的共识。"
+  }
+ ],
+ "advocate": [
+  {
+   "en": "Many economists advocate raising interest rates to control inflation.",
+   "zh": "许多经济学家主张提高利率以控制通胀。"
+  },
+  {
+   "en": "She advocates a stronger ethical framework in medical research.",
+   "zh": "她主张在医学研究中建立更有力的伦理框架。"
+  },
+  {
+   "en": "NGOs advocate for greater access to clean water in rural areas.",
+   "zh": "非政府组织主张让农村地区获得更充足的清洁水源。"
+  }
+ ],
+ "incremental": [
+  {
+   "en": "The company achieved steady incremental gains rather than dramatic changes.",
+   "zh": "该公司取得的是稳定的渐进式增长，而非剧烈的变革。"
+  },
+  {
+   "en": "Each incremental improvement to the model reduced the error rate slightly.",
+   "zh": "对模型的每一次渐进式改进都略微降低了错误率。"
+  },
+  {
+   "en": "The government prefers incremental reform to sweeping structural change.",
+   "zh": "政府更倾向于渐进式改革，而非大规模的结构性变革。"
+  }
+ ],
+ "dilemma": [
+  {
+   "en": "The committee faced a dilemma between scientific integrity and funding deadlines.",
+   "zh": "委员会在科学诚信与经费截止日期之间陷入两难。"
+  },
+  {
+   "en": "Students often face the dilemma of choosing a safe career or a risky dream.",
+   "zh": "学生常常面临选择稳定职业还是冒险追梦的两难处境。"
+  },
+  {
+   "en": "The dilemma was resolved by conducting a small pilot study first.",
+   "zh": "这个两难问题最终通过先开展一项小型试点研究来解决。"
+  }
+ ],
+ "namely": [
+  {
+   "en": "Three factors explain the result, namely cost, timing and consumer demand.",
+   "zh": "有三个因素解释了这一结果，即成本、时机和消费者需求。"
+  },
+  {
+   "en": "The policy applies to two regions, namely the north and the coastal islands.",
+   "zh": "该政策适用于两个地区，即北部和沿海岛屿。"
+  },
+  {
+   "en": "The study examined one discipline, namely comparative linguistics.",
+   "zh": "该研究考察了一个学科，即比较语言学。"
+  }
+ ],
+ "expertise": [
+  {
+   "en": "Her expertise in molecular biology attracted international research partners.",
+   "zh": "她在分子生物学方面的专长吸引了国际研究合作伙伴。"
+  },
+  {
+   "en": "Consulting firms provide expertise that the small laboratory simply cannot afford.",
+   "zh": "咨询公司提供了小型实验室根本负担不起的专业知识。"
+  },
+  {
+   "en": "Years of fieldwork gave him expertise few other analysts could match.",
+   "zh": "多年的田野工作使他具备了少有分析员能匹敌的专业能力。"
+  }
+ ],
+ "embed": [
+  {
+   "en": "The sensor is embedded deep inside the device to avoid external damage.",
+   "zh": "传感器被深埋于设备内部，以免受到外部损坏。"
+  },
+  {
+   "en": "Teachers embedded the new vocabulary activities into everyday classroom routines.",
+   "zh": "教师将新的词汇活动融入日常课堂教学流程之中。"
+  },
+  {
+   "en": "These values are deeply embedded in the organization's culture and identity.",
+   "zh": "这些价值观深深植根于该组织的文化与认同之中。"
+  }
+ ],
+ "ad hoc": [
+  {
+   "en": "An ad hoc committee was formed to handle the urgent data breach.",
+   "zh": "成立了一个临时委员会来处理这次紧急的数据泄露事件。"
+  },
+  {
+   "en": "The ad hoc adjustments were later written into the official guidelines.",
+   "zh": "这些临时调整后来被写入了正式指南。"
+  },
+  {
+   "en": "The team adopted an ad hoc approach rather than a long-term strategy.",
+   "zh": "该团队采取了临时性的做法，而非长期战略。"
+  }
+ ],
+ "conflate": [
+  {
+   "en": "Many critics conflate the two proposals even though they differ substantially.",
+   "zh": "许多评论者把这两个提议混为一谈，尽管它们差异显著。"
+  },
+  {
+   "en": "The report warns readers not to conflate correlation with causation.",
+   "zh": "该报告提醒读者不要把相关性与因果关系混为一谈。"
+  },
+  {
+   "en": "Analysts should not conflate economic growth with human well-being.",
+   "zh": "分析者不应把经济增长与人类福祉混为一谈。"
+  }
+ ],
+ "scope": [
+  {
+   "en": "The scope of the study was limited to three small villages.",
+   "zh": "该研究的范围仅限于三个小村庄。"
+  },
+  {
+   "en": "This falls clearly outside the scope of our current contract.",
+   "zh": "这显然超出了我们当前合同的约定范围。"
+  },
+  {
+   "en": "The committee widened the scope of the inquiry considerably.",
+   "zh": "委员会大幅扩大了调查的范围。"
+  }
+ ],
+ "historical": [
+  {
+   "en": "The archive preserves documents of great historical importance to the region.",
+   "zh": "该档案保存着对该地区具有重大历史意义的文件。"
+  },
+  {
+   "en": "The novel reconstructs historical events with striking accuracy.",
+   "zh": "这部小说以惊人的准确性重建了历史事件。"
+  },
+  {
+   "en": "Historical records suggest the settlement existed for several centuries.",
+   "zh": "历史记录表明该聚落存在了数个世纪。"
+  }
+ ],
+ "fruitful": [
+  {
+   "en": "The discussion proved fruitful and produced three new research questions.",
+   "zh": "这次讨论很有成果，提出了三个新的研究问题。"
+  },
+  {
+   "en": "Years of patient work led to a fruitful collaboration between two laboratories.",
+   "zh": "多年的耐心工作促成了两个实验室之间富有成果的合作。"
+  },
+  {
+   "en": "The interview was fruitful, revealing several promising leads for further inquiry.",
+   "zh": "这次访谈很有收获，揭示了几条有希望的后续调查线索。"
+  }
+ ],
+ "signal": [
+  {
+   "en": "Rising unemployment figures signal serious trouble for the economy.",
+   "zh": "失业率上升的数据预示着经济的严重问题。"
+  },
+  {
+   "en": "The manager signaled her intention to restructure the department.",
+   "zh": "经理明确表示了她重组该部门的意图。"
+  },
+  {
+   "en": "Researchers signal agreement on the need for further clinical trials.",
+   "zh": "研究人员表示同意有必要进行进一步的临床试验。"
+  }
+ ],
+ "fashion": [
+  {
+   "en": "The data were collected in a systematic fashion across all departments.",
+   "zh": "数据以系统化的方式在所有部门收集。"
+  },
+  {
+   "en": "The two committees reached their decisions in much the same fashion.",
+   "zh": "两个委员会以大致相同的方式做出了决定。"
+  },
+  {
+   "en": "Many of his older theories are no longer in fashion among economists.",
+   "zh": "他许多较旧的理论在经济学家中已不再流行。"
+  }
+ ],
+ "unify": [
+  {
+   "en": "The new platform unifies data from twenty separate research databases.",
+   "zh": "新平台将 20 个独立研究数据库的数据统一起来。"
+  },
+  {
+   "en": "A shared vocabulary can unify researchers working in very different fields.",
+   "zh": "一套共同的术语能够统一从事完全不同领域的研究者。"
+  },
+  {
+   "en": "The reform aims to unify scattered regulations into a single coherent code.",
+   "zh": "这项改革旨在把分散的规章整合为一套连贯的法典。"
+  }
+ ],
+ "procedure": [
+  {
+   "en": "The committee followed a strict procedure when handling confidential complaints.",
+   "zh": "委员会在处理机密投诉时遵循严格的程序。"
+  },
+  {
+   "en": "Engineers refined the manufacturing procedure to reduce material waste.",
+   "zh": "工程师改进了制造流程，以减少材料浪费。"
+  },
+  {
+   "en": "The emergency procedure was tested twice before the facility opened.",
+   "zh": "该应急程序在设施开放前测试了两次。"
+  }
+ ],
+ "consecutive": [
+  {
+   "en": "The team won five consecutive championships over the past decade.",
+   "zh": "该队在过去 10 年里连续五次夺冠。"
+  },
+  {
+   "en": "Attendance declined for three consecutive years after the reform.",
+   "zh": "改革之后，出席人数连续三年下降。"
+  },
+  {
+   "en": "Her research papers appeared in three consecutive issues of the journal.",
+   "zh": "她的研究论文连续三期发表于该期刊。"
+  }
+ ],
+ "empirical": [
+  {
+   "en": "The claim is supported by empirical evidence collected across twelve hospitals.",
+   "zh": "这一论断得到了在 12 家医院收集的经验证据支持。"
+  },
+  {
+   "en": "Unlike earlier models, this approach rests on empirical observation.",
+   "zh": "与早先的模型不同，这一方法以经验观察为基础。"
+  },
+  {
+   "en": "Critics demanded empirical justification before accepting the theory.",
+   "zh": "批评者要求在接受该理论之前给出经验论证。"
+  }
+ ],
+ "computational": [
+  {
+   "en": "Computational models helped the team narrow down thousands of candidate molecules.",
+   "zh": "计算模型帮助该团队从数千种候选分子中缩小了筛选范围。"
+  },
+  {
+   "en": "The lab invested heavily in computational resources and high-performance clusters.",
+   "zh": "该实验室在计算资源和高性能集群上投入了大量资金。"
+  },
+  {
+   "en": "Computational analysis revealed patterns that human inspection had overlooked.",
+   "zh": "计算分析揭示了人工检查所忽略的模式。"
+  }
+ ],
+ "sophisticated": [
+  {
+   "en": "The instrument is a sophisticated device designed for precision measurement.",
+   "zh": "该仪器是一台用于精密测量的尖端设备。"
+  },
+  {
+   "en": "Her argument was sophisticated and difficult for beginners to follow.",
+   "zh": "她的论证错综复杂，初学者难以跟上。"
+  },
+  {
+   "en": "They admired the sophisticated instruments used in the university's new laboratory.",
+   "zh": "他们很欣赏该大学新实验室里精密的仪器。"
+  }
+ ],
+ "fabricate": [
+  {
+   "en": "The researcher was accused of fabricating data to support her conclusions.",
+   "zh": "该研究员被指控伪造数据来支持她的结论。"
+  },
+  {
+   "en": "The workshop teaches students how to fabricate simple laboratory components.",
+   "zh": "该工作坊教授学生如何制造简单的实验室零件。"
+  },
+  {
+   "en": "Journal editors now use software to detect whether references have been fabricated.",
+   "zh": "期刊编辑现在使用软件检测参考文献是否被伪造。"
+  }
+ ],
+ "complement": [
+  {
+   "en": "The two approaches complement each other rather than compete directly.",
+   "zh": "这两种方法互相补充，而非直接竞争。"
+  },
+  {
+   "en": "A short summary complements the detailed report provided in the appendix.",
+   "zh": "一份简短的摘要补充了附录中提供的详细报告。"
+  },
+  {
+   "en": "The classical analysis complements the statistical evidence gathered in the field.",
+   "zh": "经典分析补充了实地收集的统计证据。"
+  }
+ ],
+ "implement": [
+  {
+   "en": "The ministry will implement the new policy across all provinces next year.",
+   "zh": "该部门将于明年在所有省份实施这项新政策。"
+  },
+  {
+   "en": "Our team implemented the software changes in three separate stages.",
+   "zh": "我们的团队分三个阶段实施了这些软件变更。"
+  },
+  {
+   "en": "Failures to implement the recommendations were clearly documented in the audit.",
+   "zh": "未能落实建议的情况在审计报告中被清楚记录。"
+  }
+ ],
+ "outlook": [
+  {
+   "en": "The economic outlook for the coming year appears reasonably bright.",
+   "zh": "来年的经济前景看来相当乐观。"
+  },
+  {
+   "en": "Analysts revised their outlook for regional trade after the new tariffs.",
+   "zh": "在新的关税措施之后，分析师修订了对区域贸易的展望。"
+  },
+  {
+   "en": "The interviews documented the changing outlook of a generation on work and leisure.",
+   "zh": "这些访谈记录了一代人对工作与闲暇观念的变化。"
+  }
+ ],
+ "purely": [
+  {
+   "en": "The changes were purely cosmetic and did not affect the underlying algorithm.",
+   "zh": "这些改动纯属表面性的，并未影响底层算法。"
+  },
+  {
+   "en": "Her interest in the subject is purely academic rather than practical.",
+   "zh": "她对该主题的兴趣纯粹是学术性的，而非实用性的。"
+  },
+  {
+   "en": "The decision was based purely on cost considerations rather than quality.",
+   "zh": "该决定完全是基于成本考虑，而非质量因素。"
+  }
+ ],
+ "subject": [
+  {
+   "en": "The subject of the seminar was the ethics of artificial intelligence.",
+   "zh": "该研讨会的主题是人工智能的伦理问题。"
+  },
+  {
+   "en": "All research proposals are subject to approval by the ethics committee.",
+   "zh": "所有研究提案都须经伦理委员会批准。"
+  },
+  {
+   "en": "Historians rarely agree on the causes of the events that are the subject of their study.",
+   "zh": "历史学家很少能就其研究主题所涉及事件的原因达成一致。"
+  }
+ ]
+}

@@ -1,0 +1,170 @@
+{
+  "in the first place": [
+    {
+      "en": "In the first place, the sample was too small to support any general conclusion.",
+      "zh": "首先，这个样本量太小，无法支持任何普遍性结论。"
+    },
+    {
+      "en": "In the first place, the variable was never measured, so the reported effect cannot be interpreted.",
+      "zh": "首先，这个变量从未被测量过，因此所报告的效应无法加以解释。"
+    },
+    {
+      "en": "In the first place, the data were public, so secrecy was never a reasonable concern.",
+      "zh": "首先，这些数据本来就是公开的，因此保密从来不是一个合理的顾虑。"
+    }
+  ],
+  "at last": [
+    {
+      "en": "At last the instrument was calibrated, and the field measurements could be trusted.",
+      "zh": "最后，仪器完成了校准，田野测量结果这才可信。"
+    },
+    {
+      "en": "At last the committee agreed on a common format for the annual report.",
+      "zh": "最后，委员会就年度报告的统一格式达成了共识。"
+    },
+    {
+      "en": "At last the missing manuscript turned up in an archive box.",
+      "zh": "最后，那份遗失的手稿在一个档案箱里出现了。"
+    }
+  ],
+  "in the end": [
+    {
+      "en": "In the end, the two approaches produced almost the same estimates.",
+      "zh": "最终，这两种方法得到的估计值几乎完全相同。"
+    },
+    {
+      "en": "In the end, the ministry chose to publish the raw data rather than delay the report.",
+      "zh": "最终，该部门选择公布原始数据，而不是推迟报告的发布。"
+    },
+    {
+      "en": "The students protested for weeks, but in the end the rule was left unchanged.",
+      "zh": "学生们抗议了数周，但最终这项规定依然没有改动。"
+    }
+  ],
+  "in the long run": [
+    {
+      "en": "In the long run, better data collection matters more than any single grant cycle.",
+      "zh": "从长远看，更好的数据收集比任何一个资助周期都更重要。"
+    },
+    {
+      "en": "In the long run, the regulation will raise costs for small clinics.",
+      "zh": "从长远看，这项规定将提高小型诊所的运营成本。"
+    },
+    {
+      "en": "In the long run, the habit of writing daily notes improves her research writing.",
+      "zh": "从长远看，坚持每天记笔记的习惯有助于改善她的研究写作。"
+    }
+  ],
+  "sooner or later": [
+    {
+      "en": "Researchers sooner or later encounter the same problems with inconsistent coding schemes.",
+      "zh": "研究人员迟早会遇到同样的问题，也就是编码方案前后不一致。"
+    },
+    {
+      "en": "Such an unregulated practice will sooner or later be challenged in court.",
+      "zh": "这种缺乏监管的做法迟早会在法庭上受到挑战。"
+    },
+    {
+      "en": "The aging router will sooner or later fail, as everyone has quietly expected.",
+      "zh": "那台旧路由器迟早会罢工，这几乎是所有人都悄悄预料到的。"
+    }
+  ],
+  "in the main": [
+    {
+      "en": "The results are consistent, in the main, with what the earlier surveys reported.",
+      "zh": "大体而言，研究结果与早先调查报告的内容是一致的。"
+    },
+    {
+      "en": "The committee's report is, in the main, an accounting of what was spent.",
+      "zh": "就大体情况而言，委员会的报告其实是一份经费使用情况的清单。"
+    },
+    {
+      "en": "Her essays are, in the main, careful summaries of published arguments.",
+      "zh": "大体而言，她的文章都是对已发表论证的谨慎梳理。"
+    }
+  ],
+  "for the most part": [
+    {
+      "en": "For the most part, the participants read the instructions carefully and answered without help.",
+      "zh": "多数情况下，参与者认真阅读了说明材料，并在没有帮助的情况下完成了作答。"
+    },
+    {
+      "en": "For the most part, the funding agencies accept proposals through a single online portal.",
+      "zh": "多数情况下，资助机构通过一个统一的在线门户接受项目申请。"
+    },
+    {
+      "en": "For the most part, the old building was left untouched after the renovation plan stalled.",
+      "zh": "大体上，那栋旧楼在翻修计划搁浅后一直未被改动。"
+    }
+  ],
+  "by the way": [
+    {
+      "en": "By the way, the appendix with the raw questionnaires was never uploaded to the archive.",
+      "zh": "顺便说一句，附有原始问卷的附录一直没有上传到档案库。"
+    },
+    {
+      "en": "By the way, the draft circular is still open for comments until the end of the month.",
+      "zh": "顺便说一句，这份通告草案的征求意见期到月底为止。"
+    },
+    {
+      "en": "By the way, the office moved to the third floor last spring.",
+      "zh": "顺便说一句，办公室去年春天搬到了三楼。"
+    }
+  ],
+  "by all means": [
+    {
+      "en": "Please feel free to contact the archives, and consult the collection by all means.",
+      "zh": "请尽管联系档案馆，也尽可查阅这批藏品。"
+    },
+    {
+      "en": "If you need an extension, by all means write to the registry office.",
+      "zh": "如果需要延期，请务必致函登记办公室。"
+    },
+    {
+      "en": "Readers are welcome to use the reading room and take notes by all means.",
+      "zh": "查阅者可以使用阅览室，并尽可做笔记。"
+    }
+  ],
+  "in which case": [
+    {
+      "en": "If coders disagree on a borderline case, a third reviewer rules, in which case the reason is documented.",
+      "zh": "如果编码者在边界个案上意见不一，就由第三位审阅者裁定，此时理由须记录在案。"
+    },
+    {
+      "en": "If the agency cannot meet the deadline, it must publish a progress report, in which case the delay is formally noted.",
+      "zh": "如果该机构无法按期完成，必须公布进展报告，此时延误情况将正式记录在案。"
+    },
+    {
+      "en": "If the manuscript is accepted as submitted, no further revision is needed, in which case the editor closes the file.",
+      "zh": "如果稿件按原样录用，就无需进一步修改，此时编辑便将文件归档。"
+    }
+  ],
+  "in that case": [
+    {
+      "en": "The instrument was damaged in transit, and in that case the measurements were repeated.",
+      "zh": "仪器在运输途中损坏，这种情况下一批测量结果只能重做。"
+    },
+    {
+      "en": "The request arrived after the deadline, and in that case it was returned without review.",
+      "zh": "该申请在截止日期之后送达，这种情况下一律退回，不予评审。"
+    },
+    {
+      "en": "She forgot her umbrella, and in that case the walk was short anyway.",
+      "zh": "她忘了带伞，这种情况下一段路本来也不长。"
+    }
+  ],
+  "that being so": [
+    {
+      "en": "The sample was small, and that being so, the conclusions are offered with caution.",
+      "zh": "样本量偏小，正因如此，结论的提出较为审慎。"
+    },
+    {
+      "en": "The budget has not been approved, and that being so, recruitment cannot begin.",
+      "zh": "预算尚未获批，既然如此，招聘工作便无法启动。"
+    },
+    {
+      "en": "The venue remains unavailable, and that being so, the workshop moves online.",
+      "zh": "场地仍然无法使用，既然如此，研讨会改为线上举行。"
+    }
+  ]
+}

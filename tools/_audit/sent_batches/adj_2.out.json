@@ -1,0 +1,1092 @@
+[
+ {
+  "word": "abstract",
+  "sub": "中性的",
+  "reason": "指抽象、纯理论层面的，是学科抽象层次的描述，不含褒贬"
+ },
+ {
+  "word": "accurate",
+  "sub": "中性的",
+  "reason": "学术里多指测量或描述与事实相符，是准确度方面的技术性描述，本身不带褒贬"
+ },
+ {
+  "word": "additional",
+  "sub": "中性的",
+  "reason": "只表示在既有部分之外附加，是数量层面的补充描述"
+ },
+ {
+  "word": "alternative",
+  "sub": "中性的",
+  "reason": "指可替换的另一选择，陈述可选性而无评价"
+ },
+ {
+  "word": "appropriate",
+  "sub": "中性的",
+  "reason": "指与情境相匹配得当，是适配性的功能性判断，本身不含褒义"
+ },
+ {
+  "word": "available",
+  "sub": "中性的",
+  "reason": "表示可获得、可使用，是资源存在状态的描述"
+ },
+ {
+  "word": "basic",
+  "sub": "中性的",
+  "reason": "指基础层级，是程度与层级位置的描述"
+ },
+ {
+  "word": "central",
+  "sub": "中性的",
+  "reason": "指处于中心位置，是结构位置的描述"
+ },
+ {
+  "word": "common",
+  "sub": "中性的",
+  "reason": "指常见、普遍，是频度描述"
+ },
+ {
+  "word": "complex",
+  "sub": "中性的",
+  "reason": "学术里多指成分多、耦合关系难以拆解，是结构复杂度描述"
+ },
+ {
+  "word": "correct",
+  "sub": "中性的",
+  "reason": "指与事实或规范相一致，是正确性的技术性描述"
+ },
+ {
+  "word": "current",
+  "sub": "中性的",
+  "reason": "指现阶段正在使用的，是时间状态描述"
+ },
+ {
+  "word": "detailed",
+  "sub": "中性的",
+  "reason": "指覆盖细密、信息充分，是详略程度描述"
+ },
+ {
+  "word": "difficult",
+  "sub": "消极的",
+  "reason": "指需要克服阻力才能完成，本身带有困难与费力的否定性评价"
+ },
+ {
+  "word": "effective",
+  "sub": "中性的",
+  "reason": "学术里指能否达到预期效果，是功能达成情况的描述，不含褒义"
+ },
+ {
+  "word": "efficient",
+  "sub": "中性的",
+  "reason": "指投入与产出的比例关系，是效率方面的功能性描述"
+ },
+ {
+  "word": "essential",
+  "sub": "中性的",
+  "reason": "指不可或缺，是必要性程度的描述"
+ },
+ {
+  "word": "exact",
+  "sub": "中性的",
+  "reason": "指精确无误差，是精度的技术性描述"
+ },
+ {
+  "word": "existing",
+  "sub": "中性的",
+  "reason": "指已经存在、属于当前状态，是存量描述"
+ },
+ {
+  "word": "explicit",
+  "sub": "中性的",
+  "reason": "指明确说出的，与 implicit 相对，是表达方式描述"
+ },
+ {
+  "word": "familiar",
+  "sub": "中性的",
+  "reason": "指已知悉、常见，是认知熟悉度描述"
+ },
+ {
+  "word": "final",
+  "sub": "中性的",
+  "reason": "指最后阶段不可再改，是阶段位置描述"
+ },
+ {
+  "word": "general",
+  "sub": "中性的",
+  "reason": "指总体的、非个别的，是范围层次描述"
+ },
+ {
+  "word": "important",
+  "sub": "中性的",
+  "reason": "学术里多用于标示变量权重或研究聚焦所在，是重要性程度的描述"
+ },
+ {
+  "word": "independent",
+  "sub": "中性的",
+  "reason": "指不依赖他者、自成一体，是变量关系的描述"
+ },
+ {
+  "word": "initial",
+  "sub": "中性的",
+  "reason": "指起始阶段，是时间顺序描述"
+ },
+ {
+  "word": "key",
+  "sub": "中性的",
+  "reason": "指起核心作用，是重要程度的描述"
+ },
+ {
+  "word": "large",
+  "sub": "中性的",
+  "reason": "指规模大，是量的程度描述"
+ },
+ {
+  "word": "likely",
+  "sub": "中性的",
+  "reason": "指发生概率较高，是概率判断"
+ },
+ {
+  "word": "main",
+  "sub": "中性的",
+  "reason": "指最主要的那一项，是类别内部地位的描述"
+ },
+ {
+  "word": "major",
+  "sub": "中性的",
+  "reason": "指规模或重要性居首，是程度描述"
+ },
+ {
+  "word": "modern",
+  "sub": "中性的",
+  "reason": "指当下时代的新式，与传统相对，是时代性描述"
+ },
+ {
+  "word": "natural",
+  "sub": "中性的",
+  "reason": "指天然生成、自然状态，是来源属性描述"
+ },
+ {
+  "word": "necessary",
+  "sub": "中性的",
+  "reason": "指必须具备才能成立，是必要性描述"
+ },
+ {
+  "word": "normal",
+  "sub": "中性的",
+  "reason": "指符合常规标准，是常态性描述"
+ },
+ {
+  "word": "obvious",
+  "sub": "中性的",
+  "reason": "指无需推理即可看出，是显著程度的描述"
+ },
+ {
+  "word": "particular",
+  "sub": "中性的",
+  "reason": "学术里多指特定的某一个，属指称范围的限定词"
+ },
+ {
+  "word": "permanent",
+  "sub": "中性的",
+  "reason": "指长期持续不变，是时间跨度描述"
+ },
+ {
+  "word": "potential",
+  "sub": "中性的",
+  "reason": "指尚未实现但可能具备，是可能性描述"
+ },
+ {
+  "word": "practical",
+  "sub": "中性的",
+  "reason": "指贴近实际、可操作，是实践属性描述"
+ },
+ {
+  "word": "previous",
+  "sub": "中性的",
+  "reason": "指早于当前发生，是时间顺序描述"
+ },
+ {
+  "word": "primary",
+  "sub": "中性的",
+  "reason": "指首要的或初级的，是层级排序描述"
+ },
+ {
+  "word": "principal",
+  "sub": "中性的",
+  "reason": "指居首席位的，是地位描述"
+ },
+ {
+  "word": "probable",
+  "sub": "中性的",
+  "reason": "指大概会发生的，是概率判断"
+ },
+ {
+  "word": "professional",
+  "sub": "中性的",
+  "reason": "指以某职业为业、具备专业资历，是身份属性描述"
+ },
+ {
+  "word": "rapid",
+  "sub": "中性的",
+  "reason": "指速度快，是速度程度描述"
+ },
+ {
+  "word": "reasonable",
+  "sub": "中性的",
+  "reason": "指合于情理、切合实际，是判断合理性程度的描述"
+ },
+ {
+  "word": "recent",
+  "sub": "中性的",
+  "reason": "指距今不远的时间，是时间描述"
+ },
+ {
+  "word": "relevant",
+  "sub": "中性的",
+  "reason": "指与研究问题或对象相关，是关联性描述"
+ },
+ {
+  "word": "reliable",
+  "sub": "中性的",
+  "reason": "指结果可重复、可信赖，是信度方面的技术性描述"
+ },
+ {
+  "word": "safe",
+  "sub": "中性的",
+  "reason": "指无危害属性，但 safe assumption 一类用法反含贬义，评价随语境漂移"
+ },
+ {
+  "word": "scarce",
+  "sub": "消极的",
+  "reason": "指资源稀少不足，本身含匮乏的否定性评价"
+ },
+ {
+  "word": "sensitive",
+  "sub": "中性的",
+  "reason": "指感知灵敏或易受影响，是反应阈值的描述"
+ },
+ {
+  "word": "severe",
+  "sub": "消极的",
+  "reason": "指程度严重、严厉，指向负面状况加重，本身含贬义"
+ },
+ {
+  "word": "significant",
+  "sub": "中性的",
+  "reason": "学术里多指统计显著或程度显著，是程度与显著性描述"
+ },
+ {
+  "word": "similar",
+  "sub": "中性的",
+  "reason": "指相近可类比，是相似性描述"
+ },
+ {
+  "word": "simple",
+  "sub": "中性的",
+  "reason": "指结构单一、易于处理，是复杂度描述"
+ },
+ {
+  "word": "specific",
+  "sub": "中性的",
+  "reason": "指明确限定、针对具体对象，是限定性描述"
+ },
+ {
+  "word": "stable",
+  "sub": "中性的",
+  "reason": "指波动幅度小，是稳定性方面的技术性描述"
+ },
+ {
+  "word": "strict",
+  "sub": "中性的",
+  "reason": "指要求严格严厉，学术中多指标准执行到位，评价随语境漂移"
+ },
+ {
+  "word": "strong",
+  "sub": "中性的",
+  "reason": "指强度大，是程度描述"
+ },
+ {
+  "word": "sufficient",
+  "sub": "中性的",
+  "reason": "指数量上够用，是充足程度描述"
+ },
+ {
+  "word": "suitable",
+  "sub": "中性的",
+  "reason": "指与用途相称，是适配性的功能性描述"
+ },
+ {
+  "word": "technical",
+  "sub": "中性的",
+  "reason": "指技术层面的，是领域属性标记"
+ },
+ {
+  "word": "theoretical",
+  "sub": "中性的",
+  "reason": "指理论层面的，与实际相对，是性质描述"
+ },
+ {
+  "word": "traditional",
+  "sub": "中性的",
+  "reason": "指沿袭惯例相传的，是传承属性描述"
+ },
+ {
+  "word": "typical",
+  "sub": "中性的",
+  "reason": "指具有代表性的，是代表性描述"
+ },
+ {
+  "word": "universal",
+  "sub": "中性的",
+  "reason": "指普遍适用的，是适用范围描述"
+ },
+ {
+  "word": "useful",
+  "sub": "积极的",
+  "reason": "词义本身含有用、有益的正面评价"
+ },
+ {
+  "word": "usual",
+  "sub": "中性的",
+  "reason": "指平常惯常的，是频度描述"
+ },
+ {
+  "word": "valid",
+  "sub": "中性的",
+  "reason": "指符合规则、确凿有效，是有效性判断的技术性描述"
+ },
+ {
+  "word": "valuable",
+  "sub": "积极的",
+  "reason": "指有价值的、值得珍视，词义本身含正面评价"
+ },
+ {
+  "word": "various",
+  "sub": "中性的",
+  "reason": "指多种多样的，是多样性描述"
+ },
+ {
+  "word": "wide",
+  "sub": "中性的",
+  "reason": "指范围广、幅度大，是程度描述"
+ },
+ {
+  "word": "wrong",
+  "sub": "消极的",
+  "reason": "指与事实或规范相悖，词义本身即错误评价"
+ },
+ {
+  "word": "robust",
+  "sub": "积极的",
+  "reason": "指方法稳健、抗扰动可靠，是方法质量上的褒义"
+ },
+ {
+  "word": "coherent",
+  "sub": "中性的",
+  "reason": "指前后一致、连贯，是论证结构一致性的描述"
+ },
+ {
+  "word": "comprehensive",
+  "sub": "中性的",
+  "reason": "指覆盖范围全面，属于覆盖度的描述"
+ },
+ {
+  "word": "implicit",
+  "sub": "中性的",
+  "reason": "指未明说而含在其中，与 explicit 相对，是表达方式描述"
+ },
+ {
+  "word": "novel",
+  "sub": "积极的",
+  "reason": "指全新、前所未见，词义本身含创见性的褒义"
+ },
+ {
+  "word": "conclusive",
+  "sub": "积极的",
+  "reason": "指确凿到足以定论，对证据效力构成褒义评价"
+ },
+ {
+  "word": "arbitrary",
+  "sub": "消极的",
+  "reason": "指无客观依据、凭个人任性，释义中的武断、任性即贬义"
+ },
+ {
+  "word": "heterogeneous",
+  "sub": "中性的",
+  "reason": "指各组成部分不同质，是组成分布描述"
+ },
+ {
+  "word": "homogeneous",
+  "sub": "中性的",
+  "reason": "指各部分性质一致，是组成分布描述"
+ },
+ {
+  "word": "optimal",
+  "sub": "积极的",
+  "reason": "指最优、最佳，词义本身含最高程度的褒义"
+ },
+ {
+  "word": "partial",
+  "sub": "中性的",
+  "reason": "指只涉及一部分，是覆盖范围描述"
+ },
+ {
+  "word": "systematic",
+  "sub": "中性的",
+  "reason": "指按系统有条理地组织，是方法组织方式的描述"
+ },
+ {
+  "word": "transparent",
+  "sub": "中性的",
+  "reason": "指过程可看见、可公开，是透明度的中性描述"
+ },
+ {
+  "word": "holistic",
+  "sub": "中性的",
+  "reason": "指整体统摄、不分部分，是分析取向描述"
+ },
+ {
+  "word": "interdisciplinary",
+  "sub": "中性的",
+  "reason": "指跨学科交叉融合，是学科属性的描述"
+ },
+ {
+  "word": "nuanced",
+  "sub": "积极的",
+  "reason": "指细致入微、分寸得当，词义本身含赏识意味的褒义"
+ },
+ {
+  "word": "quantitative",
+  "sub": "中性的",
+  "reason": "指以数量衡量的，是研究方法维度的标记"
+ },
+ {
+  "word": "methodological",
+  "sub": "中性的",
+  "reason": "指方法论层面的，是研究取向标记"
+ },
+ {
+  "word": "sustainable",
+  "sub": "积极的",
+  "reason": "指可长期维持而不枯竭，本身是受推崇的褒义"
+ },
+ {
+  "word": "cohesive",
+  "sub": "积极的",
+  "reason": "指各部分紧密结合、有凝聚力，本身含结构良好的褒义"
+ },
+ {
+  "word": "discrete",
+  "sub": "中性的",
+  "reason": "指彼此分离的，是结构关系描述"
+ },
+ {
+  "word": "succinct",
+  "sub": "积极的",
+  "reason": "指简洁明练、信息密度高，本身是文风上的褒义"
+ },
+ {
+  "word": "substantive",
+  "sub": "中性的",
+  "reason": "指触及实质内容，与表面形式相对，是性质描述"
+ },
+ {
+  "word": "tangible",
+  "sub": "中性的",
+  "reason": "指可感知的具体存在，是属性描述"
+ },
+ {
+  "word": "transient",
+  "sub": "中性的",
+  "reason": "指持续时间短的，是时间跨度描述"
+ },
+ {
+  "word": "sequential",
+  "sub": "中性的",
+  "reason": "指按次序排列的，是顺序关系描述"
+ },
+ {
+  "word": "overarching",
+  "sub": "中性的",
+  "reason": "指统摄全局的，是层级关系描述"
+ },
+ {
+  "word": "pervasive",
+  "sub": "中性的",
+  "reason": "指广泛渗透、弥漫开来，是分布程度的描述"
+ },
+ {
+  "word": "profound",
+  "sub": "积极的",
+  "reason": "指思想深刻、意义重大，词义本身含赞赏的评价"
+ },
+ {
+  "word": "retrospective",
+  "sub": "中性的",
+  "reason": "指事后回溯的，是研究时序描述"
+ },
+ {
+  "word": "applicable",
+  "sub": "中性的",
+  "reason": "指可以适用、切合实际，是适用性描述"
+ },
+ {
+  "word": "deterministic",
+  "sub": "中性的",
+  "reason": "指无随机性、结果可确定，是模型性质描述"
+ },
+ {
+  "word": "fundamental",
+  "sub": "中性的",
+  "reason": "指基础的、根本的，是层级描述"
+ },
+ {
+  "word": "meaningful",
+  "sub": "中性的",
+  "reason": "指有语义内容、有实质意义，是意义性描述"
+ },
+ {
+  "word": "multidimensional",
+  "sub": "中性的",
+  "reason": "指涉及多个维度，是维度数量描述"
+ },
+ {
+  "word": "operational",
+  "sub": "中性的",
+  "reason": "指可操作、可实际运行的，是操作性描述"
+ },
+ {
+  "word": "systemic",
+  "sub": "中性的",
+  "reason": "指影响遍及整个系统的，是作用范围描述"
+ },
+ {
+  "word": "unified",
+  "sub": "中性的",
+  "reason": "指统一成一体的，是一致状态描述"
+ },
+ {
+  "word": "random",
+  "sub": "中性的",
+  "reason": "指无规律的随机抽取，是抽样属性描述"
+ },
+ {
+  "word": "experimental",
+  "sub": "中性的",
+  "reason": "指实验性质的、处于试验阶段的，是研究性质描述"
+ },
+ {
+  "word": "comparable",
+  "sub": "中性的",
+  "reason": "指可加以比较的，是可比性描述"
+ },
+ {
+  "word": "respective",
+  "sub": "中性的",
+  "reason": "指各自对应的，是对应关系描述"
+ },
+ {
+  "word": "ancillary",
+  "sub": "中性的",
+  "reason": "指处于辅助、从属地位的，是层级描述"
+ },
+ {
+  "word": "observational",
+  "sub": "中性的",
+  "reason": "指依靠观察而非操控获得的，是研究方法类型标记"
+ },
+ {
+  "word": "cross-sectional",
+  "sub": "中性的",
+  "reason": "指横截面时点取数的，是研究设计类型标记"
+ },
+ {
+  "word": "dependent",
+  "sub": "中性的",
+  "reason": "指取值随自变量而变，是变量关系描述"
+ },
+ {
+  "word": "equivalent",
+  "sub": "中性的",
+  "reason": "指等同、无实质差别，是等同性描述"
+ },
+ {
+  "word": "mediating",
+  "sub": "中性的",
+  "reason": "指在变量之间起中介传导作用的，是机制描述"
+ },
+ {
+  "word": "moderating",
+  "sub": "中性的",
+  "reason": "指起调节改变关系强度的，是机制描述"
+ },
+ {
+  "word": "institutional",
+  "sub": "中性的",
+  "reason": "指制度与机构层面的，是分析层次标记"
+ },
+ {
+  "word": "organizational",
+  "sub": "中性的",
+  "reason": "指组织层面的，是分析层次标记"
+ },
+ {
+  "word": "societal",
+  "sub": "中性的",
+  "reason": "指社会层面的，是分析层次标记"
+ },
+ {
+  "word": "demographic",
+  "sub": "中性的",
+  "reason": "指人口结构属性的，是分析维度标记"
+ },
+ {
+  "word": "disproportionate",
+  "sub": "中性的",
+  "reason": "指比例失衡的统计事实，是比例关系描述，本身不带褒贬"
+ },
+ {
+  "word": "inferential",
+  "sub": "中性的",
+  "reason": "指由样本推及总体的推断统计，是统计方法标记"
+ },
+ {
+  "word": "deductive",
+  "sub": "中性的",
+  "reason": "指由一般前提推出个案的演绎，是推理类型标记"
+ },
+ {
+  "word": "inductive",
+  "sub": "中性的",
+  "reason": "指由个案归纳出一般，是推理类型标记"
+ },
+ {
+  "word": "case-control",
+  "sub": "中性的",
+  "reason": "指病例对照的设计类型，是研究设计标记"
+ },
+ {
+  "word": "mixed-method",
+  "sub": "中性的",
+  "reason": "指混合方法设计的，是研究设计标记"
+ },
+ {
+  "word": "pooled",
+  "sub": "中性的",
+  "reason": "指合并各组数据汇总计算的，是估计方式描述"
+ },
+ {
+  "word": "prospective",
+  "sub": "中性的",
+  "reason": "指前向随访追踪的，是研究时序描述"
+ },
+ {
+  "word": "pragmatic",
+  "sub": "中性的",
+  "reason": "指重实用可行而非纯理论，是研究取向描述"
+ },
+ {
+  "word": "normative",
+  "sub": "中性的",
+  "reason": "指涉及应当如何的价值判断，是理论性质的标记"
+ },
+ {
+  "word": "interpretive",
+  "sub": "中性的",
+  "reason": "指重在解释理解而非测量，是研究取向描述"
+ },
+ {
+  "word": "conceptual",
+  "sub": "中性的",
+  "reason": "指概念层面的，是分析层次描述"
+ },
+ {
+  "word": "multidisciplinary",
+  "sub": "中性的",
+  "reason": "指多学科联合进行的，是学科属性描述"
+ },
+ {
+  "word": "thematic",
+  "sub": "中性的",
+  "reason": "指按主题归纳组织的，是分析方式描述"
+ },
+ {
+  "word": "rhetorical",
+  "sub": "中性的",
+  "reason": "指修辞运用与论辩策略的，是修辞学属性描述"
+ },
+ {
+  "word": "exploratory",
+  "sub": "中性的",
+  "reason": "指探索性质、用于初步假设检验的，是研究阶段描述"
+ },
+ {
+  "word": "influential",
+  "sub": "中性的",
+  "reason": "指影响范围大的，是影响力程度描述"
+ },
+ {
+  "word": "exhaustive",
+  "sub": "中性的",
+  "reason": "指覆盖无遗漏、彻底的，是范围程度描述"
+ },
+ {
+  "word": "broad",
+  "sub": "中性的",
+  "reason": "指范围宽泛，是范围描述"
+ },
+ {
+  "word": "verbatim",
+  "sub": "中性的",
+  "reason": "指逐字照录不作改动，是记录方式描述"
+ },
+ {
+  "word": "chemical",
+  "sub": "中性的",
+  "reason": "指化学成分或化学品属性的，是领域属性标记"
+ },
+ {
+  "word": "digital",
+  "sub": "中性的",
+  "reason": "指以数字形式存储与处理的，是形式属性标记"
+ },
+ {
+  "word": "dynamic",
+  "sub": "中性的",
+  "reason": "指随时间不断变化的，是变化性质描述"
+ },
+ {
+  "word": "molecular",
+  "sub": "中性的",
+  "reason": "指分子层面的，是尺度层级标记"
+ },
+ {
+  "word": "legacy",
+  "sub": "中性的",
+  "reason": "指沿用旧系统与旧数据的，是来源属性描述"
+ },
+ {
+  "word": "legal",
+  "sub": "中性的",
+  "reason": "指法律规定的，是规范性属性标记"
+ },
+ {
+  "word": "passive",
+  "sub": "中性的",
+  "reason": "指被动语态或被动接受状态的，是语法或状态描述"
+ },
+ {
+  "word": "periodic",
+  "sub": "中性的",
+  "reason": "指按周期发生的，是频率描述"
+ },
+ {
+  "word": "accessible",
+  "sub": "中性的",
+  "reason": "指可获取、可接近的，是可及性描述"
+ },
+ {
+  "word": "accountable",
+  "sub": "中性的",
+  "reason": "指负有说明责任的，是问责状态描述"
+ },
+ {
+  "word": "apparent",
+  "sub": "中性的",
+  "reason": "指表面如此或显然可见的，是显现程度描述"
+ },
+ {
+  "word": "authentic",
+  "sub": "中性的",
+  "reason": "指真实非伪造、货真价实的，是真实性描述"
+ },
+ {
+  "word": "autonomous",
+  "sub": "中性的",
+  "reason": "指自主运作不受外部支配的，是自主性描述"
+ },
+ {
+  "word": "beneficial",
+  "sub": "积极的",
+  "reason": "指带来益处与有利结果，词义本身是明确的褒义"
+ },
+ {
+  "word": "categorical",
+  "sub": "中性的",
+  "reason": "学术常用义是分类的（如分类变量），中性术语义居常用位"
+ },
+ {
+  "word": "characteristic",
+  "sub": "中性的",
+  "reason": "指构成某一事物特征的，是属性描述"
+ },
+ {
+  "word": "collective",
+  "sub": "中性的",
+  "reason": "指集合体共同的，是归属方式描述"
+ },
+ {
+  "word": "conditional",
+  "sub": "中性的",
+  "reason": "指附条件的、取决于别项的，是逻辑关系描述"
+ },
+ {
+  "word": "deliberate",
+  "sub": "中性的",
+  "reason": "指有意为之或审慎谋划的，是行为意图描述"
+ },
+ {
+  "word": "ethical",
+  "sub": "中性的",
+  "reason": "指伦理规范这一评价维度，是道德领域的属性标记"
+ },
+ {
+  "word": "finite",
+  "sub": "中性的",
+  "reason": "指有界有限的，是数量属性描述"
+ },
+ {
+  "word": "formal",
+  "sub": "中性的",
+  "reason": "指形式上的或正规体制的，是性质描述"
+ },
+ {
+  "word": "hypothetical",
+  "sub": "中性的",
+  "reason": "指假设设定的、非现实存在的，是假设性描述"
+ },
+ {
+  "word": "identical",
+  "sub": "中性的",
+  "reason": "指完全相同的，是同一性描述"
+ },
+ {
+  "word": "innovative",
+  "sub": "积极的",
+  "reason": "指引入新方法新事物的，词义本身含创新的褒义"
+ },
+ {
+  "word": "interdependent",
+  "sub": "中性的",
+  "reason": "指相互依存不可分的，是关系结构描述"
+ },
+ {
+  "word": "logical",
+  "sub": "中性的",
+  "reason": "指合乎逻辑推论的，是推论性质描述"
+ },
+ {
+  "word": "measurable",
+  "sub": "中性的",
+  "reason": "指可量化观测的，是可测量性描述"
+ },
+ {
+  "word": "misleading",
+  "sub": "消极的",
+  "reason": "指使人产生错误理解的，词义本身是欺骗性的贬义"
+ },
+ {
+  "word": "neutral",
+  "sub": "中性的",
+  "reason": "指不带倾向的，是立场描述"
+ },
+ {
+  "word": "observable",
+  "sub": "中性的",
+  "reason": "指可被观测记录的，是数据属性描述"
+ },
+ {
+  "word": "paradoxical",
+  "sub": "争议性的",
+  "reason": "标示表面自相矛盾、需要两极解读的结果，自身带难以定论的色彩"
+ },
+ {
+  "word": "productive",
+  "sub": "积极的",
+  "reason": "指富有成效、能持续产出成果的，词义本身含褒义"
+ },
+ {
+  "word": "questionable",
+  "sub": "消极的",
+  "reason": "指可疑、值得怀疑、成问题的，是质疑性的贬义"
+ },
+ {
+  "word": "rational",
+  "sub": "中性的",
+  "reason": "指合于理性与逻辑的，是思维方式描述"
+ },
+ {
+  "word": "realistic",
+  "sub": "中性的",
+  "reason": "指符合现实条件的，是拟真程度描述"
+ },
+ {
+  "word": "recurrent",
+  "sub": "中性的",
+  "reason": "指反复出现的，是频度描述"
+ },
+ {
+  "word": "reputable",
+  "sub": "积极的",
+  "reason": "指声望好、值得信赖的，词义本身是信誉上的褒义"
+ },
+ {
+  "word": "scientific",
+  "sub": "中性的",
+  "reason": "指合乎科学方法规范的，是学科属性标记"
+ },
+ {
+  "word": "structural",
+  "sub": "中性的",
+  "reason": "指结构层面的，是分析层面描述"
+ },
+ {
+  "word": "technological",
+  "sub": "中性的",
+  "reason": "指技术层面的，是领域属性描述"
+ },
+ {
+  "word": "vulnerable",
+  "sub": "消极的",
+  "reason": "指脆弱、易受伤害，词义本身含防御不足的贬义"
+ },
+ {
+  "word": "inevitable",
+  "sub": "中性的",
+  "reason": "指不可避免必然如此，是必然性描述"
+ },
+ {
+  "word": "irreversible",
+  "sub": "中性的",
+  "reason": "指不可逆转，既可指损害也可指承诺，评价随语境漂移"
+ },
+ {
+  "word": "vague",
+  "sub": "消极的",
+  "reason": "指含糊不明确，在学术写作里正是概念不清的贬义"
+ },
+ {
+  "word": "obscure",
+  "sub": "消极的",
+  "reason": "指晦涩难懂、含义不明，学术语域下含难以理解与不为人知的贬义"
+ },
+ {
+  "word": "opaque",
+  "sub": "消极的",
+  "reason": "学术语境下多指过程晦涩不可理解，词义本身带批评意味"
+ },
+ {
+  "word": "superficial",
+  "sub": "消极的",
+  "reason": "指肤浅浅薄、不触及实质，词义本身是贬义"
+ },
+ {
+  "word": "erroneous",
+  "sub": "消极的",
+  "reason": "指错误的、违背事实的，词义本身即否定评价"
+ },
+ {
+  "word": "flawed",
+  "sub": "消极的",
+  "reason": "指存在缺陷与瑕疵的，词义本身是缺陷评价"
+ },
+ {
+  "word": "unfounded",
+  "sub": "消极的",
+  "reason": "指无事实根据的，词义本身是否定性贬义"
+ },
+ {
+  "word": "unwarranted",
+  "sub": "消极的",
+  "reason": "指无正当理由、不必要的，词义本身是否定性贬义"
+ },
+ {
+  "word": "tenuous",
+  "sub": "消极的",
+  "reason": "指薄弱站不住脚的，是对证据强度的贬义"
+ },
+ {
+  "word": "cogent",
+  "sub": "积极的",
+  "reason": "指论据有说服力、令人信服，是论证质量上的褒义"
+ },
+ {
+  "word": "dubious",
+  "sub": "消极的",
+  "reason": "指可疑、靠不住的，是可信度上的贬义"
+ },
+ {
+  "word": "anecdotal",
+  "sub": "中性的",
+  "reason": "指轶事性质的，属证据来源类型的描述，本义不带褒贬"
+ },
+ {
+  "word": "decisive",
+  "sub": "积极的",
+  "reason": "指足以定局、起决定作用的，词义本身含强势褒义"
+ },
+ {
+  "word": "doctoral",
+  "sub": "中性的",
+  "reason": "指博士阶段的，是学位层级描述"
+ },
+ {
+  "word": "monetary",
+  "sub": "中性的",
+  "reason": "指货币与金融方面的，是政策领域标记"
+ },
+ {
+  "word": "fiscal",
+  "sub": "中性的",
+  "reason": "指财政税收方面的，是政策领域标记"
+ },
+ {
+  "word": "neural",
+  "sub": "中性的",
+  "reason": "指神经系统的，是生理属性标记"
+ },
+ {
+  "word": "toxic",
+  "sub": "消极的",
+  "reason": "指有毒有害的，词义本身是危害性的贬义"
+ },
+ {
+  "word": "renewable",
+  "sub": "中性的",
+  "reason": "指来源可再生的，是能源属性描述"
+ },
+ {
+  "word": "clinical",
+  "sub": "中性的",
+  "reason": "指临床诊疗的，是应用领域标记"
+ },
+ {
+  "word": "chronic",
+  "sub": "消极的",
+  "reason": "指慢性的、长期缠绵难愈的，本身含持续病患的贬义"
+ },
+ {
+  "word": "acute",
+  "sub": "消极的",
+  "reason": "指急性的、剧烈严重的，本身是程度加重的负面评价"
+ },
+ {
+  "word": "episodic",
+  "sub": "中性的",
+  "reason": "指阵发性、偶尔发生的，是发作模式描述"
+ },
+ {
+  "word": "sustained",
+  "sub": "中性的",
+  "reason": "指持续不断的，是时间状态描述"
+ },
+ {
+  "word": "intermittent",
+  "sub": "中性的",
+  "reason": "指间断不连续的，是频度描述"
+ },
+ {
+  "word": "cognitive",
+  "sub": "中性的",
+  "reason": "指认知加工过程的，是心理功能标记"
+ }
+]

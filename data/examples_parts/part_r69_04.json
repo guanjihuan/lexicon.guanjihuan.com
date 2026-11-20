@@ -1,0 +1,112 @@
+{
+  "reconstruct": [
+    {"en": "Archaeologists reconstructed the exchange network from pottery fragments found along the coastal sites.", "zh": "考古学家依据沿海遗址出土的陶器碎片重建了这条交换网络。"},
+    {"en": "The simulation reconstructs the historical sequence of land use from pollen and charcoal records.", "zh": "该模拟依据花粉与木炭记录还原了历史上的土地利用序列。"},
+    {"en": "Laboratory analysts reconstruct the original pigment mixture by separating layers of the painted panel.", "zh": "实验室分析人员通过分离彩绘板上的颜料层还原了原始的颜料配比。"}
+  ],
+  "overstate": [
+    {"en": "Summaries that overstate the implications of a single site risk misleading readers about the broader pattern.", "zh": "夸大单个遗址之含义的综述，可能使读者误解整体格局。"},
+    {"en": "The review explicitly warns against overstating a correlation as evidence of a causal mechanism.", "zh": "该综述明确警告不要把相关性夸大为因果机制的证据。"},
+    {"en": "Advocates sometimes overstate the benefits of the reform while understating its distributional costs.", "zh": "倡导者有时会夸大改革的好处，同时淡化其分配成本。"}
+  ],
+  "bolster": [
+    {"en": "Two independent replications bolster confidence in the reported effect size.", "zh": "两项独立的重复研究增强了对所报告效应量的信心。"},
+    {"en": "The revised chapter bolsters its central claim by adding a formal sensitivity analysis.", "zh": "修订后的章节通过补充一项正式的敏感性分析来加强其核心论点。"},
+    {"en": "Citing archival records bolsters the credibility of the chronology proposed by the author.", "zh": "引用档案记录增强了该作者所提出年代序列的可信度。"}
+  ],
+  "reframe": [
+    {"en": "The research group decided to reframe the problem in terms of incentives rather than intentions.", "zh": "研究小组决定从激励而非意向的角度重新表述该问题。"},
+    {"en": "When a key assumption fails, analysts must reframe the hypothesis before collecting more evidence.", "zh": "当关键假设失效时，分析者必须在收集更多证据之前重构假设框架。"},
+    {"en": "Later scholarship reframed the debate by shifting attention to institutional arrangements.", "zh": "后来的研究通过把注意力转向制度安排重构了这一争论的框架。"}
+  ],
+  "rethink": [
+    {"en": "A crisis in replication led researchers to rethink the unit of analysis used in the survey.", "zh": "重复性研究出现的危机促使研究者重新思考该调查所采用的分析单位。"},
+    {"en": "Critics urged the team to rethink how learning outcomes are operationalized across disciplines.", "zh": "批评者敦促该团队重新思考学习成果在不同学科中的操作化方式。"},
+    {"en": "The seminar was designed to rethink the boundary between description and explanation.", "zh": "该研讨班的设计意图是重新思考描述与解释之间的界线。"}
+  ],
+  "interrogate": [
+    {"en": "Statisticians should interrogate the data for missing values and implausible patterns before modeling.", "zh": "统计学家在建模之前应当细查数据中的缺失值与不合常理的模式。"},
+    {"en": "The seminar invites participants to interrogate each assumption that underpins the published model.", "zh": "该研讨班邀请参与者追问已发表模型所依赖的每一项假设。"},
+    {"en": "Field researchers interrogate assumptions about what participants are willing to disclose.", "zh": "实地研究者细查关于受访者愿意透露何种信息的种种假设。"}
+  ],
+  "objection": [
+    {"en": "Any valid objection to the sampling procedure must be addressed in the revised protocol.", "zh": "对抽样程序的任何有效异议都必须在修订后的方案中予以处理。"},
+    {"en": "Reviewers raised a strong objection to the way the dependent variable was operationalized.", "zh": "评审者对因变量的操作化方式提出了有力的反对意见。"},
+    {"en": "The author replied to the objection by presenting an additional robustness check.", "zh": "作者通过给出一项额外的稳健性检验来回应这一异议。"}
+  ],
+  "counterexample": [
+    {"en": "A single counterexample is enough to refute a claim stated as a universal generalization.", "zh": "一个反例就足以驳倒一个被表述为普遍规律的主张。"},
+    {"en": "The authors search the corpus for a counterexample that would weaken their thesis.", "zh": "作者们在语料库中搜寻一个能削弱其论点的反例。"},
+    {"en": "Reviewers treat a counterexample as a standard test of whether a mechanism generalizes beyond a single case.", "zh": "评审者把反例视为检验某一机制能否超越单个案例而推广的标准手段。"}
+  ],
+  "misconception": [
+    {"en": "Diagnostic interviews revealed a widespread misconception about how the vaccine actually protects individuals.", "zh": "诊断性访谈揭示了关于该疫苗究竟如何保护个体的普遍误解。"},
+    {"en": "The instructor corrected a common misconception by contrasting correlation with causation.", "zh": "教师通过对比相关与因果纠正了一个常见误解。"},
+    {"en": "Misconceptions about statistical significance persist even among graduate students in the discipline.", "zh": "关于统计显著性的错误观念即使在该学科的研究生中也依然存在。"}
+  ],
+  "burden": [
+    {"en": "In civil litigation the burden of proof rests with the party bringing the claim.", "zh": "在民事诉讼中，举证责任由提出主张的一方承担。"},
+    {"en": "The burden of explanation falls on the author who reports an unusual effect.", "zh": "解释责任落在报告异常效应的作者身上。"},
+    {"en": "Interview schedules were kept short so that the burden on participants remained low.", "zh": "访谈提纲被设计得很短，以使受访者的负担保持在较低水平。"}
+  ],
+  "concordance": [
+    {"en": "The concordance between the two raters was high, which supports the reliability of the coding scheme.", "zh": "两位评分者之间的一致程度很高，这支持了该编码方案的可靠性。"},
+    {"en": "A concordance search of the corpus reveals how often the collocation appears in academic prose.", "zh": "对该语料库所作的索引检索显示这一搭配在学术文本中出现的频率。"},
+    {"en": "Agreement between the coders was summarized with a concordance correlation coefficient.", "zh": "编码者之间的一致程度通过一致性相关系数加以概括。"}
+  ],
+  "modality": [
+    {"en": "The study compares three modalities of governance used by similar regional organizations.", "zh": "该研究比较了同类区域组织所采用的三种治理方式。"},
+    {"en": "Each modality of assessment captures a different aspect of student proficiency.", "zh": "每一种评估方式都捕捉到学生熟练度的不同侧面。"},
+    {"en": "The authors distinguish between the legal modality and the informal modality of the practice.", "zh": "作者区分了该实践的法律形态与非正式形态。"}
+  ],
+  "sound": [
+    {"en": "The argument proceeds on sound premises and reaches a conclusion that the evidence can support.", "zh": "该论证建立在可靠的前提之上，并得出证据能够支撑的结论。"},
+    {"en": "A methodologically sound design must specify its sampling frame and its exclusion criteria in advance.", "zh": "方法上严谨的设计必须预先说明其抽样框与排除标准。"},
+    {"en": "Reviewers judged the interpretation sound even though the underlying measurement was imperfect.", "zh": "尽管测量本身并不完美，评审者仍认为这一解释是严谨的。"}
+  ],
+  "credible": [
+    {"en": "A credible account of the events requires more than a single witness statement.", "zh": "对所发生事件的可信叙述需要的不止是一份证人陈述。"},
+    {"en": "The committee insisted on a credible mechanism linking exposure to outcome before accepting the proposal.", "zh": "委员会在采纳提案之前，坚持要求给出把暴露与结果联系起来的可信机制。"},
+    {"en": "Without external validation the claim lacks a credible basis for generalization.", "zh": "缺少外部验证，该主张便缺乏可据以推广的可信依据。"}
+  ],
+  "convincing": [
+    {"en": "The convergence of independent lines of evidence makes the interpretation highly convincing.", "zh": "多条独立证据线索的汇聚使这一解释极具说服力。"},
+    {"en": "Presentations rarely change practice unless the evidence appears convincing to senior colleagues.", "zh": "除非证据在资深同事看来令人信服，报告很少能改变实践。"},
+    {"en": "The authors offer a convincing demonstration that the effect survives alternative model specifications.", "zh": "作者给出了一个有说服力的论证，表明该效应在替代的模型设定下依然成立。"}
+  ],
+  "germane": [
+    {"en": "The chair ruled that testimony about earlier funding decisions was not germane to the current inquiry.", "zh": "主席裁定关于早期经费决策的证词与当前调查无关。"},
+    {"en": "Only observations germane to the research question were retained in the final dataset.", "zh": "最终数据集中只保留了与研究问题直接相关的观察。"},
+    {"en": "Applicants are asked to omit any information that is not germane to the criteria.", "zh": "申请人被要求略去任何与评审标准无关的信息。"}
+  ],
+  "epistemological": [
+    {"en": "The paper offers an epistemological grounding for treating disagreement as evidence rather than noise.", "zh": "该论文为把分歧视为证据而非噪声提供了认识论依据。"},
+    {"en": "Reviewers disagreed on epistemological grounds, since the two teams read validity in different ways.", "zh": "评审者在认识论立场层面存在分歧，因为两个团队对效度的理解方式不同。"},
+    {"en": "The course introduces students to epistemological questions about how claims acquire warrant.", "zh": "该课程向学生介绍关于主张如何获得根据的认识论问题。"}
+  ],
+  "ontological": [
+    {"en": "The framework makes explicit its ontological commitments about the kinds of entities it admits.", "zh": "该框架明确交代了其关于所容纳实体种类的本体论承诺。"},
+    {"en": "Reviewers asked whether the model carries ontological assumptions that the data cannot check.", "zh": "评审者追问该模型是否带有数据无法检验的本体论假设。"},
+    {"en": "Disagreement about ontological commitments complicates any comparison between the two traditions.", "zh": "围绕本体论承诺的分歧使两个传统之间的任何比较都变得复杂。"}
+  ],
+  "axiomatic": [
+    {"en": "The treatment rests on an axiomatic foundation developed for formal networks long ago.", "zh": "该处理方式建立在一个很久以前为形式网络发展出来的公理基础之上。"},
+    {"en": "Rather than merely appeal to intuition, the author derives each proposition from an explicit set of axioms.", "zh": "作者并非仅仅诉诸直觉，而是从一组明确的公理出发推出每一条命题。"},
+    {"en": "Critics doubt that the axiomatic approach captures the messiness of empirical research.", "zh": "批评者怀疑这种基于公理的方法能否把握经验研究的杂乱性。"}
+  ],
+  "abductive": [
+    {"en": "Diagnosis in medicine relies on abductive reasoning, since the clinician seeks the best available explanation.", "zh": "医学诊断依赖溯因推理，因为临床医生要寻找现有的最佳解释。"},
+    {"en": "The abductive inference moves from the surprising observation to the hypothesis that would account for it.", "zh": "这一溯因推论从令人费解的观察出发，推向能够解释它的假设。"},
+    {"en": "Abductive reasoning complements deductive and inductive arguments in scientific practice.", "zh": "在科学实践中，溯因推理与演绎论证和归纳论证互为补充。"}
+  ],
+  "descriptive": [
+    {"en": "The first chapter provides descriptive statistics for the full sample before any modeling.", "zh": "第一章在任何建模之前给出了完整样本的描述统计。"},
+    {"en": "A descriptive account of regional variation is useful even when no causal claim is made.", "zh": "即便不作任何因果断言，对区域变异的描述也仍然有用。"},
+    {"en": "The paper stays descriptive throughout and makes no claim about mechanisms.", "zh": "该论文通篇停留在描述层面，不对机制作出任何主张。"}
+  ],
+  "prescriptive": [
+    {"en": "The report separates descriptive findings from prescriptive recommendations about how policy should change.", "zh": "该报告把描述性发现与关于政策应当如何改变的规范性建议区分开来。"},
+    {"en": "A prescriptive claim about ideal governance goes beyond what the survey data can establish.", "zh": "关于理想治理的规定性主张超出了调查数据所能确立的范围。"},
+    {"en": "Critics object that the document is too prescriptive for an exploratory stage of the project.", "zh": "批评者反对说，对于尚处探索阶段的项目，该文件的规定性过强。"}
+  ]
+}

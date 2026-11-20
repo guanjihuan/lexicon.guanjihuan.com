@@ -1,0 +1,202 @@
+{
+  "technical": [
+    {"en": "The technical specifications of the engine were revised after extensive laboratory testing.", "zh": "经过大量实验室测试后，该发动机的技术规格得到了修订。"},
+    {"en": "Her paper addresses the technical limitations of current machine learning systems.", "zh": "她的论文探讨了当前机器学习系统的技术局限。"},
+    {"en": "This technical training course is designed for newly hired engineering staff.", "zh": "这门技术培训课程是为新入职的工程人员设计的。"}
+  ],
+  "theoretical": [
+    {"en": "The theoretical framework provides a foundation for later empirical studies.", "zh": "这一理论框架为随后的实证研究奠定了基础。"},
+    {"en": "Her argument is theoretically sound but lacks convincing experimental evidence.", "zh": "她的论点在理论上是合理的，但缺乏令人信服的实验证据。"},
+    {"en": "In theoretical terms, such a model assumes unlimited computing power.", "zh": "从理论角度看，这样一个模型假定了无限的计算能力。"}
+  ],
+  "traditional": [
+    {"en": "Traditional teaching methods often place greater emphasis on memorization than discussion.", "zh": "传统教学方法往往更强调记忆而非讨论。"},
+    {"en": "Many villages still depend on traditional farming practices rather than modern machinery.", "zh": "许多村庄仍依赖传统耕作方式而非现代机械。"},
+    {"en": "The ceremony follows a traditional pattern that has changed little over centuries.", "zh": "这场典礼遵循着数百年来鲜有变化的传统模式。"}
+  ],
+  "typical": [
+    {"en": "A typical application of this method appears in early childhood education.", "zh": "这一方法的一个典型应用出现在幼儿教育领域。"},
+    {"en": "The results were typical of studies conducted in similar laboratories.", "zh": "这些结果与在类似实验室开展的研究结果一致。"},
+    {"en": "Students typically require additional support when facing a typical mathematical problem.", "zh": "学生在遇到典型的数学问题时通常需要额外帮助。"}
+  ],
+  "universal": [
+    {"en": "The tool was designed for universal use across all major platforms.", "zh": "该工具专为在所有主流平台上通用而设计。"},
+    {"en": "Such a universal claim is difficult to support with limited observational data.", "zh": "如此普适的结论很难用有限的观察数据来支持。"},
+    {"en": "The researcher proposed a universal grammar shared by every human language.", "zh": "研究者提出了一套所有人类语言共有的普遍语法。"}
+  ],
+  "useful": [
+    {"en": "These recordings proved useful for studying regional differences in pronunciation.", "zh": "这些录音对研究发音的地区差异很有用。"},
+    {"en": "A short summary is often more useful to a busy committee than a long report.", "zh": "对忙碌的委员会而言，一份简短的摘要往往比长篇报告更有用。"},
+    {"en": "Your feedback was useful in identifying weaknesses in the experimental design.", "zh": "你的反馈有助于发现实验设计中的薄弱环节。"}
+  ],
+  "usual": [
+    {"en": "The usual practice is to submit the proposal before the end of the semester.", "zh": "通常的做法是在学期结束前提交提案。"},
+    {"en": "This method performs better than usual in low light conditions.", "zh": "这种方法在弱光条件下的表现优于平常。"},
+    {"en": "Participants reported the usual complaints about noise in the reading room.", "zh": "参与者抱怨了阅览室常见的噪音问题。"}
+  ],
+  "valid": [
+    {"en": "The judge ruled that the appeal was valid and allowed the case to proceed.", "zh": "法官裁定该上诉有效，允许案件继续进行。"},
+    {"en": "A valid conclusion requires adequate data and a sound statistical method.", "zh": "有效的结论需要充分的数据和可靠的统计方法。"},
+    {"en": "His argument that the treaty remains valid was rejected by the committee.", "zh": "他关于条约仍然有效的论点被委员会否决。"}
+  ],
+  "valuable": [
+    {"en": "The archive contains valuable records of early industrial production.", "zh": "该档案馆保存着早期的工业生产记录，具有重要价值。"},
+    {"en": "Students exchanged valuable feedback before the final examination.", "zh": "学生在期末考试前交换了宝贵的反馈意见。"},
+    {"en": "The old manuscript proved valuable for tracing the origins of the language.", "zh": "这部古老手稿对于追溯该语言的起源很有价值。"}
+  ],
+  "various": [
+    {"en": "The researchers applied various methods to confirm the surprising experimental result.", "zh": "研究者采用各种方法证实了这一令人惊讶的实验结果。"},
+    {"en": "The book discusses the various stages involved in language acquisition.", "zh": "该书讨论了语言习得所涉及的各个阶段。"},
+    {"en": "Failure may arise for various reasons, ranging from poor design to insufficient funding.", "zh": "失败可能出于各种原因，从设计不良到资金不足不等。"}
+  ],
+  "wide": [
+    {"en": "The survey covered a wide range of industries and geographic regions.", "zh": "这项调查涵盖了广泛的行业和地理区域。"},
+    {"en": "The reform retained wide public support despite the committee's concerns.", "zh": "尽管委员会有所担忧，该改革依然获得广泛的公众支持。"},
+    {"en": "A wide gap continues to separate theoretical teaching from classroom practice.", "zh": "理论教学与课堂实践之间仍存在巨大差距。"}
+  ],
+  "wrong": [
+    {"en": "The model gave the wrong answer because the input data was corrupted.", "zh": "由于输入数据损坏，模型给出了错误答案。"},
+    {"en": "A wrong measurement early in the process distorted every subsequent calculation.", "zh": "流程早期的一次错误测量使随后的每一次计算都失真。"},
+    {"en": "Something is clearly wrong with the balance, since the readings keep drifting.", "zh": "天平显然出了问题，因为读数不断漂移。"}
+  ],
+  "actually": [
+    {"en": "The enzyme actually operates at a much lower temperature than expected.", "zh": "这种酶的实际工作温度远低于预期。"},
+    {"en": "The program was supposed to end last year but actually continues today.", "zh": "该项目原定去年结束，但实际上一直持续至今。"},
+    {"en": "Contrary to popular belief, the ancient building actually served as a granary.", "zh": "与普遍看法相反，这座古建筑实际上曾用作粮仓。"}
+  ],
+  "apparently": [
+    {"en": "The manuscript apparently reached a university library in the nineteenth century.", "zh": "这部手稿据称在 19 世纪到达了一所大学图书馆。"},
+    {"en": "Apparently nobody had checked the calculations before the report was published.", "zh": "据说在报告发表前没有人检查过这些计算。"},
+    {"en": "The device apparently tolerates temperatures that its manufacturer never specified.", "zh": "该装置似乎能承受制造商未曾说明的温度。"}
+  ],
+  "approximately": [
+    {"en": "Approximately forty percent of the participants reported regular headaches.", "zh": "大约 40% 的参与者报告经常头痛。"},
+    {"en": "The journey takes approximately six hours by train and two by plane.", "zh": "这段旅程乘火车大约六小时，乘飞机大约两小时。"},
+    {"en": "Its mass is approximately equal to that of the entire student population.", "zh": "其质量大约相当于全体学生的总和。"}
+  ],
+  "basically": [
+    {"en": "The two proposals are basically identical apart from their final section.", "zh": "除最后一节之外，这两个提案基本相同。"},
+    {"en": "Basically, the experiment tests whether the new compound reduces inflammation.", "zh": "基本上，这个实验检验的是该新化合物能否减轻炎症。"},
+    {"en": "The engine is basically a 1990 design fitted with a modern fuel system.", "zh": "这台发动机基本上是 1990 年的设计，只是装上了现代燃油系统。"}
+  ],
+  "clearly": [
+    {"en": "The findings clearly demonstrate the need for further field research.", "zh": "这些发现清楚地表明了进一步开展野外研究的必要性。"},
+    {"en": "It is clearly stated in the appendix that the samples were frozen.", "zh": "附录中明确说明了样本经过冷冻处理。"},
+    {"en": "The audience could clearly see that the speaker had lost confidence.", "zh": "观众清楚地看出演讲者已经失去信心。"}
+  ],
+  "closely": [
+    {"en": "The two theories are closely related but differ in their basic assumptions.", "zh": "这两种理论密切相关，但在基本假设上有所不同。"},
+    {"en": "Researchers closely examined the manuscript for signs of earlier copying.", "zh": "研究者仔细检查了这部手稿，看是否有早期传抄的痕迹。"},
+    {"en": "The supply of clean water closely follows the seasonal pattern of rainfall.", "zh": "清洁水的供应与季节性降雨模式紧密同步变化。"}
+  ],
+  "considerably": [
+    {"en": "The new method considerably reduced the time required for each measurement.", "zh": "新方法大幅缩短了每次测量所需的时间。"},
+    {"en": "Prices in the region have risen considerably since the beginning of the year.", "zh": "自年初以来，该地区的物价已大幅上涨。"},
+    {"en": "Her second book is considerably longer than the first one.", "zh": "她的第二本书比第一本长得多。"}
+  ],
+  "consistently": [
+    {"en": "The laboratory has consistently published its data in an open archive.", "zh": "该实验室始终如一地将数据发布在开放档案库中。"},
+    {"en": "Students who attended the workshop consistently performed better in the final exam.", "zh": "参加研讨会的学生在期末考试中始终表现得更好。"},
+    {"en": "He consistently argues that theory should guide experimental design.", "zh": "他一贯主张理论应当指导实验设计。"}
+  ],
+  "constantly": [
+    {"en": "The village is constantly exposed to winds carrying salt from the sea.", "zh": "该村庄不断受到从海上带来盐分的海风侵袭。"},
+    {"en": "She is constantly revising her manuscript in response to new evidence.", "zh": "她不断根据新证据修改自己的手稿。"},
+    {"en": "Dust and vibration constantly interfere with measurements at the old laboratory.", "zh": "灰尘和振动不断干扰着旧实验室的测量工作。"}
+  ],
+  "currently": [
+    {"en": "The researchers are currently analyzing data collected over five years.", "zh": "研究人员目前正在分析五年来收集的数据。"},
+    {"en": "Currently, no consensus exists on how the disease spreads.", "zh": "目前，对于这种疾病如何传播尚无共识。"},
+    {"en": "The project currently employs twelve researchers and two field teams.", "zh": "该项目目前拥有 12 名研究人员和两支野外考察队。"}
+  ],
+  "deliberately": [
+    {"en": "The authors deliberately excluded studies without a control group.", "zh": "作者有意排除了缺少对照组的研究。"},
+    {"en": "The error was deliberately concealed from the review committee.", "zh": "这一错误被故意向评审委员会隐瞒。"},
+    {"en": "Plant species were deliberately selected to test the hypothesis in saline soil.", "zh": "研究人员有意挑选植物物种，在盐碱土壤中检验该假设。"}
+  ],
+  "effectively": [
+    {"en": "The new policy effectively reduces waiting times for rural patients.", "zh": "新政策有效减少了农村患者的等候时间。"},
+    {"en": "Effectively, the two departments were operating as a single unit.", "zh": "实际上，这两个部门是在作为一个整体运作。"},
+    {"en": "Clear documentation helps new staff work effectively within the laboratory.", "zh": "清晰的文档有助于新员工在实验室有效开展工作。"}
+  ],
+  "eventually": [
+    {"en": "After repeated failures, the team eventually identified the source of contamination.", "zh": "经过多次失败，团队最终确定了污染的来源。"},
+    {"en": "The two documents eventually proved to describe the same historical event.", "zh": "这两份文献最终被证明描述的是同一历史事件。"},
+    {"en": "Passengers eventually reached safety once the smoke cleared from the corridor.", "zh": "走廊里的烟散去后，乘客们最终到达了安全地带。"}
+  ],
+  "exactly": [
+    {"en": "The measured value agrees exactly with the figure published last year.", "zh": "测得数值与去年公布的数字完全一致。"},
+    {"en": "She cannot explain exactly why the reaction failed in three trials.", "zh": "她无法确切解释该反应为何在三次试验中失败。"},
+    {"en": "That is exactly the problem our current experimental design cannot solve.", "zh": "这恰恰是我们现有实验设计无法解决的问题。"}
+  ],
+  "frequently": [
+    {"en": "Researchers frequently publish corrections when a reference list contains errors.", "zh": "当参考文献出现错误时，研究人员经常发布更正。"},
+    {"en": "This species frequently rests on the underside of broad leaves.", "zh": "该物种经常栖息在宽大叶片的背面。"},
+    {"en": "The two laboratories frequently exchange samples to verify their measurements.", "zh": "这两个实验室经常交换样本以核验彼此的测量结果。"}
+  ],
+  "generally": [
+    {"en": "Generally, tropical soils lose nutrients quickly under heavy rainfall.", "zh": "一般来说，热带土壤在暴雨中会迅速流失养分。"},
+    {"en": "The paper is generally accepted as a landmark in the field.", "zh": "这篇论文被普遍视为该领域的里程碑。"},
+    {"en": "Most students, generally speaking, underestimate the time needed for revision.", "zh": "总的来说，多数学生低估了修订所需的时间。"}
+  ],
+  "greatly": [
+    {"en": "The restoration greatly improved the building's resistance to rainfall.", "zh": "这项修复工程极大提高了建筑物对雨水的抵抗力。"},
+    {"en": "Her research greatly influenced how schools teach early numeracy.", "zh": "她的研究极大影响了学校开展早期数学教育的方式。"},
+    {"en": "Costs have greatly increased since the currency was last revalued.", "zh": "自上次货币重新估值以来，成本已大幅上升。"}
+  ],
+  "increasingly": [
+    {"en": "Universities are increasingly relying on online journals rather than print subscriptions.", "zh": "大学正越来越多地依赖在线期刊而非纸质订阅。"},
+    {"en": "Renewable energy has become increasingly central to public debate.", "zh": "可再生能源在公共讨论中日益占据核心地位。"},
+    {"en": "Small publishers are increasingly turning to print-on-demand services to reduce costs.", "zh": "小型出版商正越来越多地转向按需印刷服务以降低成本。"}
+  ],
+  "mainly": [
+    {"en": "The funding comes mainly from national research councils and philanthropic foundations.", "zh": "这笔资金主要来自国家研究委员会和慈善基金会。"},
+    {"en": "Interest in the archive is driven mainly by graduate students studying local history.", "zh": "人们对该档案的兴趣主要由研究地方史的研究生推动。"},
+    {"en": "The delay was caused mainly by delays in customs clearance of equipment shipments.", "zh": "延误主要是由于设备清关缓慢造成的。"}
+  ],
+  "mostly": [
+    {"en": "The respondents were mostly graduate students from the sciences and engineering.", "zh": "受访者大多是来自理工科的研究生。"},
+    {"en": "The rock consists mostly of quartz with small amounts of mica and feldspar.", "zh": "这种岩石主要由石英组成，含有少量云母和长石。"},
+    {"en": "Her findings have mostly been confirmed by independent laboratories in other countries.", "zh": "她的研究结果大多已被其他国家的独立实验室证实。"}
+  ],
+  "normally": [
+    {"en": "Normally, the archive receives about two hundred inquiries every month.", "zh": "通常情况下，该档案馆每月收到约 200 件查询。"},
+    {"en": "On normally quiet weekdays, the reading room fills with exam candidates.", "zh": "在通常很安静的工作日，阅览室里坐满了备考的学生。"},
+    {"en": "Samples are normally stored for five years before being permanently destroyed.", "zh": "样本通常保存五年，之后被永久销毁。"}
+  ],
+  "obviously": [
+    {"en": "It is obviously impossible to complete such a survey within two weeks.", "zh": "显然不可能在两周内完成这样一份问卷。"},
+    {"en": "The equipment was obviously damaged during its long journey by sea.", "zh": "这台设备显然在长途海运中受损了。"},
+    {"en": "The written record and the oral accounts obviously contradict each other.", "zh": "书面记录与口述证词显然彼此矛盾。"}
+  ],
+  "particularly": [
+    {"en": "This method is particularly useful for analyzing very small samples.", "zh": "这种方法对于分析极小的样品特别有用。"},
+    {"en": "The second chapter is particularly important for students beginning the course.", "zh": "第二章对刚开始这门课程的学生尤为重要。"},
+    {"en": "The southern coast is particularly vulnerable to rising sea levels.", "zh": "南部海岸对海平面上升尤其脆弱。"}
+  ],
+  "probably": [
+    {"en": "The missing instruments are probably stored in the basement archive.", "zh": "丢失的仪器很可能存放在地下室的档案柜里。"},
+    {"en": "Reading the correspondence will probably reveal what actually happened that week.", "zh": "查阅这些书信很可能会揭示那一周究竟发生了什么。"},
+    {"en": "The experiment will probably need to be repeated with older specimens.", "zh": "这个实验很可能需要用更古老的标本重新进行。"}
+  ],
+  "quickly": [
+    {"en": "The software quickly identified every citation that referenced a missing source.", "zh": "该软件迅速找出了所有引用缺失来源的引文。"},
+    {"en": "Bacteria multiplied quickly once the temperature exceeded thirty degrees.", "zh": "温度超过 30 度后，细菌迅速繁殖。"},
+    {"en": "The team quickly revised its plan after the first grant application was rejected.", "zh": "首次资助申请被拒后，团队迅速修订了计划。"}
+  ],
+  "rarely": [
+    {"en": "Such specimens are rarely found outside a few protected mountain valleys.", "zh": "这类标本除少数受保护的山谷外很少能见到。"},
+    {"en": "The archive rarely lends original documents to external researchers.", "zh": "该档案馆很少将原件借给外部研究人员。"},
+    {"en": "Errors in the early editions are rarely mentioned in modern introductions.", "zh": "早期版本中的错误在现代导言中很少被提及。"}
+  ],
+  "recently": [
+    {"en": "A newly discovered manuscript recently reshaped our understanding of early trade.", "zh": "一部新近发现的手稿不久前重塑了我们对早期贸易的理解。"},
+    {"en": "The laboratory recently received funding to digitize its entire archive.", "zh": "该实验室最近获得资助，将对其全部档案进行数字化。"},
+    {"en": "Two former students recently founded a company developing low-cost sensors.", "zh": "两名前学生最近创办了一家开发低成本传感器的公司。"}
+  ],
+  "regularly": [
+    {"en": "The committee regularly meets to review ongoing research and budgets.", "zh": "委员会定期开会审查正在进行的研究和预算。"},
+    {"en": "Trees regularly lose leaves during the dry season in this climate.", "zh": "在这种气候下，树木在旱季经常落叶。"},
+    {"en": "Students who regularly visit the archive tend to develop better research skills.", "zh": "经常到档案馆的学生往往培养出更好的研究技能。"}
+  ]
+}

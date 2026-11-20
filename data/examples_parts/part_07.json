@@ -1,0 +1,450 @@
+{
+ "encapsulate": [
+  {
+   "en": "The three principles encapsulate the central argument of the study.",
+   "zh": "这三条原则概括了研究的核心论点。"
+  },
+  {
+   "en": "A single memorable phrase can encapsulate an entire theory.",
+   "zh": "一个令人难忘的短语就能浓缩一整套理论。"
+  },
+  {
+   "en": "These abstracts encapsulate the findings for busy administrators.",
+   "zh": "这些摘要浓缩了研究结论，方便忙碌的管理者阅读。"
+  }
+ ],
+ "collapse": [
+  {
+   "en": "The old bridge collapsed after the flood weakened its foundations.",
+   "zh": "洪水削弱了旧桥的地基，桥随后倒塌了。"
+  },
+  {
+   "en": "Talks collapsed when the two governments refused to compromise.",
+   "zh": "由于两国政府拒绝妥协，谈判破裂了。"
+  },
+  {
+   "en": "Under the weight of snow the tent collapsed in seconds.",
+   "zh": "在积雪的重压下，帐篷几秒内就塌了。"
+  }
+ ],
+ "virtually": [
+  {
+   "en": "Virtually every student in the course completed the final survey.",
+   "zh": "课程中几乎每个学生都完成了最终问卷。"
+  },
+  {
+   "en": "Students can walk through a virtually reconstructed forum and inspect each building in detail.",
+   "zh": "学生可以穿行于虚拟重建的古广场，逐栋细看每座建筑。"
+  },
+  {
+   "en": "Online collaboration has virtually replaced many local meetings.",
+   "zh": "在线协作实际上已经取代了许多线下会议。"
+  }
+ ],
+ "advantageous": [
+  {
+   "en": "It is advantageous to submit the application before the deadline.",
+   "zh": "在截止日期前提交申请是有利的。"
+  },
+  {
+   "en": "The university offers advantageous terms for students from partner schools.",
+   "zh": "该校为合作学校的学生提供优惠条件。"
+  },
+  {
+   "en": "Living near campus proved advantageous during the busy recruitment season.",
+   "zh": "在招聘旺季住在校园附近被证明很有好处。"
+  }
+ ],
+ "denote": [
+  {
+   "en": "In this table the symbol denotes a missing measurement.",
+   "zh": "在此表格中，该符号表示数据缺失。"
+  },
+  {
+   "en": "The blue line denotes the boundary of the study area.",
+   "zh": "蓝线表示研究区域的边界。"
+  },
+  {
+   "en": "Such terms often denote concepts that resist simple definition.",
+   "zh": "这类术语往往表示难以简单定义的概念。"
+  }
+ ],
+ "schematic": [
+  {
+   "en": "The schematic diagram shows every connection in the circuit.",
+   "zh": "这张示意图显示电路中的每一处连接。"
+  },
+  {
+   "en": "A schematic drawing is more useful than a detailed plan here.",
+   "zh": "在这里，示意图比详细图纸更有用。"
+  },
+  {
+   "en": "The report provides a schematic overview of the entire procedure.",
+   "zh": "该报告对整个流程给出了概略的说明。"
+  }
+ ],
+ "diagram": [
+  {
+   "en": "Please label the components in the diagram before submission.",
+   "zh": "提交前请在图中标注各个部件。"
+  },
+  {
+   "en": "The diagram illustrates how heat moves through the material.",
+   "zh": "这张图解说明了热量如何在材料中传导。"
+  },
+  {
+   "en": "She drew a simple diagram to clarify the argument for students.",
+   "zh": "她画了一张简图，为学生澄清这一论点。"
+  }
+ ],
+ "onerous": [
+  {
+   "en": "Preparing the annual report proved more onerous than expected.",
+   "zh": "准备年度报告被证明比预想的更加繁重。"
+  },
+  {
+   "en": "The reviewers faced the onerous task of reading hundreds of submissions.",
+   "zh": "评审们面临阅读数百份投稿这一艰巨任务。"
+  },
+  {
+   "en": "Current regulations place an onerous burden on small laboratories.",
+   "zh": "现行规定给小型实验室带来了沉重的负担。"
+  }
+ ],
+ "inclined": [
+  {
+   "en": "Few economists are inclined to believe the trend will reverse soon.",
+   "zh": "很少有经济学家倾向于相信这一趋势会很快逆转。"
+  },
+  {
+   "en": "She is inclined to accept the offer despite the modest salary.",
+   "zh": "尽管薪水不高，她仍倾向于接受这份工作。"
+  },
+  {
+   "en": "The committee was inclined to postpone the decision until further evidence arrived.",
+   "zh": "委员会倾向于推迟决定，直到更多证据到来。"
+  }
+ ],
+ "nevertheless": [
+  {
+   "en": "The method is complex; nevertheless, it produces highly reliable results.",
+   "zh": "这种方法很复杂，但它仍能产生非常可靠的结果。"
+  },
+  {
+   "en": "Nevertheless, the authors acknowledge two significant limitations in their model.",
+   "zh": "尽管如此，作者承认其模型存在两项重大局限。"
+  },
+  {
+   "en": "The evidence is limited, but nevertheless it points in one direction.",
+   "zh": "证据有限，但它仍指向同一个方向。"
+  }
+ ],
+ "criterion": [
+  {
+   "en": "Cost efficiency was the main criterion used to rank the proposals.",
+   "zh": "成本效益是用于对提案排序的主要标准。"
+  },
+  {
+   "en": "Applicants must meet every criterion listed in the official guidelines.",
+   "zh": "申请人必须满足官方指南中列出的每一项标准。"
+  },
+  {
+   "en": "The committee revised its criterion for awarding the scholarship.",
+   "zh": "委员会修订了授予奖学金的标准。"
+  }
+ ],
+ "owe": [
+  {
+   "en": "The discovery owes much to decades of careful fieldwork.",
+   "zh": "这一发现很大程度上要归功于数十年的细致田野调查。"
+  },
+  {
+   "en": "She owes her career to a chance encounter with an advisor.",
+   "zh": "她把职业生涯归功于与一位导师的一次偶遇。"
+  },
+  {
+   "en": "The early results owe much to better laboratory equipment.",
+   "zh": "早期结果很大程度上得益于更好的实验设备。"
+  }
+ ],
+ "evaluate": [
+  {
+   "en": "We must evaluate the risks before adopting the new method.",
+   "zh": "采用新方法之前我们必须评估风险。"
+  },
+  {
+   "en": "The panel will evaluate each application against published standards.",
+   "zh": "评审小组将依据公布的标准评估每一份申请。"
+  },
+  {
+   "en": "Researchers evaluate the data with statistical software to ensure accuracy.",
+   "zh": "研究人员使用统计软件评估数据，以确保准确性。"
+  }
+ ],
+ "arise": [
+  {
+   "en": "New ethical questions arise whenever the technology is applied in schools.",
+   "zh": "该技术应用于学校时，总会产生新的伦理问题。"
+  },
+  {
+   "en": "The opportunity to collaborate arose unexpectedly during the conference.",
+   "zh": "在会议期间，合作的机会出人意料地出现了。"
+  },
+  {
+   "en": "A separate dispute arose between the two departments last spring.",
+   "zh": "去年春天两个部门之间又起了一场争端。"
+  }
+ ],
+ "indicate": [
+  {
+   "en": "The temperature curve indicates a rapid warming over the past decade.",
+   "zh": "温度曲线显示过去 10 年快速升温。"
+  },
+  {
+   "en": "Her tone indicated that further discussion would be unwelcome.",
+   "zh": "她的语气表明进一步的讨论不会受欢迎。"
+  },
+  {
+   "en": "Figures indicate that most participants preferred the online format.",
+   "zh": "数据表明大多数参与者更喜欢线上形式。"
+  }
+ ],
+ "cutting-edge": [
+  {
+   "en": "The laboratory uses cutting-edge imaging to observe cellular processes.",
+   "zh": "该实验室使用前沿的成像技术观察细胞过程。"
+  },
+  {
+   "en": "Cutting-edge research has transformed our understanding of the disease.",
+   "zh": "最前沿的研究改变了我们对该疾病的认识。"
+  },
+  {
+   "en": "Her lecture covered several cutting-edge developments in artificial intelligence.",
+   "zh": "她的讲座介绍了人工智能领域的若干尖端进展。"
+  }
+ ],
+ "fraction": [
+  {
+   "en": "Only a small fraction of the applications received external review.",
+   "zh": "只有一小部分申请获得了外部评审。"
+  },
+  {
+   "en": "The result improved by a fraction of a percentage point.",
+   "zh": "结果提高的幅度还不到一个百分点的零头。"
+  },
+  {
+   "en": "She spent only a fraction of the budget on laboratory equipment.",
+   "zh": "她只用了预算的一小部分购置实验设备。"
+  }
+ ],
+ "endowed with": [
+  {
+   "en": "The region is endowed with rich mineral resources and abundant rainfall.",
+   "zh": "该地区拥有丰富的矿产资源和充足的降雨。"
+  },
+  {
+   "en": "Students endowed with curiosity often become the most productive researchers.",
+   "zh": "天生具备好奇心的学生往往成为最高产的研究者。"
+  },
+  {
+   "en": "This species is endowed with an unusually strong immune system.",
+   "zh": "这一物种天生具有异常强大的免疫系统。"
+  }
+ ],
+ "progressively": [
+  {
+   "en": "As the sample grew, the estimates progressively converged toward the predicted value.",
+   "zh": "随着样本增加，估计值逐步收敛到预测值。"
+  },
+  {
+   "en": "The disease has progressively weakened the animal's ability to forage.",
+   "zh": "这种疾病逐渐削弱了该动物觅食的能力。"
+  },
+  {
+   "en": "Costs have risen progressively since the program began in 2019.",
+   "zh": "自 2019 年项目启动以来，成本日益攀升。"
+  }
+ ],
+ "immensely": [
+  {
+   "en": "The discovery has immensely improved our understanding of early oceans.",
+   "zh": "这一发现极大地提升了我们对早期海洋的认识。"
+  },
+  {
+   "en": "Her meticulous preparation contributed immensely to the project's success.",
+   "zh": "她一丝不苟的准备对项目的成功作出了极大贡献。"
+  },
+  {
+   "en": "The online archive is immensely valuable to researchers across many disciplines.",
+   "zh": "该在线档案对众多学科的研究人员极为宝贵。"
+  }
+ ],
+ "suppress": [
+  {
+   "en": "Certain chemicals can suppress plant growth when applied in excess.",
+   "zh": "某些化学物质使用过量时会抑制植物生长。"
+  },
+  {
+   "en": "The editor suppressed the inflammatory passages from the final manuscript.",
+   "zh": "编辑从最终稿中删去了那些煽动性的段落。"
+  },
+  {
+   "en": "Try to suppress your frustration when the deadline is moved again.",
+   "zh": "当截止日期再次变动时，尽量压住你的沮丧情绪。"
+  }
+ ],
+ "profoundly": [
+  {
+   "en": "The discovery profoundly altered how scientists understood plant communication.",
+   "zh": "这一发现深刻地改变了科学家对植物交流方式的理解。"
+  },
+  {
+   "en": "Her work profoundly influenced the design of modern irrigation systems.",
+   "zh": "她的工作深刻影响了现代灌溉系统的设计。"
+  },
+  {
+   "en": "The policy change had a profoundly negative effect on small businesses.",
+   "zh": "这项政策变动对小企业产生了极为负面的影响。"
+  }
+ ],
+ "exemplify": [
+  {
+   "en": "These cases exemplify the wider trends documented across the industry.",
+   "zh": "这些案例体现了整个行业中更为广泛的趋势。"
+  },
+  {
+   "en": "Her career exemplifies what a lifelong commitment to research can achieve.",
+   "zh": "她的职业生涯体现了毕生投入研究能够取得的成就。"
+  },
+  {
+   "en": "I will exemplify the argument with two recent field studies.",
+   "zh": "我将用两项最新的田野研究来举例说明这一论点。"
+  }
+ ],
+ "illustrative": [
+  {
+   "en": "The following table is illustrative only and does not show every case.",
+   "zh": "下面的表格仅作说明之用，并未涵盖所有情况。"
+  },
+  {
+   "en": "We selected several illustrative examples from the survey responses.",
+   "zh": "我们从问卷回答中挑选了几个具有例证说明作用的例子。"
+  },
+  {
+   "en": "The case is highly illustrative of how local institutions resist reform.",
+   "zh": "这一案例极好地说明了地方机构如何抵制改革。"
+  }
+ ],
+ "cornerstone": [
+  {
+   "en": "Trust between researchers remains the cornerstone of any successful collaboration.",
+   "zh": "研究者之间的信任仍是任何成功合作的基石。"
+  },
+  {
+   "en": "The cornerstone of the reform strategy was improved access to public records.",
+   "zh": "改革策略的基石是更好地获取公共档案。"
+  },
+  {
+   "en": "Early language education forms the cornerstone of later academic achievement.",
+   "zh": "早期语言教育是日后学业成就的奠基石。"
+  }
+ ],
+ "discard": [
+  {
+   "en": "Reviewers should discard preliminary notes that no longer support the argument.",
+   "zh": "评审者应当丢弃不再支持论点的初步笔记。"
+  },
+  {
+   "en": "The engineers discarded the design because it exceeded the weight limit.",
+   "zh": "工程师们弃用了那个设计，因为它超过了重量限制。"
+  },
+  {
+   "en": "It is wise to discard outdated assumptions before beginning the analysis.",
+   "zh": "在开始分析之前，明智的做法是抛弃过时的假设。"
+  }
+ ],
+ "provisional": [
+  {
+   "en": "The figures are provisional and will be revised after the audit.",
+   "zh": "这些数据是暂定的，将在审计后修订。"
+  },
+  {
+   "en": "The council issued a provisional ban on construction near the wetland.",
+   "zh": "市议会发布了一项针对湿地附近施工的临时禁令。"
+  },
+  {
+   "en": "A provisional agreement was reached before the formal negotiation began.",
+   "zh": "在正式谈判开始前，双方达成了初步协议。"
+  }
+ ],
+ "temporary": [
+  {
+   "en": "The laboratory was housed in a temporary building during the renovation.",
+   "zh": "翻修期间实验室设在一栋临时建筑里。"
+  },
+  {
+   "en": "This solution provides only a temporary fix for the underlying problem.",
+   "zh": "这种办法只是对根本问题的临时修补。"
+  },
+  {
+   "en": "The clinic operates from a temporary site until the new wing opens.",
+   "zh": "在新楼翼启用前，诊所在临时场所运营。"
+  }
+ ],
+ "temporal": [
+  {
+   "en": "The study examines temporal changes in vegetation over three decades.",
+   "zh": "该研究考察了 30 年来植被的时间变化。"
+  },
+  {
+   "en": "Temporal resolution determines how precisely the instrument can record events.",
+   "zh": "时间分辨率决定了仪器记录事件的精确程度。"
+  },
+  {
+   "en": "The model accounts for both spatial and temporal variability in rainfall.",
+   "zh": "该模型同时考虑了降水的空间变异和时间变异。"
+  }
+ ],
+ "distinctive": [
+  {
+   "en": "The species has a distinctive call that researchers use to identify it.",
+   "zh": "该物种有独特的叫声，研究者据此识别它。"
+  },
+  {
+   "en": "Her distinctive approach earned her a place on the editorial board.",
+   "zh": "她独特的方法使她得以进入编辑委员会。"
+  },
+  {
+   "en": "Each region has a distinctive architectural style that reflects its history.",
+   "zh": "每个地区都有反映其历史的独特建筑风格。"
+  }
+ ],
+ "distinct": [
+  {
+   "en": "There is a distinct difference between correlation and causation in the data.",
+   "zh": "数据中相关性与因果性之间存在明显区别。"
+  },
+  {
+   "en": "It is distinct from other studies because it follows participants for ten years.",
+   "zh": "它与其他研究明显不同，因为它跟踪参与者 10 年。"
+  },
+  {
+   "en": "The two treatments produced distinct effects on plant growth rates.",
+   "zh": "这两种处理方式对植物生长速率产生了明显不同的影响。"
+  }
+ ],
+ "harbor": [
+  {
+   "en": "The new law may harbor hidden risks for small businesses.",
+   "zh": "这项新法律可能潜藏着小企业面临的风险。"
+  },
+  {
+   "en": "The dataset may harbor subtle errors that routine checks miss.",
+   "zh": "该数据集中可能潜藏着常规检查难以发现的细微错误。"
+  },
+  {
+   "en": "Such criticism harbors little more than a personal grudge against the ministry.",
+   "zh": "这种批评不过是出于对部委的个人不满。"
+  }
+ ]
+}

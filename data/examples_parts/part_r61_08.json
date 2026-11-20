@@ -1,0 +1,72 @@
+{
+ "separation": [
+  {"en": "The separation of teaching and research functions weakens institutional coherence.", "zh": "教学与研究职能的分离削弱了机构内部的一致性。"},
+  {"en": "Laboratory separation of samples prevented cross-contamination during the survey.", "zh": "实验室对样本的分离避免了调查过程中的交叉污染。"},
+  {"en": "Judicial separation of powers provides a check on regulatory discretion.", "zh": "司法权力的分离为监管裁量提供了制衡。"}
+ ],
+ "severity": [
+  {"en": "The severity of the decline in literacy was underestimated by policymakers.", "zh": "决策者低估了识字率下降的严重程度。"},
+  {"en": "Clinical severity scores were recorded for each participant at enrollment.", "zh": "研究在入组时记录了每位参与者的临床严重程度评分。"},
+  {"en": "Regulators graded the severity of the violation and imposed corresponding penalties.", "zh": "监管机构对违规行为的严重程度作出分级，并施加相应处罚。"}
+ ],
+ "simulation": [
+  {"en": "Simulation results suggest that the proposed design would reduce structural failure.", "zh": "模拟结果表明，拟议的设计方案能够降低结构失效的风险。"},
+  {"en": "The simulation of rainfall patterns helped planners test drainage capacity.", "zh": "对降水模式的模拟帮助规划人员检验排水能力。"},
+  {"en": "Students used simulation to explore how policy choices affect market outcomes.", "zh": "学生借助模拟来探索政策选择如何影响市场结果。"}
+ ],
+ "specification": [
+  {"en": "The technical specification requires that all sensors meet stringent accuracy thresholds.", "zh": "该技术规范要求所有传感器满足严格的精度阈值。"},
+  {"en": "Ambiguous wording in the specification led to disputes during contract review.", "zh": "规范中的表述含糊，导致合同审查期间出现争议。"},
+  {"en": "Regulators revised the specification to reflect recent advances in material science.", "zh": "监管机构修订了规范，以反映材料科学领域的近期进展。"}
+ ],
+ "stability": [
+  {"en": "Long-term stability of the composite was tested under repeated thermal cycling.", "zh": "复合材料在反复热循环条件下的长期稳定性接受了检验。"},
+  {"en": "The findings suggest considerable stability in the relationship across cohorts.", "zh": "研究结果表明，该关系在不同队列中具有相当高的稳定性。"},
+  {"en": "Political stability in the region determined the pace of institutional reform.", "zh": "该地区的政治稳定性决定了制度改革的推进节奏。"}
+ ],
+ "sufficiency": [
+  {"en": "The sufficiency of the evidence was challenged by members of the review panel.", "zh": "评审委员会成员对证据的充分性提出了质疑。"},
+  {"en": "Sufficiency of statistical power depends on the expected size of the treatment effect.", "zh": "统计检验效能的充分性取决于预期处理效应的大小。"},
+  {"en": "The report questions the sufficiency of current funding for long-term archival work.", "zh": "该报告质疑现行资金对长期档案工作的支持是否充分。"}
+ ],
+ "supervision": [
+  {"en": "Effective supervision requires clear reporting lines between field staff and headquarters.", "zh": "有效的监督要求田野人员与总部之间建立清晰的工作汇报关系。"},
+  {"en": "The agency strengthened supervision of licensed laboratories after a series of violations.", "zh": "在一系列违规行为发生之后，该机构加强了对持证实验室的监督。"},
+  {"en": "Supervision of early-career researchers reduced uncertainty during the transition period.", "zh": "对职业早期研究人员的指导降低了过渡阶段的不确定性。"}
+ ],
+ "supplement": [
+  {"en": "A supplement to the main report contains the detailed methodological appendix.", "zh": "主报告的补充材料包含详细的方法学附录。"},
+  {"en": "Dietary supplement use was recorded among participants during the follow-up interview.", "zh": "研究在随访访谈中记录了参与者的膳食补充剂使用情况。"},
+  {"en": "The supplement provides additional context for the interpretation of the historical data.", "zh": "该补充材料为历史数据的解读提供了额外背景。"}
+ ],
+ "survival": [
+  {"en": "Survival rates for the transplanted seedlings declined sharply during the drought.", "zh": "移栽幼苗的存活率在干旱期间急剧下降。"},
+  {"en": "The model estimates survival probability under alternative assumptions about mortality.", "zh": "该模型在关于死亡率的不同假设下估算存活概率。"},
+  {"en": "Corporate survival in competitive markets depends on continuous organizational adaptation.", "zh": "企业在竞争性市场中的存续取决于持续的组织调适。"}
+ ],
+ "tactic": [
+  {"en": "The committee adopted a negotiation tactic intended to reduce the financial burden.", "zh": "委员会采取了一种旨在减轻财政负担的谈判策略。"},
+  {"en": "Each research group selected a different recruitment tactic for the target population.", "zh": "各研究小组针对目标人群选择了不同的招募策略。"},
+  {"en": "Prolonged delay was recognized as a common tactic in regulatory evasion.", "zh": "拖延被认定为规避监管的一种常见手段。"}
+ ],
+ "technology": [
+  {"en": "Advances in technology have reduced the cost of large-scale data collection.", "zh": "技术进步降低了大规模数据采集的成本。"},
+  {"en": "The technology transfer office mediates cooperation between the university and industry.", "zh": "技术转移办公室在高校与产业之间的合作中发挥协调作用。"},
+  {"en": "Adoption of the technology was uneven across regions with comparable infrastructure.", "zh": "该技术在基础设施相当的不同地区之间呈现出不均衡的采纳状况。"}
+ ],
+ "tendency": [
+  {"en": "The tendency of respondents to overstate income persists across repeated survey waves.", "zh": "受访者夸大收入的倾向在多次调查波次中持续存在。"},
+  {"en": "There is a marked tendency for graduate attrition to increase with departmental size.", "zh": "研究生流失率随院系规模增大而上升的倾向十分明显。"},
+  {"en": "His tendency to generalize from single cases weakened the analytical rigor of the review.", "zh": "他倾向于从个别案例进行概括，这一特点削弱了评审的严谨性。"}
+ ],
+ "terminology": [
+  {"en": "Differences in terminology complicate the comparison of results across regional studies.", "zh": "术语上的差异使各地区研究结果之间的比较变得复杂。"},
+  {"en": "The authors propose a standardized terminology for describing qualitative coding decisions.", "zh": "作者提出了标准化的术语体系，用于描述定性编码的决策过程。"},
+  {"en": "Ambiguity in the terminology of the directive led to divergent administrative interpretations.", "zh": "指令术语上的歧义导致了截然不同的行政解释。"}
+ ],
+ "tolerance": [
+  {"en": "Tolerance of measurement error varies substantially across instruments and laboratories.", "zh": "不同仪器和实验室对测量误差的容忍程度存在显著差异。"},
+  {"en": "The policy depends on public tolerance of a modest increase in taxation.", "zh": "该政策取决于公众对适度税收增长的容忍程度。"},
+  {"en": "Genetic differences in drug tolerance explain part of the variation in treatment response.", "zh": "药物耐受性的遗传差异解释了治疗反应变异的部分来源。"}
+ ]
+}

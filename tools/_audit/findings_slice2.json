@@ -1,0 +1,58 @@
+[
+  {
+    "word": "insofar as",
+    "field": "example_en",
+    "index": 2,
+    "problem": "例句语义不成立：insofar as 意为「在…限度内/就…而言」，用来限定 consent 是否必要讲不通（应为 whenever/where）。该句在库内明显是凑出来的搭配。",
+    "current": "Consent is required insofar as participants disclose sensitive personal information.",
+    "suggest": "The policy permits anonymized publication insofar as all identifying details have been removed."
+  },
+  {
+    "word": "insofar as",
+    "field": "example_zh",
+    "index": 2,
+    "problem": "译文不通顺、读不懂：「在…的范围内，需要征得同意」把 insofar as 的「限度」义硬套到 consent 上，中文无法成立。",
+    "current": "在参与者披露敏感个人信息的范围内，需要征得同意。",
+    "suggest": "只要所有可识别身份的信息均已删除，该政策即允许以匿名方式发表。"
+  },
+  {
+    "word": "assertion",
+    "field": "example_en",
+    "index": 1,
+    "problem": "搭配不当：assertion 只用于断言/主张（assertion of a claim / an assertion of fact），不与 question 搭配，「assertion of the research question」不成立。",
+    "current": "The paper begins with a clear assertion of the research question.",
+    "suggest": "The paper begins with a clear assertion of its central claim."
+  },
+  {
+    "word": "assertion",
+    "field": "example_zh",
+    "index": 1,
+    "problem": "译文与词义不符：「提出了研究问题」是陈述/提出，与释义里的「断言；明确肯定」不对应。",
+    "current": "该论文开篇明确提出了研究问题。",
+    "suggest": "该论文开篇明确断言了其核心论点。"
+  },
+  {
+    "word": "not to mention",
+    "field": "pos",
+    "index": -1,
+    "problem": "词性判错：not to mention 是固定连接用语，在本库三条例句中都是追加补充成分（连接两个并列成分），等于连词，不是副词（副词不能修饰动词或形容词）。",
+    "current": "POS: 副词",
+    "suggest": "POS: 连词"
+  },
+  {
+    "word": "irrespective",
+    "field": "pos",
+    "index": -1,
+    "problem": "词性判错：三条例句全部是 irrespective of + 从句/名词的介词用法，没有形容词用法（未修饰任何名词），标成形容词与实际主用法不符；同库中 via / regarding 等介词均按 (null/no-class) 处理。",
+    "current": "POS: 形容词",
+    "suggest": "POS: 介词"
+  },
+  {
+    "word": "merit",
+    "field": "sense",
+    "index": -1,
+    "problem": "义项缺失：例句(1)的 merit award 用的是 merit 作形容词性成分时的常用义「优异、优良」（merit award / merit scholarship 为英语学术圈常见搭配），现有释义只给了「优点；长处；价值」与括注 on its own merits，未覆盖该常用义。",
+    "current": "[0] 优点；长处；价值（on its own merits 就其本身而言）",
+    "suggest": "[0] 优点；长处；价值（on its own merits 就其本身而言）\\n  [1] 优异，优良（merit award 优秀奖；merit scholarship 优秀奖学金）"
+  }
+]

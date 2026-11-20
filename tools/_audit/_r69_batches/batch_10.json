@@ -1,0 +1,77 @@
+[
+ {
+  "word": "entrepreneurship",
+  "pos": "名词",
+  "gloss": "创业；企业家精神"
+ },
+ {
+  "word": "unemployment",
+  "pos": "名词",
+  "gloss": "失业"
+ },
+ {
+  "word": "workforce",
+  "pos": "名词",
+  "gloss": "劳动力；全体员工"
+ },
+ {
+  "word": "inequality",
+  "pos": "名词",
+  "gloss": "不平等"
+ },
+ {
+  "word": "artificial intelligence",
+  "pos": "名词",
+  "gloss": "人工智能"
+ },
+ {
+  "word": "machine learning",
+  "pos": "名词",
+  "gloss": "机器学习"
+ },
+ {
+  "word": "fairness",
+  "pos": "名词",
+  "gloss": "公平性"
+ },
+ {
+  "word": "framing",
+  "pos": "名词",
+  "gloss": "框架化；框定（叙事/媒体框架）"
+ },
+ {
+  "word": "misinformation",
+  "pos": "名词",
+  "gloss": "错误信息"
+ },
+ {
+  "word": "disinformation",
+  "pos": "名词",
+  "gloss": "虚假信息（蓄意）"
+ },
+ {
+  "word": "statistical significance",
+  "pos": "名词",
+  "gloss": "统计显著性"
+ },
+ {
+  "word": "systematic review",
+  "pos": "名词",
+  "gloss": "系统综述"
+ },
+ {
+  "word": "mixed methods",
+  "pos": "名词",
+  "gloss": "混合方法"
+ },
+ {
+  "word": "gender",
+  "pos": "名词",
+  "gloss": "性别"
+ },
+ {
+  "word": "ethnicity",
+  "pos": "名词",
+  "gloss": "族裔；民族"
+ }
+]

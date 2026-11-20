@@ -1,0 +1,18 @@
+[
+  {
+    "word": "onto",
+    "field": "pos",
+    "index": -1,
+    "problem": "词性缺失（POS 记为 null），但 onto 是介词，其释义「到…之上；向…之上；到，朝」和三条例句（projected the data onto…, the cat jumped onto…, moves each observation onto…）中的用法都是介词。",
+    "current": "POS: (null/no-class)",
+    "suggest": "POS: 介词"
+  },
+  {
+    "word": "segment",
+    "field": "example_zh",
+    "index": 2,
+    "problem": "例句(2) 讲的是数据/研究流程的「分段」（pipeline 在本库词条中的义项为「流程；管线；工序」），中译却译成物理意义的「管道」，把数据处理流程误译成输送管道；同库另一条 pipeline 例句（Each discrete stage of the pipeline…）译为「流水线」，此处体例不一致。",
+    "current": "管道的每个部分都被单独测试以定位故障。",
+    "suggest": "数据流程的每个环节都被单独测试以定位故障。"
+  }
+]

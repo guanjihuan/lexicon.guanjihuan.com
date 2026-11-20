@@ -1,0 +1,408 @@
+{
+ "require": [
+  {
+   "en": "Addressing climate adaptation will require sustained investment across multiple sectors.",
+   "zh": "应对气候适应需要在多个部门进行持续投资。"
+  },
+  {
+   "en": "The committee requires that all manuscripts be submitted in English.",
+   "zh": "委员会要求所有稿件以英文提交。"
+  },
+  {
+   "en": "These findings require careful interpretation before any policy conclusions are drawn.",
+   "zh": "在得出任何政策结论之前，这些发现需要谨慎解读。"
+  }
+ ],
+ "confirm": [
+  {
+   "en": "A second experiment confirmed the pattern observed in the pilot study.",
+   "zh": "第二次实验证实了试点研究中观察到的模式。"
+  },
+  {
+   "en": "The interview data confirm that teachers interpret the policy in markedly different ways.",
+   "zh": "访谈数据证实，教师们对该政策的解读存在显著差异。"
+  },
+  {
+   "en": "Replication by an independent laboratory confirmed the original result.",
+   "zh": "一个独立实验室的复现实验证实了最初的结果。"
+  }
+ ],
+ "assert": [
+  {
+   "en": "The author asserts that institutional culture shapes research practice more than funding does.",
+   "zh": "作者断言，机构文化对研究实践的影响超过经费。"
+  },
+  {
+   "en": "Critics have asserted that the model rests on an oversimplified view of migration.",
+   "zh": "批评者断言，该模型建立在对移民的过度简化理解之上。"
+  },
+  {
+   "en": "Participants frequently asserted their right to withdraw from the study at any stage.",
+   "zh": "参与者经常主张他们有权在任何阶段退出研究。"
+  }
+ ],
+ "emphasize": [
+  {
+   "en": "The report emphasizes the need for longitudinal designs in future research.",
+   "zh": "该报告强调未来研究需要采用纵向设计。"
+  },
+  {
+   "en": "Several contributors emphasize the role of local context in shaping outcomes.",
+   "zh": "多位撰稿人强调地方环境在塑造结果中的作用。"
+  },
+  {
+   "en": "It is worth emphasizing that the sample was drawn from a single institution.",
+   "zh": "值得强调的是，样本取自单一机构。"
+  }
+ ],
+ "underlie": [
+  {
+   "en": "The assumptions that underlie the model are examined in Section 3.",
+   "zh": "构成该模型基础的假设在第 3 节中检验。"
+  },
+  {
+   "en": "Economic factors underlie much of the variation in school attainment.",
+   "zh": "经济因素是学业成绩差异的主要根源。"
+  },
+  {
+   "en": "A shared methodological commitment seems to underlie both studies.",
+   "zh": "两项研究似乎都以共同的方法论承诺为基础。"
+  }
+ ],
+ "constrain": [
+  {
+   "en": "Small sample sizes constrain the generalizability of the findings.",
+   "zh": "样本量小限制了研究结论的普适性。"
+  },
+  {
+   "en": "The analysis is constrained by the availability of archival records.",
+   "zh": "这项分析受限于档案史料的可获得性。"
+  },
+  {
+   "en": "Regulatory frameworks constrain how firms can respond to market shocks.",
+   "zh": "监管框架限制了企业应对市场冲击的方式。"
+  }
+ ],
+ "ground": [
+  {
+   "en": "The framework is grounded in sociocultural theories of learning.",
+   "zh": "该框架以社会文化学习理论为依据。"
+  },
+  {
+   "en": "Interview questions were grounded in the pilot phase findings.",
+   "zh": "访谈问题的设计立足于试点阶段的发现。"
+  },
+  {
+   "en": "Their critique remains grounded in the primary sources throughout.",
+   "zh": "他们的批评始终立足于原始资料。"
+  }
+ ],
+ "domain": [
+  {
+   "en": "The framework has since been applied in domains ranging from health to finance.",
+   "zh": "该框架此后被应用于从卫生到金融等多个领域。"
+  },
+  {
+   "en": "Expertise in one domain does not automatically transfer to another.",
+   "zh": "某一领域的专长并不会自动迁移到另一领域。"
+  },
+  {
+   "en": "The dataset covers three knowledge domains: biology, economics, and law.",
+   "zh": "数据集覆盖生物、经济与法律三个知识领域。"
+  }
+ ],
+ "shift": [
+  {
+   "en": "The data reveal a marked shift in public attitudes over the decade.",
+   "zh": "数据显示 10 年间公众态度发生了显著转变。"
+  },
+  {
+   "en": "This finding represents a shift away from purely behaviorist explanations.",
+   "zh": "这一发现标志着对纯行为主义解释的偏离。"
+  },
+  {
+   "en": "A paradigm shift occurred once the new evidence became widely accepted.",
+   "zh": "新证据被广泛接受后，范式转变随之发生。"
+  }
+ ],
+ "notion": [
+  {
+   "en": "The notion of resilience has been criticized for its conceptual vagueness.",
+   "zh": "韧性这一概念因界定模糊而受到批评。"
+  },
+  {
+   "en": "This chapter unpacks the notion of scientific objectivity.",
+   "zh": "本章剖析了科学客观性这一概念。"
+  },
+  {
+   "en": "The findings challenge the widely held notion that older workers resist technology.",
+   "zh": "研究结果挑战了年长员工抗拒技术的普遍观念。"
+  }
+ ],
+ "agenda": [
+  {
+   "en": "The workshop concluded by setting a research agenda for the next five years.",
+   "zh": "研讨会最后为未来五年确立了研究议程。"
+  },
+  {
+   "en": "Funding priorities inevitably shape the agenda of academic research.",
+   "zh": "资助优先事项不可避免地塑造着学术研究的议程。"
+  },
+  {
+   "en": "The paper explicitly situates itself within a critical agenda.",
+   "zh": "论文明确将自己置于批判性议程之中。"
+  }
+ ],
+ "causality": [
+  {
+   "en": "The cross-sectional design precludes strong claims about causality.",
+   "zh": "横断面设计使研究无法就因果关系做出有力论断。"
+  },
+  {
+   "en": "Establishing causality requires experimental or quasi-experimental evidence.",
+   "zh": "确立因果关系需要实验或准实验证据。"
+  },
+  {
+   "en": "The authors are careful to distinguish correlation from causality.",
+   "zh": "作者谨慎区分相关性与因果性。"
+  }
+ ],
+ "mortality": [
+  {
+   "en": "Infant mortality declined sharply following the introduction of vaccination.",
+   "zh": "疫苗接种推行后，婴儿死亡率急剧下降。"
+  },
+  {
+   "en": "The cohort study tracked mortality over a twenty-year period.",
+   "zh": "该队列研究追踪了 20 年间的死亡率。"
+  },
+  {
+   "en": "Air pollution is associated with elevated cardiovascular mortality.",
+   "zh": "空气污染与心血管死亡率升高相关。"
+  }
+ ],
+ "credibility": [
+  {
+   "en": "Triangulation of sources strengthened the credibility of the account.",
+   "zh": "多来源的三角互证增强了该叙述的可信度。"
+  },
+  {
+   "en": "The credibility of the survey depends on transparent sampling procedures.",
+   "zh": "这项调查的可信度取决于透明的抽样程序。"
+  },
+  {
+   "en": "Member checking was used to enhance the credibility of the interpretation.",
+   "zh": "研究采用成员核验来增强解读的可信度。"
+  }
+ ],
+ "fieldwork": [
+  {
+   "en": "Six months of fieldwork yielded over forty hours of recorded conversation.",
+   "zh": "六个月的实地调查积累了四十多个小时的录音对话。"
+  },
+  {
+   "en": "The fieldwork was conducted in three rural districts between 2019 and 2021.",
+   "zh": "田野工作于 2019 至 2021 年间在三个农村地区开展。"
+  },
+  {
+   "en": "Ethical approval was obtained before fieldwork commenced.",
+   "zh": "实地调查开始前已获得伦理批准。"
+  }
+ ],
+ "case study": [
+  {
+   "en": "The book presents a detailed case study of a single manufacturing firm.",
+   "zh": "本书对一家制造企业做了详尽的个案研究。"
+  },
+  {
+   "en": "Each case study combines archival data with practitioner interviews.",
+   "zh": "每个案例研究都结合了档案数据与从业者访谈。"
+  },
+  {
+   "en": "A comparative case study design was adopted across the four schools.",
+   "zh": "四所学校采用了比较个案研究设计。"
+  }
+ ],
+ "literature review": [
+  {
+   "en": "The literature review identifies three gaps in existing research.",
+   "zh": "文献综述指出了现有研究的三个空白。"
+  },
+  {
+   "en": "A systematic literature review was conducted following PRISMA guidelines.",
+   "zh": "按照 PRISMA 指南进行了系统性文献综述。"
+  },
+  {
+   "en": "The literature review covers studies published between 2000 and 2023.",
+   "zh": "文献综述涵盖 2000 至 2023 年间发表的研究。"
+  }
+ ],
+ "grounded theory": [
+  {
+   "en": "Interview transcripts were analyzed using grounded theory procedures.",
+   "zh": "访谈记录采用扎根理论方法进行分析。"
+  },
+  {
+   "en": "The category system emerged from the data through grounded theory coding.",
+   "zh": "类目体系是通过扎根理论编码从资料中归纳出来的。"
+  },
+  {
+   "en": "Grounded theory was chosen because little is known about the phenomenon.",
+   "zh": "由于对该现象知之甚少，研究选择了扎根理论。"
+  }
+ ],
+ "exhaustive": [
+  {
+   "en": "The bibliography is not exhaustive but covers the major contributions.",
+   "zh": "书目并不详尽无遗，但涵盖了主要成果。"
+  },
+  {
+   "en": "An exhaustive search of three databases identified 214 eligible studies.",
+   "zh": "对三个数据库的详尽检索找到了 214 项符合条件的研究。"
+  },
+  {
+   "en": "No exhaustive account of the archive's holdings yet exists.",
+   "zh": "对该馆藏品尚无完备的记载。"
+  }
+ ],
+ "broad": [
+  {
+   "en": "In a broad sense, both policies aim to reduce regional inequality.",
+   "zh": "广义上，两项政策都旨在缩小地区不平等。"
+  },
+  {
+   "en": "The survey covers a broad range of household expenditure categories.",
+   "zh": "这项调查涵盖广泛的家庭支出类别。"
+  },
+  {
+   "en": "The term is used in its broadest sense to include informal care.",
+   "zh": "该词在最宽泛的意义上使用，包括非正式照护。"
+  }
+ ],
+ "verbatim": [
+  {
+   "en": "Quotes from interviews are reproduced verbatim, with minor grammatical edits.",
+   "zh": "访谈引文逐字呈现，仅做了少量语法修饰。"
+  },
+  {
+   "en": "The coding scheme was applied to the verbatim transcripts.",
+   "zh": "编码方案应用于逐字记录的转录稿。"
+  },
+  {
+   "en": "Participants' explanations were archived verbatim for audit purposes.",
+   "zh": "参与者的解释被逐字存档以备审查。"
+  }
+ ],
+ "in light of": [
+  {
+   "en": "In light of these findings, the theoretical model requires revision.",
+   "zh": "鉴于这些发现，理论模型需要修正。"
+  },
+  {
+   "en": "The policy was withdrawn in light of new safety evidence.",
+   "zh": "鉴于新的安全证据，该政策被撤回。"
+  },
+  {
+   "en": "In light of the limited sample, the results should be read as preliminary.",
+   "zh": "鉴于样本有限，这些结果应视为初步性的。"
+  }
+ ],
+ "on the basis of": [
+  {
+   "en": "Participants were grouped on the basis of their baseline scores.",
+   "zh": "参与者按基线得分分组。"
+  },
+  {
+   "en": "The court ruled on the basis of the documentary evidence alone.",
+   "zh": "法院仅依据书面证据作出裁决。"
+  },
+  {
+   "en": "On the basis of these results, we reject the null hypothesis.",
+   "zh": "基于这些结果，我们拒绝原假设。"
+  }
+ ],
+ "by means of": [
+  {
+   "en": "Access to the archive was gained by means of a research agreement.",
+   "zh": "通过一项研究协议获得了档案的查阅权。"
+  },
+  {
+   "en": "The effect was measured by means of a validated questionnaire.",
+   "zh": "该效应借助一份经过验证的问卷来测量。"
+  },
+  {
+   "en": "Themes were identified by means of constant comparison across cases.",
+   "zh": "主题是通过对案例的持续比较来识别的。"
+  }
+ ],
+ "as such": [
+  {
+   "en": "The report is a synthesis, not a primary study, and should be read as such.",
+   "zh": "该报告是综述而非原始研究，应照此理解。"
+  },
+  {
+   "en": "The committee is advisory; as such, it cannot enforce its recommendations.",
+   "zh": "委员会是咨询性质的，因此无权强制执行其建议。"
+  },
+  {
+   "en": "The sample is not representative and, as such, findings are illustrative only.",
+   "zh": "样本不具代表性，因此结果仅作示例之用。"
+  }
+ ],
+ "per se": [
+  {
+   "en": "Urbanization per se is not the cause; density and connectivity matter more.",
+   "zh": "城市化本身并非原因；密度与连通性更为关键。"
+  },
+  {
+   "en": "The intervention does not aim to raise income per se but to stabilize it.",
+   "zh": "该干预并非旨在提高收入本身，而是稳定收入。"
+  },
+  {
+   "en": "Technology is neither beneficial nor harmful per se; outcomes depend on use.",
+   "zh": "技术本身无所谓利弊，结果取决于使用方式。"
+  }
+ ],
+ "with regard to": [
+  {
+   "en": "With regard to ethics, the study received full board approval.",
+   "zh": "就伦理而言，本研究获得了伦理委员会的正式批准。"
+  },
+  {
+   "en": "Little consensus exists with regard to the appropriate sample size.",
+   "zh": "关于合适的样本量，目前几乎没有共识。"
+  },
+  {
+   "en": "With regard to limitations, the single-site design is the most salient.",
+   "zh": "就局限而言，单点设计最为突出。"
+  }
+ ],
+ "inter alia": [
+  {
+   "en": "The dataset includes, inter alia, household income, tenure, and education.",
+   "zh": "该数据集除其他事项外，还包括家庭收入、住房产权与教育程度。"
+  },
+  {
+   "en": "The Act regulates, inter alia, the storage of personal data.",
+   "zh": "该法规除其他事项外，还规范个人数据的存储。"
+  },
+  {
+   "en": "The workshop addressed, inter alia, questions of research ethics.",
+   "zh": "研讨会论及了研究伦理等问题。"
+  }
+ ],
+ "vice versa": [
+  {
+   "en": "Reading proficiency predicts writing quality, and vice versa.",
+   "zh": "阅读能力预示写作质量，反之亦然。"
+  },
+  {
+   "en": "Policy shapes public opinion and vice versa, making causality hard to isolate.",
+   "zh": "政策塑造舆论，舆论也塑造政策，因而难以分离因果。"
+  },
+  {
+   "en": "The model maps theory onto data and vice versa.",
+   "zh": "该模型把理论映射到数据，也把数据映射回理论。"
+  }
+ ]
+}

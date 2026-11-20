@@ -1,0 +1,90 @@
+[
+  {
+    "word": "introduction",
+    "field": "sense",
+    "index": -1,
+    "problem": "例2「The introduction of the new policy」用的是「引进；采用」义，senses 只列「引言；导论；介绍」，该义项未体现",
+    "current": "引言；导论；介绍",
+    "suggest": "在 senses 增补「引进；采用」义（例：新政策的引入）"
+  },
+  {
+    "word": "dataset",
+    "field": "example_en",
+    "index": 2,
+    "problem": "动名词短语 Training models 作主语应接单数动词，句中用 require 主谓不一致（zh 译文「训练模型所需的…」按动名词义理解）",
+    "current": "Training models require larger datasets than most universities can gather.",
+    "suggest": "Training models requires larger datasets than most universities can gather."
+  },
+  {
+    "word": "discourse",
+    "field": "example_zh",
+    "index": 1,
+    "problem": "artificial intelligence in education（教育领域的人工智能）译成「人工智能与教育」，漏译限定语 in，话题范围被扩大",
+    "current": "会议讨论了围绕人工智能与教育的话语。",
+    "suggest": "会议讨论了围绕教育领域人工智能的话语。"
+  },
+  {
+    "word": "spectrum",
+    "field": "example_zh",
+    "index": 1,
+    "problem": "译文结构混乱：「各种可能解释这一连续体」易误读为动宾（解释这一连续体），「极端一端」叠床架屋且增译「极端」，与 one end of the spectrum of possible interpretations 不符",
+    "current": "这些发现代表了各种可能解释这一连续体的极端一端。",
+    "suggest": "这些发现代表了由各种可能解释构成的连续体中的一端。"
+  },
+  {
+    "word": "specificity",
+    "field": "example_zh",
+    "index": 2,
+    "problem": "存疑：en「questioned the specificity of these findings across different populations」字面偏「质疑这些发现在不同人群中是否具特异性」，zh「是否同样适用」偏向可推广性，与释义「特异性」衔接较弱；原句本身有歧义，不确定是否算误译",
+    "current": "批评者质疑了这些发现在不同人群中是否同样适用。",
+    "suggest": "待核（若取「特异性」义可改：批评者质疑这些发现在不同人群中是否具有特异性。）"
+  },
+  {
+    "word": "verification",
+    "field": "example_zh",
+    "index": 2,
+    "problem": "存疑：document 应为「文件；凭证」，zh 译作「文献」（= literature）疑为误译；若原意确指发表前核查文献来源则另当别论",
+    "current": "在任何主张发表之前都必须进行文献核查。",
+    "suggest": "待核（若指核验凭证可改：在任何主张发表之前都必须进行文件核查。）"
+  },
+  {
+    "word": "versus",
+    "field": "example_en",
+    "index": 2,
+    "problem": "存疑：versus 惯用于 X versus Y 的对照取舍（如 renting versus buying），用于「保修涵盖维修而非仅换件」的陈述句不自然，惯用 rather than",
+    "current": "The warranty covers repairs versus only the replacement of defective parts.",
+    "suggest": "待核（可考虑改为：The warranty covers repairs rather than only the replacement of defective parts.）"
+  },
+  {
+    "word": "inclusion",
+    "field": "example_zh",
+    "index": 2,
+    "problem": "grant panels（科研资助评审小组）漏译限定语 grant，译成泛指的「评审委员会」",
+    "current": "该委员会审查了少数族裔研究者在评审委员会中的纳入情况。",
+    "suggest": "该委员会审查了少数族裔研究者在科研资助评审小组中的纳入情况。"
+  },
+  {
+    "word": "response",
+    "field": "example_zh",
+    "index": 2,
+    "problem": "「是否预测答对」不通顺：动词短语「答对」直接作「预测」的宾语生硬",
+    "current": "我们考察了回答长度是否预测答对。",
+    "suggest": "我们考察了回答长度能否预测作答是否正确。"
+  },
+  {
+    "word": "respondent",
+    "field": "example_zh",
+    "index": 2,
+    "problem": "transformative（带来深刻转变的）译作「令人改观」搭配生硬欠准（「改观」惯与局面、面貌搭配，不这么带兼语）",
+    "current": "一位受访者形容这段经历既令人改观又出人意料地愉快。",
+    "suggest": "一位受访者形容这段经历带来了深刻转变，而且出人意料地愉快。"
+  },
+  {
+    "word": "disproportionate",
+    "field": "example_zh",
+    "index": 2,
+    "problem": "存疑：「失衡待遇」搭配生硬（「失衡」惯与贸易、生态等搭配），disproportionate treatment 此处意为不成比例的差别对待",
+    "current": "监管机构因该公司对兼职员工的失衡待遇而对其处以罚款。",
+    "suggest": "待核（可考虑改为：监管机构因该公司对兼职员工不成比例的差别对待而对其处以罚款。）"
+  }
+]

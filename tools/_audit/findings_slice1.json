@@ -1,0 +1,66 @@
+[
+  {
+    "word": "ratio",
+    "field": "example_en",
+    "index": 2,
+    "problem": "搭配/语义错误：英语里 teacher to student ratio 惯例指「师生比（每名学生对应的教师数或每名教师对应的学生数）」，美式语境下 high ratio 通常意味着每名学生分到的教师更少、更不利于个别辅导，与句子的断言相反；中译「较高的师生比能显著改善个别辅导」把错误照搬了。",
+    "current": "A high teacher to student ratio improves individual supervision considerably.",
+    "suggest": "A low teacher to student ratio improves individual supervision considerably.（中译同步改为：较低的师生比能显著改善个别辅导的质量。）"
+  },
+  {
+    "word": "rigid",
+    "field": "example_zh",
+    "index": 1,
+    "problem": "中译错：「rigid attitude」指「僵化、固执的态度」，不是「僵硬」；「僵硬」只用于身体/物体。",
+    "current": "她僵硬的态度使委员会无法达成务实的妥协。",
+    "suggest": "她僵化固执的态度使委员会无法达成务实的妥协。"
+  },
+  {
+    "word": "illuminating",
+    "field": "example_zh",
+    "index": 2,
+    "problem": "中译错：illuminating 在此意为「极富启发性的」，译成「发人深省」属近义串味，且把 illuminating detail 拆成「发人深省而又极详尽的方式」读起来不像中文。",
+    "current": "档案馆的照片以发人深省而又极详尽的方式记录了这座大教堂早期的建造情况。",
+    "suggest": "档案馆的照片以极具启发性的方式翔实记录了这座大教堂早期的建造情况。"
+  },
+  {
+    "word": "intermediate",
+    "field": "example_zh",
+    "index": 2,
+    "problem": "中译错：「intermediate groups」指按水平/规模居中的小组，译成「中级小组」被读成「中级的组」，与义项不符。",
+    "current": "教师根据学生的笔试成绩将他们编入中级小组。",
+    "suggest": "教师根据学生的笔试成绩将他们编入中等水平的小组。"
+  },
+  {
+    "word": "unveil",
+    "field": "example_zh",
+    "index": 0,
+    "problem": "中译错：量词错误，「中心」用「一所」不对；且「揭幕」用于研究中心不通顺。",
+    "current": "该大学本周揭幕了一所新的气候研究中心。",
+    "suggest": "该大学本周为一座新的气候研究中心举行了揭幕仪式。"
+  },
+  {
+    "word": "parenthesis",
+    "field": "example_zh",
+    "index": 2,
+    "problem": "中译错误用/不通顺：「括注」是一处夹注，量词应为「一处」，「一段简短的括注」读不懂。",
+    "current": "她加了一段简短的括注来解释这个不常见的缩写。",
+    "suggest": "她加了一处简短的括注来解释这个不常见的缩写。"
+  },
+  {
+    "word": "due to",
+    "field": "pos",
+    "index": -1,
+    "problem": "词性判错：本词在本库三条例句中一律作介词（后接名词短语作原因状语），但 POS 字段为空（null/no-class），应标为介词。",
+    "current": "POS: (null/no-class)",
+    "suggest": "POS: 介词"
+  },
+  {
+    "word": "owing to",
+    "field": "pos",
+    "index": -1,
+    "problem": "词性判错：本词在本库三条例句中一律作介词（后接名词短语作原因状语），但 POS 字段为空（null/no-class），应标为介词。",
+    "current": "POS: (null/no-class)",
+    "suggest": "POS: 介词"
+  }
+]

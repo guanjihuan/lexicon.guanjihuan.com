@@ -1,0 +1,58 @@
+{
+ "scientific": [
+  {
+   "en": "The scientific literature on the topic suggests that early intervention yields better outcomes.",
+   "zh": "关于该主题的科学文献表明，及早干预能带来更好的结果。"
+  },
+  {
+   "en": "Funding bodies increasingly require proposals to demonstrate scientific rigor rather than rhetorical plausibility.",
+   "zh": "资助机构日益要求研究计划证明其科学严谨性，而非仅具修辞层面的合理性。"
+  },
+  {
+   "en": "The paper's scientific claims were widely criticized because the sample size proved inadequate for causal inference.",
+   "zh": "该论文的科学主张受到广泛批评，因为样本量不足以支撑因果推断。"
+  }
+ ],
+ "structural": [
+  {
+   "en": "Structural weaknesses in the analytical framework limited its explanatory power in comparative work.",
+   "zh": "分析框架在结构上的弱点限制了其在比较研究中的解释力。"
+  },
+  {
+   "en": "The reform addressed structural inequality in the way public services were funded across regions.",
+   "zh": "该项改革针对的是公共经费在地区之间配置上的结构性不平等。"
+  },
+  {
+   "en": "Damage to the archive building was structural rather than cosmetic, so the collection could not reopen.",
+   "zh": "档案馆建筑所受损坏属于结构性损毁而非表面破损，因此馆藏无法重新开放。"
+  }
+ ],
+ "technological": [
+  {
+   "en": "Technological progress reshaped the methods by which large-scale observations were collected and analyzed.",
+   "zh": "技术进步重塑了大规模观测资料的收集与分析方法。"
+  },
+  {
+   "en": "The commission recommended that technological capacity be shared among smaller regional institutions.",
+   "zh": "委员会建议将技术能力在规模较小的地区机构之间共享。"
+  },
+  {
+   "en": "Technological convergence blurred the boundary between consumer devices and dedicated research instruments.",
+   "zh": "技术融合模糊了消费类设备与专用研究仪器之间的界线。"
+  }
+ ],
+ "vulnerable": [
+  {
+   "en": "Vulnerable groups, including uninsured older residents, suffered disproportionate health consequences during the outbreak.",
+   "zh": "包括缺乏保险保障的老年居民在内的脆弱群体，在疫情期间承受了不成比例的健康后果。"
+  },
+  {
+   "en": "The audit concluded that the distribution system remained vulnerable to sudden interruptions in transport.",
+   "zh": "审计认为，该配送系统仍易受运输中断的影响。"
+  },
+  {
+   "en": "Small enterprises proved especially vulnerable once the subsidy was withdrawn without prior consultation.",
+   "zh": "补贴在未事先协商的情况下被取消后，小型企业显得尤其脆弱。"
+  }
+ ]
+}

@@ -1,0 +1,557 @@
+[
+ {
+  "word": "trial",
+  "discipline": "医学",
+  "reason": "临床试验是评估药物与疗法安全有效性的受控研究设计，属医学研究专门术语"
+ },
+ {
+  "word": "a priori",
+  "discipline": "逻辑学",
+  "reason": "先验指不依赖经验观察即成立的推理前提，是逻辑与概率论的概念"
+ },
+ {
+  "word": "paradox",
+  "discipline": "逻辑学",
+  "reason": "悖论指由前提推出矛盾结论的自指式命题，是逻辑与哲学的正式概念"
+ },
+ {
+  "word": "proof",
+  "discipline": "数学",
+  "reason": "证明是按公理与推理规则从前提导出结论的数学对象"
+ },
+ {
+  "word": "protocol",
+  "discipline": "医学",
+  "reason": "研究方案/规程是临床试验与实验操作的书面规范文件，属研究方法术语"
+ },
+ {
+  "word": "consent",
+  "discipline": "医学",
+  "reason": "知情同意是人体研究与临床试验的伦理程序概念"
+ },
+ {
+  "word": "longitudinal",
+  "discipline": "流行病学",
+  "reason": "纵向研究指对同一对象按时间反复测量的追踪设计"
+ },
+ {
+  "word": "in situ",
+  "discipline": "生物学",
+  "reason": "原位指在生物体或现场原处进行的观察、染色与测量"
+ },
+ {
+  "word": "ratio",
+  "discipline": "统计学",
+  "reason": "比值是两个量之比，是计量与统计分析的基本量"
+ },
+ {
+  "word": "constraint",
+  "discipline": "数学",
+  "reason": "约束是优化问题中对变量取值可行域施加的限制条件"
+ },
+ {
+  "word": "benchmark",
+  "discipline": "信息科学",
+  "reason": "基准是性能测试中用作比较尺度的参照标准"
+ },
+ {
+  "word": "convergence",
+  "discipline": "数学",
+  "reason": "收敛是迭代序列趋于某个极限值的数学性质"
+ },
+ {
+  "word": "residual",
+  "discipline": "统计学",
+  "reason": "残差是回归拟合值与实测值之差，是误差分析的专门量"
+ },
+ {
+  "word": "witness",
+  "discipline": "法律",
+  "reason": "证人是诉讼程序中依法提供证言的特定主体"
+ },
+ {
+  "word": "recursive",
+  "discipline": "计算机科学",
+  "reason": "递归指过程在定义中调用自身的求解方式"
+ },
+ {
+  "word": "iterative",
+  "discipline": "计算机科学",
+  "reason": "迭代是按规则反复更新变量以逼近解的过程"
+ },
+ {
+  "word": "interval",
+  "discipline": "统计学",
+  "reason": "区间（如置信区间）是统计推断的基本对象"
+ },
+ {
+  "word": "fine-grained",
+  "discipline": "计算机科学",
+  "reason": "细粒度指对数据或任务做更细层级划分的技术特性"
+ },
+ {
+  "word": "concomitant",
+  "discipline": "流行病学",
+  "reason": "伴随变量指与结局同期发生并被考察的可疑因素"
+ },
+ {
+  "word": "pedagogical",
+  "discipline": "教育学",
+  "reason": "教学法指关于教学原则与方法的教育学分支"
+ },
+ {
+  "word": "invoke",
+  "discipline": "法律",
+  "reason": "援引指在法律论证中引用法条、判例或原则"
+ },
+ {
+  "word": "paradigm",
+  "discipline": "哲学",
+  "reason": "范式是科学共同体成员共享的整体理论框架概念"
+ },
+ {
+  "word": "concurrent",
+  "discipline": "流行病学",
+  "reason": "并发指同时发生或并行推进的时序关系，如并行对照设计"
+ },
+ {
+  "word": "denote",
+  "discipline": "语义学",
+  "reason": "指称是符号与其所指对象之间的语义对应关系"
+ },
+ {
+  "word": "criterion",
+  "discipline": "统计学",
+  "reason": "判别准则是统计检验中据以判定接受或拒绝的规则"
+ },
+ {
+  "word": "fraction",
+  "discipline": "数学",
+  "reason": "分数是表示整体与部分之比的数"
+ },
+ {
+  "word": "cascade",
+  "discipline": "流行病学",
+  "reason": "级联指一次事件引发连续连锁反应的传导过程"
+ },
+ {
+  "word": "heuristic",
+  "discipline": "人工智能",
+  "reason": "启发式是不保证最优的经验性近似求解规则"
+ },
+ {
+  "word": "catalog",
+  "discipline": "信息科学",
+  "reason": "分类目录是文献编目与检索系统中的书目集合"
+ },
+ {
+  "word": "scenario",
+  "discipline": "系统分析",
+  "reason": "情景是对未来条件组合的设定，用于推演与前瞻分析"
+ },
+ {
+  "word": "evolution",
+  "discipline": "生物学",
+  "reason": "演化指物种在世代更替中的性状变迁过程"
+ },
+ {
+  "word": "correspondence",
+  "discipline": "数学",
+  "reason": "对应是集合间元素按规则相配的映射关系"
+ },
+ {
+  "word": "interface",
+  "discipline": "信息科学",
+  "reason": "接口是系统之间交互与数据交换的边界约定"
+ },
+ {
+  "word": "intervene",
+  "discipline": "流行病学",
+  "reason": "干预指对影响因素施加的主动处理措施，属研究设计的核心操作"
+ },
+ {
+  "word": "conservation",
+  "discipline": "物理学",
+  "reason": "守恒指能量、动量等物理量在过程中保持不变"
+ },
+ {
+  "word": "trajectory",
+  "discipline": "物理学",
+  "reason": "轨迹是物体在空间中的运动路径"
+ },
+ {
+  "word": "uniform",
+  "discipline": "统计学",
+  "reason": "均匀分布是概率论中各取值等概率出现的分布"
+ },
+ {
+  "word": "reproducible",
+  "discipline": "信息科学",
+  "reason": "可复现指他人依相同输入与流程能得到一致结果"
+ },
+ {
+  "word": "qualitative",
+  "discipline": "质性研究",
+  "reason": "定性研究以非数值材料描述现象、过程与意义"
+ },
+ {
+  "word": "sequence",
+  "discipline": "生物学",
+  "reason": "序列指按序排列的符号串，如核酸或蛋白质序列"
+ },
+ {
+  "word": "formula",
+  "discipline": "数学",
+  "reason": "公式是以符号表示数量关系的等式"
+ },
+ {
+  "word": "prototypical",
+  "discipline": "心理学",
+  "reason": "原型是范畴形成中成员共享的典型结构"
+ },
+ {
+  "word": "metaphor",
+  "discipline": "语言学",
+  "reason": "隐喻是以彼物喻此物的概念映射机制"
+ },
+ {
+  "word": "emulate",
+  "discipline": "计算机科学",
+  "reason": "仿真指用软件模拟目标系统行为的技术手段"
+ },
+ {
+  "word": "probabilistic",
+  "discipline": "统计学",
+  "reason": "基于概率的结论以概率分布为前提，与确定性结论相对"
+ },
+ {
+  "word": "singular",
+  "discipline": "数学",
+  "reason": "奇异指行列式为零、无逆可求的矩阵"
+ },
+ {
+  "word": "a posteriori",
+  "discipline": "概率论",
+  "reason": "后验指由已观察事实推得的后验概率判断"
+ },
+ {
+  "word": "validate",
+  "discipline": "统计学",
+  "reason": "效度检验指确认测量工具或模型确实测到/拟合预定构念"
+ },
+ {
+  "word": "approximate",
+  "discipline": "数学",
+  "reason": "近似指与真值接近但不精确的估计量"
+ },
+ {
+  "word": "exponential",
+  "discipline": "数学",
+  "reason": "指数指以固定比率连续增长的形式"
+ },
+ {
+  "word": "metric",
+  "discipline": "信息科学",
+  "reason": "度量指标是量化评价对象的标准尺度"
+ },
+ {
+  "word": "stagger",
+  "discipline": "流行病学",
+  "reason": "错开设计指各组在不同时间点接受干预的试验安排"
+ },
+ {
+  "word": "scale",
+  "discipline": "测量学",
+  "reason": "量表是按等级赋值以测量心理或社会属性的工具"
+ },
+ {
+  "word": "nominal",
+  "discipline": "统计学",
+  "reason": "名义变量只作类别标记而不表示数量次序"
+ },
+ {
+  "word": "onset",
+  "discipline": "医学",
+  "reason": "发作、发病指症状或疾病过程的起始时点"
+ },
+ {
+  "word": "category",
+  "discipline": "统计学",
+  "reason": "类别是分类变量取值的单位，属数据结构的正式层次"
+ },
+ {
+  "word": "accuracy",
+  "discipline": "测量学",
+  "reason": "准确度指测量结果与真实值接近的程度"
+ },
+ {
+  "word": "feature",
+  "discipline": "信息科学",
+  "reason": "特征是供学习模型使用的输入属性"
+ },
+ {
+  "word": "diverge",
+  "discipline": "统计学",
+  "reason": "发散指序列或分布之间的差异持续增大"
+ },
+ {
+  "word": "coercive",
+  "discipline": "政治学",
+  "reason": "胁迫指以惩罚威胁迫使对方服从的权力手段"
+ },
+ {
+  "word": "repeatable",
+  "discipline": "计量学",
+  "reason": "可重复指多次测量结果落在容许偏差之内"
+ },
+ {
+  "word": "synonym",
+  "discipline": "语言学",
+  "reason": "同义词指词义相同或高度近似的不同词"
+ },
+ {
+  "word": "manipulate",
+  "discipline": "统计学",
+  "reason": "操控变量指研究者主动改变自变量取值的操作"
+ },
+ {
+  "word": "label",
+  "discipline": "信息科学",
+  "reason": "标签指样本所属类别的人工标注值"
+ },
+ {
+  "word": "measure",
+  "discipline": "测量学",
+  "reason": "度量指依规则把属性转换为可量化的数值"
+ },
+ {
+  "word": "predict",
+  "discipline": "统计学",
+  "reason": "预测指依已建模型推断未观测结果"
+ },
+ {
+  "word": "estimate",
+  "discipline": "统计学",
+  "reason": "估计指用样本数据推断总体参数"
+ },
+ {
+  "word": "reduce",
+  "discipline": "化学",
+  "reason": "还原是物质得电子、化合价降低的化学反应类型"
+ },
+ {
+  "word": "element",
+  "discipline": "化学",
+  "reason": "元素指具有相同核电荷数的一类原子"
+ },
+ {
+  "word": "experiment",
+  "discipline": "研究方法",
+  "reason": "实验是通过操纵自变量以建立因果推断的检验设计"
+ },
+ {
+  "word": "factor",
+  "discipline": "统计学",
+  "reason": "因子是影响因变量的解释变量或潜在维度"
+ },
+ {
+  "word": "function",
+  "discipline": "数学",
+  "reason": "函数是定义域到值域的对应关系"
+ },
+ {
+  "word": "hypothesis",
+  "discipline": "统计学",
+  "reason": "假设是待检验的关于总体参数或关系的有待证伪的陈述"
+ },
+ {
+  "word": "implication",
+  "discipline": "逻辑学",
+  "reason": "蕴涵指结论由前提必然得出的逻辑关系"
+ },
+ {
+  "word": "issue",
+  "discipline": "出版规范",
+  "reason": "期号是期刊连续出版的一次编号，属编目规范概念"
+ },
+ {
+  "word": "limit",
+  "discipline": "数学",
+  "reason": "极限是函数在某点趋近时趋到的确定值"
+ },
+ {
+  "word": "model",
+  "discipline": "统计学",
+  "reason": "模型是变量之间关系的形式化设定"
+ },
+ {
+  "word": "outcome",
+  "discipline": "医学",
+  "reason": "结局是研究中关注并测量的最终结果变量"
+ },
+ {
+  "word": "phase",
+  "discipline": "物理学",
+  "reason": "相位是周期振动所处的阶段位置"
+ },
+ {
+  "word": "range",
+  "discipline": "统计学",
+  "reason": "极差是观测值最大值与最小值之差"
+ },
+ {
+  "word": "rate",
+  "discipline": "流行病学",
+  "reason": "率是以人口基数表示的事件发生频率"
+ },
+ {
+  "word": "variable",
+  "discipline": "统计学",
+  "reason": "变量是取值随条件变化而改变的可测量"
+ },
+ {
+  "word": "abstract",
+  "discipline": "出版规范",
+  "reason": "摘要是论文开头的结构化内容提要，属期刊论文格式要件"
+ },
+ {
+  "word": "independent",
+  "discipline": "统计学",
+  "reason": "独立指随机变量的取值互不影响"
+ },
+ {
+  "word": "normal",
+  "discipline": "统计学",
+  "reason": "正态分布是均值为零/给定、方差确定的钟形连续分布"
+ },
+ {
+  "word": "penalty",
+  "discipline": "统计学",
+  "reason": "惩罚项是约束被违反时加入目标函数以施加代价的项"
+ },
+ {
+  "word": "susceptibility",
+  "discipline": "流行病学",
+  "reason": "易感性指个体或群体对某疾病的易感程度"
+ },
+ {
+  "word": "assign",
+  "discipline": "统计学",
+  "reason": "随机分配指将受试者按随机规则指派到不同处理组"
+ },
+ {
+  "word": "extrapolate",
+  "discipline": "统计学",
+  "reason": "外推指用已有数据推断取值范围之外的结果"
+ },
+ {
+  "word": "infer",
+  "discipline": "统计学",
+  "reason": "推断指由样本信息对总体参数作出结论"
+ },
+ {
+  "word": "retraction",
+  "discipline": "出版规范",
+  "reason": "撤稿是期刊对已发表论文作出的正式撤回声明"
+ },
+ {
+  "word": "observation",
+  "discipline": "流行病学",
+  "reason": "观察是不施加干预、只记录现象的研究设计类型"
+ },
+ {
+  "word": "synchronize",
+  "discipline": "信息科学",
+  "reason": "同步指使多个信号或进程在时间轴上对齐"
+ },
+ {
+  "word": "empirical",
+  "discipline": "哲学",
+  "reason": "经验的指以观察与实验为认识依据的经验主义立场"
+ },
+ {
+  "word": "computational",
+  "discipline": "信息科学",
+  "reason": "计算的指依靠算法与程序实现的研究取向"
+ },
+ {
+  "word": "embed",
+  "discipline": "计算机科学",
+  "reason": "嵌入指把数据或向量表示在另一空间或结构之中"
+ },
+ {
+  "word": "ad hoc",
+  "discipline": "数学",
+  "reason": "特设的指临时为特定问题设定、非一般性理论的"
+ },
+ {
+  "word": "signal",
+  "discipline": "信息科学",
+  "reason": "信号是随时间变化、承载信息的物理量"
+ },
+ {
+  "word": "validity",
+  "discipline": "测量学",
+  "reason": "效度指测量工具是否真正测到了预定构念"
+ },
+ {
+  "word": "substitution",
+  "discipline": "经济学",
+  "reason": "替代指一物取代另一物，如经济学中的替代效应"
+ },
+ {
+  "word": "regime",
+  "discipline": "政治学",
+  "reason": "体制指一组稳定并存的制度规则组合"
+ },
+ {
+  "word": "proximity",
+  "discipline": "地理学",
+  "reason": "接近度是度量两个空间单元之间距离的空间指标"
+ },
+ {
+  "word": "dissertation",
+  "discipline": "出版规范",
+  "reason": "学位论文是完成学位所需的专题研究著述，属学术制度术语"
+ },
+ {
+  "word": "diagnose",
+  "discipline": "医学",
+  "reason": "诊断是通过症状与检查结果判定疾病的过程"
+ },
+ {
+  "word": "logic",
+  "discipline": "逻辑学",
+  "reason": "逻辑学研究推理的形式结构及其有效性"
+ },
+ {
+  "word": "premise",
+  "discipline": "逻辑学",
+  "reason": "前提是推理所依据的假定命题"
+ },
+ {
+  "word": "evolve",
+  "discipline": "生物学",
+  "reason": "演化指群体中等位基因频率改变导致的世代更替"
+ },
+ {
+  "word": "sparse",
+  "discipline": "统计学",
+  "reason": "稀疏指数据或矩阵中大量取值为零、取值密集度低的状态"
+ },
+ {
+  "word": "snapshot",
+  "discipline": "信息科学",
+  "reason": "快照是某一时刻系统状态的数据副本"
+ },
+ {
+  "word": "eligible",
+  "discipline": "医学",
+  "reason": "入选资格判定是临床试验招募受试者的合格性条件"
+ },
+ {
+  "word": "dichotomy",
+  "discipline": "逻辑学",
+  "reason": "二分法指把范畴划分为对立两支的划分方式"
+ }
+]

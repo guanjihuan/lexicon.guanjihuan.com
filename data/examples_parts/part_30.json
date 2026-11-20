@@ -1,0 +1,562 @@
+{
+ "ancillary": [
+  {
+   "en": "Ancillary materials were provided to support the main lecture.",
+   "zh": "提供了辅助材料以配合主讲内容。"
+  },
+  {
+   "en": "The study treats income as an ancillary factor rather than a primary cause.",
+   "zh": "该研究把收入视为次要因素，而非主要成因。"
+  },
+  {
+   "en": "Each volume includes ancillary documents that clarify the historical context.",
+   "zh": "每一卷都收录了有助于阐明历史背景的附属文献。"
+  }
+ ],
+ "observational": [
+  {
+   "en": "Observational data cannot always establish a causal relationship between variables.",
+   "zh": "观察性数据并不总能确立变量之间的因果关系。"
+  },
+  {
+   "en": "Her observational skills allowed her to detect subtle changes in the sample.",
+   "zh": "她敏锐的观察力使她能够发现样本中的细微变化。"
+  },
+  {
+   "en": "Observational studies were chosen because controlled experiments were impractical.",
+   "zh": "之所以选择观察性研究，是因为受控实验并不可行。"
+  }
+ ],
+ "cross-sectional": [
+  {
+   "en": "A cross-sectional design measured language proficiency across three age groups.",
+   "zh": "一项横断面设计测量了三个年龄组的语言熟练度。"
+  },
+  {
+   "en": "Cross-sectional comparisons of the two cohorts revealed a widening gap.",
+   "zh": "对两个队列的横断面比较显示出差距在不断拉大。"
+  },
+  {
+   "en": "The cross-sectional survey collected responses from employees in several departments.",
+   "zh": "这项横断面调查收集了多个部门员工的回答。"
+  }
+ ],
+ "dependent": [
+  {
+   "en": "Attendance is dependent on weather conditions during the construction period.",
+   "zh": "出席率取决于施工期间的天气状况。"
+  },
+  {
+   "en": "Many variables in the model are dependent on one another.",
+   "zh": "模型中的许多变量彼此依赖。"
+  },
+  {
+   "en": "The project received funding that was dependent on annual congressional approval.",
+   "zh": "该项目获得的资金取决于国会每年的批准。"
+  }
+ ],
+ "correspondingly": [
+  {
+   "en": "As enrollment grew, the number of faculty increased correspondingly.",
+   "zh": "随着入学人数增长，教师人数也相应增加。"
+  },
+  {
+   "en": "Fuel consumption rose correspondingly when the vehicle load became heavier.",
+   "zh": "车辆载荷变重时，燃油消耗量也随之上升。"
+  },
+  {
+   "en": "Study participants reported higher stress, and their heart rates rose correspondingly.",
+   "zh": "研究参与者报告的压力更高，他们的心率也相应上升。"
+  }
+ ],
+ "empirically": [
+  {
+   "en": "The theory must be tested empirically before it can be widely accepted.",
+   "zh": "这一理论必须经过实证检验，才能被广泛接受。"
+  },
+  {
+   "en": "Empirically, the intervention produced a modest reduction in hospital admissions.",
+   "zh": "从实证角度看，该干预措施使住院人数小幅下降。"
+  },
+  {
+   "en": "Researchers compared the model empirically against archived observational records.",
+   "zh": "研究人员用存档的观测记录对模型进行了实证比较。"
+  }
+ ],
+ "implicitly": [
+  {
+   "en": "The guidelines implicitly discourage researchers from publishing incomplete results.",
+   "zh": "该指南含蓄地不鼓励研究者发表不完整的结果。"
+  },
+  {
+   "en": "Her agreement implicitly accepted the terms described in the proposal.",
+   "zh": "她的同意实际上接受了提案中所描述的条款。"
+  },
+  {
+   "en": "Such statements implicitly assume that all participants share identical prior knowledge.",
+   "zh": "这类说法隐含地假定所有参与者都具备完全相同的先验知识。"
+  }
+ ],
+ "principally": [
+  {
+   "en": "The sample was drawn principally from urban public hospitals.",
+   "zh": "样本主要取自城市公立医院。"
+  },
+  {
+   "en": "Her research focuses principally on the economic consequences of migration.",
+   "zh": "她的研究主要关注迁移所带来的经济后果。"
+  },
+  {
+   "en": "Water usage increased principally because of unusually warm summer temperatures.",
+   "zh": "用水量增加主要是因为夏季气温异常偏高。"
+  }
+ ],
+ "quantitatively": [
+  {
+   "en": "Results were reported quantitatively, allowing direct comparison across laboratories.",
+   "zh": "结果以定量方式报告，从而可以在各实验室之间直接比较。"
+  },
+  {
+   "en": "Qualitative themes were then examined quantitatively through frequency counts.",
+   "zh": "随后通过频次统计对定性主题进行了定量分析。"
+  },
+  {
+   "en": "The model was tested quantitatively against measured reaction times.",
+   "zh": "该模型针对实测的反应时间进行了定量检验。"
+  }
+ ],
+ "qualitatively": [
+  {
+   "en": "Interviews revealed qualitatively different experiences among the three groups.",
+   "zh": "访谈显示三组之间的经历存在质的差异。"
+  },
+  {
+   "en": "The two approaches differ qualitatively rather than merely in scale.",
+   "zh": "这两种方法在性质上不同，而不仅仅是规模上的差异。"
+  },
+  {
+   "en": "Her findings changed qualitatively once control-group data became available.",
+   "zh": "一旦拿到对照组数据，她的发现便发生了质的变化。"
+  }
+ ],
+ "retrospectively": [
+  {
+   "en": "Retrospectively, the warning signs of the crisis were easy to identify.",
+   "zh": "事后看来，危机的预警信号是很容易辨认的。"
+  },
+  {
+   "en": "Patients were assessed retrospectively using records from the previous decade.",
+   "zh": "研究者利用过去 10 年的记录对患者进行了回顾性评估。"
+  },
+  {
+   "en": "Retrospectively, the experiment seems poorly controlled and largely uninformative.",
+   "zh": "事后看来，这个实验似乎控制不佳，基本没有参考价值。"
+  }
+ ],
+ "significantly": [
+  {
+   "en": "Treatment reduced symptom severity significantly over the twelve-week trial period.",
+   "zh": "在 12 周的试验期内，治疗显著减轻了症状的严重程度。"
+  },
+  {
+   "en": "The significantly revised manuscript was accepted without further revisions.",
+   "zh": "这份经过大幅修改的稿件未经进一步修改便被接受了。"
+  },
+  {
+   "en": "Attitudes toward the policy differed significantly between the two groups.",
+   "zh": "两组对该政策的态度存在显著差异。"
+  }
+ ],
+ "tentatively": [
+  {
+   "en": "The committee tentatively approved the budget pending a detailed audit.",
+   "zh": "委员会在等待详细审计期间暂时批准了预算。"
+  },
+  {
+   "en": "These early results should be interpreted tentatively until replication is complete.",
+   "zh": "在复现完成之前，这些早期结果只宜作试探性解读。"
+  },
+  {
+   "en": "She tentatively accepted the position, pending approval from the committee.",
+   "zh": "在等待委员会批准期间，她暂时接受了这个职位。"
+  }
+ ],
+ "largely": [
+  {
+   "en": "The error was largely attributable to outdated entries in the database.",
+   "zh": "该错误在很大程度上归因于数据库中的过期条目。"
+  },
+  {
+   "en": "Attendance at the seminar was largely determined by the weather.",
+   "zh": "研讨会的出席情况在很大程度上取决于天气。"
+  },
+  {
+   "en": "Most complaints largely concerned scheduling rather than the content itself.",
+   "zh": "大多数投诉主要涉及的是日程安排，而非内容本身。"
+  }
+ ],
+ "precisely": [
+  {
+   "en": "The two datasets do not overlap precisely, which complicates direct comparison.",
+   "zh": "这两个数据集并不精确重合，这使直接比较变得复杂。"
+  },
+  {
+   "en": "The gap narrows precisely when participation rates are adjusted.",
+   "zh": "恰恰在对参与率进行调整时，这一差距才有所收窄。"
+  },
+  {
+   "en": "The measurement procedure precisely captured changes of less than a millisecond.",
+   "zh": "该测量程序精确地捕捉到了不足一毫秒的变化。"
+  }
+ ],
+ "rapidly": [
+  {
+   "en": "Urban populations grew rapidly during the second half of the century.",
+   "zh": "在该世纪的后半叶，城市人口迅速增长。"
+  },
+  {
+   "en": "The research team rapidly revised its design after the pilot study.",
+   "zh": "在试点研究之后，研究团队迅速修改了研究设计。"
+  },
+  {
+   "en": "Resistance to the treatment developed rapidly among older patients.",
+   "zh": "在年长患者中，对该治疗的抵抗迅速形成。"
+  }
+ ],
+ "comparatively": [
+  {
+   "en": "The newer method is comparatively cheap and requires little technical training.",
+   "zh": "较新的方法成本相对低廉，且几乎不需要技术培训。"
+  },
+  {
+   "en": "Rural schools enrolled comparatively few students during that period.",
+   "zh": "在那一时期，农村学校招收的学生相对较少。"
+  },
+  {
+   "en": "The second trial is comparatively simple, but its interpretation is harder.",
+   "zh": "第二次试验相对简单，但其解释更为困难。"
+  }
+ ],
+ "for example": [
+  {
+   "en": "Several factors influence this outcome, for example, temperature and substrate concentration.",
+   "zh": "有若干因素会影响这一结果，例如温度和底物浓度。"
+  },
+  {
+   "en": "Many cells respond to stress, for example, by producing protective proteins.",
+   "zh": "许多细胞会以产生保护性蛋白等方式来应对应激。"
+  },
+  {
+   "en": "The archive contains photographs, for example, of the original laboratory.",
+   "zh": "该档案馆收藏着照片，例如最初那间实验室的照片。"
+  }
+ ],
+ "for instance": [
+  {
+   "en": "Several disciplines use this method, for instance, economics and sociology.",
+   "zh": "有多个学科使用这种方法，例如经济学和社会学。"
+  },
+  {
+   "en": "Certain bacteria resist antibiotics, for instance, methicillin-resistant Staphylococcus aureus.",
+   "zh": "某些细菌对抗生素具有耐药性，例如耐甲氧西林金黄色葡萄球菌。"
+  },
+  {
+   "en": "The survey covered several regions, for instance, coastal and inland provinces.",
+   "zh": "这项调查涵盖了几个地区，例如沿海省份和内陆省份。"
+  }
+ ],
+ "in general": [
+  {
+   "en": "Graduate students, in general, work closely with their supervisors.",
+   "zh": "一般来说，研究生与导师的合作十分紧密。"
+  },
+  {
+   "en": "In general, rural clinics face greater staffing shortages than urban hospitals.",
+   "zh": "通常情况下，乡村诊所面临的人员短缺比城市医院更为严重。"
+  },
+  {
+   "en": "Cold-water fish, in general, grow more slowly than warm-water species.",
+   "zh": "一般来说，冷水鱼的生长速度比暖水鱼慢。"
+  }
+ ],
+ "in fact": [
+  {
+   "en": "The two theories are, in fact, mathematically equivalent.",
+   "zh": "这两个理论实际上在数学上是等价的。"
+  },
+  {
+   "en": "In fact, most participants reported no change in their daily routines.",
+   "zh": "事实上，大多数参与者表示其日常作息没有变化。"
+  },
+  {
+   "en": "The problem was, in fact, an issue of timing rather than funding.",
+   "zh": "这个问题实际上是时机问题，而不是资金问题。"
+  }
+ ],
+ "in particular": [
+  {
+   "en": "Economic factors shaped migration, in particular, differences in regional wages.",
+   "zh": "经济因素塑造了人口迁移，尤其是地区工资差异。"
+  },
+  {
+   "en": "Students struggled with the terminology, in particular the statistical notation.",
+   "zh": "学生们在术语上感到困难，尤其是统计符号。"
+  },
+  {
+   "en": "The treatment reduced costs, in particular for rural clinics.",
+   "zh": "该治疗降低了成本，对乡村诊所而言尤其如此。"
+  }
+ ],
+ "in terms of": [
+  {
+   "en": "In terms of cost, the second design is considerably more expensive.",
+   "zh": "就成本而言，第二种设计要贵得多。"
+  },
+  {
+   "en": "The two journals differ in terms of peer review and acceptance rates.",
+   "zh": "这两份期刊在同行评审和录用率方面有所不同。"
+  },
+  {
+   "en": "In terms of practical impact, the pilot program had limited reach.",
+   "zh": "从实际影响来看，该试点项目的覆盖面有限。"
+  }
+ ],
+ "with respect to": [
+  {
+   "en": "The study examined regional inequality with respect to access to healthcare.",
+   "zh": "该研究考察了地区在医疗可及性方面的不平等。"
+  },
+  {
+   "en": "Reviewers disagreed with respect to the strength of the evidence.",
+   "zh": "评审者们在证据的强度问题上意见不一。"
+  },
+  {
+   "en": "The committee issued no statement with respect to the reported irregularities.",
+   "zh": "委员会就所报告的违规问题未发表任何声明。"
+  }
+ ],
+ "compared with": [
+  {
+   "en": "Compared with last year, enrollment among graduate students increased by twelve percent.",
+   "zh": "与去年相比，研究生入学人数增长了 12%。"
+  },
+  {
+   "en": "Compared with the previous design, the new device consumes far less power.",
+   "zh": "与先前的设计相比，新设备耗电少得多。"
+  },
+  {
+   "en": "Rural incomes rose slowly compared with national averages.",
+   "zh": "与全国平均水平相比，农村收入增长缓慢。"
+  }
+ ],
+ "versus": [
+  {
+   "en": "Cost was the main argument for consolidation versus maintaining separate regional offices.",
+   "zh": "成本是主张合并、而非保留各地区独立办事处的主要论据。"
+  },
+  {
+   "en": "The evidence supports collaboration versus competition between the two laboratories.",
+   "zh": "证据支持这两个实验室之间的合作而非竞争。"
+  },
+  {
+   "en": "The warranty covers repairs versus replacement of defective parts.",
+   "zh": "该保修涵盖维修，而非更换有缺陷的部件。"
+  }
+ ],
+ "despite": [
+  {
+   "en": "Despite the delay, the team delivered the report on time.",
+   "zh": "尽管有延误，团队还是按时提交了报告。"
+  },
+  {
+   "en": "The treatment remained effective despite the high dropout rate.",
+   "zh": "尽管退出率很高，该治疗仍然有效。"
+  },
+  {
+   "en": "Despite widespread criticism, the proposal was approved by the committee.",
+   "zh": "尽管广受批评，该提案还是获得了委员会批准。"
+  }
+ ],
+ "until": [
+  {
+   "en": "The manuscript remained under review until the committee reached a decision.",
+   "zh": "该稿件一直处于评审之中，直到委员会作出决定。"
+  },
+  {
+   "en": "Water samples were collected until the ice melted completely.",
+   "zh": "水样一直采集到冰完全融化为止。"
+  },
+  {
+   "en": "Researchers continued the survey until they had interviewed two hundred respondents.",
+   "zh": "研究者继续进行调查，直到访谈了 200 名受访者。"
+  }
+ ],
+ "on the other hand": [
+  {
+   "en": "The method is inexpensive; on the other hand, it requires considerable training.",
+   "zh": "这种方法成本低廉；另一方面，它需要大量培训。"
+  },
+  {
+   "en": "On the other hand, dropout rates fell substantially after the reminders were introduced.",
+   "zh": "另一方面，在发出提醒之后，退出率大幅下降。"
+  },
+  {
+   "en": "The findings support the first hypothesis; on the other hand, they contradict the second.",
+   "zh": "研究结果支持第一个假设；相反，这些结果与第二个假设相矛盾。"
+  }
+ ],
+ "in other words": [
+  {
+   "en": "The policy shifts responsibility to local governments, in other words, to taxpayers.",
+   "zh": "该政策把责任转移给地方政府，也就是纳税人。"
+  },
+  {
+   "en": "In other words, the correlation does not imply any causal relationship.",
+   "zh": "换句话说，相关性并不蕴含因果关系。"
+  },
+  {
+   "en": "The outcome was unchanged, in other words, the intervention had no measurable effect.",
+   "zh": "结果没有变化，也就是说该干预没有产生可测量的效果。"
+  }
+ ],
+ "as a result": [
+  {
+   "en": "Funding was cut sharply; as a result, several long studies were suspended.",
+   "zh": "资金被大幅削减；结果几项长期研究被迫暂停。"
+  },
+  {
+   "en": "As a result of the delay, the final report missed the original deadline.",
+   "zh": "由于延误，最终报告错过了原定的截止日期。"
+  },
+  {
+   "en": "Recruitment improved after the advertisement, and as a result the sample doubled.",
+   "zh": "发布广告后招募情况好转，结果样本数量翻了一番。"
+  }
+ ],
+ "in conclusion": [
+  {
+   "en": "In conclusion, the evidence supports modest changes to existing clinical guidelines.",
+   "zh": "总之，现有证据支持对现行临床指南作出适度修改。"
+  },
+  {
+   "en": "In conclusion, further research is needed to confirm these preliminary findings.",
+   "zh": "总之，还需要进一步研究来证实这些初步发现。"
+  },
+  {
+   "en": "In conclusion, the panel recommended that the current policy remain unchanged.",
+   "zh": "总之，专家组建议现行政策保持不变。"
+  }
+ ],
+ "in short": [
+  {
+   "en": "In short, the project demonstrated that small interventions can have large effects.",
+   "zh": "简言之，该项目表明小幅度的干预可以带来大的影响。"
+  },
+  {
+   "en": "In short, we lack enough evidence to abandon the existing treatment.",
+   "zh": "简而言之，我们缺乏足够的证据来放弃现有的治疗方法。"
+  },
+  {
+   "en": "In short, the study offers a practical guide for new researchers.",
+   "zh": "简而言之，该研究为新入行的研究者提供了一份实用指南。"
+  }
+ ],
+ "to sum up": [
+  {
+   "en": "To sum up, three factors explain most of the variation observed.",
+   "zh": "总而言之，三个因素解释了观察到的绝大部分差异。"
+  },
+  {
+   "en": "To sum up, the theory needs revision and further empirical testing.",
+   "zh": "概括地说，该理论需要修订并接受进一步的实证检验。"
+  },
+  {
+   "en": "To sum up, collaboration across departments would greatly speed the work.",
+   "zh": "概括地说，跨部门的合作会大大加快工作进度。"
+  }
+ ],
+ "that is": [
+  {
+   "en": "The result was unexpected, that is, it contradicted every previous trial.",
+   "zh": "这个结果出乎意料，也就是说，它与此前的每一次试验都相矛盾。"
+  },
+  {
+   "en": "That is, the sample size limits the conclusions we can draw.",
+   "zh": "也就是说，样本量限制了我们所能得出的结论。"
+  },
+  {
+   "en": "The committee voted to postpone, that is, to delay the decision by six months.",
+   "zh": "委员会投票决定推迟，也就是说将决定延后六个月。"
+  }
+ ],
+ "correspond": [
+  {
+   "en": "These figures correspond closely to the results reported by other laboratories.",
+   "zh": "这些数字与其他实验室报告的结果高度吻合。"
+  },
+  {
+   "en": "Each entry in the table corresponds to a specific observation recorded in the field.",
+   "zh": "表中的每一项都对应着实地记录的一次具体观测。"
+  },
+  {
+   "en": "Her account of the meeting does not correspond with the official minutes.",
+   "zh": "她对会议的描述与官方会议记录并不相符。"
+  }
+ ],
+ "comply": [
+  {
+   "en": "All laboratories must comply with the revised safety guidelines.",
+   "zh": "所有实验室都必须遵守修订后的安全准则。"
+  },
+  {
+   "en": "The manufacturer agreed to comply with the regulator's request for additional testing.",
+   "zh": "制造商同意遵从监管机构提出的额外检测要求。"
+  },
+  {
+   "en": "Exporters who fail to comply with the labeling rules face heavy penalties.",
+   "zh": "不遵守标签规定的外贸企业将面临重罚。"
+  }
+ ],
+ "establish": [
+  {
+   "en": "The team established a new protocol for recording laboratory results.",
+   "zh": "该团队建立了一套记录实验室结果的新流程。"
+  },
+  {
+   "en": "Researchers established that the two variables were strongly correlated.",
+   "zh": "研究者证实这两个变量之间存在很强的相关性。"
+  },
+  {
+   "en": "The council established a working group to review the guidelines.",
+   "zh": "委员会成立了一个工作组来审查这些准则。"
+  }
+ ],
+ "facilitate": [
+  {
+   "en": "Shared data platforms can facilitate collaboration between laboratories in different countries.",
+   "zh": "共享数据平台能够促进不同国家实验室之间的合作。"
+  },
+  {
+   "en": "The revised forms facilitate the accurate collection of blood pressure readings.",
+   "zh": "修订后的表格有助于准确收集血压读数。"
+  },
+  {
+   "en": "A short orientation session was introduced to facilitate new students' transition to the program.",
+   "zh": "引入了一次简短的入门辅导，以帮助新生适应该项目。"
+  }
+ ],
+ "note": [
+  {
+   "en": "We note that the observed differences exceed the range of ordinary variation.",
+   "zh": "我们注意到，观察到的差异超出了正常变异的范围。"
+  },
+  {
+   "en": "Researchers note a significant improvement in the second half of the trial.",
+   "zh": "研究者指出，在试验的后半程出现了显著的改善。"
+  },
+  {
+   "en": "The director asked us to note several limitations in the report.",
+   "zh": "主任要求我们指出报告中的若干局限之处。"
+  }
+ ]
+}

@@ -1,0 +1,212 @@
+{
+  "entrepreneurship": [
+    {
+      "en": "Universities across the region have begun to teach entrepreneurship as a distinct field of study.",
+      "zh": "本地区的多所高校已开始把创业学作为一门独立的学科来教授。"
+    },
+    {
+      "en": "The paper examines how local culture shapes entrepreneurship among first-time founders.",
+      "zh": "该论文考察当地文化如何影响初次创业者的创业活动。"
+    },
+    {
+      "en": "Entrepreneurship requires tolerance for ambiguity, but it also demands careful planning.",
+      "zh": "创业既需要容忍不确定性，也需要周密规划。"
+    }
+  ],
+  "unemployment": [
+    {
+      "en": "The study examines the relationship between unemployment and mental health across regions.",
+      "zh": "该研究考察了不同地区失业与心理健康之间的关系。"
+    },
+    {
+      "en": "Prolonged unemployment may weaken the skills and social ties of affected workers.",
+      "zh": "长期失业可能削弱受影响劳动者的技能与社会联系。"
+    },
+    {
+      "en": "Local governments expanded training programs to reduce long-term unemployment among young adults.",
+      "zh": "地方政府扩大了培训项目，以减少年轻成年人中的长期失业。"
+    }
+  ],
+  "workforce": [
+    {
+      "en": "The firm plans to retrain much of its workforce for roles in data analysis.",
+      "zh": "该公司计划对大部分员工进行再培训，使其胜任数据分析岗位。"
+    },
+    {
+      "en": "A shortage of technical skills constrains the growth of the national workforce.",
+      "zh": "技术人才短缺制约着全国劳动力的增长。"
+    },
+    {
+      "en": "The workforce participated in a company-wide training program on workplace safety.",
+      "zh": "全体员工参加了公司范围内的工作场所安全培训项目。"
+    }
+  ],
+  "inequality": [
+    {
+      "en": "Income inequality remains a central concern for economic policy across many societies.",
+      "zh": "收入不平等仍然是许多社会中经济政策的核心关切。"
+    },
+    {
+      "en": "The report argues that inequality in educational access reproduces wider social disadvantages.",
+      "zh": "该报告认为教育机会的不平等会复制更广泛的社会劣势。"
+    },
+    {
+      "en": "Researchers used a decomposition method to measure inequality between occupational groups.",
+      "zh": "研究者采用分解方法衡量不同职业群体之间的不平等。"
+    }
+  ],
+  "artificial intelligence": [
+    {
+      "en": "Artificial intelligence is increasingly used to support decisions in clinical diagnosis.",
+      "zh": "人工智能正日益被用于辅助临床诊断决策。"
+    },
+    {
+      "en": "The chapter discusses how artificial intelligence may reshape labor markets and required skills.",
+      "zh": "本章讨论人工智能可能如何重塑劳动力市场及所需的技能。"
+    },
+    {
+      "en": "Oversight of artificial intelligence systems remains an unsettled question among regulators.",
+      "zh": "对人工智能系统的监督仍然是监管者面临的一个悬而未决的问题。"
+    }
+  ],
+  "machine learning": [
+    {
+      "en": "Machine learning models can detect patterns that are difficult to observe by hand.",
+      "zh": "机器学习模型能够发现难以凭人工观察的模式。"
+    },
+    {
+      "en": "The team applied machine learning to predict demand from historical sales records.",
+      "zh": "该团队运用机器学习依据历史销售记录预测需求。"
+    },
+    {
+      "en": "Concerns about transparency limit the use of machine learning in high-stakes decisions.",
+      "zh": "对透明度的担忧限制了机器学习在高风险决策中的应用。"
+    }
+  ],
+  "fairness": [
+    {
+      "en": "The authors examine fairness in a lending model by comparing outcomes across applicant groups.",
+      "zh": "作者通过比较不同申请群体的结果，考察贷款模型中的公平性。"
+    },
+    {
+      "en": "Fairness cannot be achieved by simply discarding variables from the training data.",
+      "zh": "仅从训练数据中删除若干变量并不能实现公平性。"
+    },
+    {
+      "en": "Regulators now ask vendors to document how fairness was measured in deployed systems.",
+      "zh": "监管机构如今要求供应商说明在已部署系统中如何度量公平性。"
+    }
+  ],
+  "framing": [
+    {
+      "en": "Media framing of the scandal shaped public opinion long before the trial began.",
+      "zh": "媒体对丑闻的框定在审判开始之前很久就塑造了公众舆论。"
+    },
+    {
+      "en": "The paper analyzes framing strategies in newspaper coverage of immigration policy.",
+      "zh": "该论文分析报纸关于移民政策报道中的框架化策略。"
+    },
+    {
+      "en": "Framing the problem as a technical failure changed how the public understood the risk.",
+      "zh": "把该问题框定为技术失效，改变了公众对风险的理解方式。"
+    }
+  ],
+  "misinformation": [
+    {
+      "en": "Social media platforms have invested in systems that limit the spread of misinformation.",
+      "zh": "社交媒体平台已投入资源建设限制错误信息传播的系统。"
+    },
+    {
+      "en": "The study compares reactions to misinformation before and after verification.",
+      "zh": "该研究比较了错误信息在核验之前与核验之后引发的反应。"
+    },
+    {
+      "en": "Even a short correction rarely removes the effect of earlier misinformation on public opinion.",
+      "zh": "即便是简短的更正，也很少能消除先前错误信息对公众舆论的影响。"
+    }
+  ],
+  "disinformation": [
+    {
+      "en": "Because disinformation is deliberate, its authors are difficult to identify and prosecute.",
+      "zh": "由于虚假信息是蓄意制造的，其制造者很难被识别和起诉。"
+    },
+    {
+      "en": "The chapter distinguishes disinformation from misinformation by the intent of its producers.",
+      "zh": "本章依据生产者的意图区分虚假信息与错误信息。"
+    },
+    {
+      "en": "Coordinated disinformation campaigns often exploit genuine footage to create false narratives.",
+      "zh": "协同发起的虚假信息攻势往往利用真实影像来制造虚假叙事。"
+    }
+  ],
+  "statistical significance": [
+    {
+      "en": "A result may reach statistical significance and still have little practical importance.",
+      "zh": "一项结果可能达到统计显著性，却几乎没有实际重要性。"
+    },
+    {
+      "en": "The authors report statistical significance for the interaction between the two factors.",
+      "zh": "作者报告了两个因子交互作用的统计显著性。"
+    },
+    {
+      "en": "Statistical significance alone does not justify accepting a hypothesis in the field.",
+      "zh": "仅凭统计显著性并不足以在该领域接受某一假设。"
+    }
+  ],
+  "systematic review": [
+    {
+      "en": "A systematic review can provide a more reliable summary of the available evidence.",
+      "zh": "系统综述能够对现有证据给出更可靠的概括。"
+    },
+    {
+      "en": "The protocol for this systematic review was registered before the search began.",
+      "zh": "该系统综述的研究方案在检索开始之前已予注册。"
+    },
+    {
+      "en": "Compared with a narrative review, a systematic review follows a transparent and reproducible procedure.",
+      "zh": "与叙述性综述相比，系统综述遵循透明且可复现的程序。"
+    }
+  ],
+  "mixed methods": [
+    {
+      "en": "A mixed methods design combines quantitative measures with qualitative interviews.",
+      "zh": "混合方法设计将定量测量与定性访谈结合起来。"
+    },
+    {
+      "en": "The authors justify their mixed methods approach by explaining how the two strands answer different questions.",
+      "zh": "作者说明了采用混合方法的理由，指出两条路径分别回答不同的问题。"
+    },
+    {
+      "en": "Sequential mixed methods studies often use one strand of evidence to refine the other.",
+      "zh": "序贯式混合方法研究通常用一条证据路径来细化另一条。"
+    }
+  ],
+  "gender": [
+    {
+      "en": "Gender was recorded as a self-reported category in the questionnaire.",
+      "zh": "问卷把性别作为自我报告的类别加以记录。"
+    },
+    {
+      "en": "The analysis examines whether gender interacts with age in shaping participation rates.",
+      "zh": "分析考察性别是否与年龄交互作用并影响参与率。"
+    },
+    {
+      "en": "Researchers must not assume that gender predicts outcomes without empirical support.",
+      "zh": "研究者不得在没有实证支持的情况下假定性别可以预测结果。"
+    }
+  ],
+  "ethnicity": [
+    {
+      "en": "Ethnicity was self-identified by participants in the survey form.",
+      "zh": "族裔由填写问卷的参与者自行认定。"
+    },
+    {
+      "en": "The study compares attainment across ethnicity groups while controlling for parental education.",
+      "zh": "该研究在控制父母教育程度的前提下比较不同族裔群体的成就水平。"
+    },
+    {
+      "en": "Ethnicity categories overlap with but are not identical to race in national statistics.",
+      "zh": "在全国统计中，族裔类别与种族有所重叠，但二者并不完全相同。"
+    }
+  ]
+}

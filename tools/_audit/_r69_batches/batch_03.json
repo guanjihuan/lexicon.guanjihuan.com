@@ -1,0 +1,112 @@
+[
+ {
+  "word": "abruptly",
+  "pos": "副词",
+  "gloss": "突然地；陡然地（fall abruptly）"
+ },
+ {
+  "word": "gradual",
+  "pos": "形容词",
+  "gloss": "逐渐的；渐进的（a gradual decline）"
+ },
+ {
+  "word": "swift",
+  "pos": "形容词",
+  "gloss": "迅速的；敏捷的（a swift recovery）"
+ },
+ {
+  "word": "swiftly",
+  "pos": "副词",
+  "gloss": "迅速地（respond swiftly）"
+ },
+ {
+  "word": "steep",
+  "pos": "形容词",
+  "gloss": "陡的；（比喻）急剧的（a steep rise）；苛刻的（a steep price）"
+ },
+ {
+  "word": "steeply",
+  "pos": "副词",
+  "gloss": "陡峭地；急剧地（decline steeply）"
+ },
+ {
+  "word": "smooth",
+  "pos": "形容词",
+  "gloss": "平滑的；顺利的（a smooth transition）"
+ },
+ {
+  "word": "smoothly",
+  "pos": "副词",
+  "gloss": "平滑地；顺利地（proceed smoothly）"
+ },
+ {
+  "word": "marked",
+  "pos": "形容词",
+  "gloss": "显著的；明显的（a marked improvement）"
+ },
+ {
+  "word": "persistent",
+  "pos": "形容词",
+  "gloss": "持续存在的；顽固的（persistent inequality）"
+ },
+ {
+  "word": "fleeting",
+  "pos": "形容词",
+  "gloss": "转瞬即逝的（a fleeting glimpse）"
+ },
+ {
+  "word": "enduring",
+  "pos": "形容词",
+  "gloss": "持久的；经久不衰的（enduring influence）"
+ },
+ {
+  "word": "lasting",
+  "pos": "形容词",
+  "gloss": "持久的；长久的（a lasting impact）"
+ },
+ {
+  "word": "invariant",
+  "pos": "形容词",
+  "gloss": "不变的（量、性质）（scale-invariant；an invariant of the transformation）"
+ },
+ {
+  "word": "argue",
+  "pos": "动词",
+  "gloss": "主张，论证说（argue that… 主张…；argue for/against 支持/反对）"
+ },
+ {
+  "word": "appraise",
+  "pos": "动词",
+  "gloss": "评价；评估（appraise the evidence / appraise the significance of…）"
+ },
+ {
+  "word": "appraisal",
+  "pos": "名词",
+  "gloss": "评估；评价；鉴定（a critical appraisal of the method）"
+ },
+ {
+  "word": "reiterate",
+  "pos": "动词",
+  "gloss": "重申；反复说明（reiterate the importance of…）"
+ },
+ {
+  "word": "restate",
+  "pos": "动词",
+  "gloss": "重述；重新表述（restate the hypothesis / restate the question）"
+ },
+ {
+  "word": "reconsider",
+  "pos": "动词",
+  "gloss": "重新考虑；重新审视（reconsider the design / reconsider our interpretation）"
+ },
+ {
+  "word": "situate",
+  "pos": "动词",
+  "gloss": "把…置于（背景/框架）中（situate the study within…）"
+ },
+ {
+  "word": "delimit",
+  "pos": "动词",
+  "gloss": "划定界限；界定范围（delimit the scope / delimit the research question）"
+ }
+]

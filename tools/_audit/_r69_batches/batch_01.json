@@ -1,0 +1,112 @@
+[
+ {
+  "word": "interestingly",
+  "pos": "副词",
+  "gloss": "有趣的是；耐人寻味地（结果评论标记）"
+ },
+ {
+  "word": "surprisingly",
+  "pos": "副词",
+  "gloss": "出乎意料地；意外地（反预期标记）"
+ },
+ {
+  "word": "remarkably",
+  "pos": "副词",
+  "gloss": "显著地；异常地（程度评论标记）"
+ },
+ {
+  "word": "strikingly",
+  "pos": "副词",
+  "gloss": "醒目地；惊人地（差异评论，strikingly different）"
+ },
+ {
+  "word": "tellingly",
+  "pos": "副词",
+  "gloss": "说明问题地；有力地（tellingly, … 证据评论）"
+ },
+ {
+  "word": "curiously",
+  "pos": "副词",
+  "gloss": "奇怪的是（curiously enough 反预期标记）"
+ },
+ {
+  "word": "wherein",
+  "pos": "副词",
+  "gloss": "在其中；在…方面（正式书面，a situation wherein…）"
+ },
+ {
+  "word": "thereof",
+  "pos": "副词",
+  "gloss": "由此；其（法律/正式书面，the result thereof）"
+ },
+ {
+  "word": "confer",
+  "pos": "动词",
+  "gloss": "授予；带来（confer an advantage；confer with 协商）"
+ },
+ {
+  "word": "afford",
+  "pos": "动词",
+  "gloss": "提供；给予（afford an opportunity；买得起）"
+ },
+ {
+  "word": "circumvent",
+  "pos": "动词",
+  "gloss": "规避；绕过（circumvent the limitation）"
+ },
+ {
+  "word": "curtail",
+  "pos": "动词",
+  "gloss": "削减；限制（curtail spending / freedom）"
+ },
+ {
+  "word": "curb",
+  "pos": "动词",
+  "gloss": "抑制；约束（curb inflation / emissions）"
+ },
+ {
+  "word": "thwart",
+  "pos": "动词",
+  "gloss": "阻挠；使受挫（thwart the attempt）"
+ },
+ {
+  "word": "hamper",
+  "pos": "动词",
+  "gloss": "妨碍；阻碍（hamper progress）"
+ },
+ {
+  "word": "halt",
+  "pos": "动词",
+  "gloss": "使停止；终止（bring to a halt；calls to halt）"
+ },
+ {
+  "word": "erode",
+  "pos": "动词",
+  "gloss": "侵蚀；逐步削弱（erode confidence / margins）"
+ },
+ {
+  "word": "corrode",
+  "pos": "动词",
+  "gloss": "腐蚀；（比喻）损害（corrode trust）"
+ },
+ {
+  "word": "accrue",
+  "pos": "动词",
+  "gloss": "积累；产生（benefits accrue to…）"
+ },
+ {
+  "word": "uphold",
+  "pos": "动词",
+  "gloss": "维持（原判）；支持；维护（uphold the decision / standards）"
+ },
+ {
+  "word": "permeate",
+  "pos": "动词",
+  "gloss": "渗透；弥漫（permeate every aspect of…）"
+ },
+ {
+  "word": "pervade",
+  "pos": "动词",
+  "gloss": "遍及；充斥（pervade the literature）"
+ }
+]

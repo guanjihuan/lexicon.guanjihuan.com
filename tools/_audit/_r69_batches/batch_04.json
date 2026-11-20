@@ -1,0 +1,112 @@
+[
+ {
+  "word": "reconstruct",
+  "pos": "动词",
+  "gloss": "重建；还原（reconstruct the process / reconstruct the history）"
+ },
+ {
+  "word": "overstate",
+  "pos": "动词",
+  "gloss": "夸大；言过其实（overstate the findings / overstate the implications）"
+ },
+ {
+  "word": "bolster",
+  "pos": "动词",
+  "gloss": "支持；增强（bolster the argument / bolster the case）"
+ },
+ {
+  "word": "reframe",
+  "pos": "动词",
+  "gloss": "重新表述；重构框架（reframe the question / reframe the analysis）"
+ },
+ {
+  "word": "rethink",
+  "pos": "动词",
+  "gloss": "重新思考；重构思路（rethink the unit of analysis）"
+ },
+ {
+  "word": "interrogate",
+  "pos": "动词",
+  "gloss": "追问；细查（interrogate the data / interrogate an assumption）"
+ },
+ {
+  "word": "objection",
+  "pos": "名词",
+  "gloss": "反对意见；异议（raise objections to / a valid objection）"
+ },
+ {
+  "word": "counterexample",
+  "pos": "名词",
+  "gloss": "反例（a counterexample to the claim）"
+ },
+ {
+  "word": "misconception",
+  "pos": "名词",
+  "gloss": "误解；错误观念（students' misconceptions）"
+ },
+ {
+  "word": "burden",
+  "pos": "名词",
+  "gloss": "负担；举证责任（the burden of proof / the burden of explanation）"
+ },
+ {
+  "word": "concordance",
+  "pos": "名词",
+  "gloss": "一致；符合（concordance correlation；语料索引）"
+ },
+ {
+  "word": "modality",
+  "pos": "名词",
+  "gloss": "方式；模态；表现形式（modalities of governance）"
+ },
+ {
+  "word": "sound",
+  "pos": "形容词",
+  "gloss": "可靠的；严谨的（sound reasoning；methodologically sound）"
+ },
+ {
+  "word": "credible",
+  "pos": "形容词",
+  "gloss": "可信的；有信誉的（credible evidence / credible mechanism）"
+ },
+ {
+  "word": "convincing",
+  "pos": "形容词",
+  "gloss": "有说服力的；令人信服的（convincing evidence / a convincing argument）"
+ },
+ {
+  "word": "germane",
+  "pos": "形容词",
+  "gloss": "切题的；贴切的（germane to the question）"
+ },
+ {
+  "word": "epistemological",
+  "pos": "形容词",
+  "gloss": "认识论的；知识论的（epistemological grounding）"
+ },
+ {
+  "word": "ontological",
+  "pos": "形容词",
+  "gloss": "本体论的；存在论的（ontological commitments）"
+ },
+ {
+  "word": "axiomatic",
+  "pos": "形容词",
+  "gloss": "公理的；基于公理的（an axiomatic foundation）"
+ },
+ {
+  "word": "abductive",
+  "pos": "形容词",
+  "gloss": "溯因的；最佳解释推论的（abductive inference）"
+ },
+ {
+  "word": "descriptive",
+  "pos": "形容词",
+  "gloss": "描述性的；描述统计的（descriptive statistics）"
+ },
+ {
+  "word": "prescriptive",
+  "pos": "形容词",
+  "gloss": "规定性的；规范的（a prescriptive claim）"
+ }
+]

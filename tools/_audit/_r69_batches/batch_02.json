@@ -1,0 +1,112 @@
+[
+ {
+  "word": "subsume",
+  "pos": "动词",
+  "gloss": "纳入；归入（be subsumed under a category）"
+ },
+ {
+  "word": "demarcate",
+  "pos": "动词",
+  "gloss": "划界；区分（demarcate the boundary between…）"
+ },
+ {
+  "word": "preempt",
+  "pos": "动词",
+  "gloss": "预先制止；先发制人（preempt criticism）"
+ },
+ {
+  "word": "facet",
+  "pos": "名词",
+  "gloss": "方面；侧面（every facet of the problem）"
+ },
+ {
+  "word": "hindrance",
+  "pos": "名词",
+  "gloss": "妨碍；阻碍（a hindrance to progress）"
+ },
+ {
+  "word": "boon",
+  "pos": "名词",
+  "gloss": "裨益；福音（a boon to researchers）"
+ },
+ {
+  "word": "property",
+  "pos": "名词",
+  "gloss": "性质；属性（physical properties）；财产"
+ },
+ {
+  "word": "landscape",
+  "pos": "名词",
+  "gloss": "图景；格局（the research/policy landscape）；风景"
+ },
+ {
+  "word": "terrain",
+  "pos": "名词",
+  "gloss": "地形；（比喻）领域（familiar terrain）"
+ },
+ {
+  "word": "strand",
+  "pos": "名词",
+  "gloss": "（思路、论证的）一条线索（a strand of argument）；股、缕"
+ },
+ {
+  "word": "thread",
+  "pos": "名词",
+  "gloss": "线索；脉络（the thread of the argument）；线"
+ },
+ {
+  "word": "asymmetry",
+  "pos": "名词",
+  "gloss": "不对称（information asymmetry 信息不对称）"
+ },
+ {
+  "word": "homogeneity",
+  "pos": "名词",
+  "gloss": "同质性（test for homogeneity）"
+ },
+ {
+  "word": "symmetry",
+  "pos": "名词",
+  "gloss": "对称（性）（symmetry breaking 对称破缺）；匀称"
+ },
+ {
+  "word": "mismatch",
+  "pos": "名词",
+  "gloss": "错配；不匹配（skill mismatch）"
+ },
+ {
+  "word": "inconsistency",
+  "pos": "名词",
+  "gloss": "不一致；矛盾（internal inconsistency）"
+ },
+ {
+  "word": "submission",
+  "pos": "名词",
+  "gloss": "提交；投稿（manuscript submission；revisions on resubmission）"
+ },
+ {
+  "word": "rebuttal",
+  "pos": "名词",
+  "gloss": "反驳；答辩（peer-review rebuttal letter）"
+ },
+ {
+  "word": "preprint",
+  "pos": "名词",
+  "gloss": "预印本（post a preprint on arXiv）"
+ },
+ {
+  "word": "erratum",
+  "pos": "名词",
+  "gloss": "（出版物）勘误（复数 errata）"
+ },
+ {
+  "word": "corrigendum",
+  "pos": "名词",
+  "gloss": "（作者更正启事）勘误表（复数 corrigenda）"
+ },
+ {
+  "word": "abrupt",
+  "pos": "形容词",
+  "gloss": "突然的；陡然的（an abrupt change/transition）"
+ }
+]

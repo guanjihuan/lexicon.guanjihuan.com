@@ -1,0 +1,202 @@
+{
+  "monitor": [
+    {"en": "Researchers monitored the wetland for three years to track its recovery.", "zh": "研究人员对该湿地进行了三年监测，以追踪其恢复情况。"},
+    {"en": "Regulators must monitor emissions from factories located near residential neighborhoods.", "zh": "监管机构必须监测居民区附近工厂排放的废气。"},
+    {"en": "We monitor patient symptoms daily and adjust the dosage accordingly.", "zh": "我们每日监测患者症状，并据此调整剂量。"}
+  ],
+  "optimize": [
+    {"en": "Engineers optimized the algorithm to reduce processing time significantly.", "zh": "工程师对算法进行了优化，显著缩短了处理时间。"},
+    {"en": "Firms optimize their supply chains to lower costs and shorten delivery times.", "zh": "企业优化供应链以降低成本并缩短交付时间。"},
+    {"en": "Careful planning can optimize both performance and energy consumption.", "zh": "周密规划可以同时优化性能和能耗。"}
+  ],
+  "presume": [
+    {"en": "We presume that the missing data reflect recording errors rather than reality.", "zh": "我们推测缺失的数据反映的是记录错误，而非实际情况。"},
+    {"en": "The author presumes the reader already understands basic statistical methods.", "zh": "这位作者假定读者已经理解基本的统计方法。"},
+    {"en": "It would be unwise to presume that one trial proves the general case.", "zh": "认为一次试验就能证明普遍规律是不明智的。"}
+  ],
+  "promote": [
+    {"en": "The university launched a campaign to promote academic integrity among students.", "zh": "该校发起了一场旨在促进学生学术诚信的活动。"},
+    {"en": "Regular exercise promotes both physical health and mental well-being.", "zh": "规律运动能促进身体健康和心理健康。"},
+    {"en": "Several senators promoted legislation aimed at reducing ocean pollution.", "zh": "几位参议员推动旨在减少海洋污染的立法。"}
+  ],
+  "propose": [
+    {"en": "The committee proposed new standards for reporting clinical trial data.", "zh": "该委员会提出了临床试验数据报告的新标准。"},
+    {"en": "Economists proposed raising interest rates to control runaway inflation.", "zh": "经济学家提议提高利率以控制失控的通货膨胀。"},
+    {"en": "Several researchers proposed a simpler method for measuring soil quality.", "zh": "几位研究者提出了一种更简单的土壤质量测量方法。"}
+  ],
+  "refute": [
+    {"en": "The evidence refuted the hypothesis that the two variables were unrelated.", "zh": "这些证据驳斥了「两个变量互不相关」这一假设。"},
+    {"en": "She refuted the critic's claim with three published studies.", "zh": "她用三项已发表的研究反驳了评论者的论断。"},
+    {"en": "New observations refuted earlier conclusions about the region's climate history.", "zh": "新的观测结果推翻了关于该地区气候历史的早期结论。"}
+  ],
+  "substantiate": [
+    {"en": "The researcher substantiated her argument with data from two decades.", "zh": "这位研究者用 20 年的数据为自己的论点提供了实证支持。"},
+    {"en": "Claims about health benefits must be substantiated by reliable clinical evidence.", "zh": "有关健康益处的说法必须有可靠的临床证据加以证实。"},
+    {"en": "A single photograph could not substantiate the journalist's serious allegations.", "zh": "一张照片无法证实记者那些严重的指控。"}
+  ],
+  "undermine": [
+    {"en": "Rumors about the accounting scandal undermined investor confidence in the company.", "zh": "关于财务丑闻的传言削弱了投资者对该公司的信心。"},
+    {"en": "Missing citations undermine the credibility of any published argument.", "zh": "引用缺失会削弱任何已发表论点的可信度。"},
+    {"en": "The new evidence appears to undermine earlier conclusions about regional rainfall.", "zh": "新证据似乎削弱了关于该地区降雨量的早期结论。"}
+  ],
+  "utilize": [
+    {"en": "Farmers utilize satellite images to predict crop yields more accurately.", "zh": "农民利用卫星图像更准确地预测作物产量。"},
+    {"en": "The laboratory utilizes advanced microscopes for material analysis.", "zh": "该实验室使用先进的显微镜进行材料分析。"},
+    {"en": "Small businesses can utilize shared cloud services instead of buying software.", "zh": "小企业可以采用共享的云服务，而不必购买软件。"}
+  ],
+  "gauge": [
+    {"en": "Researchers gauge public opinion by conducting monthly surveys.", "zh": "研究人员通过每月开展调查来评估公众意见。"},
+    {"en": "It is difficult to gauge the true scale of the damage.", "zh": "很难准确评估破坏的严重程度。"},
+    {"en": "Investors gauge the market's mood by tracking trading volumes.", "zh": "投资者通过观察成交量来判断市场情绪。"}
+  ],
+  "harness": [
+    {"en": "The company harnesses solar energy to power its manufacturing plants.", "zh": "该公司利用太阳能为其制造工厂供电。"},
+    {"en": "Teachers can harness digital tools to encourage collaborative learning.", "zh": "教师可以调动数字工具来促进协作学习。"},
+    {"en": "He harnessed public support to fund the new research center.", "zh": "他利用公众支持为新的研究中心筹集资金。"}
+  ],
+  "deploy": [
+    {"en": "Engineers deployed a sensor network across the forest to measure moisture.", "zh": "工程师在森林中部署了传感器网络来测量湿度。"},
+    {"en": "The agency deployed extra staff during the emergency response.", "zh": "该机构在应急响应期间调配了额外人员。"},
+    {"en": "The startup deployed its new algorithm to millions of users.", "zh": "这家初创公司向数百万用户推出了其新算法。"}
+  ],
+  "eliminate": [
+    {"en": "The redesign eliminated most of the errors in data entry.", "zh": "这次重新设计消除了大部分数据录入错误。"},
+    {"en": "We eliminated unnecessary steps from the approval process entirely.", "zh": "我们彻底去掉了审批流程中不必要的步骤。"},
+    {"en": "The new treatment eliminated the symptoms within two weeks.", "zh": "这种新疗法在两周内消除了症状。"}
+  ],
+  "embody": [
+    {"en": "The constitution embodies the values of equality and justice.", "zh": "宪法体现了平等与正义的价值观。"},
+    {"en": "Her leadership style embodies the ideals of collaborative research.", "zh": "她的领导风格体现了合作研究的理想。"},
+    {"en": "This museum's design embodies the cultural heritage of the entire region.", "zh": "这座博物馆的设计体现了整个地区的文化遗产。"}
+  ],
+  "endorse": [
+    {"en": "Several leading scientists endorsed the statement published in Nature.", "zh": "几位顶尖科学家赞同了《自然》杂志上发表的这份声明。"},
+    {"en": "The board endorsed the proposal to expand the scholarship program.", "zh": "董事会支持了扩展奖学金计划的提案。"},
+    {"en": "The union endorsed the new contract after a lengthy negotiation.", "zh": "经过漫长的谈判，工会认可了这份新合同。"}
+  ],
+  "augment": [
+    {"en": "The new funding will augment the laboratory's existing research capacity.", "zh": "新拨付的资金将增强该实验室现有的研究能力。"},
+    {"en": "Teachers augment classroom lessons with interactive videos and discussion.", "zh": "教师用互动视频和讨论来丰富课堂内容。"},
+    {"en": "Combined data from both trials augmented the evidence for the treatment.", "zh": "两项试验的数据合并后加强了支持该疗法的证据。"}
+  ],
+  "impede": [
+    {"en": "Poor internet access impedes progress for students in rural areas.", "zh": "网络接入不畅阻碍了农村学生的学业进展。"},
+    {"en": "Heavy rain may impede the researchers' ability to collect samples.", "zh": "大雨可能妨碍研究者采集样本。"},
+    {"en": "Bureaucratic delays often impede the implementation of effective policies.", "zh": "官僚主义的拖延常常妨碍有效政策的实施。"}
+  ],
+  "juxtapose": [
+    {"en": "The exhibition juxtaposes traditional craft techniques with modern industrial design.", "zh": "展览将传统手工艺技法与现代工业设计并置对照。"},
+    {"en": "The author juxtaposes two conflicting accounts to highlight the disagreement.", "zh": "作者把两种相互矛盾的叙述并置，以突出其中的分歧。"},
+    {"en": "The professor juxtaposed economic data with public opinion polls.", "zh": "教授将经济数据与民意调查结果进行了对照。"}
+  ],
+  "rectify": [
+    {"en": "The auditor rectified the accounting errors before the report was published.", "zh": "审计员在报告发表前纠正了账目错误。"},
+    {"en": "The company quickly rectified the safety defect that regulators had identified.", "zh": "公司迅速整改了监管机构发现的安全缺陷。"},
+    {"en": "To rectify the imbalance, the fund allocated more grants to rural schools.", "zh": "为纠正这种不平衡，基金会向农村学校分配了更多拨款。"}
+  ],
+  "temper": [
+    {"en": "The central bank raised rates to temper rising inflation.", "zh": "中央银行提高利率以抑制不断上升的通货膨胀。"},
+    {"en": "She tempered her criticism with praise for the team's effort.", "zh": "她以对该团队努力的赞扬来缓和自己的批评。"},
+    {"en": "Adding shade trees helps temper the afternoon heat in the courtyard.", "zh": "种植遮荫树木有助于缓和庭院里午后的高温。"}
+  ],
+  "transcend": [
+    {"en": "The debate over borders transcends national boundaries and political affiliations.", "zh": "关于边界的争论超越了国界和政治立场。"},
+    {"en": "Her poetry transcends cultural barriers and speaks to a global audience.", "zh": "她的诗歌超越文化障碍，面向全球听众发出声音。"},
+    {"en": "Some of the most useful ideas in science transcend narrow disciplines.", "zh": "科学中一些最有用的思想超越了狭窄的学科界限。"}
+  ],
+  "warrant": [
+    {"en": "The evidence warrants a full investigation into the reported misconduct.", "zh": "这些证据足以对所报告的不当行为进行全面调查。"},
+    {"en": "Such sweeping claims warrant closer scrutiny before they appear in print.", "zh": "如此笼统的论断在付印之前有必要接受更仔细的审查。"},
+    {"en": "The damage to the collection warrants immediate restoration work.", "zh": "藏品所受的损坏有必要立即进行修复。"}
+  ],
+  "probe": [
+    {"en": "Investigators probed the financial records for signs of hidden transactions.", "zh": "调查人员审查了财务记录，寻找隐藏交易的迹象。"},
+    {"en": "The mission will probe the ice layers for ancient air samples.", "zh": "这次考察将钻探冰层以获取古代空气样本。"},
+    {"en": "Reporters probed the minister about the funding decision repeatedly.", "zh": "记者反复追问部长关于资金决定的问题。"}
+  ],
+  "offset": [
+    {"en": "Higher sales in Asia offset the decline in European markets.", "zh": "亚洲销量的增长抵消了欧洲市场的下滑。"},
+    {"en": "Energy efficiency can offset the rising cost of raw materials.", "zh": "能源效率的提高可以抵消原材料成本的上涨。"},
+    {"en": "A small grant helped offset the laboratory's mounting operating costs.", "zh": "一笔小额拨款帮助抵消了实验室不断上升的运营成本。"}
+  ],
+  "mean": [
+    {"en": "The red warning light means the reactor has exceeded safe pressure levels.", "zh": "红色警示灯表示反应堆已超过安全压力水平。"},
+    {"en": "What do you mean by that vague phrase in the report?", "zh": "你所说的报告里那个含糊的措辞是什么意思？"},
+    {"en": "The survey results mean that most students prefer online coursework.", "zh": "调查结果表明，大多数学生更偏好线上课程。"}
+  ],
+  "generalize": [
+    {"en": "It is risky to generalize from such a small sample size.", "zh": "从如此小的样本量得出普遍结论是有风险的。"},
+    {"en": "The theory generalizes well across cultures and historical periods.", "zh": "该理论在不同文化和历史时期都有很好的适用性。"},
+    {"en": "The team generalized the pilot results to the whole district.", "zh": "团队将试点结果推广到了整个地区。"}
+  ],
+  "paraphrase": [
+    {"en": "The journalist paraphrased the author's argument rather than quoting it directly.", "zh": "这位记者转述了作者的观点，而非直接引用。"},
+    {"en": "Could you paraphrase the main idea of the article in one sentence?", "zh": "你能用一句话改述这篇文章的主要观点吗？"},
+    {"en": "The lecture paraphrased several complex theories in accessible language.", "zh": "这次讲座用通俗的语言转述了几个复杂的理论。"}
+  ],
+  "quote": [
+    {"en": "The scholar quoted an ancient manuscript to support her interpretation.", "zh": "这位学者引用了一份古代手稿来支持她的解读。"},
+    {"en": "In his report, he quotes several witnesses describing the incident.", "zh": "在他的报告中，他引用了数位目击者对事件的描述。"},
+    {"en": "The article quotes a former official criticizing the policy.", "zh": "文章引用了一位前官员对该政策的批评。"}
+  ],
+  "caveat": [
+    {"en": "The author added a caveat about the small sample size.", "zh": "作者补充说明了一个关于样本量过小的限定条件。"},
+    {"en": "One caveat: the data were collected before the policy took effect.", "zh": "需要说明的是：数据是在该政策生效之前收集的。"},
+    {"en": "We accept the estimate with the caveat that it lacks peer review.", "zh": "我们接受这一估算，但要注意它尚未经过同行评审。"}
+  ],
+  "confound": [
+    {"en": "Age may confound the relationship between diet and recovery.", "zh": "年龄可能混淆饮食与康复之间的关系。"},
+    {"en": "The researchers treated background noise as a confound in the experiment.", "zh": "研究者将背景噪声视为实验中的一个混杂因素。"},
+    {"en": "A major confound in the study was the absence of a control group.", "zh": "该研究的一个主要混杂因素是缺少对照组。"}
+  ],
+  "dataset": [
+    {"en": "The team cleaned a dataset containing two million patient records.", "zh": "团队清洗了一个包含 200 万份患者记录的数据集。"},
+    {"en": "Access to a public dataset allows researchers to reproduce the results.", "zh": "获取公开数据集使研究者能够复现实验结果。"},
+    {"en": "Training models require larger datasets than most universities can gather.", "zh": "训练模型所需的数据集比大多数大学能够收集的更大。"}
+  ],
+  "disparity": [
+    {"en": "The report documents a widening disparity in access to health care.", "zh": "该报告记录了医疗可及性上日益扩大的差距。"},
+    {"en": "Income disparity between regions has grown significantly over the past decade.", "zh": "过去 10 年里地区之间的收入差距显著扩大。"},
+    {"en": "Scholars examined the disparity in exam scores across rural schools.", "zh": "学者们考察了农村学校之间考试成绩的差异。"}
+  ],
+  "discourse": [
+    {"en": "Academic discourse often rewards confident claims over careful evidence.", "zh": "学术话语往往看重自信的论断而非细致的证据。"},
+    {"en": "The conference addressed the discourse surrounding artificial intelligence in education.", "zh": "会议讨论了围绕教育领域人工智能的话语。"},
+    {"en": "Public discourse became polarized after the report was published.", "zh": "报告发表后，公共话语变得两极分化。"}
+  ],
+  "distribution": [
+    {"en": "The distribution of income in the country is highly unequal.", "zh": "该国的收入分配极不平等。"},
+    {"en": "Engineers changed the distribution of resources among the servers.", "zh": "工程师改变了各服务器之间的资源分配。"},
+    {"en": "The map shows the distribution of rainfall across the region.", "zh": "这张地图显示了降雨在该地区的分布情况。"}
+  ],
+  "diversity": [
+    {"en": "The team values diversity in background, training, and research interests.", "zh": "该团队重视背景、训练和研究兴趣上的多样性。"},
+    {"en": "Urban forests contribute greatly to the diversity of local wildlife.", "zh": "城市森林极大丰富了当地野生动物的多样性。"},
+    {"en": "The course highlights the diversity of opinions within the field.", "zh": "这门课程突显了该领域内观点的多样性。"}
+  ],
+  "endpoint": [
+    {"en": "The sensor records the endpoint of each trip for billing purposes.", "zh": "该传感器为计费目的记录每段行程的终点。"},
+    {"en": "Researchers set a clear endpoint for the clinical trial.", "zh": "研究者为这项临床试验设定了明确的终点。"},
+    {"en": "The API defines the endpoint that clients call to fetch data.", "zh": "该接口定义了客户端获取数据时调用的端点。"}
+  ],
+  "error": [
+    {"en": "The model introduced a small error when rounding the final value.", "zh": "模型在最终数值取整时产生了一个小误差。"},
+    {"en": "Human error accounted for most of the discrepancies in the report.", "zh": "人为错误是报告中大部分差异的原因。"},
+    {"en": "Standard error bars show the uncertainty around each estimate.", "zh": "标准误差棒显示了每个估计值周围的不确定性。"}
+  ],
+  "evaluation": [
+    {"en": "The evaluation revealed that the new curriculum improved retention.", "zh": "评估显示新课程提高了学生的留存率。"},
+    {"en": "Performance evaluation for managers occurs twice a year here.", "zh": "这里对管理者的绩效考核每年进行两次。"},
+    {"en": "Her evaluation of the theory was thorough and impartial.", "zh": "她对该理论的评价全面而公正。"}
+  ],
+  "fidelity": [
+    {"en": "The model maintains high fidelity to the original manuscript.", "zh": "该模型对原始手稿保持了较高的保真度。"},
+    {"en": "Low audio fidelity made the recording difficult to understand.", "zh": "音频保真度低使这段录音难以听懂。"},
+    {"en": "The translator's fidelity to the author's tone was remarkable.", "zh": "这位译者对作者语调的忠实程度令人印象深刻。"}
+  ],
+  "finding": [
+    {"en": "The main finding challenges earlier assumptions about regional development.", "zh": "这一主要发现挑战了关于区域发展的早期假设。"},
+    {"en": "Her laboratory reported a significant finding about the chemical compound.", "zh": "她的实验室报告了关于该化合物的一项重要发现。"},
+    {"en": "The research team's findings have been published in several journals.", "zh": "该研究团队的发现已在数家期刊上发表。"}
+  ]
+}

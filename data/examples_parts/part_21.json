@@ -1,0 +1,562 @@
+{
+ "important": [
+  {
+   "en": "Access to clean water remains important for public health in rural communities.",
+   "zh": "获得清洁水源对农村社区的公共健康仍然很重要。"
+  },
+  {
+   "en": "The committee stressed that early intervention is important for reducing long-term costs.",
+   "zh": "委员会强调，早期干预对于降低长期成本十分重要。"
+  },
+  {
+   "en": "Her findings were important because they reshaped how economists understood inflation.",
+   "zh": "她的研究结果之所以重要，是因为它重塑了经济学家对通货膨胀的理解。"
+  }
+ ],
+ "independent": [
+  {
+   "en": "The journal requires that each reviewer submit an independent assessment of the manuscript.",
+   "zh": "该期刊要求每位审稿人提交一份独立的稿件评估意见。"
+  },
+  {
+   "en": "Independent auditors verified that the university's financial records complied with federal regulations.",
+   "zh": "独立审计人员核实了该大学的财务记录符合联邦法规。"
+  },
+  {
+   "en": "Many small nations prefer to remain economically independent of larger regional powers.",
+   "zh": "许多小国倾向于在经济上独立于更大的区域强国。"
+  }
+ ],
+ "initial": [
+  {
+   "en": "Initial results suggest that the new treatment reduces symptoms within two weeks.",
+   "zh": "初步结果表明，新疗法可在两周内减轻症状。"
+  },
+  {
+   "en": "Each student's initial placement depends on the entrance examination and prior coursework.",
+   "zh": "每位学生的初始班级安排取决于入学考试和先前的课程学习情况。"
+  },
+  {
+   "en": "Please enter your initial estimate before the deadline for the funding proposal.",
+   "zh": "请在经费申请截止日期前填写你的初步估算。"
+  }
+ ],
+ "key": [
+  {
+   "en": "The key challenge is securing enough data to train reliable statistical models.",
+   "zh": "关键挑战在于获取足够的数据来训练可靠的统计模型。"
+  },
+  {
+   "en": "Access to mentorship was key to her success during the doctoral program.",
+   "zh": "在博士阶段获得导师的指导，对她的成功起到了关键作用。"
+  },
+  {
+   "en": "Researchers identified three key factors that predict long-term academic success.",
+   "zh": "研究人员确定了三个预测长期学业成功的关键因素。"
+  }
+ ],
+ "large": [
+  {
+   "en": "A large proportion of the sample failed to complete the final questionnaire.",
+   "zh": "样本中有很大一部分未能完成最后的问卷。"
+  },
+  {
+   "en": "The university established a large research center to study renewable energy.",
+   "zh": "该大学成立了一个大型研究中心来研究可再生能源。"
+  },
+  {
+   "en": "Only large organizations can absorb the cost of such extensive training.",
+   "zh": "只有大型组织才能承担如此大规模培训的成本。"
+  }
+ ],
+ "likely": [
+  {
+   "en": "Researchers are likely to publish the revised findings before the end of the year.",
+   "zh": "研究人员很可能在年底之前发表修订后的研究结果。"
+  },
+  {
+   "en": "If the sample size is too small, the results are unlikely to generalize.",
+   "zh": "如果样本量太小，研究结果就不太可能具有普遍性。"
+  },
+  {
+   "en": "It is likely that most participants will finish the survey within a week.",
+   "zh": "大多数参与者很可能在一周内完成问卷。"
+  }
+ ],
+ "main": [
+  {
+   "en": "The main objective of the project is to reduce post-harvest losses in rural farms.",
+   "zh": "该项目的主要目标是减少农村农场的产后损失。"
+  },
+  {
+   "en": "Our main concern is whether the method works outside the laboratory.",
+   "zh": "我们主要关心的是该方法在实验室之外是否同样有效。"
+  },
+  {
+   "en": "The main campus library extends its opening hours during the examination period.",
+   "zh": "主校区图书馆在考试期间延长了开放时间。"
+  }
+ ],
+ "major": [
+  {
+   "en": "A major limitation of the study is the short duration of the observation period.",
+   "zh": "该研究的一个主要局限是观察期过短。"
+  },
+  {
+   "en": "She is majoring in economics and minoring in statistics at university.",
+   "zh": "她在大学主修经济学，辅修统计学。"
+  },
+  {
+   "en": "The council rejected the proposal after a major debate among local residents.",
+   "zh": "在地方居民进行了一场激烈辩论之后，议会否决了该提案。"
+  }
+ ],
+ "modern": [
+  {
+   "en": "The museum reopened with modern displays that explain the region's industrial history.",
+   "zh": "博物馆重新开放，采用了现代展陈方式来讲解该地区的工业史。"
+  },
+  {
+   "en": "Modern scholarship has challenged the traditional account of early urban settlement.",
+   "zh": "现代学术研究对早期城市聚落的传统说法提出了挑战。"
+  },
+  {
+   "en": "Clinicians now apply modern imaging techniques to detect tumors earlier.",
+   "zh": "临床医生现在运用现代影像技术更早地发现肿瘤。"
+  }
+ ],
+ "natural": [
+  {
+   "en": "Natural language processing helps the university analyze large collections of texts.",
+   "zh": "自然语言处理技术帮助该大学分析大规模文本语料。"
+  },
+  {
+   "en": "The committee insisted that any conclusion must be a natural extension of the peer-reviewed evidence.",
+   "zh": "委员会坚持认为，任何结论都必须是对同行评审证据的自然延伸。"
+  },
+  {
+   "en": "Many students find it difficult to write in a natural, academic style.",
+   "zh": "许多学生觉得用自然、学术的文体写作很困难。"
+  }
+ ],
+ "necessary": [
+  {
+   "en": "It is necessary to repeat the experiment before drawing any firm conclusions.",
+   "zh": "在得出任何确定结论之前，有必要重复该实验。"
+  },
+  {
+   "en": "The company argued that further investment would be necessary to remain competitive.",
+   "zh": "公司认为要想保持竞争力，进一步投资是必要的。"
+  },
+  {
+   "en": "Basic statistical training is necessary for anyone analyzing large survey datasets.",
+   "zh": "任何分析大规模调查数据的人都必须具备基本的统计训练。"
+  }
+ ],
+ "normal": [
+  {
+   "en": "The readings returned to normal levels within two hours after the machine was restarted.",
+   "zh": "机器重新启动后两小时内，读数便恢复到正常水平。"
+  },
+  {
+   "en": "Normal working hours are from nine to five, Monday through Friday.",
+   "zh": "正常工作时间为周一至周五上午九点至下午五点。"
+  },
+  {
+   "en": "The device returned to normal operation once the cooling system was repaired.",
+   "zh": "冷却系统修复后，该设备恢复正常运行。"
+  }
+ ],
+ "obvious": [
+  {
+   "en": "It is obvious that the sample was too small to support such conclusions.",
+   "zh": "很明显，样本量太小，无法支持这样的结论。"
+  },
+  {
+   "en": "The error in the spreadsheet was obvious once the figures were compared.",
+   "zh": "在对比数据之后，电子表格中的错误便显而易见。"
+  },
+  {
+   "en": "The researcher's obvious enthusiasm for the topic improved the whole seminar.",
+   "zh": "这位研究者对主题显而易见的热情提升了整场研讨会的效果。"
+  }
+ ],
+ "particular": [
+  {
+   "en": "This particular method works well for rural areas with limited internet access.",
+   "zh": "这一特定方法对互联网接入有限的农村地区效果良好。"
+  },
+  {
+   "en": "The committee paid particular attention to the long-term effects on small farms.",
+   "zh": "委员会特别关注了对小农场的长远影响。"
+  },
+  {
+   "en": "Is there anything in particular you would like the committee to consider?",
+   "zh": "有什么特别希望委员会考虑的事项吗？"
+  }
+ ],
+ "permanent": [
+  {
+   "en": "The laboratory offers permanent positions to researchers with proven track records.",
+   "zh": "该实验室为业绩确有证明的研究人员提供长期职位。"
+  },
+  {
+   "en": "Rising sea levels threaten permanent settlements along the northern coastline.",
+   "zh": "海平面上升威胁着北部海岸线上的永久定居点。"
+  },
+  {
+   "en": "A permanent contract gives staff the stability to plan long-term projects.",
+   "zh": "长期合同为员工规划长远项目提供了稳定保障。"
+  }
+ ],
+ "potential": [
+  {
+   "en": "The company approached every potential investor before the deadline for funding.",
+   "zh": "公司在筹资截止日期前接洽了每一位潜在投资者。"
+  },
+  {
+   "en": "Potential clients can try the software free for a thirty-day period.",
+   "zh": "潜在客户可以免费试用该软件 30 天。"
+  },
+  {
+   "en": "Researchers warned that the melting ice represents a potential threat to coastal cities.",
+   "zh": "研究人员警告说，冰川融化对沿海城市构成潜在威胁。"
+  }
+ ],
+ "practical": [
+  {
+   "en": "The course gives students practical experience designing and testing small circuits.",
+   "zh": "该课程让学生获得设计和测试小型电路的实践经验。"
+  },
+  {
+   "en": "His explanation was theoretical rather than practical, so few could apply it.",
+   "zh": "他的解释偏重理论而非实际，因此很少有人能够加以应用。"
+  },
+  {
+   "en": "We need a practical solution that works with the equipment we already own.",
+   "zh": "我们需要一个能配合现有设备使用的实用方案。"
+  }
+ ],
+ "previous": [
+  {
+   "en": "The previous study examined similar questions but used a much smaller sample.",
+   "zh": "先前的研究考察了类似的问题，但使用的样本要小得多。"
+  },
+  {
+   "en": "Her previous employer published the paper under her current name.",
+   "zh": "她之前的雇主以她现在的名字发表了那篇论文。"
+  },
+  {
+   "en": "Each revision must address the weaknesses identified in the previous draft.",
+   "zh": "每次修订都必须解决上一稿中发现的弱点。"
+  }
+ ],
+ "primary": [
+  {
+   "en": "Our primary objective is to reduce the waiting time for new patients.",
+   "zh": "我们的首要目标是缩短新病人的等候时间。"
+  },
+  {
+   "en": "The study uses school records as its primary source of data.",
+   "zh": "该研究以学校记录作为其主要数据来源。"
+  },
+  {
+   "en": "Primary care clinics reported a sharp increase in respiratory infections this winter.",
+   "zh": "初级保健诊所报告今冬呼吸道感染病例急剧增加。"
+  }
+ ],
+ "principal": [
+  {
+   "en": "The principal reason for the delay was a shortage of trained laboratory staff.",
+   "zh": "延误的主要原因是缺少受过培训的实验室人员。"
+  },
+  {
+   "en": "The principal investigator wrote the final report and submitted it to the journal.",
+   "zh": "首席研究员撰写了最终报告并将其提交给期刊。"
+  },
+  {
+   "en": "Water remains the principal challenge for engineers designing offshore wind farms.",
+   "zh": "水仍然是设计海上风电场的工程师面临的主要挑战。"
+  }
+ ],
+ "probable": [
+  {
+   "en": "It is probable that the correlation will weaken once more variables are controlled.",
+   "zh": "一旦控制更多变量，这种相关性很可能会减弱。"
+  },
+  {
+   "en": "The probable cause of the error was an incorrect unit in the dataset.",
+   "zh": "错误的原因很可能是数据集中的单位有误。"
+  },
+  {
+   "en": "The researchers estimated the probable annual cost of maintaining the system.",
+   "zh": "研究人员估算了一下维持该系统每年可能需要的成本。"
+  }
+ ],
+ "professional": [
+  {
+   "en": "The course is designed for teachers who want professional development in assessment.",
+   "zh": "该课程面向希望在评估方面获得专业发展的教师。"
+  },
+  {
+   "en": "Her professional manner and deep expertise earned her rapid promotion.",
+   "zh": "她专业的举止和深厚的专业素养为她赢得了迅速晋升。"
+  },
+  {
+   "en": "Members must hold a professional qualification before practicing independently.",
+   "zh": "会员必须持有职业资格才能独立执业。"
+  }
+ ],
+ "rapid": [
+  {
+   "en": "The rapid expansion of the market surprised even experienced analysts.",
+   "zh": "市场的迅速扩张甚至让经验丰富的分析师感到意外。"
+  },
+  {
+   "en": "A rapid response is required when a serious fault is detected in production.",
+   "zh": "当生产中检测到严重故障时，需要迅速作出响应。"
+  },
+  {
+   "en": "Her rapid recovery after surgery allowed a return to competitive sport.",
+   "zh": "她术后的快速康复使她得以重返竞技体育。"
+  }
+ ],
+ "reasonable": [
+  {
+   "en": "The committee considered the proposal reasonable and approved a smaller pilot program.",
+   "zh": "委员会认为该提案合理，并批准了一个规模较小的试点项目。"
+  },
+  {
+   "en": "It seems reasonable to expect modest gains during the first experimental phase.",
+   "zh": "在第一阶段实验期内期待温和的收益似乎是合理的。"
+  },
+  {
+   "en": "The price offered by the supplier was fair and reasonable for the market.",
+   "zh": "供应商给出的价格对市场而言既公平又合理。"
+  }
+ ],
+ "recent": [
+  {
+   "en": "A recent study reported a sharp decline in energy use across the sector.",
+   "zh": "最近一项研究报告了该行业能源使用的急剧下降。"
+  },
+  {
+   "en": "The recent results build on research published three years ago.",
+   "zh": "近期的结果建立在三年前发表的研究基础之上。"
+  },
+  {
+   "en": "Recent developments in genetics have transformed our understanding of inherited disease.",
+   "zh": "遗传学的最新进展改变了我们对遗传性疾病的理解。"
+  }
+ ],
+ "relevant": [
+  {
+   "en": "Only those studies that address the review question are relevant to the analysis.",
+   "zh": "只有那些回答该综述问题的研究才与该分析相关。"
+  },
+  {
+   "en": "The board requested more relevant evidence before approving the research grant.",
+   "zh": "董事会在批准研究资助之前要求提供更多切题的证据。"
+  },
+  {
+   "en": "Please include only references relevant to the main argument of the paper.",
+   "zh": "请只列出与论文主要论点相关的参考文献。"
+  }
+ ],
+ "reliable": [
+  {
+   "en": "We need reliable data before drawing conclusions about consumer behavior.",
+   "zh": "在对消费者行为下结论之前，我们需要可靠的数据。"
+  },
+  {
+   "en": "The instrument has proved reliable across thousands of repeated measurements.",
+   "zh": "该仪器在数千次重复测量中都被证明是可靠的。"
+  },
+  {
+   "en": "Few reliable estimates exist for early agricultural production in this region.",
+   "zh": "关于该地区早期农业生产，可靠的估计非常少。"
+  }
+ ],
+ "safe": [
+  {
+   "en": "The laboratory requires that all researchers wear protective equipment to remain safe.",
+   "zh": "实验室要求所有研究人员穿戴防护装备以确保安全。"
+  },
+  {
+   "en": "The committee judged the revised design safe for use in public buildings.",
+   "zh": "委员会认定修改后的设计可安全用于公共建筑。"
+  },
+  {
+   "en": "It is safer to publish a preliminary report and revise it later.",
+   "zh": "先发表初步报告、日后再修订，这样更稳妥。"
+  }
+ ],
+ "scarce": [
+  {
+   "en": "Clean drinking water remains scarce in many rural districts during the dry season.",
+   "zh": "在旱季，清洁饮用水在许多农村地区仍然十分稀缺。"
+  },
+  {
+   "en": "Skilled engineers are scarce, so the company recruits graduates from abroad.",
+   "zh": "熟练工程师十分稀缺，因此该公司从海外招聘毕业生。"
+  },
+  {
+   "en": "Attention becomes scarce when several projects compete for the same funding.",
+   "zh": "当多个项目争夺同一笔资金时，注意力就变得稀缺。"
+  }
+ ],
+ "sensitive": [
+  {
+   "en": "The topic is politically sensitive, and the author avoided naming officials.",
+   "zh": "这一话题在政治上十分敏感，作者避免点名官员。"
+  },
+  {
+   "en": "These instruments are sensitive enough to detect very small changes in pressure.",
+   "zh": "这些仪器灵敏度高，足以探测压力的微小变化。"
+  },
+  {
+   "en": "The market proved highly sensitive to changes in interest rates.",
+   "zh": "市场对利率变化表现出高度敏感性。"
+  }
+ ],
+ "severe": [
+  {
+   "en": "The drought caused severe damage to crops across three provinces this summer.",
+   "zh": "今夏的干旱给三个省份的作物造成了严重损害。"
+  },
+  {
+   "en": "A severe storm disrupted transport and delayed thousands of shipments.",
+   "zh": "一场猛烈的风暴扰乱运输，延误了数千批货物。"
+  },
+  {
+   "en": "The penalty was severe, reflecting the committee's concern about misconduct.",
+   "zh": "处罚很严厉，这反映了委员会对不当行为的关注。"
+  }
+ ],
+ "significant": [
+  {
+   "en": "The study reported a significant improvement in reading scores after the intervention.",
+   "zh": "该研究报告称，干预之后阅读成绩有了显著提高。"
+  },
+  {
+   "en": "There was a significant difference between the experimental and control groups.",
+   "zh": "实验组与对照组之间存在显著差异。"
+  },
+  {
+   "en": "The museum received significant funding to restore its nineteenth century paintings.",
+   "zh": "博物馆获得了相当可观的资金用于修复其 19 世纪画作。"
+  }
+ ],
+ "similar": [
+  {
+   "en": "The two studies report similar results despite using different measurement techniques.",
+   "zh": "尽管采用了不同的测量技术，这两项研究得出的结果相似。"
+  },
+  {
+   "en": "Researchers observed similar patterns of growth in plants exposed to moderate drought.",
+   "zh": "研究人员观察到遭受中等程度干旱的植物呈现出相似的生长模式。"
+  },
+  {
+   "en": "His writing style is similar to that of the early modern European poets.",
+   "zh": "他的写作风格与近代早期欧洲诗人的风格相似。"
+  }
+ ],
+ "simple": [
+  {
+   "en": "The researchers proposed a simple method for estimating total water consumption.",
+   "zh": "研究人员提出了一种估算总耗水量的简单方法。"
+  },
+  {
+   "en": "The explanation was deliberately simple so that non-specialists could follow it.",
+   "zh": "这一解释刻意保持简单，以便非专业人士也能理解。"
+  },
+  {
+   "en": "The machine is simple to operate and requires minimal operator training.",
+   "zh": "这台机器操作简单，只需极少的操作培训。"
+  }
+ ],
+ "specific": [
+  {
+   "en": "The authors must provide a specific definition of each variable they measure.",
+   "zh": "作者必须对所测量的每个变量给出明确的定义。"
+  },
+  {
+   "en": "This review focuses on specific methods for analyzing longitudinal survey data.",
+   "zh": "本综述聚焦于分析纵向调查数据的具体方法。"
+  },
+  {
+   "en": "Could you recommend a specific journal that publishes in this area?",
+   "zh": "能否推荐一家专门发表这一领域研究成果的期刊？"
+  }
+ ],
+ "stable": [
+  {
+   "en": "Interest rates remained stable throughout the year, encouraging new investment.",
+   "zh": "利率全年保持稳定，鼓励了新的投资。"
+  },
+  {
+   "en": "The committee wants stable funding over several years to plan properly.",
+   "zh": "委员会希望获得未来数年稳定的经费，以便妥善规划。"
+  },
+  {
+   "en": "A stable population makes long-term forecasting considerably more reliable.",
+   "zh": "稳定的人口使长期预测可靠得多。"
+  }
+ ],
+ "strict": [
+  {
+   "en": "The laboratory follows strict procedures when handling toxic chemical samples.",
+   "zh": "实验室在处理有毒化学样品时遵循严格的操作规程。"
+  },
+  {
+   "en": "Competition rules include strict limits on equipment budgets and travel expenses.",
+   "zh": "竞赛规则对设备预算和差旅费用设有严格限制。"
+  },
+  {
+   "en": "Under the strict definition used here, the model fails to converge.",
+   "zh": "按照这里采用的严格定义，该模型无法收敛。"
+  }
+ ],
+ "strong": [
+  {
+   "en": "The study reports strong evidence linking diet quality to improved memory.",
+   "zh": "该研究报告了饮食质量与记忆力改善之间的有力证据。"
+  },
+  {
+   "en": "Walls made of reinforced concrete offer strong resistance to earthquake forces.",
+   "zh": "钢筋混凝土墙体对地震力具有很强的抵抗力。"
+  },
+  {
+   "en": "The university attracted strong candidates from more than forty countries.",
+   "zh": "该大学吸引了来自四十多个国家的实力强劲的候选人。"
+  }
+ ],
+ "sufficient": [
+  {
+   "en": "The current funding is not sufficient to support a full multi-year trial.",
+   "zh": "目前的资金不足以支持一次完整的多年度试验。"
+  },
+  {
+   "en": "Researchers argued that ten thousand observations were sufficient for reliable estimates.",
+   "zh": "研究人员认为 1 万次观测足以得到可靠的估计。"
+  },
+  {
+   "en": "Is there sufficient evidence to conclude that the treatment works?",
+   "zh": "有足够的证据得出该疗法有效的结论吗？"
+  }
+ ],
+ "suitable": [
+  {
+   "en": "This laboratory is suitable for testing materials at very high temperatures.",
+   "zh": "这间实验室适合在极高温度下测试材料。"
+  },
+  {
+   "en": "The committee recommended a different method, more suitable for small datasets.",
+   "zh": "委员会建议采用另一种方法，更适合小样本数据集。"
+  },
+  {
+   "en": "The wording of the consent form proved suitable for participants of all ages.",
+   "zh": "知情同意书的措辞被证明适用于各年龄段的参与者。"
+  }
+ ]
+}

@@ -1,0 +1,452 @@
+[
+ {
+  "word": "accrue",
+  "kind": "正式文雅词",
+  "reason": "书面语域中表示累积、产生（利益）的正式动词"
+ },
+ {
+  "word": "affirm",
+  "kind": "正式文雅词",
+  "reason": "法律与正式公文中确认、断言的正式动词"
+ },
+ {
+  "word": "allege",
+  "kind": "正式文雅词",
+  "reason": "法律与学术书面中表示未经证实的指控的正式动词"
+ },
+ {
+  "word": "appraise",
+  "kind": "正式文雅词",
+  "reason": "书面正式的评价动词，日常多说 assess"
+ },
+ {
+  "word": "axiomatic",
+  "kind": "正式文雅词",
+  "reason": "逻辑与理论表述中的正式书面语词"
+ },
+ {
+  "word": "circumvent",
+  "kind": "正式文雅词",
+  "reason": "法律与政策语体中表示规避的正式动词"
+ },
+ {
+  "word": "cogent",
+  "kind": "正式文雅词",
+  "reason": "学术评价中正式表示论据有说服力的文雅词"
+ },
+ {
+  "word": "confer",
+  "kind": "正式文雅词",
+  "reason": "书面语域中表示授予、带来（利益）以及协商的正式动词"
+ },
+ {
+  "word": "contend",
+  "kind": "正式文雅词",
+  "reason": "论文中正式表述主张（contend that）的论证动词"
+ },
+ {
+  "word": "corollary",
+  "kind": "正式文雅词",
+  "reason": "论述中表示必然推论的正式文雅名词"
+ },
+ {
+  "word": "curtail",
+  "kind": "正式文雅词",
+  "reason": "公文与政策文本中表示削减、限缩的正式动词"
+ },
+ {
+  "word": "delimit",
+  "kind": "正式文雅词",
+  "reason": "学术方法部分界定研究范围的正式动词"
+ },
+ {
+  "word": "demarcate",
+  "kind": "正式文雅词",
+  "reason": "正式论述中划定边界的文雅动词"
+ },
+ {
+  "word": "epistemological",
+  "kind": "正式文雅词",
+  "reason": "认识论讨论的正式书面语词，日常英语不用"
+ },
+ {
+  "word": "germane",
+  "kind": "正式文雅词",
+  "reason": "正式论述中表示切题的文雅词，日常多用 relevant"
+ },
+ {
+  "word": "hindrance",
+  "kind": "正式文雅词",
+  "reason": "书面语域中表示妨碍的文雅名词"
+ },
+ {
+  "word": "impediment",
+  "kind": "正式文雅词",
+  "reason": "正式文书中表示障碍、阻碍的文雅名词"
+ },
+ {
+  "word": "incisive",
+  "kind": "正式文雅词",
+  "reason": "书评与批评语境中的文雅评价词"
+ },
+ {
+  "word": "judicious",
+  "kind": "正式文雅词",
+  "reason": "书面赞许中表示审慎明智的文雅词，口语少用"
+ },
+ {
+  "word": "ontological",
+  "kind": "正式文雅词",
+  "reason": "本体论讨论的正式书面语词，日常英语不用"
+ },
+ {
+  "word": "permeate",
+  "kind": "正式文雅词",
+  "reason": "书面语域中形容渗透、弥漫的文雅动词"
+ },
+ {
+  "word": "pervade",
+  "kind": "正式文雅词",
+  "reason": "书面语域中形容弥漫的文雅动词，口语几乎不用"
+ },
+ {
+  "word": "preempt",
+  "kind": "正式文雅词",
+  "reason": "正式论述中预先制止、抢在前的文雅动词"
+ },
+ {
+  "word": "presuppose",
+  "kind": "正式文雅词",
+  "reason": "哲学与学术论述中表示预设为前提的正式动词"
+ },
+ {
+  "word": "purport",
+  "kind": "正式文雅词",
+  "reason": "法律与学术语体中表示自称、 号称 的正式动词"
+ },
+ {
+  "word": "ramification",
+  "kind": "正式文雅词",
+  "reason": "法律与政策分析中表示衍生后果的正式名词"
+ },
+ {
+  "word": "ratify",
+  "kind": "正式文雅词",
+  "reason": "条约与法定程序的正式批准动词，带强烈公文印记"
+ },
+ {
+  "word": "rebut",
+  "kind": "正式文雅词",
+  "reason": "学术辩论与法律文书中驳斥主张的正式动词"
+ },
+ {
+  "word": "reiterate",
+  "kind": "正式文雅词",
+  "reason": "正式文书中重申要点的文雅动词"
+ },
+ {
+  "word": "situate",
+  "kind": "正式文雅词",
+  "reason": "学术写作中把研究置于背景中的正式动词"
+ },
+ {
+  "word": "stipulate",
+  "kind": "正式文雅词",
+  "reason": "合同与法律文书的正式措辞动词，日常英语用 require/agree"
+ },
+ {
+  "word": "subsume",
+  "kind": "正式文雅词",
+  "reason": "逻辑与学术论述中把个案归入类别的文雅动词"
+ },
+ {
+  "word": "thereof",
+  "kind": "正式文雅词",
+  "reason": "法律与公文英语的固定正式副词"
+ },
+ {
+  "word": "uphold",
+  "kind": "正式文雅词",
+  "reason": "法律与正式文书中维持原判、予以支持的正式动词"
+ },
+ {
+  "word": "wherein",
+  "kind": "正式文雅词",
+  "reason": "法律与旧式正式书面体的关系副词，现代口语已不用"
+ },
+ {
+  "word": "all things considered",
+  "kind": "正式语块",
+  "reason": "综合权衡后作结论的书面固定语块"
+ },
+ {
+  "word": "as a case in point",
+  "kind": "正式语块",
+  "reason": "正式书面举证的固定语块"
+ },
+ {
+  "word": "as appropriate",
+  "kind": "正式语块",
+  "reason": "公文与审稿语中的固定授权语块"
+ },
+ {
+  "word": "as regards",
+  "kind": "正式语块",
+  "reason": "正式文件与学术写作的固定引题语块"
+ },
+ {
+  "word": "as to",
+  "kind": "正式语块",
+  "reason": "正式书面中引出议题的旧式介词短语，公文常见"
+ },
+ {
+  "word": "as yet",
+  "kind": "正式语块",
+  "reason": "正式书面中表示至今仍未的固定语块"
+ },
+ {
+  "word": "at the outset",
+  "kind": "正式语块",
+  "reason": "正式书面叙述中提示起点的固定语块"
+ },
+ {
+  "word": "barring",
+  "kind": "正式语块",
+  "reason": "法律与条款式书面语中的排除条件语块"
+ },
+ {
+  "word": "by analogy",
+  "kind": "正式语块",
+  "reason": "学术论证方法上的固定语块"
+ },
+ {
+  "word": "by reason of",
+  "kind": "正式语块",
+  "reason": "法律与正式公文的因果语块，书面色彩强"
+ },
+ {
+  "word": "by the same token",
+  "kind": "正式语块",
+  "reason": "正式书面推理中的固定推论语块"
+ },
+ {
+  "word": "by virtue of",
+  "kind": "正式语块",
+  "reason": "正式法律与学术语体的固定依据语块"
+ },
+ {
+  "word": "for the purposes of",
+  "kind": "正式语块",
+  "reason": "法律与制度文本的固定目的语块"
+ },
+ {
+  "word": "in connection with",
+  "kind": "正式语块",
+  "reason": "公文与调查文书的固定关联语块"
+ },
+ {
+  "word": "in consequence",
+  "kind": "正式语块",
+  "reason": "正式书面因果语块，口语用 as a result"
+ },
+ {
+  "word": "in lieu of",
+  "kind": "正式语块",
+  "reason": "法律与公文英语的固定替代语块，口语用 instead of"
+ },
+ {
+  "word": "in no small measure",
+  "kind": "正式语块",
+  "reason": "文雅正式的强调语块，口语少用"
+ },
+ {
+  "word": "in relation to",
+  "kind": "正式语块",
+  "reason": "正式书面中引出讨论对象的固定语块"
+ },
+ {
+  "word": "in so doing",
+  "kind": "正式语块",
+  "reason": "法律与正式公文体惯用的动名词语块"
+ },
+ {
+  "word": "in the absence of",
+  "kind": "正式语块",
+  "reason": "正式书面中的固定条件语块"
+ },
+ {
+  "word": "in the context of",
+  "kind": "正式语块",
+  "reason": "学术与正式文书中的背景限定语块"
+ },
+ {
+  "word": "in the event that",
+  "kind": "正式语块",
+  "reason": "公文与法律英语惯用的条件语块，口语一律说 if"
+ },
+ {
+  "word": "in the interim",
+  "kind": "正式语块",
+  "reason": "正式公文体中指过渡期间的固定语块，日常多说 meanwhile"
+ },
+ {
+  "word": "in the wake of",
+  "kind": "正式语块",
+  "reason": "新闻与正式文书中表示紧随其后的固定语块"
+ },
+ {
+  "word": "in which case",
+  "kind": "正式语块",
+  "reason": "正式书面推论中的固定条件语块"
+ },
+ {
+  "word": "it goes without saying",
+  "kind": "正式语块",
+  "reason": "正式书面惯用的固定插入语块"
+ },
+ {
+  "word": "needless to say",
+  "kind": "正式语块",
+  "reason": "旧式正式书面插入语块"
+ },
+ {
+  "word": "of note",
+  "kind": "正式语块",
+  "reason": "正式书面的提示插入语块，口语少用"
+ },
+ {
+  "word": "on account of",
+  "kind": "正式语块",
+  "reason": "书面因果语块，口语直接说 because of"
+ },
+ {
+  "word": "on behalf of",
+  "kind": "正式语块",
+  "reason": "正式协议与机构文书中的代表语块"
+ },
+ {
+  "word": "subject to",
+  "kind": "正式语块",
+  "reason": "法律与合同英语的固定条件语块，带明显公文印记"
+ },
+ {
+  "word": "that being so",
+  "kind": "正式语块",
+  "reason": "正式书面中承前转折的固定语块"
+ },
+ {
+  "word": "thus far",
+  "kind": "正式语块",
+  "reason": "正式书面语中标示截止点的固定语块，等于 so far"
+ },
+ {
+  "word": "to date",
+  "kind": "正式语块",
+  "reason": "公文与学术写作中表示迄今为止的固定语块"
+ },
+ {
+  "word": "to that end",
+  "kind": "正式语块",
+  "reason": "正式公文表达目的的惯用固定语块"
+ },
+ {
+  "word": "where applicable",
+  "kind": "正式语块",
+  "reason": "条例、招标文件与论文中的公文固定语块"
+ },
+ {
+  "word": "with a view to",
+  "kind": "正式语块",
+  "reason": "正式书信的固定目的语块"
+ },
+ {
+  "word": "with reference to",
+  "kind": "正式语块",
+  "reason": "公文信函与审稿意见的固定引出语块"
+ },
+ {
+  "word": "with the aim of",
+  "kind": "正式语块",
+  "reason": "研究计划与政策文本的固定目的语块"
+ },
+ {
+  "word": "with the exception of",
+  "kind": "正式语块",
+  "reason": "合同与正式文件的排除条款式语块"
+ },
+ {
+  "word": "with this in mind",
+  "kind": "正式语块",
+  "reason": "正式书信的固定提示语块"
+ },
+ {
+  "word": "firstly",
+  "kind": "正式连接词",
+  "reason": "列举排序的正式书面标记词，源自书面论述规范"
+ },
+ {
+  "word": "for fear that",
+  "kind": "正式连接词",
+  "reason": "带文学与旧式公文色彩的目的连词，与 lest 同族"
+ },
+ {
+  "word": "in order that",
+  "kind": "正式连接词",
+  "reason": "书面目的连词，日常口语更常用 so that"
+ },
+ {
+  "word": "in the sense that",
+  "kind": "正式连接词",
+  "reason": "学术书面中界定用法的固定连接结构，带明显书面印记"
+ },
+ {
+  "word": "lastly",
+  "kind": "正式连接词",
+  "reason": "列举排序收尾的正式书面标记词"
+ },
+ {
+  "word": "lest",
+  "kind": "正式连接词",
+  "reason": "书面语专用的目的/让步连词，口语几乎不用，日常英语多用 so as not to / in case"
+ },
+ {
+  "word": "on condition that",
+  "kind": "正式连接词",
+  "reason": "合同与法律英语的条件连词，正式公文色彩"
+ },
+ {
+  "word": "on the assumption that",
+  "kind": "正式连接词",
+  "reason": "学术论文陈述前提的固定书面连接结构"
+ },
+ {
+  "word": "on the grounds that",
+  "kind": "正式连接词",
+  "reason": "正式书面中给出拒绝/决定理由的固定理由从句引导语"
+ },
+ {
+  "word": "secondly",
+  "kind": "正式连接词",
+  "reason": "列举排序的正式书面标记词"
+ },
+ {
+  "word": "so as to",
+  "kind": "正式连接词",
+  "reason": "正式书面目的结构，口语中多改说 in order to"
+ },
+ {
+  "word": "thirdly",
+  "kind": "正式连接词",
+  "reason": "列举排序的正式书面标记词"
+ },
+ {
+  "word": "to the extent that",
+  "kind": "正式连接词",
+  "reason": "书面语的程度限定连词，口语里极少用这么长的限定结构"
+ },
+ {
+  "word": "with the result that",
+  "kind": "正式连接词",
+  "reason": "引导结果从句的正式书面连接语，口语多说 so"
+ }
+]

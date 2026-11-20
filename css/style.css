@@ -1,0 +1,2152 @@
+/* ============================================================================
+   GUAN 学术英语词汇库 · Academic English Lexicon
+   设计系统：Tokens → 基础 → 布局 → 组件 → 视图 → 响应式 → 打印
+   无外部依赖 · 无构建步骤 · 明暗双主题
+   ========================================================================= */
+
+/* ---------------------------------------------------------------- tokens -- */
+:root{
+  color-scheme:light;
+
+  /* 背景与表面：中性暖灰纸面（不用蓝紫底，整站底色只留石墨/米白两档） */
+  --bg:#f6f4f3;
+  --surface:#ffffff;
+  --surface-2:#f4f1f0;
+  --surface-3:#e8e4e2;
+
+  /* 文本 */
+  --text:#17151a;
+  --text-2:#4e4b54;
+  --text-3:#66636e;   /* 压 --surface 5.44:1 / --surface-2 5.23:1 / --surface-3 4.65:1 */
+
+  /* 描边 */
+  --line:#e6e2e0;
+  --line-2:#d5d0cd;
+  /* 表单控件边界（WCAG 1.4.11 非文字对比度）：输入框/下拉框的描边是「认出这是输入框」
+     的唯一视觉依据，必须与其相邻底色 ≥3:1。--line-2 压白底只有 1.3:1 上下，
+     故表单控件单用这一枚（白底 4.20:1 / 页面底 3.83:1）；卡片、chip、按钮的描边是装饰性的
+     （控件内有文字或图标作识别依据），仍走 --line-2，不受此限。 */
+  --control-line:#7d7a85;
+
+  /* 主色：琥珀金（石墨底上最显质感的一档：暖、不刺眼、不幼稚）。
+     --accent 是**填充色**（选中块/主按钮/进度条），--accent-ink 是**文字色**
+     （链接、图标、悬停字）——两者明度差很大，必须分开用。 */
+  --accent:#8a5a06;
+  --accent-2:#714905;
+  --accent-3:#8f6208;
+  --accent-ink:#6f4804;   /* 压在 --surface 8.06:1 / --accent-soft 7.21:1 */
+  --accent-soft:#fdf1dc;
+  --accent-soft-2:#f6e2be;
+
+  /* 「压色墨水」族：同一枚强调色在明暗两套主题下的明度差很多，
+     选中态若一律硬编码 #fff，深色主题的 accent(#f28ab9) 上只有 2.30:1（AA 不过）。
+     这里按主题给出压在饱和底色上的文字色。 */
+  --on-accent:#ffffff;   /* 压在 accent / accent-2 上（5.92:1 / 7.90:1） */
+  --on-warn:#ffffff;
+  --on-bad:#ffffff;
+  --on-good:#ffffff;
+  --on-light:#241f26;    /* 压在近白底（#fff）上的文字 */
+  --bad-ink:#b3302a;     /* 压在白底上的红字 */
+  --good-2:#085537;      /* 三档评分按钮的渐变下端 */
+  --warn-2:#7a2a06;
+  --bad-2:#8f251f;
+
+  /* 语义色（浅色主题按 WCAG AA 校准：白字 ≥4.5、soft 底上 ≥4.5） */
+  --good:#0a6d47;    /* 压 good-soft 5.60:1 */
+  --good-soft:#e0f5ec;
+  --good-line:#a9e0c8;
+  --warn:#b03a09;    /* 「模糊」= 橙，与强调色琥珀金拉开；压 warn-soft 5.21:1 */
+  --warn-soft:#fdeade;
+  --warn-line:#eec3a4;
+  --bad:#b3302a;     /* 压 bad-soft 5.37:1 */
+  --bad-soft:#fdeae8;
+  --bad-line:#f3beb9;
+  /* 「学习中」档位：原 --blue 是全站最后一处蓝，改青碧（压 blue-soft 5.15:1），
+     与语义绿 #0a6d47 拉开色相，也不与洋红强调色混淆。 */
+  --blue:#0a5f5d;
+  --blue-soft:#dcf0ee;
+  /* 「争议性」专用紫（第七十轮）：褒/贬/中性三色相占了绿/红/灰，
+     两极评价另起一色，与「积极绿」「消极红」都不混淆。压白底 7.63:1。 */
+  --violet:#5b3fa8;
+  --violet-soft:#ece7f9;
+  /* 「学术术语」专用靛蓝（第七十轮·语体色彩拆四档）：书面语占青碧、
+     口语占橙、争议占紫，还差一枚不与之混淆的冷色给术语。压白底 8.40:1。 */
+  --indigo:#2a4a8f;
+  --indigo-soft:#e6ecf7;
+
+  /* 首页 hero：浅色主题＝暖纸卡（白底 → 微暖奶油渐变、琥珀细线、淡金氛围光），
+     深色主题＝石墨深卡；两套主题共用同一组结构 token（--hero-*），只换值。
+     全部 hero 内的颜色一律走 token：硬编码深色玻璃/白字是「浅色主题下首屏
+     压一块黑板」的根源（一百三十轮为白字 AA 顺手做的深卡已不必要——
+     浅色主题文字色本就按 AA 校准）。 */
+  --hero-1:#ffffff;
+  --hero-2:#f8f1e4;                      /* 暖纸渐变下端：微暖奶油，不黄脸 */
+  --hero-line:rgba(138,90,6,.26);        /* 琥珀细描边（--accent 调透明度） */
+  --hero-glow:#c98a2e;                   /* 氛围光：浅卡上取略深一档的金，光晕才显形 */
+  --hero-text:#17151a;                   /* = --text */
+  --hero-text-2:#4e4b54;                 /* = --text-2 */
+  --hero-faint:#66636e;                  /* = --text-3（提示行 / 面板弱链） */
+  --hero-hairline:rgba(23,21,26,.10);    /* 提示行上方的分隔发丝线 */
+  --hero-sheen:rgba(255,255,255,.55);    /* 卡顶提亮带（浅卡上近隐形，结构保持） */
+  --hero-topline:rgba(255,255,255,.85);  /* 卡顶发丝高光（浅卡上近隐形） */
+  --hero-glass:#f4f1f0;                  /* = --surface-2：eyebrow 徽章 / kbd 底 */
+  --hero-glass-2:#e8e4e2;                /* = --surface-3：例句小面板底 */
+  --hero-glass-line:#d5d0cd;             /* = --line-2：玻璃面板描边 */
+  --hero-chip-bg:#fdf1dc;                /* = --accent-soft：eyebrow 徽章底 */
+  --hero-chip-line:rgba(138,90,6,.30);   /* eyebrow 徽章的琥珀描边 */
+  --hero-chip-text:#6f4804;              /* = --accent-ink：eyebrow 文字 */
+  --hero-btn-bg:#ffffff;                 /* hero 次级按钮＝全站按钮同貌 */
+  --hero-btn-line:#d5d0cd;
+  --hero-btn-hover-bg:#f4f1f0;
+  --hero-btn-hover-text:#6f4804;         /* = --accent-ink */
+  --hero-kbd-bg:#f4f1f0; --hero-kbd-line:#d5d0cd; --hero-kbd-text:#4e4b54;
+  --hero-iconbtn-bg:#ffffff; --hero-iconbtn-line:#d5d0cd; --hero-iconbtn-text:#6f4804;
+  --hero-iconbtn-hover-bg:#fdf1dc;       /* = --accent-soft */
+  --hero-shadow:0 18px 50px rgba(30,20,26,.12);
+  --page-glow:#8a5a06;      /* 页面底色上的氛围光（浅色主题＝一层暖影） */
+
+  /* 遮罩 */
+  --overlay:rgba(24,16,20,.58);
+
+  /* 阴影 */
+  --sh-1:0 1px 2px rgba(30,20,26,.05),0 1px 3px rgba(30,20,26,.04);
+  --sh-2:0 2px 6px rgba(30,20,26,.06),0 10px 26px rgba(30,20,26,.07);
+  --sh-3:0 18px 56px rgba(30,20,26,.16);
+  --sh-accent:0 8px 26px rgba(138,90,6,.22);
+
+  /* 圆角 */
+  --r-xs:7px; --r-sm:10px; --r:14px; --r-lg:19px; --r-xl:26px; --r-full:999px;
+
+  /* 动效 */
+  --dur:.18s; --dur-slow:.34s;
+  --ease:cubic-bezier(.32,.72,.35,1);
+  --ease-out:cubic-bezier(.16,1,.3,1);
+
+  /* 字体 */
+  --font:-apple-system,BlinkMacSystemFont,"Segoe UI","PingFang SC","Hiragino Sans GB","Microsoft YaHei",Roboto,"Noto Sans",sans-serif;
+  --font-serif:"Iowan Old Style","Palatino Linotype",Palatino,Georgia,"Songti SC",serif;
+  --mono:"SF Mono",Consolas,"Cascadia Code",Menlo,monospace;
+
+  --topbar-h:60px;
+  --safe-b:env(safe-area-inset-bottom,0px);
+  /* 内容容器宽度：顶栏与正文共用同一枚令牌 ⇒ 两者左右边缘始终对齐。
+     默认 1200px（阅读舒适区）；宽屏档位在下方「响应式增强」里逐级放宽。 */
+  --content-max:1200px;
+  /* 热力图格子几何：格子边长 / 缝宽 / 行距（行距＝格子＋缝，月份标靠它定位）
+     --heat-top：网格上方留给月份标的高度（星期标签列靠它与网格首行对齐） */
+  --heat-cell:13px; --heat-gap:3px; --heat-step:16px; --heat-top:28px;
+}
+
+/* dark2026：近黑石墨底 + 细描边 + 洋红强调。
+   底色一律去掉蓝紫倾向（石墨为中性灰，R≈G≈B），强调色是暖色洋红。 */
+html[data-theme="dark"]{
+  color-scheme:dark;
+  --bg:#0b0b0e;
+  --surface:#141418;
+  --surface-2:#1b1b20;
+  --surface-3:#25252b;
+  --text:#ededee;
+  --text-2:#a8a8b0;
+  --text-3:#8f8f99;   /* 压 --surface 5.74:1 / --surface-2 5.36:1 / --surface-3 4.76:1 */
+  --line:#232329;
+  --line-2:#33333b;
+  --control-line:#787883;   /* 深色下控件底是 --surface(#141418)：4.21:1 */
+  --accent:#e8a94f;
+  --accent-2:#c9862c;
+  --accent-3:#f0c27f;
+  --accent-ink:#f0c382;   /* 压在 --surface 11.23:1 / --accent-soft 9.01:1 */
+  --accent-soft:#33260f;
+  --accent-soft-2:#452f11;
+  /* 深色主题的 accent/good/warn/bad 本身就很亮，压在上面的文字必须换深墨 */
+  --on-accent:#241703;   /* 压在 accent 上：8.52:1 */
+  --on-warn:#2b1405;
+  --on-bad:#2b0d0c;
+  --on-good:#0b2419;
+  --on-light:#17161a;
+  --bad-ink:#a72c25;
+  --good-2:#22a874;
+  --warn-2:#d1701f;
+  --bad-2:#e05f57;
+  --good:#3ad39a;
+  --good-soft:#0f2e23;
+  --good-line:#1d5943;
+  --warn:#fb923c;
+  --warn-soft:#3a2410;
+  --warn-line:#6b4318;
+  --bad:#ff7a72;
+  --bad-soft:#3a1b1c;
+  --bad-line:#6b2f2f;
+  --blue:#35b3a3;   /* 「学习中」＝深青碧，与语义薄荷绿(已掌握)拉开明度 */
+  --blue-soft:#0b2625;
+  --violet:#b9a3ef;   /* 「争议性」＝淡紫，深底上与青碧/薄荷绿都拉得开 */
+  --violet-soft:#2b2340;
+  --indigo:#9db8ef;   /* 「学术术语」＝淡靛蓝，与青碧（书面语）拉开色相 */
+  --indigo-soft:#1c2740;
+  --hero-1:#1b1b23;
+  --hero-2:#0d0d11;
+  --hero-line:rgba(232,169,79,.20);
+  --hero-glow:#e8a94f;
+  --hero-text:#ffffff;
+  --hero-text-2:#ffffff;
+  --hero-faint:rgba(255,255,255,.85);
+  --hero-hairline:rgba(255,255,255,.13);
+  --hero-sheen:rgba(255,255,255,.045);
+  --hero-topline:rgba(255,255,255,.28);
+  --hero-glass:rgba(12,10,16,.30);
+  --hero-glass-2:rgba(12,10,16,.34);
+  --hero-glass-line:rgba(255,255,255,.16);
+  --hero-chip-bg:rgba(12,10,16,.30);
+  --hero-chip-line:rgba(255,255,255,.16);
+  --hero-chip-text:rgba(255,255,255,.92);
+  --hero-btn-bg:rgba(12,10,16,.26);
+  --hero-btn-line:rgba(255,255,255,.34);
+  --hero-btn-hover-bg:rgba(12,10,16,.38);
+  --hero-btn-hover-text:#ffffff;
+  --hero-kbd-bg:rgba(255,255,255,.12); --hero-kbd-line:rgba(255,255,255,.30); --hero-kbd-text:#ffffff;
+  --hero-iconbtn-bg:rgba(255,255,255,.18); --hero-iconbtn-line:rgba(255,255,255,.5); --hero-iconbtn-text:#ffffff;
+  --hero-iconbtn-hover-bg:rgba(255,255,255,.32);
+  --hero-shadow:0 18px 50px rgba(12,8,12,.30);
+  --page-glow:#e8a94f;
+  --overlay:rgba(6,6,8,.66);
+  --sh-1:0 1px 2px rgba(0,0,0,.4);
+  --sh-2:0 2px 8px rgba(0,0,0,.45),0 12px 30px rgba(0,0,0,.4);
+  --sh-3:0 20px 60px rgba(0,0,0,.6);
+  --sh-accent:0 8px 28px rgba(232,169,79,.22);
+}
+
+/* ------------------------------------------------------------------ base -- */
+*,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
+[hidden]{display:none!important}
+html{scroll-behavior:smooth;-webkit-text-size-adjust:100%;
+  /* WCAG 2.2 · SC 2.4.11 焦点不被遮挡：焦点元素被滚进视口时，
+     要给吸顶顶栏（sticky）与移动端底部固定标签栏留出空档，
+     否则焦点框正好落在固定层底下（键盘用户看不见自己停在哪）。
+     scroll-padding 是滚动容器的「内边距」，scrollIntoView/聚焦滚动都会尊重它。 */
+  scroll-padding-top:calc(var(--topbar-h) + 2px);
+  scroll-padding-bottom:0}
+body{
+  font-family:var(--font);
+  background:var(--bg);
+  /* 氛围层：极淡的光晕贴在页面上缘，给平面底色一点纵深（不再是彩色大晕） */
+  background-image:radial-gradient(1100px 460px at 12% -12%,color-mix(in srgb,var(--page-glow) 7%,transparent),transparent 62%),
+                   radial-gradient(900px 420px at 96% -4%,color-mix(in srgb,var(--page-glow) 5%,transparent),transparent 58%);
+  background-attachment:fixed;
+  color:var(--text);
+  min-height:100vh;display:flex;flex-direction:column;
+  line-height:1.6;font-size:15px;
+  -webkit-font-smoothing:antialiased;text-rendering:optimizeLegibility;
+  transition:background-color var(--dur) var(--ease),color var(--dur) var(--ease);
+}
+/* 滚动条也跟着主题走（石墨细条，不再是系统默认的蓝灰） */
+html{scrollbar-color:var(--line-2) transparent}
+html[data-theme="dark"] ::-webkit-scrollbar{width:10px;height:10px}
+html[data-theme="dark"] ::-webkit-scrollbar-thumb{background:var(--line-2);border-radius:var(--r-full)}
+html[data-theme="dark"] ::-webkit-scrollbar-track{background:transparent}
+a{color:var(--accent-ink);text-decoration:none}
+a:hover{text-decoration:underline}
+button,input,select,textarea{font:inherit;color:inherit}
+button{cursor:pointer;background:none;border:none}
+ul,ol{list-style:none}
+h1,h2,h3,h4{line-height:1.25;letter-spacing:-.015em}
+/* 高亮片段：底色是半透明的橙（--warn 38%），**文字色固定用 --text**，
+   不能跟着所在行继承（--text-2/--text-3）—— 继承来的灰字压在这层橙底上
+   只有 3.6:1，低于 AA 的 4.5:1（搜索浮层里命中处全是高亮片段，
+   一屏就能看见几处不过线）。 */
+mark{background:color-mix(in srgb,var(--warn) 38%,transparent);color:var(--text);border-radius:3px;padding:0 2px}
+::selection{background:var(--accent);color:var(--on-accent)}
+:focus-visible{outline:2px solid var(--accent);outline-offset:2px;border-radius:6px}
+input:focus-visible,select:focus-visible{outline:none;box-shadow:0 0 0 3px var(--accent-soft-2);border-color:var(--accent-ink)}
+kbd,.kbd{
+  font-family:var(--mono);font-size:11px;line-height:1;
+  border:1px solid var(--line-2);border-bottom-width:2px;border-radius:6px;
+  padding:3px 6px;background:var(--surface-2);color:var(--text-2);
+  display:inline-block;min-width:20px;text-align:center;
+}
+/* 伪装成文字链接的按钮：语义是操作（打开详情/重播发音），但视觉保持行内链接的样子 */
+.btn-link{background:none;border:none;padding:0;font:inherit;color:inherit;cursor:pointer;display:inline-flex;align-items:center;gap:4px;text-decoration:none}
+.btn-link:hover{text-decoration:underline}
+.btn-link .ic{width:1em;height:1em}
+/* WCAG 2.2 · SC 2.5.8 目标尺寸（最小 24×24 CSS px）：
+   独立成行的文字型链接/按钮，触屏上按不准（实测「详情 →」「去测验 →」只有 20px 高）。
+   撑到 24px 不改视觉样式，只是让可点区达标。
+   行内于句子里的控件适用 2.5.8 的「行内」豁免，单独压回原高、不撑高行距。 */
+.btn-link{min-height:24px}
+.quiz-prompt-tag .btn-link{min-height:0}
+.link-more{display:inline-flex;align-items:center;min-height:24px;padding:0 2px}
+/* 跳转链接：改 fixed（原先 absolute 是相对文档定位）——
+   页面已滚动时 absolute 的 top:0 落在视口上方，聚焦后链接被截掉半截、
+   键盘用户看不见自己落在哪（SC 2.4.11）；fixed 则始终贴在视口左上角。 */
+.skip-link{position:fixed;left:-999px;top:0;background:var(--accent);color:var(--on-accent);padding:10px 18px;z-index:300;border-radius:0 0 var(--r-sm) 0;font-weight:600}
+.skip-link:focus{left:0}
+/* 禁用 JS 时应用整体不渲染，这块提示是唯一可见内容（JS 开启时浏览器不显示 noscript 内容） */
+.noscript{max-width:520px;margin:18vh auto 0;padding:26px 28px;background:var(--surface,#fff);border:1px solid var(--line,#ddd);border-radius:12px;font-size:15px;line-height:1.9;text-align:center;color:var(--text,#222)}
+
+/* --------------------------------------------------------------- top bar -- */
+.topbar{
+  position:sticky;top:0;z-index:80;
+  background:transparent;
+  border-bottom:1px solid var(--line);
+}
+/* 毛玻璃放在伪元素上：backdrop-filter 会让元素成为 fixed 子元素的包含块，
+   若直接加在 .topbar 上，移动端底部标签栏会被“固定”在顶栏内部。 */
+.topbar::before{
+  content:'';position:absolute;inset:0;z-index:-1;pointer-events:none;
+  background:color-mix(in srgb,var(--surface) 82%,transparent);
+  backdrop-filter:saturate(180%) blur(16px);
+  -webkit-backdrop-filter:saturate(180%) blur(16px);
+}
+.topbar-inner{max-width:var(--content-max);margin:0 auto;display:flex;align-items:center;gap:14px;padding:9px 20px;min-height:var(--topbar-h)}
+.brand{display:flex;align-items:center;gap:10px;cursor:pointer;user-select:none;flex-shrink:0}
+.brand-logo{
+  width:36px;height:36px;border-radius:11px;flex-shrink:0;
+  display:inline-flex;align-items:center;justify-content:center;
+  background:linear-gradient(135deg,var(--accent),var(--accent-2));
+  color:var(--on-accent);box-shadow:var(--sh-accent);
+}
+.brand-logo .ic{width:20px;height:20px}
+/* 站标改用 icon.jpg：图片铺满圆角方框（浅蓝底随图自带） */
+.brand-logo{overflow:hidden;box-shadow:0 2px 8px rgba(0,0,0,.18)}
+.brand-logo .brand-img{width:100%;height:100%;object-fit:cover;display:block}
+.brand-text{font-weight:700;font-size:15.5px;display:flex;flex-direction:column;line-height:1.2}
+.brand-text em{font-style:normal;font-size:9.5px;font-weight:600;color:var(--text-3);letter-spacing:.16em;text-transform:uppercase}
+
+.mainnav{display:flex;gap:3px;flex:1;min-width:0;overflow-x:auto;scrollbar-width:none;-ms-overflow-style:none}
+.mainnav::-webkit-scrollbar{display:none}
+.nav-item{
+  display:flex;align-items:center;gap:6px;padding:7px 11px;border-radius:var(--r-sm);
+  font-size:13.8px;font-weight:600;color:var(--text-2);white-space:nowrap;
+  position:relative;transition:color var(--dur) var(--ease),background var(--dur) var(--ease);
+}
+.nav-item:hover{background:var(--accent-soft);color:var(--accent-ink);text-decoration:none}
+.nav-item.active{background:var(--accent);color:var(--on-accent);box-shadow:var(--sh-accent)}
+.nav-item .ni{font-size:15px;display:inline-flex}
+.nav-item .ni .ic{width:16px;height:16px}
+.topbar-right{display:flex;align-items:center;gap:8px;flex-shrink:0;margin-left:auto}
+.icon-btn{
+  width:36px;height:36px;border:1px solid var(--line);background:var(--surface);
+  border-radius:var(--r-sm);display:inline-flex;align-items:center;justify-content:center;
+  color:var(--text-2);transition:var(--dur) var(--ease);
+}
+/* 悬停态的文字色用 --accent-ink：--accent 压在 --accent-soft 上仅 4.496:1（差 0.004 卡线不过 AA），
+   --accent-ink 实测 6.03:1；与 .nav-item:hover / .btn-group button:hover / .seg button:hover 同一口径 */
+.icon-btn:hover{border-color:var(--accent-ink);background:var(--accent-soft);color:var(--accent-ink);transform:translateY(-1px)}
+/* 访问次数徽标：与顶栏右侧其它控件同一口径——不加底色、不描边、不额外着色，
+   只用次级文字色把数字摆出来，免得它在顶栏里比搜索/主题按钮更扎眼。 */
+.visit-pill{
+  font-size:12.5px;color:var(--text-2);white-space:nowrap;
+  display:inline-flex;align-items:center;gap:4px;
+}
+.visit-pill .ic{width:15px;height:15px}
+
+/* ---------------------------------------------------------------- layout -- */
+.view-container{max-width:var(--content-max);margin:0 auto;padding:26px 20px 48px;flex:1;width:100%}
+/* 切换视图微动效：app.js 仅在 prev!==name 时重放 .view-enter；reduced-motion 由下方全局规则兜底 */
+@keyframes viewIn{from{opacity:0;transform:translateY(6px)}}
+#main.view-enter{animation:viewIn .22s var(--ease-out)}
+.page-title{font-size:25px;font-weight:800;display:flex;align-items:center;gap:10px;margin:0 0 5px;flex-wrap:wrap;letter-spacing:-.02em}
+.page-title .ic{width:22px;height:22px;color:var(--accent-ink)}
+.page-sub{color:var(--text-2);font-size:13.8px;margin-bottom:22px;max-width:70ch}
+.card{background:var(--surface);border:1px solid var(--line);border-radius:var(--r);box-shadow:var(--sh-1);transition:box-shadow var(--dur) var(--ease),border-color var(--dur) var(--ease)}
+.card-pad{padding:22px}
+.grid{display:grid;gap:16px}
+.mt8{margin-top:8px}.mt12{margin-top:12px}.mt16{margin-top:16px}.mt24{margin-top:24px}
+.dim{color:var(--text-2)}.faint{color:var(--text-3);font-size:12.8px}
+.center{text-align:center}
+/* 按钮/操作行的小布局工具类：收编 app.js 模板里重复出现的内联 style（第十四轮）
+   .hstack 按钮组横排换行 · .hstack-center 完成页居中按钮行 · .split-row 两端对齐行 */
+.hstack{display:flex;gap:8px;flex-wrap:wrap}
+.hstack-center{display:flex;gap:10px;justify-content:center;flex-wrap:wrap}
+.split-row{display:flex;justify-content:space-between;align-items:center;gap:16px;flex-wrap:wrap}
+.sec-title{font-size:16px;font-weight:700;display:flex;align-items:center;gap:8px;margin-bottom:14px}
+.sec-title .ic{width:17px;height:17px;color:var(--accent-ink)}
+
+/* ------------------------------------------------------- buttons & chips -- */
+.btn{
+  display:inline-flex;align-items:center;justify-content:center;gap:7px;
+  border:1px solid var(--line-2);background:var(--surface);color:var(--text);
+  border-radius:var(--r-sm);padding:9px 16px;font-size:14px;font-weight:600;
+  transition:transform var(--dur) var(--ease),box-shadow var(--dur) var(--ease),background var(--dur) var(--ease),border-color var(--dur) var(--ease),color var(--dur) var(--ease);
+  white-space:nowrap;
+}
+.btn:hover{border-color:var(--accent-ink);color:var(--accent-ink);transform:translateY(-1px);box-shadow:var(--sh-1)}
+.btn:active{transform:translateY(0)}
+.btn .ic{width:15px;height:15px}
+.btn.primary{background:linear-gradient(135deg,var(--accent),var(--accent-2));color:var(--on-accent);border-color:transparent;box-shadow:var(--sh-accent)}
+.btn.primary:hover{color:var(--on-accent);filter:brightness(1.06)}
+.btn.good{background:var(--good);border-color:var(--good);color:var(--on-good)}
+.btn.good:hover{color:var(--on-good);filter:brightness(1.06)}
+.btn.bad{background:var(--bad);border-color:var(--bad);color:var(--on-bad)}
+.btn.bad:hover{color:var(--on-bad);filter:brightness(1.06)}
+.btn.warn{background:var(--warn);border-color:var(--warn);color:var(--on-warn)}
+.btn.warn:hover{color:var(--on-warn);filter:brightness(1.06)}
+.btn.big{padding:13px 26px;font-size:15.5px;border-radius:var(--r)}
+.btn.ghost{border-color:transparent;background:transparent;color:var(--text-2)}
+.btn.ghost:hover{background:var(--accent-soft);border-color:transparent;color:var(--accent-ink)}
+.btn.sm{padding:6px 12px;font-size:12.8px;border-radius:var(--r-xs)}
+.btn:disabled{opacity:.45;cursor:not-allowed;transform:none!important;box-shadow:none!important}
+.btn-group{display:inline-flex;border:1px solid var(--line-2);border-radius:var(--r-sm);overflow:hidden;background:var(--surface)}
+.btn-group button{border:none;background:transparent;padding:7px 12px;font-size:13px;font-weight:600;color:var(--text-2);display:inline-flex;align-items:center;gap:5px;transition:var(--dur) var(--ease)}
+.btn-group button+button{border-left:1px solid var(--line)}
+.btn-group button.on{background:var(--accent);color:var(--on-accent)}
+.btn-group button:hover:not(.on){background:var(--accent-soft);color:var(--accent-ink)}
+
+.chip{
+  display:inline-flex;align-items:center;gap:5px;font-size:12.8px;font-weight:600;
+  padding:6px 13px;border-radius:var(--r-full);border:1px solid var(--line);
+  background:var(--surface);color:var(--text-2);cursor:pointer;
+  transition:var(--dur) var(--ease);user-select:none;
+}
+.chip:hover{border-color:var(--accent-ink);color:var(--accent-ink);background:var(--accent-soft);transform:translateY(-1px)}
+.chip.on{background:var(--accent);color:var(--on-accent);border-color:var(--accent-ink);box-shadow:var(--sh-accent)}
+/* 第四十八轮（WCAG 1.4.3）：计数原本靠 opacity:.7 弱化 —— 淡出是把元素整组
+   混到身后底色上，文字跟着一起被拉淡，计数实测掉到 3.37:1（选中态白字压在
+   accent 底上）→ 不达 AA。改用**颜色**承担弱化：--text-3 压 --surface 4.62:1、
+   压 --surface-2 4.94:1；选中态计数换 --on-accent（白字压 accent 5.17:1 / 6.18:1）。 */
+.chip .cnt{color:var(--text-3);font-weight:500;font-variant-numeric:tabular-nums}
+.chip.on .cnt{color:var(--on-accent)}
+.chip .ic{width:14px;height:14px}
+.chip:disabled{opacity:.45;pointer-events:none;cursor:default;box-shadow:none}
+/* 词数不足以出题的范围（< 4 词）弱化显示：先给出信号，选中后还有内联说明
+   （第四十八轮：弱化改由虚线边框＋浅底承担，不再用 opacity —— 启用态的淡出
+   会把文字对比度一并吃掉，实测 2.81:1） */
+.chip.thin{background:var(--surface-2);border-style:dashed;color:var(--text-2)}
+.chip.thin:hover{border-color:var(--line);color:var(--text-2);background:var(--surface-2);transform:none}
+.chip.thin.on{background:var(--accent);color:var(--on-accent);border-color:var(--accent-ink)}
+
+select,input[type="text"],input[type="search"],input[type="number"]{
+  font-size:14px;padding:9px 13px;border:1px solid var(--control-line);border-radius:var(--r-sm);
+  background:var(--surface);color:var(--text);outline:none;transition:var(--dur) var(--ease);
+}
+/* 下拉框与全站圆角/描边语言统一：收起原生外观，换自绘 chevron
+   （描边用中灰，浅深两套主题可共用同一个 data-URI） */
+select{
+  appearance:none;-webkit-appearance:none;
+  padding-right:31px;background-repeat:no-repeat;background-position:right 9px center;
+  background-image:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='11' height='7' viewBox='0 0 11 7'%3E%3Cpath d='M1.5 1.5 5.5 5.5 9.5 1.5' fill='none' stroke='%238b93a7' stroke-width='1.8' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E");
+}
+select:hover,input:hover{border-color:var(--control-line);filter:brightness(.99)}
+/* WCAG 2.2 · SC 2.4.7 焦点可见（表单控件）——修一处「同特异性后写者胜」的静默覆盖：
+   ① 上面 `select,input[type=…]{border:1px solid var(--control-line);outline:none}`
+      与 `:hover` 的 border-color 都排在第 167 行 `input:focus-visible{…border-color:var(--accent-ink)}`
+      **之后**，同特异性（0,1,1）后写者胜 → 聚焦时描边根本不变色；
+   ② 于是表单控件聚焦时唯一的指示器只剩 3px 的 --accent-soft-2 阴影环，
+      与相邻底色相比（取自 tools/a11y_test.py 第⑩段守卫的实测口径：亮色 1.10~1.25:1、
+      暗色 1.31~1.46:1）远低于 SC 1.4.11 的 3:1 —— 键盘用户看不出焦点在哪
+      （按钮/链接走全局 `:focus-visible{outline:2px solid var(--accent)}`，不受此影响）。
+   修法：给表单控件一个与按钮/链接同款的 2px accent 描边（outline-offset 2px，画在控件外圈，
+   不挤动布局），并把描边色显式改回 accent；本段放在控件基础规则之后，故必然胜出。 */
+select:focus-visible,
+input[type="text"]:focus-visible,
+input[type="search"]:focus-visible,
+input[type="number"]:focus-visible,
+input[type="range"]:focus-visible{
+  outline:2px solid var(--accent);
+  outline-offset:2px;
+  border-color:var(--accent-ink);
+  box-shadow:0 0 0 3px var(--accent-soft-2);
+}
+input::placeholder{color:var(--text-3)}
+label.field{display:flex;flex-direction:column;gap:6px;font-size:13px;font-weight:600;color:var(--text-2)}
+
+/* ----------------------------------------------------------- level chips -- */
+.lvl{font-size:11px;font-weight:700;border-radius:var(--r-xs);padding:2px 7px;white-space:nowrap;display:inline-block;line-height:1.6}
+.lvl.l-new{background:var(--surface-2);color:var(--text-3);border:1px dashed var(--line-2)}
+.lvl.l-0{background:var(--bad-soft);color:var(--bad)}
+.lvl.l-1,.lvl.l-2{background:var(--warn-soft);color:var(--warn)}
+.lvl.l-3,.lvl.l-4{background:var(--blue-soft);color:var(--blue)}
+.lvl.l-5{background:var(--good-soft);color:var(--good)}
+.tag-pos{font-size:11px;font-weight:600;border-radius:var(--r-xs);padding:2px 8px;background:var(--accent-soft);color:var(--accent-ink);display:inline-block}
+.tag-sub-p{background:var(--good-soft);color:var(--good)}
+.tag-sub-n{background:var(--bad-soft);color:var(--bad)}
+.tag-sub-z{background:var(--surface-2);color:var(--text-2);border:1px solid var(--line)}
+/* 第七十轮：新增「争议性」（紫）与语体色彩（书面＝青碧 / 口语＝橙）。
+   六个标签六种色相，扫一眼卡片就能分出「褒/贬/两极/中性」与「书面/口语」。 */
+.tag-sub-c{background:var(--violet-soft);color:var(--violet)}
+.tag-reg-w{background:var(--blue-soft);color:var(--blue)}
+.tag-reg-s{background:var(--warn-soft);color:var(--warn)}
+.tag-reg-t{background:var(--indigo-soft);color:var(--indigo)}
+/* 搜索命中仅在例句中时的小徽标（词表行 / 词卡 / 搜索建议共用） */
+.tag-ex{font-size:10px;font-weight:700;border-radius:var(--r-xs);padding:1px 6px;background:var(--blue-soft);color:var(--blue);display:inline-block;line-height:1.6;flex:none}
+.sr-item .sr-ex{align-self:center}
+
+/* ---------------------------------------------------------------- icons -- */
+.ic{display:inline-block;width:1em;height:1em;vertical-align:-.14em;flex:0 0 auto}
+.icon-btn .ic,.mini-btn .ic,.speak-btn .ic{width:17px;height:17px}
+.nav-item .ni .ic{width:16px;height:16px}
+.btn .ic,.chip .ic{width:15px;height:15px}
+.quick-btn .qb .ic{width:22px;height:22px}
+.empty-state .es .ic{width:38px;height:38px}
+.stat-card .k .ic{width:15px;height:15px}
+
+/* ------------------------------------------------------------ home/hero -- */
+.hero{
+  position:relative;overflow:hidden;
+  /* 两套主题共用同一组 --hero-* token：浅色＝暖纸卡（白底→奶油渐变、
+     琥珀细线、对角淡金光），深色＝石墨深卡（白字压深底 AA 富余）。
+     氛围光对角两处（右上 14% + 左下 7%）+ 顶部一道提亮带：
+     只给底色分层不给色块感。 */
+  background:
+    radial-gradient(700px 320px at 92% -20%,color-mix(in srgb,var(--hero-glow) 14%,transparent),transparent 72%),
+    radial-gradient(560px 300px at 4% 118%,color-mix(in srgb,var(--hero-glow) 7%,transparent),transparent 65%),
+    linear-gradient(180deg,var(--hero-sheen),transparent 28%),
+    linear-gradient(158deg,var(--hero-1),var(--hero-2));
+  color:var(--hero-text);border:1px solid var(--hero-line);border-radius:var(--r-xl);padding:32px 32px 26px;
+  display:flex;justify-content:space-between;gap:30px;flex-wrap:wrap;align-items:stretch;
+  box-shadow:var(--hero-shadow);
+  isolation:isolate;
+}
+/* 卡顶内嵌高光：一道贴着上边缘的发丝线（玻璃卡的反光）。
+   深色主题把卡片与近黑的页面底分开；浅色主题近隐形，结构保持同一份。 */
+.hero::before{
+  content:"";position:absolute;inset:0 0 auto 0;height:1px;z-index:1;pointer-events:none;
+  background:linear-gradient(90deg,transparent,var(--hero-topline) 18%,var(--hero-topline) 82%,transparent);
+}
+/* 左栏（文案）按列排：卡片高度由右侧「随机一词」面板决定时，
+   快捷键提示行用 margin-top:auto 贴到卡片底部，左下不再留一块说不清的死白。 */
+.hero > div:first-child{display:flex;flex-direction:column;position:relative;z-index:1}
+.hero h1{font-size:27px;font-weight:800;margin-bottom:8px;letter-spacing:-.025em;max-width:18ch}
+/* hero 正文一律满不透明（--hero-text 已按主题给定）：深色卡上任何 opacity
+   淡出都会把白字拉低（第四十八/四十九轮实测 3.71~4.68:1 的旧账），
+   柔化交给渐变与描边；浅色主题走页面正文的 AA 校准色。 */
+.hero p{font-size:14.5px;max-width:52ch;line-height:1.75;color:var(--hero-text-2)}
+.hero .eyebrow{
+  display:inline-flex;align-items:center;gap:6px;font-size:11.5px;font-weight:700;
+  letter-spacing:.14em;text-transform:uppercase;margin-bottom:12px;
+  background:var(--hero-chip-bg);padding:5px 11px;border-radius:var(--r-full);border:1px solid var(--hero-chip-line);
+  /* 左栏是 flex column（默认 stretch），徽标会被拉成通栏长条，
+     看起来像一条空的搜索框 —— 收回到内容宽度，让它是一枚「徽章」。 */
+  align-self:flex-start;
+  color:var(--hero-chip-text);
+}
+/* 徽标里的星标：深色吃暖金（深底上才亮得出来），浅色吃强调墨水
+   （压 accent-soft 7.21:1，--accent-3 浅色主题太浅、压不住浅底）。 */
+.hero .eyebrow .ic{width:13px;height:13px;color:var(--hero-chip-text)}
+html[data-theme="dark"] .hero .eyebrow .ic{color:var(--hero-glow)}
+.hero-actions{display:flex;gap:11px;flex-wrap:wrap;align-items:center;margin-top:22px}
+/* hero 里的三个大按钮在桌面档（--content-max 1200px）本可并排一行，
+   全局 .btn.big 的 26px 横向内边距会把第三个挤下去 —— hero 内收一档，
+   行不再折成两行。 */
+.hero .btn.big{padding:13px 20px}
+/* hero 次级按钮：浅色主题与全站按钮同貌（白底细线），深色主题走深玻璃
+   （只压暗不掺白：白玻璃在深底上逐层叠亮，会把白字压低对比度）。 */
+.hero .btn{background:var(--hero-btn-bg);border:1px solid var(--hero-btn-line);color:var(--hero-text)}
+.hero .btn:hover{background:var(--hero-btn-hover-bg);color:var(--hero-btn-hover-text);transform:translateY(-2px)}
+/* 主按钮与全站 .btn.primary 同一套强调色渐变（白字压琥珀金 5.92:1），
+   外围多一圈暖金柔光晕，主按钮从卡面上真正浮起来。 */
+.hero .btn.primary{background:linear-gradient(135deg,var(--accent),var(--accent-2));color:var(--on-accent);border-color:transparent;
+  box-shadow:var(--sh-accent),0 4px 18px color-mix(in srgb,var(--hero-glow) 26%,transparent)}
+.hero .btn.primary:hover{color:var(--on-accent);filter:brightness(1.06)}
+/* 快捷键提示行：贴卡片底部（margin-top:auto），上面用一道发丝线与正文分开，
+   这样它读起来是 hero 的「页脚」而不是半空中的第三段正文。 */
+.hero-hint{margin-top:auto;padding-top:15px;font-size:12.5px;display:flex;gap:16px;flex-wrap:wrap;
+  border-top:1px solid var(--hero-hairline);color:var(--hero-faint)}
+.hero-hint span{display:inline-flex;align-items:center;gap:6px}
+/* kbd 走 --hero-kbd-*：浅色主题就是全局的浅色小牌（浅卡上本就协调），
+   深色主题换深玻璃小牌（白系半透明底/边/字，
+   只用形状（双层底边）承担「按键帽」的隐喻）。 */
+.hero-hint kbd{
+  background:var(--hero-kbd-bg);border-color:var(--hero-kbd-line);
+  border-bottom-width:2px;color:var(--hero-kbd-text);font-size:10.5px;padding:2px 6px;min-width:0;
+}
+
+/* 随机一词面板：玻璃面板（浅色＝浅纸玻璃，深色＝深底玻璃只压暗不提亮），
+   边框留白维持玻璃感。
+   宽度 284px → 440px → 520px：原来那窄条里例句每行只剩三四个字、
+   义项也常被折成三四行，词本身倒挤在一条缝里；440px 时例句仍常折成两行、
+   卡片显得又窄又高，再放宽到 520px 后例句与义项都能一行读完，
+   卡片随之矮下一截。flex 基准仍写成 520px 并允许收缩，
+   窄屏时由下方 media 接管成整行。 */
+.rand-word{
+  width:520px;flex:0 1 520px;min-width:0;max-width:100%;padding:22px 24px;
+  background:var(--hero-glass);border:1px solid var(--hero-glass-line);
+  border-radius:var(--r-lg);backdrop-filter:blur(10px);
+  display:flex;flex-direction:column;
+}
+/* 随机一词的例句：填满面板，也让这个词真正能学 */
+.rand-word-ex{margin-top:14px;padding:13px 15px;border-radius:var(--r-sm);background:var(--hero-glass-2);border:1px solid var(--hero-glass-line)}
+.rand-word-ex-en{font-size:15px;line-height:1.65;color:var(--hero-text)}
+.rand-word-ex-zh{font-size:14px;line-height:1.6;color:var(--hero-text-2);margin-top:5px}
+html[data-theme="dark"] .rand-word-ex-zh{color:rgba(255,255,255,.85)}
+/* 操作行贴着面板底部，卡片高度变化时也不会悬在半空 */
+.rand-word-foot{display:flex;align-items:center;gap:12px;margin-top:auto;padding-top:14px;font-size:13.8px}
+/* 面板头：左「随机一词」标题，右「刷新」图标按钮（手动换一个词）。
+   此前刷新只藏在底部的「换一个」文字链里，位置低、样式淡，容易被当成没有。 */
+.rand-word-head{display:flex;align-items:center;justify-content:space-between;gap:10px}
+.rand-refresh{
+  width:30px;height:30px;flex:0 0 auto;padding:0;border-radius:50%;
+  border:1px solid var(--hero-iconbtn-line);background:var(--hero-iconbtn-bg);color:var(--hero-iconbtn-text);
+  display:inline-flex;align-items:center;justify-content:center;cursor:pointer;
+  transition:var(--dur) var(--ease);
+}
+.rand-refresh:hover{background:var(--hero-iconbtn-hover-bg);border-color:var(--hero-iconbtn-text)}
+.rand-refresh:active{transform:scale(.94)}
+.rand-refresh .ic{width:16px;height:16px}
+.rand-word .phon-hint{font-size:12.5px;font-weight:600;letter-spacing:.06em;opacity:.85;display:flex;align-items:center;gap:6px}
+.rand-word .w{font-family:var(--font-serif);font-size:38px;font-weight:700;letter-spacing:-.01em;color:var(--hero-text);line-height:1.15;margin-top:6px;word-break:break-word}
+.rand-word .senses{margin-top:10px;font-size:15.5px;color:var(--hero-text);line-height:1.7}
+html[data-theme="dark"] .rand-word .senses{color:rgba(255,255,255,.95)}
+.rand-word .faint{color:var(--hero-faint)}
+.rand-word .faint:hover{color:var(--hero-text)}
+.rand-word .speak-btn{background:var(--hero-iconbtn-bg);border-color:var(--hero-iconbtn-line);color:var(--hero-iconbtn-text)}
+.rand-word .speak-btn:hover{background:var(--hero-iconbtn-hover-bg)}
+.rand-word .speak-btn.sm{width:38px;height:38px}
+.rand-word .speak-btn.sm .ic{width:19px;height:19px}
+
+/* 五个指标合并成一条「指标带」：一张卡、五个格子、格间一道发丝线。
+   此前是五张各自带边框阴影的浮卡，且 .dash-stats 有 padding:0 10px ——
+   它们比 hero 窄 20px，两端各露出一条 hero 的深色底边，看着像没对齐。
+   现在整条与 hero 左右边缘齐平；分隔线用 gap:1px + 容器底色实现，
+   换行到多行时行间也是同一道线，不必为各档宽度另写边框规则。 */
+.dash-stats{
+  display:grid;grid-template-columns:repeat(5,minmax(0,1fr));gap:1px;
+  margin-top:16px;position:relative;z-index:2;
+  background:var(--line);border:1px solid var(--line);border-radius:var(--r);
+  box-shadow:var(--sh-2);overflow:hidden;
+}
+.stat-card{
+  background:var(--surface);padding:15px 20px 16px;cursor:pointer;position:relative;
+  transition:background var(--dur) var(--ease);
+}
+/* 悬停：格子顶边亮一道强调色 + 底色微亮（不再是整张卡浮起来） */
+.stat-card::after{
+  content:"";position:absolute;left:0;right:0;top:0;height:2px;
+  background:linear-gradient(90deg,var(--accent),var(--accent-2));opacity:0;transition:opacity var(--dur) var(--ease);
+}
+.stat-card:hover{background:var(--surface-2)}
+.stat-card:hover::after{opacity:1}
+.stat-card:focus-visible{outline:2px solid var(--accent-ink);outline-offset:-2px}
+/* 标签行：图标装进一枚圆角小牌，标签在右，数字另起一行（大字在前）。
+   .sc-ic 首页指标带与统计页 KPI 共用同一枚样式，两处读起来是同一套指标卡。 */
+.sc-ic{display:inline-flex;width:26px;height:26px;border-radius:8px;flex:none;
+  align-items:center;justify-content:center;background:var(--accent-soft);color:var(--accent-ink);margin-right:8px}
+.sc-ic .ic{width:15px;height:15px}
+.stat-card .k{font-size:12.5px;color:var(--text-2);display:flex;align-items:center;font-weight:600;line-height:1.4}
+.stat-card .v{font-size:26px;font-weight:800;letter-spacing:-.03em;line-height:1.15;font-variant-numeric:tabular-nums;margin-top:8px;white-space:nowrap}
+.stat-card .v small{font-size:12px;color:var(--text-3);font-weight:500}
+
+.home-grid{display:grid;grid-template-columns:1.55fr 1fr;gap:18px;margin-top:26px}
+/* 网格子项默认 min-width:auto，会被内容的 min-content 撑宽并把整页横向撑出滚动条 */
+.home-grid > *{min-width:0}
+.home-side{display:flex;flex-direction:column;gap:18px}
+/* 「最需要加强的词」：把答错最多的词直接摆出来，点一下看详情 */
+/* 第五十四轮：首页「最需要加强的词」的一行是 [单词][释义 flex:1][×错次]，
+   释义被写成 nowrap + ellipsis，且一行里只有它是弹性项 ⇒ 长义项被横向砍掉一大半：
+   实测「concern」的义项（119 字）桌面 1280px 也只剩 270px / 1011px ＝ 27% 可见，
+   320px 更只剩 114px ＝ 11%。这里改成：单词与错次徽标在第一行，释义独占第二行整行
+   折行显示（不做行数截断——词库最长义项 119 字，截行＝静默丢内容）。 */
+.weak-item{display:flex;flex-wrap:wrap;align-items:center;gap:2px 10px;padding:9px 10px;border-radius:var(--r-sm);cursor:pointer;transition:var(--dur) var(--ease)}
+.weak-item:hover{background:var(--surface-2)}
+.wi-word{font-family:var(--font-serif);font-weight:700;font-size:14.5px;flex:0 1 auto;min-width:0;max-width:100%;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.wi-sense{order:3;flex:1 0 100%;min-width:0;font-size:12.8px;color:var(--text-3);white-space:normal;overflow-wrap:anywhere}
+.wi-wrong{order:2;margin-left:auto;display:inline-flex;align-items:center;gap:4px;flex-shrink:0;font-size:12px;font-weight:700;color:var(--bad);background:var(--bad-soft);border:1px solid var(--bad-line);border-radius:var(--r-full);padding:2px 9px}
+.wi-wrong .ic{width:12px;height:12px}
+.panel-h{font-size:14.5px;font-weight:700;padding:14px 18px;border-bottom:1px solid var(--line);display:flex;align-items:center;justify-content:space-between;gap:10px}
+.panel-h .link-more{font-size:12.5px;font-weight:600;color:var(--accent-ink)}
+.progress-line{height:8px;border-radius:var(--r-full);background:var(--line-2);overflow:hidden}
+.progress-line>div{height:100%;border-radius:var(--r-full);background:linear-gradient(90deg,var(--accent),var(--accent-2));transition:width .55s var(--ease-out)}
+.goal-row{display:flex;justify-content:space-between;font-size:12.8px;color:var(--text-2);margin-bottom:7px;font-weight:500}
+.goal-row b{font-variant-numeric:tabular-nums}
+.goal-edit-input{width:86px;padding:5px 9px;font-size:13px;border-radius:var(--r-xs);border:1px solid var(--accent);text-align:center;font-variant-numeric:tabular-nums}
+.quick-row{display:grid;grid-template-columns:repeat(3,1fr);gap:12px;padding:18px}
+.quick-btn{
+  display:flex;flex-direction:column;align-items:center;gap:9px;padding:17px 8px;
+  border:1px solid var(--line);border-radius:var(--r);background:var(--surface-2);
+  font-size:13px;font-weight:600;color:var(--text-2);transition:var(--dur) var(--ease);
+}
+.quick-btn:hover{border-color:var(--accent-ink);color:var(--accent-ink);transform:translateY(-2px);text-decoration:none;background:var(--accent-soft);box-shadow:var(--sh-1)}
+.quick-btn .qb{display:inline-flex;width:42px;height:42px;border-radius:13px;align-items:center;justify-content:center;background:var(--accent-soft);color:var(--accent-ink)}
+.quick-btn:hover .qb{background:var(--accent);color:var(--on-accent)}
+
+.ring-wrap{display:flex;align-items:center;gap:18px}
+.ring{width:96px;height:96px;flex-shrink:0;position:relative}
+.ring svg{transform:rotate(-90deg)}
+.ring .ring-label{position:absolute;inset:0;display:flex;flex-direction:column;align-items:center;justify-content:center;font-weight:800;font-size:20px;letter-spacing:-.02em}
+.ring .ring-label small{font-size:10.5px;font-weight:600;color:var(--text-3);letter-spacing:.04em}
+
+.week-bars{display:flex;align-items:flex-end;gap:8px;height:88px;margin-top:4px}
+.week-bars.dense{gap:4px}
+.wb{flex:1;min-width:0;display:flex;flex-direction:column;align-items:center;gap:6px;height:100%;justify-content:flex-end}
+/* 每一天先画一条等高的「轨道」，填充的柱子叠在轨道底部。
+   此前没有轨道：全零的 7 天只在底部留几个 3px 的小疙瘩，图表区整整 80px 全空，
+   看着像没画出来。轨道让空态也是一张完整的图。 */
+.wb .track{width:100%;max-width:30px;height:var(--track-h,58px);border-radius:6px 6px 3px 3px;background:var(--surface-3);
+  display:flex;align-items:flex-end;overflow:hidden}
+.week-bars.dense .wb .track{--track-h:76px}
+.wb .bar{width:100%;border-radius:6px 6px 3px 3px;background:linear-gradient(180deg,var(--accent),var(--accent-2));transition:height .5s var(--ease-out)}
+.wb.zero .bar{display:none}
+/* 全零的一周：轨道改画成虚线空槽，一眼能看出「还没有数据」而不是七根 0 值柱 */
+.week-bars.empty .track{background:transparent;border:1px dashed var(--line-2)}
+.wb .lbl{font-size:10.5px;color:var(--text-3);font-weight:600;white-space:nowrap}
+.wb .n{font-size:10.5px;color:var(--text-2);font-variant-numeric:tabular-nums;font-weight:600}
+
+.quiz-hist-item{display:flex;justify-content:space-between;font-size:13.5px;padding:11px 2px;border-bottom:1px dashed var(--line);gap:10px;flex-wrap:wrap;align-items:center}
+.quiz-hist-item:last-child{border:none}
+.quiz-hist-item .qh-mode{display:inline-flex;align-items:center;gap:7px;font-weight:600}
+.quiz-hist-item .qh-score{font-variant-numeric:tabular-nums;font-weight:700}
+.quiz-hist-item .qh-score.good{color:var(--good)}
+.quiz-hist-item .qh-score.mid{color:var(--warn)}
+.quiz-hist-item .qh-score.low{color:var(--bad)}
+/* 全跳过的场次：未作答不是低分，用中性灰而不是刺眼的红 */
+.quiz-hist-item .qh-score.none{color:var(--text-3);font-weight:600}
+
+/* ---------------------------------------------------------------- browse -- */
+.toolbar{
+  display:flex;flex-wrap:wrap;gap:10px;align-items:center;margin-bottom:12px;
+  position:sticky;top:var(--topbar-h);z-index:20;
+  background:color-mix(in srgb,var(--bg) 88%,transparent);
+  backdrop-filter:blur(10px);padding:10px 0;margin-inline:-4px;padding-inline:4px;
+}
+.toolbar .search-wrap{flex:1;min-width:210px;position:relative}
+/* 工具条右侧的一组控件（视图切换 + 其后的按钮）：宽屏下横排，
+   窄屏下整体作为一个弹性块参与换行，避免单个按钮被甩到下一行 */
+.toolbar-end{display:flex;gap:8px;align-items:center;min-width:0;flex-wrap:wrap}
+.toolbar .search-wrap input{width:100%;padding-left:36px}
+.toolbar .search-wrap::before{
+  content:"";position:absolute;left:12px;top:50%;transform:translateY(-50%);width:15px;height:15px;
+  opacity:.45;background-color:currentColor;pointer-events:none;
+  -webkit-mask:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='black' stroke-width='2.6' stroke-linecap='round'%3E%3Ccircle cx='11' cy='11' r='7'/%3E%3Cpath d='M21 21l-4.3-4.3'/%3E%3C/svg%3E") center/contain no-repeat;
+  mask:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='black' stroke-width='2.6' stroke-linecap='round'%3E%3Ccircle cx='11' cy='11' r='7'/%3E%3Cpath d='M21 21l-4.3-4.3'/%3E%3C/svg%3E") center/contain no-repeat;
+}
+.filters{display:flex;flex-wrap:wrap;gap:7px;margin-bottom:12px}
+/* 筛选行的小标签（如「感情色彩」）：说明这一排 chips 筛的是什么 */
+.filters-label{font-size:12.5px;font-weight:600;color:var(--text-3);align-self:center;margin-right:2px}
+.letter-bar{display:flex;flex-wrap:wrap;gap:4px;margin-bottom:16px}
+
+/* 筛选面板：每一行都是「标签 + 控件」，统一说清楚这一排筛的是什么。
+   此前三排筛选（词性 / 感情色彩 / 首字母）平铺在页面上，只有中间一排带标签，
+   「全部 / 全部」两个按钮分属不同维度，用户得猜哪个是哪个；现在标签固定在左列，
+   三排控件右对齐成一块面板，一眼看清「按什么筛」。 */
+.filter-panel{
+  border:1px solid var(--line);border-radius:var(--r);background:var(--surface);
+  padding:2px 16px 10px;margin-bottom:14px;
+}
+.filter-panel-head{
+  display:flex;align-items:center;gap:12px;padding:11px 0 9px;
+  border-bottom:1px solid var(--line);
+}
+.filter-panel-title{font-size:12.5px;font-weight:700;color:var(--text-2);letter-spacing:.04em}
+.filter-panel-head .btn{margin-left:auto}
+.filter-row{display:flex;align-items:flex-start;gap:14px;padding:11px 0}
+.filter-row + .filter-row{border-top:1px solid var(--line)}
+.filter-label{
+  flex:0 0 auto;min-width:58px;padding-top:6px;
+  font-size:12.5px;font-weight:700;color:var(--text-2);
+}
+.filter-body{flex:1 1 auto;min-width:0;display:flex;flex-wrap:wrap;gap:7px;align-items:center}
+.filter-body .letter-bar{margin-bottom:0}
+/* 工具条里的「标签 + 控件」：状态下拉、每页条数各有各的可见标签，
+   免得两个下拉并排时不知道哪个是哪个 */
+.field{display:inline-flex;align-items:center;gap:6px}
+.field-label{font-size:12.5px;font-weight:600;color:var(--text-3);white-space:nowrap}
+/* 筛选折叠条：桌面端不显示，窄屏才出现 */
+.filter-bar{display:none}
+.filter-toggle .ft-count{
+  display:inline-flex;align-items:center;justify-content:center;min-width:17px;height:17px;padding:0 5px;
+  border-radius:9px;background:var(--accent);color:var(--on-accent);font-size:11px;font-weight:700;vertical-align:middle;
+}
+/* 第五十六轮：窄屏的「当前筛选」摘要被横向砍掉尾巴。
+   实测：摘要行是 [筛选按钮][摘要 nowrap+ellipsis] 一行排布，摘要又是唯一的
+   弹性项 ⇒ 关键词（排在最后，恰恰是最该看见的那个）先被砍：
+   320px 只剩 75%（184/244px，「关键词「interdiscip…」），375px 82%，414px 95%。
+   摘要的作用就是告诉用户「现在筛掉了什么」，砍掉尾巴＝静默丢信息。
+   改法：摘要允许折行（white-space:normal）＋ overflow-wrap:anywhere（长英文词
+   也不撑破容器），弹性项占满剩余宽度；不做行数截断——截行同样是静默丢内容。 */
+.filter-summary{
+  font-size:12.5px;color:var(--text-3);
+  flex:1 1 auto;min-width:0;
+  white-space:normal;overflow-wrap:anywhere;
+  overflow:visible;text-overflow:clip;
+}
+.letter-btn{
+  min-width:31px;height:31px;padding:0 7px;border:1px solid var(--line);background:var(--surface);
+  border-radius:var(--r-xs);font-size:12.5px;font-weight:700;color:var(--text-2);
+  display:inline-flex;align-items:center;justify-content:center;gap:3px;transition:var(--dur) var(--ease);
+}
+/* 第四十八轮（WCAG 1.4.3）：首字母下的词数与「无词首字母」按钮原本靠
+   opacity(.75/.32) 弱化 —— 淡出把文字一起拉淡，实测 3.91:1 与 1.68:1，均不达 AA。
+   改由颜色＋底色承担弱化：计数用 --text-3（压 --surface 4.62:1 / 4.94:1），
+   无词按钮改虚线边框＋--surface-2 底＋--text-3 字（4.94:1 / 5.54:1）。 */
+.letter-btn small{font-size:10px;color:var(--text-3);font-weight:500}
+.letter-btn:hover{border-color:var(--accent-ink);color:var(--accent-ink)}
+.letter-btn.on{background:var(--accent);color:var(--on-accent);border-color:var(--accent-ink)}
+.letter-btn.on small{color:var(--on-accent)}
+.letter-btn.dim{background:var(--surface-2);border-style:dashed;color:var(--text-3)}
+
+.word-table{width:100%;border-collapse:separate;border-spacing:0;background:var(--surface);border-radius:var(--r);overflow:hidden;box-shadow:var(--sh-1);border:1px solid var(--line)}
+.word-table th{
+  font-size:11.5px;text-transform:uppercase;letter-spacing:.07em;color:var(--text-3);text-align:left;
+  padding:11px 14px;border-bottom:1px solid var(--line);background:var(--surface-2);user-select:none;white-space:nowrap;
+}
+.word-table th .th-sort{display:inline-flex;align-items:baseline;gap:2px;background:none;border:none;padding:0;margin:0;font:inherit;color:inherit;cursor:pointer;transition:color var(--dur) var(--ease)}
+.word-table th .th-sort:hover{color:var(--accent-ink)}
+.word-table td{padding:11px 14px;border-bottom:1px solid var(--line);font-size:14px;vertical-align:middle}
+.word-table tbody tr:last-child td{border-bottom:none}
+.word-table tbody tr{cursor:pointer;transition:background var(--dur) var(--ease)}
+/* 斑马纹：长表格逐行扫读时，奇偶行交替的一层极淡底色能帮眼睛横向跟住一行。
+   必须排在 :hover 之前 —— 两者特异度相同（0,2,2），后写的 :hover 才盖得住斑马纹。 */
+.word-table tbody tr:nth-child(even){background:var(--surface-2)}
+.word-table tbody tr:hover{background:var(--accent-soft)}
+.wt-num{color:var(--text-3);font-family:var(--mono);font-size:12px;width:56px}
+/* 单词本身做成按钮：键盘可以 Tab 过去按 Enter 打开详情 */
+.wt-open{background:none;border:0;padding:0;font:inherit;color:inherit;text-align:left;cursor:pointer}
+.wt-word{font-weight:700;font-size:15px;white-space:nowrap;font-family:var(--font-serif)}
+.wt-open:hover{color:var(--accent-ink)}
+.wt-sense{color:var(--text-2)}
+.wt-actions{white-space:nowrap;text-align:right;width:1%}
+/* 窄屏下状态列隐藏，改为在单词旁显示（见 views.browse 的 .wt-lvl-sm） */
+.wt-lvl-sm{display:none}
+.mini-btn{
+  border:none;background:transparent;color:var(--text-3);padding:5px 7px;border-radius:var(--r-xs);
+  display:inline-flex;transition:var(--dur) var(--ease);
+  /* 第四十九轮（WCAG 1.4.11）：这三个图标是按钮的唯一识别依据（无文字标签），
+     原 opacity:.65 把描边一起淡出 —— 实测 2.46:1（暗 2.80:1），低于 3:1。
+     淡出幅度收到 .85：仍弱于正文，但保住非文字对比度。 */
+  opacity:.85;
+}
+.mini-btn:hover{opacity:1;background:var(--surface-3);color:var(--accent-ink);transform:scale(1.12)}
+.mini-btn.faved{opacity:1;color:var(--warn)}
+.mini-btn.faved .ic{fill:currentColor}
+.list-wrap{overflow-x:auto;border-radius:var(--r)}
+.count-line{font-size:13px;color:var(--text-2);margin-bottom:11px;display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:10px}
+.count-line b{font-variant-numeric:tabular-nums;color:var(--text)}
+.pager{display:flex;gap:6px;justify-content:center;margin-top:20px;flex-wrap:wrap}
+.pager button{
+  border:1px solid var(--line);background:var(--surface);color:var(--text-2);border-radius:var(--r-xs);
+  min-width:35px;height:35px;font-weight:600;transition:var(--dur) var(--ease);font-variant-numeric:tabular-nums;
+}
+/* 悬停规则必须排除 .on：本行原为 .pager button:hover:not(:disabled)（特异度 0,3,1），
+   会压过 .pager button.on（0,2,1），把当前页码的文字改成 accent —— accent 文字压在
+   accent 底上＝对比度 1.000:1，数字直接消失。与 .btn-group / .seg 的既有口径一致。 */
+.pager button:not(.on):hover:not(:disabled){border-color:var(--accent-ink);color:var(--accent-ink)}
+.pager button.on{background:var(--accent);color:var(--on-accent);border-color:var(--accent-ink);box-shadow:var(--sh-accent)}
+.pager button:disabled{opacity:.35;cursor:not-allowed}
+.empty-state{padding:52px 20px;text-align:center;color:var(--text-3)}
+/* 空态**嵌在卡片里**时（如「最近测验记录」卡）不再撑 52px 的上下留白：
+   卡片本身已有内边距，再叠一层空态的大留白会撑出一张高过头的空卡。
+   独立成页的空态（词库无结果等）仍是 .card.empty-state 同一元素，不受此条影响。 */
+.card .empty-state{padding:30px 20px}
+/* 第五十一轮：.es 原本是 inline-flex —— 空态图标因此与首行文字**并排**
+   （图标 38px 高、文字行约 17px，图标下半截压进文字行里），实测五处空态
+   （收藏 / 词库无结果 / 首页无测验记录 / 首页无错词 / 搜索无结果）
+   的图标都没能「站在文字上方」。CSS 里本来就写着 margin-bottom:10px，
+   说明原意就是让图标独占一行；这里改成块级 flex + margin:0 auto 居中，
+   文字居中方式不动（父级 text-align:center 仍然管文本行）。 */
+.empty-state .es{display:flex;align-items:center;justify-content:center;width:fit-content;margin:0 auto 10px;color:var(--text-3);opacity:.7}
+.empty-state .es .ic{width:38px;height:38px}
+/* 零结果时把「当前生效的筛选」列成小标签，一眼看清是什么把结果筛没了 */
+.empty-state .es-filter{display:flex;flex-wrap:wrap;gap:6px;justify-content:center;margin-top:12px}
+.empty-state .es-filter span{font-size:12.5px;padding:3px 10px;border-radius:999px;background:var(--surface-2);border:1px solid var(--line);color:var(--text-2);font-weight:600}
+
+/* 词库卡片视图 */
+.wcard-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(238px,1fr));gap:12px}
+.wcard{
+  background:var(--surface);border:1px solid var(--line);border-radius:var(--r);padding:14px 15px;
+  cursor:pointer;transition:var(--dur) var(--ease);position:relative;display:flex;flex-direction:column;gap:6px;
+}
+.wcard:hover{border-color:var(--accent-ink);transform:translateY(-3px);box-shadow:var(--sh-2)}
+.wcard .wc-top{display:flex;align-items:baseline;gap:8px;flex-wrap:wrap}
+.wcard .wc-word{font-family:var(--font-serif);font-weight:700;font-size:17px;letter-spacing:-.01em;overflow-wrap:break-word}
+/* 词性标签不换行，避免在窄卡片里被拆成两行 */
+.wcard .wc-top .tag-pos{white-space:nowrap;flex:none}
+.wcard .wc-num{margin-left:auto;font-size:10.5px;color:var(--text-3);font-family:var(--mono)}
+.wcard .wc-sense{font-size:13px;color:var(--text-2);line-height:1.65;display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden}
+.wcard .wc-ex{margin-top:1px}
+.wcard .wc-ex-label{display:none}
+.wcard .wc-ex-item{border:0;border-left:2px solid var(--line-2);background:transparent;padding:1px 0 1px 8px}
+.wcard .wc-ex-en{font-size:12.3px;line-height:1.6;color:var(--text-3);font-style:italic;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
+.wcard .wc-foot{display:flex;align-items:center;gap:6px;margin-top:auto;padding-top:6px}
+
+/* ------------------------------------------------------------ flashcards -- */
+.deck-setup,.quiz-setup{max-width:680px;margin:0 auto}
+/* （.setup-card / .setup-opts / .setup-sep 随学习页、测验页改用 .filter-panel
+   一并下线——那三组类在本页改版后已无引用，留着只会误导后来的人。） */
+/* 牌组选项：**chip 流**（与测验面板的题型/范围/题数同一套语言）。
+   此前是 15 张大卡（范围 7 + 词性 8），页面被撑到三屏高；新用户的空范围
+   （复习队列/学习中/已掌握/收藏 全是 0 词）又占了半屏，一眼扫过去
+   满屏都是「0 词」。改成 chip 后：范围 7 颗两行、词性 8 颗两行，
+   一屏看完全部入口，且与同页的测验面板视觉语言一致。 */
+.deck-grid{display:flex;flex-wrap:wrap;gap:8px}
+/* 宽屏（≥1000px）上 chip 改排成**等宽栅格**：页面铺开后 chip 若还按内容宽度
+   左对齐，一行右边会空掉一大片；等宽栅格让每一颗占满一格、词数右对齐成列，
+   两排（范围 / 词性）的列也对得整整齐齐。
+   最小列宽 180px：实测最宽的一颗（「形容词 · 中性 353 词」）要 176px，
+   180px 装得下（留一点余量给「上次筛选结果」这类更长的名字）；
+   窄屏（<1000px）维持 chip 流原样。 */
+@media (min-width:1000px){
+  /* auto-fit（不是 auto-fill）：auto-fill 会把「放不下的」那些列照样造出来，
+     于是最后一行右侧空出整列的空壳 —— 实测 1920px 档词性行右侧空 487px、
+     2560px 档范围行右侧空 198px，而上一行却铺到了面板右缘，看着像被截断。
+     auto-fit 会把没人用的列收掉，六颗 chip 均分整行，行的右缘与上一行齐平。 */
+  .deck-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(180px,1fr));gap:8px}
+  .deck-grid .deck-opt{justify-content:space-between}
+  /* 词性行收窄：六个词性 chip（形容词/副词/动词/名词/连词/介词）能排成一行，
+     不必剩一颗孤零零掉到第二行。词性名都短（最长「介词 63 词」约 128px），
+     150px 的列宽装得下。 */
+  .deck-grid.pos{grid-template-columns:repeat(auto-fit,minmax(150px,1fr))}
+}
+/* 「形容词的感情色彩」子组：这三颗 chip 是形容词的**拆分**（褒+贬+中＝形容词），
+   与「形容词」并列会被读成四组互不相干的范围。用虚线框把它们收成子组，
+   框上写清「三者合计＝形容词总数」，口径不再打架。 */
+.deck-sub{
+  flex:1 0 100%;width:100%;display:flex;flex-direction:column;gap:8px;
+  border:1px dashed var(--line-2);border-radius:var(--r);padding:9px 11px;margin-top:2px;
+}
+.deck-sub-cap{font-size:11.8px;color:var(--text-3);font-weight:600}
+@media (min-width:1000px){
+  /* 子组只有三颗：沿用整宽栅格会拉出三道 380px 的空壳，收到 240px 上限并左对齐 */
+  .deck-grid.sub{grid-template-columns:repeat(auto-fill,minmax(160px,240px));justify-content:start}
+}
+.deck-opt{
+  display:inline-flex;align-items:center;gap:8px;
+  padding:7px 12px;border-radius:var(--r-full);
+  background:var(--surface);border:1px solid var(--line);color:var(--text-2);
+  font-size:13.5px;font-weight:600;text-align:left;
+  transition:var(--dur) var(--ease);
+}
+.deck-opt:hover{border-color:var(--accent-ink);background:var(--accent-soft);color:var(--accent-ink);transform:translateY(-1px);box-shadow:var(--sh-1)}
+/* 选中态（两步流：chip 点一下只选中，面板底「开始学习」确认后才开局）：
+   与测验面板的范围 chip 同一套 .chip.on 语言，两个面板的动作语言不再分叉。
+   空牌组不可开，但**可以**处于选中态吗？不可以 —— 选中一个 0 词的范围
+   只会换来一个禁用的按钮，选中态只落有词的档（app.js 把初始选中拨到推荐范围）。 */
+.deck-opt.on{background:var(--accent);border-color:var(--accent-ink);color:var(--on-accent);box-shadow:var(--sh-accent)}
+.deck-opt.on:hover{transform:none}
+.deck-opt.on .do-t .ic{color:var(--on-accent)}
+/* .do-n 的左竖线在实底强调色上要有对应对比：分隔线压浅色文字 */
+.deck-opt.on .do-n{color:var(--on-accent);opacity:.82;border-left-color:color-mix(in srgb,var(--on-accent) 45%,transparent)}
+.deck-opt .do-t{display:inline-flex;align-items:center;gap:6px;white-space:nowrap}
+.deck-opt .do-t .ic{width:15px;height:15px;color:var(--accent-ink);flex:none}
+/* 词数：与 chip 的计数同一口径（--text-3），左竖线分隔，不与名字抢注意力 */
+.deck-opt .do-n{
+  font-size:12px;color:var(--text-3);font-weight:500;font-variant-numeric:tabular-nums;
+  padding-left:8px;border-left:1px solid var(--line);white-space:nowrap;
+}
+/* 空范围（如没有到期的复习、没有生词）弱化显示，避免用户点进去才发现是死路 */
+/* 第四十八轮（WCAG 1.4.3）：空牌组原本靠 opacity:.62 弱化，实测标题 2.84:1、
+   说明 2.43:1（亮色）—— 启用态的淡出把文字一并拉淡，不达 AA。
+   弱化改由虚线边框＋--surface-2 底承担，文字回 --text-2/--text-3
+   （压 --surface-2 为 6.77:1 / 4.94:1）。 */
+.deck-opt.empty{background:var(--surface-2);border-style:dashed;color:var(--text-3)}
+.deck-opt.empty:hover{border-color:var(--line);background:var(--surface-2);color:var(--text-3);transform:none;box-shadow:none}
+.deck-opt.empty .do-t .ic{color:var(--text-3)}
+.deck-opt.empty .do-n{border-left-color:var(--line-2)}
+
+/* ---------- 学习 / 测验：铺满栏、今日推荐条、出题摘要 ---------- */
+/* 学习页整页铺满内容容器（--content-max），不再收进 680px 窄栏：
+   学习页的正文是**成组的 chip 面板**（范围 7～8 颗、词性 9 颗），
+   窄栏里 chip 只能挤成三四行、两侧各空一大片；铺开后 chip 铺成整行、
+   行内左右对齐，页面高度也降下来了。正文文字（.page-sub）仍按 70ch 限行宽，
+   标题与说明不会被拉到一行两千字。 */
+.study-page{width:100%}
+/* 学习页副标题整句不提前折行：这句 44 个全角字，.page-sub 的 70ch 按半角字宽算
+   一行只容 ~37 个全角字，会在「忘了降级」后被硬掰成两行 —— 放开宽度让它自然排
+   （与设置页 .settings-wrap .page-sub 同一坑、同一解法）。 */
+.study-page .page-sub{max-width:none}
+/* 两块设置面板（复习范围 / 出题设置）随页面一起铺满。
+   .deck-setup/.quiz-setup 原先各自卡在 680px 窄栏里，
+   页面铺开后若还守着 680px，两侧会空掉一大片 —— 一并放开。 */
+.study-page .deck-setup,
+.study-page .quiz-setup{max-width:none;margin-left:0;margin-right:0}
+/* 今日进度条：一行交代「今天学了多少 / 目标多少 / 还差多少 / 连着几天」。
+   学习页此前只有「选范围 → 开始」，用户不知道自己今天处于什么位置；
+   首页的目标环在这里没有对应物，而这里才是真正动手的地方。
+   口径与首页同源（todayActivity / settings.goal），不另立一套数。 */
+.study-today{
+  display:flex;align-items:center;gap:12px;flex-wrap:wrap;
+  padding:10px 14px;margin:0 0 16px;
+  border:1px solid var(--line);border-radius:var(--r);background:var(--surface);
+  font-size:13px;color:var(--text-2);
+}
+.study-today .st-ic{color:var(--accent-ink);display:inline-flex;flex:none}
+.study-today .st-ic .ic{width:16px;height:16px}
+.study-today .st-label{font-weight:700;color:var(--text);white-space:nowrap}
+.study-today .st-num{font-variant-numeric:tabular-nums;white-space:nowrap}
+.study-today .st-num b{color:var(--text);font-weight:800;font-size:15px}
+/* 进度条：与全站 .progress-line 同款（8px 圆角 + 强调色渐变），
+   但更细（6px）—— 它是配角，不该跟主行动抢视线。
+   页面铺满宽度后，条子最宽能到 1700px，而进度条只占 140px，
+   中间会空出一大段。故让它**伸展**填满中段：「今日目标 0/30 次」之后
+   一路铺到右端的「还差 N 次」，两端都不空。 */
+.study-today .st-bar{
+  flex:1 1 140px;min-width:56px;height:6px;border-radius:var(--r-full);
+  background:var(--surface-3);overflow:hidden;display:block;
+}
+.study-today .st-bar>span{
+  display:block;height:100%;border-radius:var(--r-full);
+  background:linear-gradient(90deg,var(--accent),var(--accent-2));
+  transition:width .55s var(--ease-out);
+}
+/* 「还差 N 次」推到右端：进度条后面那一大片空白没人占，
+   右对齐后才像一行「左＝进度、右＝状态」的统计行。 */
+.study-today .st-note{color:var(--text-3);font-size:12.5px;white-space:nowrap;margin-left:auto}
+/* 连续天数靠右，与「还差 N 次」之间留白 —— 条子右端不空。 */
+.study-today .st-streak{
+  display:inline-flex;align-items:center;gap:4px;
+  color:var(--text-3);font-size:12.5px;white-space:nowrap;padding-left:12px;
+}
+.study-today .st-streak .ic{width:14px;height:14px}
+@media (max-width:560px){
+  .study-today{gap:9px;padding:9px 12px}
+  .study-today .st-note{margin-left:0}
+  .study-today .st-streak{padding-left:0}
+}
+/* 今日推荐条（.study-hero）随二百轮整条下线：推荐语义收进「初始选中的 chip」
+   （到期 > 新词 > … 的对齐口径），页面上不再有一行复述谁被推荐、也不再有
+   第二颗开卡按钮 —— 全页主行动只有「本次」行的「开始学习」。 */
+/* 面板头右侧的补充说明（词库总数、题量下限）靠右 */
+.filter-panel-head .faint{margin-left:auto;text-align:right}
+/* 面板里的牌组卡要撑满整行：.filter-body 是 flex 容器，
+   作为 flex item 的 grid 默认按内容宽度收缩，auto-fit 会把列压成一条 */
+.filter-body > .deck-grid{width:100%}
+/* 宽屏（≥1000px）上测验面板的题型 / 范围两排 chip 同样改成等宽栅格，
+   与翻卡面板的牌组 chip 一致：面板铺满宽度后，chip 若还按内容宽度左对齐，
+   一行右侧会空掉一大片。列宽 150px（实测最宽的「全部词库 2009」要 133px，够用）。
+   · 题型没有计数，文字居中；
+   · 范围有词数，名字靠左、词数靠右（.q-t 裹住图标+名字，见 app.js）。
+   题数那排只有四颗、且每颗都很短（「10 题」），铺成栅格会拉出四道大空壳，
+   保持原来的 chip 流即可。 */
+@media (min-width:1000px){
+  #qModes,#qScopes{display:grid;grid-template-columns:repeat(auto-fill,minmax(150px,1fr));gap:8px}
+  #qModes .chip{justify-content:center}
+  #qScopes .chip{justify-content:space-between}
+  #qScopes .q-t{display:inline-flex;align-items:center;gap:5px;min-width:0}
+}
+/* 「本次到底出什么」：范围与题数的实际口径一句话说清 */
+.q-summary{flex:1 1 200px;min-width:0;font-size:13.5px;color:var(--text-2);line-height:1.5}
+/* 「每次上限」的常用档位：先给四颗一键可选，再留一个数字框给自定义。
+   此前只有一个裸数字输入框 —— 用户得先想清楚「我要学几张」再手打。 */
+.limit-presets{display:inline-flex;gap:6px;flex-wrap:wrap}
+.limit-preset{min-width:42px;justify-content:center;font-variant-numeric:tabular-nums}
+.limit-preset.on{background:var(--accent);color:var(--on-accent);border-color:var(--accent-ink);box-shadow:var(--sh-accent)}
+/* 窄屏：「或自定义」标签占一行反而挤，改为只留输入框（预设档位已在旁边，
+   数字框自己说明它是自定义值）。 */
+@media (max-width:560px){
+  .limit-presets{width:100%}
+  .limit-presets .limit-preset{flex:1 1 0}
+  .filter-body .field-label{display:none}
+}
+/* 选不了但看得见的项（题数超出池容量）：与 .chip.thin 同一套弱化口径，
+   只把光标改掉——不用 opacity 淡出（淡出会把文字一起拉淡，掉到 AA 以下） */
+.chip[aria-disabled="true"]{cursor:not-allowed}
+/* hidden 的按钮要真的藏起来：.btn 是 inline-flex，会盖过 UA 的 [hidden]{display:none} */
+.btn[hidden],.chip[hidden]{display:none !important}
+
+.fc-stage{max-width:780px;margin:0 auto}
+.fc-progress{display:flex;align-items:center;gap:14px;margin-bottom:16px;font-size:12.8px;color:var(--text-2);font-weight:500}
+.fc-progress .progress-line{flex:1}
+.fc-progress .fc-meta{white-space:nowrap;font-variant-numeric:tabular-nums}
+/* touch-action:pan-y —— 学习滑动手势（bindSwipe）自己 preventDefault 横向位移，
+   纵向仍交还给浏览器滚动；不写这条手机竖滑会被手势吃掉翻不了页 */
+.flip-card{perspective:1600px;height:420px;cursor:pointer;margin-bottom:16px;touch-action:pan-y;
+  transition:height var(--dur-slow) cubic-bezier(.4,.1,.2,1)}
+/* 翻到卡背时卡高由 JS 按内容算（fitCardHeight）：卡背要装下整条词条
+   （释义 / 例句 / 备注 / 词典 / 标记），正面只放一个词，不必陪着一起长高。 */
+.flip-inner{position:relative;width:100%;height:100%;transition:transform var(--dur-slow) cubic-bezier(.4,.1,.2,1);transform-style:preserve-3d}
+.flip-card.flipped .flip-inner{transform:rotateY(180deg)}
+.flip-face{
+  position:absolute;inset:0;backface-visibility:hidden;-webkit-backface-visibility:hidden;
+  border-radius:var(--r-xl);box-shadow:var(--sh-3);display:flex;flex-direction:column;
+  align-items:center;justify-content:flex-start;padding:32px;text-align:center;border:1px solid var(--line);
+  overflow-y:auto;
+}
+/* 垂直居中但要兼容滚动溢出：justify-content:center 在内容超高时会把顶部裁进
+   不可达区域（长释义 + 例句 + 备注的卡背会真实触发）。auto margin 方案：
+   有余量时上下均分＝视觉居中；溢出时两个 auto 归零，内容从顶部开始完整可滚。
+   （居中对象是「词 + 喇叭」这一行，故 auto margin 挂在 .fc-word-row 上。）
+   正面另有一行底部操作区（提示 + 显示答案），它靠 .fc-front-foot 的
+   margin-top:auto 压到底部 ⇒ 词在中间、操作在底下，视线落点唯一。 */
+.fc-front-main{margin:auto;width:100%}
+.fc-recall{margin-bottom:22px;color:var(--text-3);font-size:12px;font-weight:600;letter-spacing:.08em}
+.fc-front-main .mt8{margin-top:14px}
+.flip-face::after{content:none}
+/* 词与朗读钮同行：此前喇叭独占一行（46px 圆钮夹在词与提示之间），
+   三个元素各占一行，卡面显得松散。改为词居中、喇叭贴在词的右侧。 */
+.fc-word-row{display:flex;align-items:center;justify-content:center;gap:12px;max-width:100%}
+.fc-word-row .fc-word{margin-top:0}
+.fc-word-row .speak-btn{flex:none;margin-top:0}
+/* 卡正面底部一行：左「怎么翻面」的提示，右「显示答案」的主按钮。
+   此前是喇叭、提示、按钮各占一行，三层竖排；合成一行后视线落点唯一。
+   margin-top:auto 把这一行压到卡底，词留在中部 —— 与卡背「词在上、释义在下」
+   的阅读序一致，视线都是自上而下。 */
+.fc-front-foot{
+  display:flex;align-items:center;justify-content:space-between;gap:16px;flex-wrap:wrap;
+  margin-top:0;padding-top:20px;width:100%;border-top:1px solid var(--line);
+}
+/* 正面的 ::after 不再分走一份 auto 边距。
+   .flip-face::after 的 margin-top:auto 是给**卡背**用的（卡背内容长短不定，
+   末尾垫一个弹性块，好让内容在有余量时上下均分、超高时从顶部起可滚）。
+   正面本来已有 .fc-front-foot 的 margin-top:auto 把操作行压到卡底，
+   再加上 ::after 这一份，**三处 auto 边距把余量三等分** ——
+   结果「显示答案」钮浮在卡身中部，卡底空出约 100px（实测 400px 卡：
+   钮底 474 / 卡底 577）。正面把 ::after 的 auto 归零，
+   只余「词行 auto + 操作行 auto」两处：词居中、操作行真正贴住卡底。 */
+.flip-front::after{margin-top:0}
+.fc-front-foot .fc-hint{margin-top:0}
+.fc-front-foot .btn{padding:11px 22px;font-size:14.5px;margin-left:auto}
+.flip-front{background:radial-gradient(600px 240px at 50% 34%,color-mix(in srgb,var(--accent-soft) 42%,transparent),transparent 72%),var(--surface);border-color:color-mix(in srgb,var(--accent) 20%,var(--line))}
+/* 卡背是「整条词条」的版面：左释义右例句两栏，内容不再挤成一条窄列。
+   align-items 改 stretch 让 .fc-body 铺满卡宽（默认 center 会把两栏压到内容宽）。 */
+.flip-back{background:linear-gradient(180deg,color-mix(in srgb,var(--accent-soft) 28%,var(--surface)),var(--surface) 210px);transform:rotateY(180deg);align-items:stretch;text-align:left}
+/* 卡背是「词在上、内容铺开、标记贴底」的三段式：词行不再靠 auto 边距居中
+   （卡背内容长，居中会把首屏推出视野），标记行靠 flex:none 贴底。 */
+.flip-back .fc-word-row{margin-top:0;flex:none;justify-content:flex-start}
+.flip-back::after{margin-top:0}
+.flip-back .fc-mark-row{flex:none}
+/* backface-visibility 只裁渲染不裁焦点：隐藏面上的「显示答案」「朗读」按钮此前
+   仍留在 Tab 序列里（未翻卡能 Tab 到卡背朗读钮，翻卡后能 Tab 到正面的显示答案钮）。
+   visibility:hidden 把它真正移出 tab 序；延迟一整个翻面时长再隐藏，动画中途
+   旋转角还没过 90°，提前隐藏会让正在转出的那一面视觉上凭空消失。 */
+.flip-face{visibility:hidden;transition:visibility 0s linear var(--dur-slow)}
+.flip-card:not(.flipped) .flip-front,.flip-card.flipped .flip-back{visibility:visible;transition-delay:0s}
+/* clamp 的下限是 38px：视口窄于 585px 时 6.5vw 落在 38px 以下，
+   会被抬回 38px —— 那一档（手机）另有规则按「最长词整词一行」重算字号，
+   见响应式段末尾的 @media (max-width:585px)。 */
+.fc-word{font-family:var(--font-serif);font-size:clamp(38px,6.5vw,56px);font-weight:700;letter-spacing:-.025em;line-height:1.12;overflow-wrap:anywhere}
+.fc-word-back{font-size:clamp(26px,4vw,34px);letter-spacing:-.015em}
+/* 卡背＝整条词条摊在一张卡里（释义 / 例句 / 备注 / 词典链接 / 手动标记）。
+   此前这些内容只在右下角「词条详情」弹窗里，学习时要另开一层才看得全；
+   现在一次翻面就能读完，不必来回切窗口。
+   宽屏两栏（左＝释义与词性，右＝例句与备注），窄屏一栏可滚。 */
+.fc-back-inner{width:100%;display:flex;flex-direction:column;gap:18px;text-align:left}
+.fc-back-head{display:flex;flex-direction:column;align-items:flex-start;gap:4px;padding-right:44px}
+.fc-back-head .fc-tags{margin-top:4px}
+.fc-body{display:flex;flex-direction:column;gap:20px;width:100%;text-align:left}
+.fc-col{min-width:0}
+.fc-definition{padding:16px 18px;border:1px solid var(--line);border-left:3px solid var(--accent);border-radius:var(--r);background:color-mix(in srgb,var(--accent-soft) 34%,var(--surface))}
+.fc-definition .fc-sec{margin-bottom:9px}
+.fc-extras{display:grid;grid-template-columns:minmax(0,1fr) auto;gap:16px 24px;padding-top:2px}
+.fc-notes,.fc-dictionaries{min-width:0}
+.fc-sec{font-size:11.5px;color:var(--text-3);font-family:var(--mono);letter-spacing:.05em;margin-bottom:7px}
+.fc-sec-mt{margin-top:14px}
+.fc-senses{font-size:17px;line-height:1.7;color:var(--text);max-width:none;font-weight:600}
+.fc-sense{display:flex;gap:11px;margin-bottom:8px}
+.fc-sense:last-child{margin-bottom:0}
+.fc-sense b{display:inline-flex;align-items:center;justify-content:center;width:20px;height:20px;margin-top:4px;border-radius:50%;background:var(--accent-soft);color:var(--accent-ink);font-family:var(--mono);font-size:10px;font-weight:700;flex:none;padding-top:0}
+.fc-sense span{min-width:0}
+.fc-tags{display:flex;gap:7px;flex-wrap:wrap;margin-top:10px}
+.fc-links{display:flex;gap:8px;flex-wrap:wrap}
+.fc-links a{font-size:12.5px;padding:6px 12px;border:1px solid var(--line);border-radius:var(--r-sm);background:var(--surface-2);color:var(--text-2);text-decoration:none;transition:var(--dur) var(--ease);display:inline-flex;align-items:center;gap:6px}
+.fc-links a:hover{border-color:var(--accent-ink);color:var(--accent-ink);text-decoration:none;background:var(--accent-soft)}
+.fc-mark-row{display:flex;align-items:center;gap:10px;flex-wrap:wrap;justify-content:space-between;padding-top:14px;width:100%;border-top:1px solid var(--line)}
+.fc-mark-label{display:inline-flex;align-items:center;gap:6px;font-size:12px;color:var(--text-2);font-weight:600}
+.fc-mark-label .ic{width:14px;height:14px}
+.fc-mark-btns{display:flex;gap:8px;flex-wrap:wrap}
+.fc-mark-btn.on{border-color:var(--accent-ink);background:var(--accent-soft);color:var(--accent-ink);font-weight:700}
+.fc-front-meta{color:var(--text-2);font-size:13px;margin-top:14px}
+.fc-note{display:flex;align-items:flex-start;gap:7px;margin-top:8px;font-size:12.8px;color:var(--text-2);max-width:100%;line-height:1.65}
+.fc-note .ic{width:14px;height:14px;margin-top:3px;flex:none;color:var(--text-3)}
+.fc-ex{margin-top:0;width:100%;max-width:none}
+.fc-ex-label{font-size:11.5px;color:var(--text-3);font-family:var(--mono);letter-spacing:.08em;margin-bottom:10px}
+.fc-ex-item{background:transparent;border:0;border-left:2px solid var(--line-2);border-radius:0;padding:0 0 2px 14px}
+.fc-ex-en{font-size:14.5px;line-height:1.75;color:var(--text);font-weight:500}
+.fc-ex-zh{font-size:13.2px;line-height:1.65;color:var(--text-2);margin-top:4px}
+.fc-ex-more{margin-top:12px}
+.fc-ex-more summary{display:inline-flex;align-items:center;gap:7px;min-height:34px;padding:5px 11px;border:1px solid var(--line);border-radius:var(--r-full);background:var(--surface-2);color:var(--accent-ink);font-size:12px;font-weight:600;cursor:pointer;list-style:none;user-select:none}
+.fc-ex-more summary::-webkit-details-marker{display:none}
+.fc-ex-more summary::after{content:'';width:6px;height:6px;border-right:1.5px solid currentColor;border-bottom:1.5px solid currentColor;transform:translateY(-1px) rotate(45deg);transition:transform var(--dur) var(--ease)}
+.fc-ex-more[open] summary::after{transform:translateY(1px) rotate(225deg)}
+.fc-ex-more-open{display:none}
+.fc-ex-more[open] .fc-ex-more-open{display:inline}
+.fc-ex-more[open] .fc-ex-more-closed{display:none}
+.fc-ex-more-body{display:grid;gap:16px;margin-top:16px}
+.fc-hint{color:var(--text-3);font-size:12.8px;margin-top:16px;display:inline-flex;align-items:center;gap:6px}
+.fc-num{position:absolute;top:16px;left:20px;font-size:11px;color:var(--text-3);font-family:var(--mono)}
+.fc-lvl{position:absolute;top:14px;right:16px}
+.fc-session-strip{display:flex;gap:18px;justify-content:center;margin:-4px 0 14px;flex-wrap:wrap}
+.fcss-item{display:inline-flex;align-items:center;gap:5px;font-size:12px;font-weight:600;color:var(--text-2);background:transparent;border:0;padding:2px 0}
+.fcss-item .ic{width:14px;height:14px}
+.fcss-item b{font-variant-numeric:tabular-nums}
+.fcss-item.good{color:var(--good)}
+.fcss-item.mid{color:var(--warn)}
+.fcss-item.bad{color:var(--bad)}
+.fc-done-ic{display:inline-flex;color:var(--good)}
+.fc-done-ic .ic{width:46px;height:46px}
+.fc-btns{display:grid;grid-template-columns:repeat(3,1fr);gap:10px;margin-bottom:12px}.fc-btns .btn{flex-direction:column;gap:2px;padding:12px 6px;font-size:15px;border-radius:var(--r);border-width:1px}
+.fc-btns .btn small{font-weight:500;opacity:1;font-size:11px;font-variant-numeric:tabular-nums;color:inherit}
+.fc-btns .btn:hover{transform:translateY(-2px);box-shadow:var(--sh-1)}
+.fc-btns .btn:active{transform:translateY(0)}
+/* 评分按钮用浅色语义底，保留红/橙/绿辨识度，同时不与单词和释义抢视觉重心。 */
+.fc-btns .btn.good{background:var(--good-soft);border-color:var(--good-line);color:var(--good)}
+.fc-btns .btn.warn{background:var(--warn-soft);border-color:var(--warn-line);color:var(--warn)}
+.fc-btns .btn.bad{background:var(--bad-soft);border-color:var(--bad-line);color:var(--bad)}
+.fc-btns .btn.good:hover{background:color-mix(in srgb,var(--good) 10%,var(--good-soft))}
+.fc-btns .btn.warn:hover{background:color-mix(in srgb,var(--warn) 10%,var(--warn-soft))}
+.fc-btns .btn.bad:hover{background:color-mix(in srgb,var(--bad) 10%,var(--bad-soft))}
+/* 未翻面（pending）：评分还没有效，三颗钮收成中性灰，语义色等翻面才点亮 ——
+   「先看释义再评分」从一闪而过的 toast 变成看得出的状态。
+   不用 disabled：点下仍有 toast 提示（与键盘 1/2/3 同一条路径），只是视觉上
+   明确「现在还轮不到它」。中性态取 --text-2 字压 --surface-2 底
+   （浅 7.60 / 深 7.26，均过 AA；悬停底 --surface-3 也有 6.76 / 6.45），
+   翻面后按钮重渲染、类名摘除，语义色原样回来（二百零四轮）。 */
+.fc-btns.pending .btn{background:var(--surface-2);border-color:var(--line-2);color:var(--text-2)}
+.fc-btns.pending .btn:hover{background:var(--surface-3);transform:none;box-shadow:none}
+.fc-foot{display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:10px}
+.fc-undo{color:var(--accent-ink)}
+.speak-btn{
+  border:1px solid var(--line-2);background:var(--surface);border-radius:50%;width:46px;height:46px;
+  display:inline-flex;align-items:center;justify-content:center;color:var(--text-2);
+  transition:var(--dur) var(--ease);margin-top:18px;
+}
+.speak-btn:hover{border-color:var(--accent-ink);background:var(--accent-soft);color:var(--accent-ink);transform:scale(1.08)}
+.speak-btn.sm{width:34px;height:34px;margin-top:0}
+
+.fc-summary{display:grid;grid-template-columns:repeat(auto-fit,minmax(110px,1fr));gap:10px;margin:20px 0}
+.fc-sum{background:var(--surface-2);border:1px solid var(--line);border-radius:var(--r);padding:13px;text-align:center}
+.fc-sum .n{font-size:22px;font-weight:800;font-variant-numeric:tabular-nums;letter-spacing:-.02em}
+.fc-sum .l{font-size:11.5px;color:var(--text-3);margin-top:2px;font-weight:600}
+
+/* ----------------------------------------------------------------- quiz -- */
+.quiz-stage{max-width:740px;margin:0 auto}
+.quiz-q-head{display:flex;justify-content:space-between;font-size:13px;color:var(--text-2);margin-bottom:10px;align-items:center;flex-wrap:wrap;gap:8px;font-weight:500}
+.quiz-card{padding:28px}
+/* 第五十轮：这两个测验徽标与浮层标记按钮同属「accent 压 accent-soft」族，
+   实测 --accent(#4b5bf0) 在 --accent-soft(#eceefe) 上只有 4.496:1（差 0.004 不过 AA）。
+   一律改用本库既有令牌 --accent-ink（浅色 #3946d6 → 6.03:1，暗色 #a3aeff → 7.47:1），
+   与 .nav-item:hover / .chip:hover 等同一口径。 */
+.quiz-prompt-tag{
+  font-size:11.5px;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent-ink);
+  margin-bottom:14px;display:inline-flex;align-items:center;gap:6px;
+  background:var(--accent-soft);padding:4px 11px;border-radius:var(--r-full);
+}
+.quiz-prompt{font-family:var(--font-serif);font-size:clamp(22px,4.5vw,32px);font-weight:700;margin-bottom:6px;word-break:break-word;line-height:1.25}
+.quiz-prompt.small{font-family:var(--font);font-size:19px;font-weight:600;line-height:1.6}
+/* 例句挖空（cloze）：句子整段做题干，空格用下划线占位，中文对照小字垫底帮助理解 */
+.quiz-prompt.cloze-sent{font-size:clamp(18px,3.4vw,24px);line-height:1.55;font-weight:600;margin-bottom:4px}
+.cloze-blank{
+  display:inline-block;min-width:72px;border-bottom:2.5px solid var(--accent);
+  color:var(--accent-ink);font-family:var(--mono);letter-spacing:.08em;text-align:center;
+  margin:0 4px;line-height:1.2;
+}
+.cloze-zh{font-size:13px;color:var(--text-3);margin-bottom:6px;line-height:1.7}
+.quiz-opts{display:grid;grid-template-columns:1fr 1fr;gap:12px;margin-top:22px}
+.quiz-opt{
+  padding:15px 17px;font-size:15.5px;border-radius:var(--r);border:1.5px solid var(--line-2);
+  background:var(--surface);text-align:left;transition:var(--dur) var(--ease);line-height:1.45;
+  display:flex;align-items:flex-start;gap:10px;
+}
+.quiz-opt:hover:not(:disabled){border-color:var(--accent-ink);background:var(--accent-soft);transform:translateY(-2px);box-shadow:var(--sh-1)}
+.quiz-opt.correct{border-color:var(--good);background:var(--good-soft);animation:pop .3s var(--ease)}
+.quiz-opt.wrong{border-color:var(--bad);background:var(--bad-soft);animation:shake .35s}
+.quiz-opt.dim{opacity:.45}
+.quiz-opt .oi{
+  font-weight:700;color:var(--text-3);font-size:12.5px;flex-shrink:0;
+  width:22px;height:22px;border-radius:6px;background:var(--surface-3);
+  display:inline-flex;align-items:center;justify-content:center;margin-top:1px;
+}
+.quiz-opt.correct .oi{background:var(--good);color:var(--on-good)}
+.quiz-opt.wrong .oi{background:var(--bad);color:var(--on-bad)}
+/* WCAG 1.4.1（不能仅用颜色传达信息）：答对/答错原本只靠「绿底绿边 / 红底红边」区分，
+   灰度打印、色觉障碍、Windows 高对比度（forced-colors，系统接管全部配色）下都会
+   塌缩成同一个样子。补一个与颜色无关的图形标记：右侧 ✓ / ✗。 */
+.quiz-opt.correct::after,
+.quiz-opt.wrong::after{
+  margin-left:auto;flex-shrink:0;align-self:flex-start;
+  font-weight:700;font-size:15px;line-height:1.5;
+}
+.quiz-opt.correct::after{content:"✓"}
+.quiz-opt.wrong::after{content:"✗"}
+@keyframes pop{50%{transform:scale(1.03)}}
+@keyframes shake{20%,60%{transform:translateX(-6px)}40%,80%{transform:translateX(6px)}}
+.spell-input{width:100%;font-size:21px;padding:14px 16px;font-family:var(--mono);letter-spacing:.03em;margin-top:20px;text-align:center}
+.spell-input:disabled{opacity:.85}
+.quiz-next-row{margin-top:20px;display:flex;justify-content:flex-end;gap:10px;flex-wrap:wrap}
+.quiz-feedback{margin-top:16px;padding:15px 17px;border-radius:var(--r);font-size:14.5px;line-height:1.75;display:none}
+.quiz-feedback.show{display:block;animation:rise .22s var(--ease-out)}
+.quiz-feedback.ok{background:var(--good-soft);border:1px solid var(--good-line)}
+.quiz-feedback.no{background:var(--bad-soft);border:1px solid var(--bad-line)}
+.quiz-feedback .fb-head{font-weight:700;display:flex;align-items:center;gap:7px;margin-bottom:5px}
+.quiz-feedback .fb-note{margin-top:8px;font-size:13px;display:flex;align-items:flex-start;gap:6px;color:var(--text-2);line-height:1.6}
+.quiz-feedback .fb-actions{display:flex;gap:8px;margin-top:12px;flex-wrap:wrap;align-items:center}
+.quiz-mode-badge{display:inline-flex;align-items:center;gap:6px;font-weight:700;color:var(--accent-ink);background:var(--accent-soft);padding:4px 11px;border-radius:var(--r-full);font-size:12.5px}
+.quiz-mode-badge .ic{width:14px;height:14px}
+.quiz-feedback.ok .fb-head{color:var(--good)}
+.quiz-feedback.no .fb-head{color:var(--bad)}
+.quiz-feedback .fb-word{font-family:var(--font-serif);font-size:17px;font-weight:700}
+/* 第五十轮：判题反馈框（.quiz-feedback.ok 底 good-soft / .no 底 bad-soft）里的
+   释义小字原用 --text-3 —— 暗色主题下 #828da8 压 #0f2e23 只有 **4.406:1**（不过 AA），
+   浅色主题压 #e0f5ec 是 4.649:1 恰好过线 ⇒ 只在「答对（绿底）× 暗色」这一组合犯，
+   而作答对错是随机的 ⇒ 偶发、难复现。反馈框是承载正文的色块，小字统一用 --text-2
+   （暗压 good-soft 6.50:1 / 压 bad-soft 6.90:1；浅压 good-soft 6.35:1 / 压 bad-soft 6.24:1）。 */
+.quiz-feedback .faint{color:var(--text-2)}
+.quiz-result{padding:32px;text-align:center}
+/* 成绩环：用 SVG 画一圈，直观看到正确率 */
+.result-ring{position:relative;width:132px;height:132px;margin:8px auto 2px}
+.result-ring svg{transform:rotate(-90deg);display:block}
+.result-ring-label{position:absolute;inset:0;display:flex;align-items:center;justify-content:center;
+  font-size:38px;font-weight:800;letter-spacing:-.03em;font-variant-numeric:tabular-nums}
+.result-ring-label small{font-size:17px;color:var(--text-3);font-weight:600;margin-left:2px}
+.result-bars{display:grid;grid-template-columns:auto 1fr auto;gap:8px 12px;margin:20px auto;max-width:430px;font-size:13.5px;align-items:center;text-align:left}
+.wrong-list{text-align:left;margin-top:20px}
+.wrong-item{
+  display:flex;justify-content:space-between;gap:12px;padding:12px 14px;border:1px solid var(--line);
+  border-radius:var(--r-sm);margin-bottom:8px;font-size:14px;background:var(--surface-2);flex-wrap:wrap;align-items:center;
+  transition:var(--dur) var(--ease);cursor:pointer;
+}
+.wrong-item:hover{border-color:var(--accent-ink);background:var(--accent-soft)}
+.wrong-item .wi-w{font-family:var(--font-serif);font-weight:700;font-size:15.5px}
+.wrong-item .wi-s{color:var(--text-2);font-size:13px}
+
+/* ----------------------------------------------------------- categories -- */
+.cat-section{margin-bottom:38px}
+.cat-title{font-size:19px;font-weight:800;display:flex;align-items:center;gap:10px;margin-bottom:6px;flex-wrap:wrap}
+.cat-title .ic{width:19px;height:19px;color:var(--accent-ink)}
+.cat-title .n{font-size:12.5px;color:var(--text-3);font-weight:500}
+.cat-desc{color:var(--text-2);font-size:13.5px;margin-bottom:15px;max-width:72ch}
+.cat-words{display:grid;grid-template-columns:repeat(auto-fill,minmax(262px,1fr));gap:11px}
+.cat-word{
+  background:var(--surface);border:1px solid var(--line);border-radius:var(--r);padding:13px 15px;
+  cursor:pointer;transition:var(--dur) var(--ease);position:relative;
+}
+.cat-word:hover{border-color:var(--accent-ink);transform:translateY(-2px);box-shadow:var(--sh-2)}
+.cat-word .w{font-family:var(--font-serif);font-weight:700;font-size:15.5px;padding-right:26px}
+.cat-word .g{color:var(--text-2);font-size:13px;margin-top:4px;line-height:1.6}
+.cat-word .num{position:absolute;top:13px;right:14px;font-size:10.5px;color:var(--text-3);font-family:var(--mono)}
+/* 分组视图（词库页的第三种视图，原「分类」页的版式） */
+.group-view{margin-top:18px}
+
+/* ---------------------------------------------------------------- stats -- */
+/* 两列布局让图表有足够宽度；超宽屏再切三列 */
+.stats-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:18px}
+@media (min-width:1560px){.stats-grid{grid-template-columns:repeat(3,minmax(0,1fr))}}
+@media (max-width:860px){.stats-grid{grid-template-columns:1fr}}
+/* 统计页顶部的关键指标条：把「学过多少 / 掌握多少 / 今日完成 / 正确率 /
+   连续天数 / 未来到期」六个最常问的数字提到最上面，一眼可读。
+   视觉沿用首页 .dash-stats 的语言，但不做成可点击的跳转卡（这里是只读快照）。 */
+.stats-kpis{display:grid;grid-template-columns:repeat(auto-fit,minmax(148px,1fr));gap:12px;margin:0 0 18px}
+.sk-card{background:var(--surface);border:1px solid var(--line);border-radius:var(--r);padding:14px 16px;box-shadow:var(--sh-1)}
+.sk-card .v{font-size:24px;font-weight:800;letter-spacing:-.03em;line-height:1.15;font-variant-numeric:tabular-nums;margin-top:8px;white-space:nowrap}
+.sk-card .v small{font-size:12px;color:var(--text-3);font-weight:500}
+.sk-card .k{font-size:12.5px;color:var(--text-2);display:flex;align-items:center;font-weight:600;line-height:1.4}
+@media (max-width:560px){
+  .stats-kpis{grid-template-columns:repeat(2,minmax(0,1fr));gap:8px}
+  .sk-card{padding:11px 12px}
+  .sk-card .v{font-size:20px}
+}
+/* 还没有任何学习数据时的引导条：一句话说清「这里会出什么、去哪儿开始」 */
+.stats-empty-banner{
+  display:flex;align-items:center;gap:10px;flex-wrap:wrap;
+  padding:12px 15px;margin:0 0 16px;border:1px solid var(--line);border-radius:var(--r);
+  background:var(--surface-2);font-size:13.2px;color:var(--text-2);line-height:1.55;
+}
+.stats-empty-banner .ic{width:17px;height:17px;color:var(--accent-ink);flex:none}
+.stats-empty-banner span{flex:1 1 260px;min-width:0}
+/* 卡片内的「结论行」：把图里的数字翻译成一句话的行动建议 */
+.stats-note{
+  display:flex;align-items:flex-start;gap:7px;margin-top:10px;
+  font-size:12.6px;color:var(--text-2);line-height:1.6;
+  background:var(--surface-2);border:1px solid var(--line);border-left:3px solid var(--accent-ink);
+  border-radius:var(--r-sm);padding:8px 11px;
+}
+.stats-note .ic{width:15px;height:15px;color:var(--accent-ink);flex:none;margin-top:2px}
+.stats-note b{color:var(--text);font-weight:700}
+/* 「词汇进度」卡下方的复习预报：把「今天/明天会来多少词」摆出来，
+   免得这张卡下半截空一大片（环只占三分之一）。 */
+.stats-forecast{display:flex;flex-wrap:wrap;gap:10px;margin-top:14px}
+.stats-forecast .sf{
+  flex:1 1 130px;display:flex;flex-direction:column;gap:2px;
+  background:var(--surface-2);border:1px solid var(--line);border-radius:var(--r-sm);padding:9px 12px;
+}
+.stats-forecast .sf .v{font-size:19px;font-weight:800;line-height:1.2;font-variant-numeric:tabular-nums}
+.stats-forecast .sf .k{font-size:12px;color:var(--text-2)}
+/* 条形行的三种列宽：默认（92/46）、带占比的等级行、词性行、首字母行 */
+.bar-row{display:grid;grid-template-columns:92px 1fr 46px;gap:10px;align-items:center;font-size:12.5px;padding:4px 0}
+.bar-row .bl{color:var(--text-2);white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+/* 括号里的次要数字（总词数 / 占比）：与主文字同一行但更轻 */
+.bar-row .bl small.bp{color:var(--text-3);font-weight:500;margin-left:5px}
+.bar-row.wide{grid-template-columns:124px 1fr 44px}
+.bar-row.posrow{grid-template-columns:88px 1fr 74px}
+.bar-row.lrow{grid-template-columns:66px 1fr 72px}
+.bar-row .bar-val small.bp{color:var(--text-3);font-weight:500;margin-left:4px}
+.bar-track{height:13px;background:var(--surface-3);border-radius:var(--r-full);overflow:hidden;border:1px solid var(--line);position:relative}
+.bar-fill{height:100%;background:linear-gradient(90deg,var(--accent),var(--accent-2));border-radius:var(--r-full);min-width:2px;transition:width .6s var(--ease-out)}
+/* 两层条（首字母卡）：灰条＝该字母的总词数，琥珀条＝其中已掌握的部分。
+   灰条绝对定位在轨道里，琥珀条仍走常规流盖在它上面。
+   灰条用 --text-3 掺一点底色（而不是 --line-2）：后者与轨道底 --surface-3
+   只差一档灰度，深色主题下几乎看不出「这一段是这个字母的词数」。
+   .bar-fill 必须也变成定位元素：CSS 的绘制顺序里「定位元素」整体画在
+   「常规流块级」**之上**，只给灰条定位的话，琥珀条反而被灰条盖住
+   （实测：91/184 的已掌握在图上完全看不见）。同为定位元素后由 DOM 先后决定。 */
+.bar-track .bt-total{position:absolute;left:0;top:0;bottom:0;border-radius:var(--r-full);
+  background:color-mix(in srgb,var(--text-3) 55%,var(--surface-3))}
+.bar-track .bar-fill{position:relative}
+.bar-val{text-align:right;color:var(--text-3);font-family:var(--mono);font-size:11.5px;font-variant-numeric:tabular-nums}
+/* 三段堆叠条：绿=已掌握 蓝=学习中 灰=未学（词性掌握分布卡） */
+.stack-bar{display:flex;gap:2px;height:13px;min-width:0}
+.stack-bar i{border-radius:4px;min-width:2px;transition:width .6s var(--ease-out)}
+.stack-bar .s-m{background:var(--good)}
+.stack-bar .s-l{background:var(--blue)}
+.stack-bar .s-n{background:var(--surface-3);border:1px solid var(--line)}
+/* 按周对齐：7 行＝周一~周日，列＝周（grid-auto-flow:column 让日期纵向填充）。
+   顶边留 --heat-top 给月份标（.heat.ms::before 用 --hr 提回顶行上方）。
+   grid-auto-columns 是**必需**的一行：列轨道没写尺寸时是 auto，
+   而网格容器宽度是确定的 ⇒ justify-content:normal 会把隐式列**拉平分掉**整行宽度。
+   实测（1280px 视口）：18 列各被撑到 43px，而格子本身只有 13px ⇒ 相邻两周之间
+   空出 30px 的缝，整张热力图看着像 18 条互不相干的竖点列，而不是一张连续的日历。
+   写死 grid-auto-columns:var(--heat-cell) 后列宽＝格宽，周与周之间只剩 --heat-gap 的缝。 */
+.heat-wrap{display:grid;grid-template-rows:repeat(7,var(--heat-cell));grid-auto-flow:column;grid-auto-columns:var(--heat-cell);gap:var(--heat-gap);padding:var(--heat-top) 0 8px}
+.heat-pad{width:var(--heat-cell);height:var(--heat-cell)}
+/* 日历区：左＝日历（星期标签列 + 网格），右＝120 天概览。
+   修好列宽后日历只有 ~285px 宽，卡片里会空出一大片 —— 用概览填上，
+   窄屏时概览自动换到日历下方。 */
+.heat-body{display:flex;gap:26px;align-items:flex-start;flex-wrap:wrap}
+/* 星期标签列：一列 7 格，与网格行高、缝宽完全一致 ⇒ 标签与格子逐行对齐。
+   顶边留 --heat-top，与 .heat-wrap 的上内边距对齐（月份标占的那条带）。 */
+.heat-cal{display:flex;gap:6px;align-items:flex-start;flex:none}
+.heat-days{display:grid;grid-template-rows:repeat(7,var(--heat-cell));gap:var(--heat-gap);flex:none;
+  width:12px;margin-top:var(--heat-top);font-size:9.5px;line-height:var(--heat-cell);
+  color:var(--text-3);text-align:right}
+.heat-days span{height:var(--heat-cell)}
+/* 120 天概览：四块小统计（有记录天数 / 最长连续 / 近 30 天次数 / 当前连续） */
+.heat-sum{flex:1 1 300px;min-width:0;display:grid;grid-template-columns:repeat(auto-fit,minmax(126px,1fr));gap:10px}
+.heat-sum .hs{background:var(--surface-2);border:1px solid var(--line);border-radius:var(--r-sm);padding:11px 13px}
+.heat-sum .hs .v{font-size:21px;font-weight:800;letter-spacing:-.02em;line-height:1.2;font-variant-numeric:tabular-nums}
+.heat-sum .hs .v small{font-size:12px;font-weight:600;color:var(--text-3);margin-left:2px}
+.heat-sum .hs .k{font-size:12px;color:var(--text-2);margin-top:2px;font-weight:600}
+.empty-inline{
+  display:flex;align-items:center;gap:8px;flex-wrap:wrap;
+  padding:16px 14px;border:1px dashed var(--line-2);border-radius:var(--r-sm);
+  background:var(--surface-2);color:var(--text-3);font-size:13px;line-height:1.6;
+}
+.empty-inline .ic{width:15px;height:15px;flex-shrink:0;opacity:.8}
+/* 热力图：空白日用 --surface-2（贴着卡片底色，只留一层极淡的网格），
+   有记录的日子按 h1–h4 混色（混色基准仍是 --surface-3，不受影响）。
+   此前空白日用 --surface-3，120 天的空格连成一大块灰砖，像一块没画完的占位。 */
+.heat,.heat-swatch{width:var(--heat-cell);height:var(--heat-cell);border-radius:3px;background:var(--surface-2);position:relative;transition:transform var(--dur) var(--ease)}
+.heat:hover{transform:scale(1.25);z-index:2}
+.heat[data-tip]:hover::after{
+  content:attr(data-tip);position:absolute;bottom:150%;left:50%;transform:translateX(-50%);
+  background:var(--text);color:var(--bg);font-size:10.5px;padding:4px 9px;border-radius:7px;
+  white-space:nowrap;z-index:20;pointer-events:none;font-weight:600;
+}
+.heat.h1,.heat-swatch.h1{background:color-mix(in srgb,var(--accent) 32%,var(--surface-3))}
+.heat.h2,.heat-swatch.h2{background:color-mix(in srgb,var(--accent) 56%,var(--surface-3))}
+.heat.h3,.heat-swatch.h3{background:color-mix(in srgb,var(--accent) 78%,var(--surface-3))}
+.heat.h4,.heat-swatch.h4{background:var(--accent)}
+.heat-legend{display:flex;align-items:center;gap:6px;font-size:11.5px;color:var(--text-3);margin-top:10px;flex-wrap:wrap}
+.heat-legend .heat,.heat-legend .heat-swatch{width:11px;height:11px}
+/* 图例右端的说明句：宽屏靠右，窄屏独占一行（此前它被挤在色阶后面换行，
+   「多」与说明句被拆成两行，读起来像两句话） */
+.heat-legend-note{margin-left:auto}
+@media (max-width:560px){
+  .heat-legend-note{margin-left:0;flex-basis:100%}
+}
+/* 月份标挂在每月首格：--hr（0=周一…6=周日）把标签提回网格顶边上方，
+   行距 16px＝13px 格 + 3px 缝；标签绝对定位不影响 120 格与 data-tip 口径。
+   两个月份的首格可能落在相邻列（如 7 月与 8 月），而相邻列的间距只有 16px，
+   两个标签同高就会叠成一个糊字团（实测「7月8月」粘在一起）。--heat-lv 让月份标
+   在两档高度之间交错：相邻的两个月份必然一高一低，横向错开，不再相撞。
+   --heat-top（网格上方留白）随之加到 28px，容得下第二档标签。 */
+.heat.ms::before{
+  content:attr(data-m);position:absolute;
+  bottom:calc(100% + var(--heat-gap) + var(--hr, 0) * var(--heat-step) + var(--heat-lv, 0) * var(--heat-cell));
+  left:-1px;
+  font-size:9px;font-weight:700;color:var(--text-3);letter-spacing:.01em;
+  white-space:nowrap;pointer-events:none;line-height:1;
+}
+.letter-bars{columns:3;column-gap:26px}
+@media (max-width:900px){.letter-bars{columns:2}}
+@media (max-width:560px){.letter-bars{columns:1}}
+.letter-bars .bar-row{break-inside:avoid}
+.donut-chart{display:flex;align-items:center;gap:18px}
+.donut-legend{display:flex;flex-direction:column;gap:8px;font-size:13px}
+.donut-row{display:flex;align-items:center;gap:9px}
+.dot{width:11px;height:11px;border-radius:4px;flex-shrink:0}
+/* 趋势曲线：宽度跟着卡片走，高度按 viewBox 的比例自动算
+   （width:100% + height:auto ⇒ 元素框与 viewBox 同比例，
+   preserveAspectRatio="none" 就不会把曲线横向拉扁）。
+   此前固定 74px 高、又被 .spark-wrap 的 640px 上限卡在卡片左侧一小块，
+   满屏宽的卡片里只画了三分之一宽的图。 */
+.spark{display:block;width:100%;height:auto;overflow:visible}
+/* 趋势曲线单独占一行整宽时，曲线本身不该被拉成 1100px 的一条直线：
+   给一个上限，剩余空间留给标题与平均正确率 */
+.spark-wrap{max-width:none}
+/* 趋势卡下方的一排小数字：最新 / 平均 / 最低 / 计入场次。
+   曲线只说「在动」，这排数字才说「动到哪儿了」；没有它，
+   单看一条起伏的线读不出水平。 */
+.trend-stats{display:flex;flex-wrap:wrap;gap:9px;margin-top:12px}
+.trend-stats span{display:flex;flex-direction:column;gap:1px;background:var(--surface-2);border:1px solid var(--line);border-radius:var(--r-sm);padding:6px 11px;min-width:76px}
+.trend-stats i{font-style:normal;font-size:11.5px;color:var(--text-3);font-weight:600}
+.trend-stats b{font-size:15px;font-weight:800;color:var(--text);font-variant-numeric:tabular-nums}
+.trend-note{font-size:12.5px;color:var(--text-3);margin-top:10px;display:flex;align-items:center;gap:6px}
+
+/* -------------------------------------------------------------- settings -- */
+/* 设置页铺满内容栏：此前整页收在一条 820px 的窄栏里，而内容栏在宽屏上能到
+   1200–1720px —— 窄栏只用到一半，两侧各空一大片，设置项挤成一条细长的带。
+   现在改成**两列**：左列（宽）放「外观与语音 + 学习与测验」——日常最常改的几项；
+   右列（窄）放「数据备份 + 危险操作 + 键盘快捷键」；「关于本站」作一条通栏收尾，
+   它的四条事实横向排开正好用满宽度。视口窄于 1000px 时两列并回一列，顺序不变。 */
+.settings-wrap{max-width:none;width:100%}
+/* 副标题整句不提前折行：.page-sub 的 max-width:70ch 是按半角字宽算的（约 0.5em/字，
+   13.8px 下一行只能容 ~37 个全角字），而这句 44 字实际要 ~650px，会在「不会上传…」
+   中间被硬掰成两行。这里放开宽度让浏览器自然排。 */
+.settings-wrap .page-sub{max-width:none}
+/* 两列骨架：左列略宽（设置项的说明文字更长），右列收窄。
+   minmax(0,…) 是必需的：栅格轨道默认 min-width:auto，长内容会顶开轨道、破坏分栏。 */
+.set-cols{display:grid;grid-template-columns:minmax(0,1.16fr) minmax(0,.84fr);gap:0 22px;align-items:start}
+.set-col{min-width:0}
+/* 视口窄于 1000px：两列并回一列（左列先、右列后，DOM 顺序不变）。
+   1000px 是个折中：再窄的话左列的说明文字（52ch）就放不下了。 */
+@media (max-width:1000px){
+  .set-cols{grid-template-columns:minmax(0,1fr)}
+}
+/* 危险操作段在列内：它原先靠 26px 上边距与卡片隔开，列内统一收到 16px */
+.set-col .set-danger{margin:16px 0}
+/* 「关于本站」通栏：四条事实改成 flex 并排（flex:1 1 260px 让他们等分一行，
+   条目增减时也能自动铺满/换行），不再挤在窄栏里一条条竖着排。 */
+.set-cols .set-about{grid-column:1/-1;margin-top:16px}
+/* 分组卡片：一张卡只讲一件事（外观与语音 / 学习与测验 / 数据备份 / 快捷键 / 关于）。
+   卡头带图标与标题、右侧一句灰字提示，这一句是「这一组管什么」的说明。 */
+.set-card{margin-bottom:16px}
+.set-card-head{display:flex;align-items:center;gap:10px;flex-wrap:wrap;padding-bottom:13px;margin-bottom:2px;border-bottom:1px solid var(--line)}
+.set-card-head h2{display:flex;align-items:center;gap:8px;font-size:15px;font-weight:700;letter-spacing:-.01em;margin:0}
+.set-card-head h2 .ic{width:17px;height:17px;color:var(--accent-ink)}
+.set-card-head .faint{margin-left:auto;text-align:right}
+/* 数字输入带单位（次 / 张）：单位此前只写在说明文字里，输入框旁空着看不出是什么 */
+.num-wrap{display:inline-flex;align-items:center;gap:7px}
+.set-num{width:96px}
+.num-unit{font-size:12.5px;color:var(--text-3)}
+/* 语速读数：滑杆右边的实时倍率（拖动时即时更新，与滑杆读数同一口径） */
+.rate-chip{font-size:13px;font-weight:700;color:var(--text-2);background:var(--surface-2);
+  border:1px solid var(--line);border-radius:var(--r-xs);padding:3px 9px;min-width:58px;text-align:center;
+  font-variant-numeric:tabular-nums}
+.rate-chip b{color:var(--text)}
+/* 本机存档概况：说明「导出带走的是什么」「清空会删掉什么」，数字全部现算。
+   文字必须裹在 span 里：裸文本节点在 flex 容器里是匿名 flex item，
+   其 min-content 宽度＝一个汉字 ⇒ 窄屏下会被压成一字一行。 */
+.set-note{display:flex;align-items:flex-start;gap:7px;font-size:12.5px;color:var(--text-3);line-height:1.7;margin:12px 0 0}
+.set-note .ic{width:14px;height:14px;margin-top:3px;flex:none}
+.set-note span{flex:1 1 auto;min-width:0}
+.set-note b{color:var(--text-2);font-weight:700}
+/* 危险操作：独立成段（不与日常设置同卡），红字标题 + 一句「先备份」的提醒。
+   两块 danger-zone 改为**描边**块（此前「清空全部数据」是整条饱和红底），
+   不可逆的重量交给那颗实心红按钮承担 —— 页面不再有一条横贯的色带，
+   而红底 + 红按钮糊成一片的问题（红底上的按钮改白底）也随之消失。 */
+/* 危险操作段：上下都留白。此前只写了 margin-top:26px，
+   段尾（红框「清空全部数据」）与下一张卡（键盘快捷键）之间是 0 间距 ——
+   两块边框直接贴在一起，看上去像同一张卡被割成两段。 */
+.set-danger{margin:26px 0 16px}
+.set-danger-title{display:flex;align-items:center;gap:8px;font-size:15.5px;font-weight:700;color:var(--bad);margin:0 0 5px}
+.set-danger-title .ic{width:17px;height:17px}
+.set-danger-sub{color:var(--text-3);font-size:12.8px;line-height:1.7;margin:0 0 3px;max-width:64ch}
+/* 备份提醒单独成行：它是「该做什么」的行动提示，与上一行「会怎样」的警告语分工不同，
+   所以拆行并提亮（不是加红，红留给标题与不可逆按钮），避免一句里两半互相稀释。 */
+.set-danger-tip{display:flex;align-items:flex-start;gap:6px;color:var(--text-2);font-size:12.8px;line-height:1.7;margin:0 0 12px;max-width:64ch}
+.set-danger-tip .ic{width:14px;height:14px;margin-top:3px;flex:none;color:var(--text-3)}
+/* 「关于本站」：把一段说明文字拆成若干条事实，逐条一行，比一整段好扫。
+   通栏后用 flex 并排铺开：flex:1 1 260px 让每条等分一行宽度，条目增减都填得满。 */
+.about-facts{display:flex;flex-wrap:wrap;gap:15px 28px}
+.about-facts .af{flex:1 1 260px;display:flex;flex-direction:column;gap:3px;min-width:0}
+.about-facts .k{font-size:12px;font-weight:700;color:var(--text-3);letter-spacing:.04em}
+.about-facts .v{font-size:13.5px;color:var(--text-2);line-height:1.75}
+/* 行内链接的触达高度：裸 <a> 的行盒只有 18px（字号 13.5 × 行高），
+   触屏上难点中——WCAG 2.2 SC 2.5.8 要求 ≥24×24 CSS px。
+   上下各补 3px 内边距把触达盒撑到 24px，不改字号、不改版式。 */
+.about-facts .v a{overflow-wrap:anywhere;padding:3px 0;display:inline-block}
+.set-row{display:flex;justify-content:space-between;align-items:center;gap:18px;padding:16px 0;border-bottom:1px solid var(--line);flex-wrap:wrap}
+.set-row:last-child{border:none}
+/* 卡头下第一行少一截上内边距：卡头自己已有分隔线，不必再叠一层空白 */
+.set-card-head + .set-row{padding-top:12px}
+.set-row .l{font-weight:600;font-size:14.5px}
+.set-row .d{color:var(--text-3);font-size:12.5px;max-width:52ch;margin-top:2px;line-height:1.6}
+/* 窄屏：设置行改成「标题在上、控件在下」，控件不再被挤到右缘；
+   语速那行控件最多（滑杆＋读数＋试听），滑杆自身也要收窄。 */
+@media (max-width:620px){
+  .set-row{flex-direction:column;align-items:flex-start;gap:10px}
+  .set-row > :last-child{align-self:flex-start}
+  /* 语速那行控件要占满整行（滑杆才能拉得开），其余各行保持控件自身宽度 */
+  .range-wrap{width:100%;flex-wrap:wrap}
+  input[type=range]{width:100%;min-width:0;flex:1 1 130px}
+  .rate-chip{flex:none}
+  .set-card-head .faint{margin-left:0;text-align:left;flex-basis:100%}
+}
+.seg{display:flex;border:1px solid var(--line-2);border-radius:var(--r-sm);overflow:hidden;background:var(--surface)}
+.seg button{border:none;background:transparent;padding:8px 16px;font-size:13.5px;font-weight:600;color:var(--text-2);transition:var(--dur) var(--ease)}
+.seg button+button{border-left:1px solid var(--line)}
+.seg button.on{background:var(--accent);color:var(--on-accent)}
+.seg button:hover:not(.on){background:var(--accent-soft);color:var(--accent-ink)}
+/* 学习页的模式分段（翻卡学习 / 测验）：与设置页分段同一套类，宽一点更醒目 */
+.study-modes{margin:18px 0 20px;width:max-content}
+.study-modes button{display:inline-flex;align-items:center;gap:6px;padding:9px 18px;font-size:14px}
+.study-modes button .ic{width:15px;height:15px}
+/* 学习页的模式切换：**两张模式卡**（不是两颗小按钮）。
+   此前页首是一枚窄窄的分段控件：两个模式看起来一样重、也读不出差别，
+   用户不知道「翻卡」与「测验」分别会做什么、要花多少量。模式卡把图标、
+   名字、一句说明与当前参数（本次 N 张 / N 题 · 某范围）写在同一张卡上，
+   切之前就能比较。类名与 role=group / aria-pressed 口径沿用原来的 .seg，
+   读屏与强制颜色模式下的选中态表现不变。 */
+.study-modes{
+  display:grid;grid-template-columns:1fr 1fr;gap:10px;width:auto;
+  margin:0 0 18px;background:none;border:none;overflow:visible;
+}
+.study-modes button{
+  /* 栅格而非 flex：卡名（「翻卡学习」/「测验」）是按钮的**直接文本节点**，
+     说明行与参数徽标另占格子。
+     为什么非要直接文本节点：对比度守卫把「按钮里除图标外没有直接文字」
+     的控件判成「图标控件」，要求图标自身与底色的对比 ≥3:1 ——
+     而本卡的图标坐在自己的琥珀色小方块上（--on-accent 压 --accent），
+     拿按钮底色去比自然是 1.19:1（假红：图标并不直接落在按钮底色上）。
+     名字写成直接文本节点后，图标即「有文字标签的装饰」，1.4.11 明列豁免。 */
+  display:grid;grid-template-columns:auto 1fr auto;grid-template-rows:auto auto;
+  column-gap:12px;row-gap:2px;align-items:center;justify-items:start;
+  min-width:0;text-align:left;
+  padding:13px 15px;border:1px solid var(--line);border-radius:var(--r);
+  background:var(--surface);color:var(--text);font-size:14.5px;font-weight:700;
+  transition:var(--dur) var(--ease);
+}
+.study-modes button+button{border-left:1px solid var(--line)}
+.study-modes button:hover:not(.on){border-color:var(--accent-ink);background:var(--accent-soft);color:var(--accent-ink)}
+.study-modes button.on{background:var(--accent-soft);border-color:var(--accent-ink);color:var(--text);box-shadow:var(--sh-1)}
+.study-modes .mc-ic{
+  grid-area:1 / 1 / 3 / 2;
+  display:inline-flex;align-items:center;justify-content:center;
+  width:34px;height:34px;border-radius:var(--r-sm);background:var(--surface-2);color:var(--text-3);
+}
+.study-modes button.on .mc-ic{background:var(--accent);color:var(--on-accent)}
+.study-modes .mc-ic .ic{width:17px;height:17px}
+.study-modes .mc-d{
+  grid-area:2 / 2 / 3 / 3;min-width:0;
+  font-size:12px;color:var(--text-3);font-weight:500;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;
+}
+.study-modes .mc-s{
+  grid-area:1 / 3 / 3 / 4;align-self:center;
+  font-size:12px;font-weight:600;color:var(--text-3);white-space:nowrap;
+  background:var(--surface-2);border:1px solid var(--line);border-radius:var(--r-full);padding:2px 9px;
+}
+.study-modes button.on .mc-s{color:var(--accent-ink);border-color:var(--accent-ink);background:transparent}
+@media (max-width:760px){
+  .study-modes{grid-template-columns:1fr}
+  .study-modes .mc-d{white-space:normal}
+}
+/* 会话进行中（牌桌/答题页）的「换模式」入口：进度条行/页头按钮排里的一颗小钮 */
+.fc-modeswitch{flex:none}
+@media (max-width:560px){
+  /* 窄屏上进度条行换行后按钮独占一行居中，避免挤压进度文字 */
+  .fc-progress .fc-modeswitch{margin-left:auto}
+}
+.range-wrap{display:flex;align-items:center;gap:12px}
+/* 语速那行控件最宽（滑杆＋读数＋试听），在两列版式里放不下时会换到下一行。
+   换行后把它推到右边，与上面各行的控件右缘对齐（否则它孤零零地贴在左边，
+   和同一张卡里其它右对齐的控件对不上）。窄屏上 .range-wrap 已是整行宽，不受影响。 */
+.set-row > .range-wrap{margin-left:auto}
+input[type=range]{accent-color:var(--accent-ink);width:160px;height:24px}
+.danger-zone{border:1px solid var(--bad-line);background:var(--bad-soft);border-radius:var(--r);padding:16px;margin-top:12px}
+/* 「清空全部数据」比「重置进度」更不可逆：加粗描边 + 更强的红字，
+   不可逆的重量交给那颗**实心红按钮**承担，不再整条铺饱和红底
+   （此前那块红带横贯整卡、把整页的视觉重心拽到页尾）。 */
+.danger-zone-strong{border-color:var(--bad);border-width:1.5px}
+.danger-zone .l{font-weight:700;font-size:14.5px;color:var(--bad)}
+.danger-zone .d{color:var(--text-3);font-size:12.5px;margin-top:3px;line-height:1.6;max-width:52ch}
+.danger-zone-strong .l{font-size:15px}
+.btn.danger-outline{background:var(--surface);border-color:var(--bad-line);color:var(--bad)}
+.btn.danger-outline:hover{background:var(--bad-soft);border-color:var(--bad);color:var(--bad);box-shadow:none}
+
+/* ------------------------------------------------------------ word modal -- */
+/* 第五十五轮：浮层开着的时候，背景不该跟着滚。
+   实测两处漏：
+   ① 遮罩区（浮层本身不滚动的那部分）上滚滚轮 → 背后的页面被带着滚走
+      （快捷键浮层遮罩上滚轮 ⇒ 背景 scrollY 584→1184；词条弹窗桌面端同样）；
+   ② 内部列表滚到尽头后继续滚 → 滚动链一路传到文档
+      （搜索结果列表滚到底继续滚 ⇒ 背景 scrollY 0→3000）。
+   修法两层：
+   · 文档层：浮层打开时锁住根元素滚动（html:has(浮层:not([hidden])){overflow:hidden}）。
+     只给浮层加 overflow:hidden/overscroll-behavior 是不够的——实测那样做完，
+     遮罩上的滚轮**照样**把背景带走（浮层不可滚动 ⇒ 滚动节点仍落到文档），
+     故必须从根元素断链。scrollbar-gutter:stable 预留滚动条槽位，
+     锁与不锁之间内容宽度不变 ⇒ 背景不会横向跳一下。
+   · 浮层/内部块层：各自 overscroll-behavior:contain，列表滚到尽头不外溢。
+   副作用复核：根元素 overflow:hidden 只影响滚动，不影响浮层内部滚动
+   （.modal-scroll / .search-results / .shortcuts-card 各自是独立滚动容器）。 */
+html:has(#wordModal:not([hidden])),
+html:has(#searchOverlay:not([hidden])),
+html:has(#shortcutsOverlay:not([hidden])){overflow:hidden;scrollbar-gutter:stable}
+.modal,.search-overlay,.shortcuts-overlay{overscroll-behavior:contain}
+.search-results,.shortcuts-card{overscroll-behavior:contain}
+.modal{position:fixed;inset:0;background:var(--overlay);backdrop-filter:blur(4px);z-index:120;display:flex;align-items:center;justify-content:center;padding:20px}
+.modal-card{
+  background:var(--surface);border:1px solid var(--line);border-radius:var(--r-xl);
+  box-shadow:var(--sh-3);max-width:580px;width:100%;max-height:88vh;overflow:hidden;position:relative;
+  animation:rise .24s var(--ease-out);
+}
+/* 内容单独滚动，关闭按钮留在卡片上不会随长内容滚走 */
+.modal-scroll{overflow:auto;padding:30px;max-height:88vh;overscroll-behavior:contain}
+@keyframes rise{from{transform:translateY(16px) scale(.98);opacity:0}}
+@keyframes sheet-up{from{transform:translateY(100%)}}
+.modal-close{
+  position:absolute;top:14px;right:14px;z-index:3;border:none;background:var(--surface-2);color:var(--text-2);
+  width:32px;height:32px;border-radius:var(--r-xs);font-size:13px;display:inline-flex;align-items:center;justify-content:center;
+  box-shadow:0 1px 3px rgba(0,0,0,.10);
+}
+.modal-close:hover{background:var(--bad-soft);color:var(--bad)}
+.wm-word{font-family:var(--font-serif);font-size:34px;font-weight:700;letter-spacing:-.015em;word-break:break-word}
+.wm-num{font-size:11.5px;color:var(--text-3);font-family:var(--mono)}
+.wm-tags{display:flex;gap:7px;flex-wrap:wrap;margin:10px 0 4px;align-items:center}
+.wm-sense{padding:12px 15px;background:var(--surface-2);border-radius:var(--r-sm);margin-top:9px;font-size:15.5px;line-height:1.75}
+.wm-sense b{color:var(--accent-ink);font-family:var(--mono);font-size:12px;margin-right:9px}
+.wm-note{margin-top:9px;font-size:13px;color:var(--text-2);background:var(--surface-2);border:1px dashed var(--line-2);padding:9px 13px;border-radius:var(--r-sm);display:flex;align-items:flex-start;gap:7px;line-height:1.65}
+.wm-note .ic{width:14px;height:14px;margin-top:2px;flex-shrink:0}
+.wm-ex{margin-top:12px}
+.wm-ex-label{font-size:11.5px;color:var(--text-3);font-family:var(--mono);letter-spacing:.05em;margin-bottom:2px}
+.wm-ex-item{background:var(--surface-2);border:1px dashed var(--line-2);border-radius:var(--r-sm);padding:10px 13px;margin-top:7px}
+.wm-ex-en{font-size:14.5px;line-height:1.7;color:var(--text)}
+.wm-ex-zh{font-size:13px;line-height:1.65;color:var(--text-2);margin-top:4px}
+.wm-links{display:flex;gap:8px;flex-wrap:wrap;margin-top:18px}
+.wm-links a{font-size:12.5px;padding:7px 13px;border:1px solid var(--line);border-radius:var(--r-sm);background:var(--surface-2);color:var(--text-2);text-decoration:none;transition:var(--dur) var(--ease);display:inline-flex;align-items:center;gap:6px}
+.wm-links a:hover{border-color:var(--accent-ink);color:var(--accent-ink);text-decoration:none;background:var(--accent-soft)}
+.wm-actions{display:flex;gap:9px;margin-top:20px;flex-wrap:wrap}
+.wm-mark{margin-top:16px;padding:12px 14px;border:1px solid var(--line);border-radius:var(--r-sm);background:var(--surface-2)}
+.wm-mark-label{display:flex;align-items:center;gap:7px;font-size:12px;color:var(--text-3);font-weight:600;margin-bottom:10px}
+.wm-mark-label .ic{width:14px;height:14px}
+.wm-mark-btns{display:flex;gap:8px;flex-wrap:wrap}
+.wm-mark-btns .btn .ic{width:14px;height:14px}
+/* 选中态：表示该词条当前所处的记忆状态 */
+.wm-mark-btns .btn.on{border-color:var(--accent-ink);background:var(--accent-soft);color:var(--accent-ink);font-weight:700}
+.wm-fav.on{border-color:var(--warn-line);background:var(--warn-soft);color:var(--warn)}
+.wm-fav.on:hover{border-color:var(--warn);color:var(--warn)}
+.wm-nav{display:flex;justify-content:space-between;align-items:center;margin-top:18px;padding-top:14px;border-top:1px solid var(--line);gap:10px}
+
+/* ---------------------------------------------------------------- toast -- */
+.toast-wrap{position:fixed;bottom:26px;left:50%;transform:translateX(-50%);z-index:200;display:flex;flex-direction:column;gap:9px;align-items:center;pointer-events:none}
+.toast{
+  background:var(--text);color:var(--bg);padding:11px 20px;border-radius:var(--r-full);
+  font-size:13.5px;font-weight:600;box-shadow:var(--sh-3);animation:tin .26s var(--ease-out);
+  max-width:90vw;display:inline-flex;align-items:center;gap:8px;
+}
+.toast .ic{width:15px;height:15px}
+@keyframes tin{from{transform:translateY(14px);opacity:0}}
+
+/* -------------------------------------------------------- search overlay -- */
+.search-overlay{position:fixed;inset:0;background:var(--overlay);backdrop-filter:blur(4px);z-index:130;padding:10vh 20px 20px}
+.search-box{max-width:640px;margin:0 auto;background:var(--surface);border-radius:var(--r-xl);box-shadow:var(--sh-3);overflow:hidden;border:1px solid var(--line);animation:rise .22s var(--ease-out)}
+#searchInput{width:100%;border:none;outline:none;font-size:17px;padding:19px 22px;background:transparent;color:var(--text)}
+.search-results{max-height:52vh;overflow:auto;border-top:1px solid var(--line)}
+.sr-label{display:flex;align-items:center;gap:7px;padding:10px 22px 8px;font-size:12px;color:var(--text-3);border-bottom:1px solid var(--surface-2)}
+/* 搜索结果行改成上下两行：上行是词形与标签，下行是「命中处」。
+   旧版一行挤满 [单词][词性][例][释义][#号]，而一行里**只有释义是弹性项** ——
+   窄屏下其余项都不肯让位，释义被挤成一条极窄的省略号：实测 320px 时释义只剩
+   21px / 需要 195px（可见 11%）、375px 剩 39%、414px 剩 59%。手机上等于
+   「搜到了词、看不到释义」。拆成两行后命中处整行可读、允许折行
+   （词库最长义项 119 字，截两行会静默丢掉大半），
+   例句片段（只在例句里命中的词）也放得下。 */
+.sr-item{display:block;padding:9px 22px 10px;cursor:pointer;border-bottom:1px solid var(--surface-2)}
+.sr-item:last-child{border-bottom:none}
+.sr-item:hover,.sr-item.sel{background:var(--accent-soft)}
+.sr-top{display:flex;align-items:baseline;gap:9px;width:100%}
+.sr-item .w{font-family:var(--font-serif);font-weight:700;white-space:nowrap;font-size:15.5px;flex:0 1 auto;min-width:0;overflow:hidden;text-overflow:ellipsis}
+.sr-item .m{display:block;color:var(--text-2);font-size:13px;line-height:1.55;margin-top:2px;overflow-wrap:anywhere}
+/* 例句片段：斜体压暗，与「释义」区分开 —— 一眼就知道这行不是释义，
+   而是例句里命中关键词的那一段 */
+.sr-item .m.sr-x{color:var(--text-3);font-style:italic}
+.sr-item .n{margin-left:auto;color:var(--text-3);font-size:11px;font-family:var(--mono);flex:none}
+.sr-item .sr-pos{font-size:10.5px}
+/* 「在词库中查看全部」：浮层只放得下前 12 条，超出的从这里翻到词库页去看
+   （那边能翻页、能按学习状态筛、按词性筛） */
+.search-more{border-top:1px solid var(--line)}
+.search-more[hidden]{display:none}
+.search-more-btn{display:flex;align-items:center;gap:8px;width:100%;border:none;background:none;padding:11px 22px;font-size:13px;color:var(--accent-ink);cursor:pointer;text-align:left;font-family:inherit}
+.search-more-btn:hover{background:var(--accent-soft)}
+.search-more-btn .ic{width:15px;height:15px;flex:none}
+@media (max-width:520px){
+  .sr-item{padding:9px 16px 10px}
+  .sr-item .w{font-size:15px}
+  .sr-item .m{font-size:12.5px;line-height:1.5}
+  .search-more-btn{padding:11px 16px}
+}
+.search-hint{padding:11px 22px;font-size:11.5px;color:var(--text-3);border-top:1px solid var(--line);display:flex;justify-content:space-between;gap:10px;flex-wrap:wrap}
+
+/* --------------------------------------------------- shortcuts overlay -- */
+.shortcuts-overlay{position:fixed;inset:0;background:var(--overlay);backdrop-filter:blur(4px);z-index:140;display:flex;align-items:center;justify-content:center;padding:20px}
+.shortcuts-card{background:var(--surface);border:1px solid var(--line);border-radius:var(--r-xl);box-shadow:var(--sh-3);max-width:660px;width:100%;max-height:86vh;overflow:auto;padding:28px;position:relative;animation:rise .22s var(--ease-out)}
+.shortcuts-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:26px}
+/* 设置页右栏里的快捷键表：栏宽只有 ~560px，280px 的轨道只放得下一列，
+   四组快捷键竖着排下来比左栏还长，两栏高度差一大截。把轨道收窄到 230px，
+   一行两组，高度砍掉近半，两栏才对得上。 */
+.set-col .shortcuts-grid{grid-template-columns:repeat(auto-fit,minmax(min(230px,100%),1fr));gap:22px 26px}
+/* 分组标题：标记产出的是 h3（renderShortcuts），此前这条规则写的是 h4 ——
+   选择器与标记对不上，样式从未生效，分组标题一直顶着浏览器默认的 h3 大字号，
+   与设置页其它标题的层级对不齐。 */
+.shortcuts-group h3{font-size:13px;font-weight:700;color:var(--accent-ink);letter-spacing:.05em;margin-bottom:11px}
+.shortcuts-row{display:flex;justify-content:space-between;align-items:center;gap:14px;padding:7px 0;font-size:13.5px;color:var(--text-2);border-bottom:1px dashed var(--line)}
+.shortcuts-row:last-child{border:none}
+
+/* --------------------------------------------------------------- footer -- */
+/* 第六十三轮重做：原先是两行居中的自述文字（还把仓库内部路径 data/curation.json
+   摆在了页脚上），信息密度低、口吻像 README 摘要。最后定稿只留站名一行、居中：
+   词数统计与快捷键入口都挪走了 —— 统计数字首页与设置页已有，快捷键按钮移进顶栏
+   （与搜索/主题按钮同列），页脚只承担「这是哪个站」的落款。 */
+.footer{border-top:1px solid var(--line);padding:18px 20px;background:color-mix(in srgb,var(--surface) 60%,transparent)}
+.footer-inner{max-width:var(--content-max);margin:0 auto;display:flex;align-items:center;justify-content:center;text-align:center}
+.footer-name{font-size:13.5px;font-weight:700;color:var(--text-2);letter-spacing:-.01em}
+.footer-name em{font-style:normal;font-weight:500;font-size:11.5px;color:var(--text-3);margin-left:7px;letter-spacing:0}
+/* 极窄屏只留中文站名（与顶栏同一口径） */
+@media (max-width:400px){
+  .footer-name em{display:none}
+}
+
+/* ------------------------------------------------------------ responsive -- */
+@media (max-width:1000px){
+  .home-grid{grid-template-columns:1fr}
+  /* 指标带在窄屏拆回「一格一卡」：桌面那条指标带靠 1px 间隙 + 容器底色画分隔线，
+     窄屏换行后空出来的格子会露出容器底色（一块灰），所以这里改成每格自带边框，
+     列数 2（420px 档已是 2）。 */
+  .dash-stats{grid-template-columns:repeat(2,minmax(0,1fr));gap:10px;
+    background:none;border:none;border-radius:0;box-shadow:none;overflow:visible}
+  .stat-card{border:1px solid var(--line);border-radius:var(--r);box-shadow:var(--sh-1);padding:13px 15px}
+  .stat-card::after{left:0;right:auto;top:0;bottom:0;width:3px;height:auto}
+  /* 窄屏不再左右并排：整行铺满，但留个上限，免得在 900px 那种半宽屏上
+     拉出一条长得离谱的横幅。 */
+  .rand-word{width:100%;flex:0 1 auto;max-width:560px}
+}
+/* 861–1080px：8 项导航 + brand + 右侧按钮会静默溢出（mainnav 滚动条是隐藏的），先收紧顶栏 */
+@media (max-width:1080px){
+  .topbar-inner{gap:10px;padding:9px 14px}
+  .mainnav{gap:2px}
+  .nav-item{padding:7px 8px;font-size:13.2px}
+}
+/* 第五十二轮：861–884px 这一带，brand（130→151px）与右侧按钮（133→140px）同时变宽，
+   导航可用宽只剩 522–541px，而 8 项需要 542px —— .mainnav 是 overflow-x:auto，但
+   滚动条被 scrollbar-width:none 隐藏了，溢出**没有任何视觉提示**，最后一项「设置」
+   整项落在可视区外（实测 861px 溢出 20px、880px 溢出 1px，884px 起恢复；1081px
+   以上那一档不再收紧内边距，故不溢出）。这里把导航项的水平内边距从 8px 收到 5px
+   （8 项共省 48px），让 8 项全部装得下。 */
+@media (min-width:861px) and (max-width:900px){
+  .nav-item{padding:7px 5px}
+}
+/* 站名改长后（英文副名 Academic English Vault → Academic English Lexicon，
+   宽 99px→166px），901–940px 这一带导航可用宽只剩 504–539px，8 项需要 542px
+   ⇒ 「设置」整项落在可视区外（实测 905–940px 溢出，滚动条被隐藏故无视觉提示）。
+   与 ≤860px 一样，在此档以下隐藏英文副名，只留中文站名。 */
+@media (max-width:940px){
+  .brand-text em{display:none}
+}
+@media (max-width:860px){
+  :root{--topbar-h:54px}
+  body{padding-bottom:calc(86px + var(--safe-b))}
+  /* 移动端底部标签栏是 fixed，聚焦滚动必须给它留出空档（SC 2.4.11）：
+     否则 Tab 到页面底部的控件时，焦点框正好被底栏压住。 */
+  html{scroll-padding-bottom:calc(86px + var(--safe-b))}
+  .topbar-inner{padding:7px 12px;gap:10px}
+  /* 底部标签栏是 fixed 的，会脱离顶栏的 flex 流；这里显式把右侧按钮推到最右 */
+  .brand-text{display:flex;font-size:14px}
+  .brand-text em{display:none}
+  .visit-pill{display:inline-flex;font-size:11.5px}
+  .hero-hint{display:none}
+
+  /* 第六十三轮：顶栏右侧加了「键盘快捷键」按钮（快捷键面板原先唯一的可见入口
+     在页脚，页脚收成只剩站名后挪到这里），移动端顶栏右侧多了一个 36px 按钮。
+     320px 顶栏原本只剩 ~15px 余量（实测 305/320），加按钮后撑出 24px 横向溢出。
+     这里把这一档整体收紧：图标按钮 36→32px（仍 ≥24px 的 SC 2.5.8 目标尺寸）、
+     按钮间距 8→6px、站名 14→13px、访问次数徽标收紧内边距 —— 挤回 320px 内。
+     （第166轮：那个「键盘快捷键」按钮已下线——与设置页「键盘快捷键」一节重复；
+       本处的收紧规则对剩下的搜索/主题两个图标钮仍然有效。） */
+  @media (max-width:430px){
+    .icon-btn{width:32px;height:32px}
+    .topbar-right{gap:6px}
+    .brand-text{font-size:13px}
+    .visit-pill{font-size:11px}
+  }
+  @media (max-width:360px){
+    /* 极窄档再挤一点：访问次数徽标只留数字（徽标已有 aria-label「最近30天访问 N 次」，
+       读屏不受影响），把最后的余量腾给顶栏不溢出 */
+    .visit-pill .ic{display:none}
+    .brand-text{font-size:12px}
+  }
+
+  /* 底部标签栏 */
+  .mainnav{
+    position:fixed;left:0;right:0;bottom:0;z-index:90;
+    /* 列数跟着实际导航项走：此前写死 8 列，而页内只有 6 个导航项
+       （「内容窗」与「键盘快捷键」两轮下线后没同步），多出的两列空着，
+       六颗图标全挤在左边四分之三，右端留一条 96px 的死白（375px 档实测：
+       末项右缘 279px / 栏宽 375px）。改用 flex + 每项 flex:1，
+       项数增减时不必再回来改列数。 */
+    display:flex;
+    gap:0;padding:5px 4px calc(5px + var(--safe-b));
+    background:color-mix(in srgb,var(--surface) 96%,transparent);
+    backdrop-filter:blur(18px) saturate(180%);
+    border-top:1px solid var(--line);overflow:visible;
+  }
+  .nav-item{
+    flex:1 1 0;min-width:0;   /* 每项等分栏宽：项数变了也不留空列 */
+    flex-direction:column;gap:3px;padding:5px 2px;border-radius:var(--r-sm);
+    font-size:10px;font-weight:600;color:var(--text-3);justify-content:center;
+  }
+  .nav-item .ni{display:inline-flex}
+  .nav-item .ni .ic{width:19px;height:19px}
+  .nav-item.active{background:transparent;color:var(--accent-ink);box-shadow:none}
+  .nav-item.active .ni{transform:translateY(-1px)}
+
+  .view-container{padding:18px 14px 28px}
+  .page-title{font-size:21px}
+  .hero{padding:24px 22px 28px;border-radius:var(--r-lg)}
+  .hero h1{font-size:22px}
+  /* ::before/::after 旧指装饰圆（已除名）；现 ::before 是卡顶发丝高光，
+     窄屏仍要它 —— 只灭不存在的 ::after。 */
+  .hero::after{display:none}
+  .dash-stats{grid-template-columns:repeat(2,1fr);margin-top:-16px;padding:0 2px;gap:10px}
+  .stat-card .v{font-size:21px}
+  .quick-row{grid-template-columns:repeat(2,1fr)}
+  .fc-btns{gap:8px}
+  .fc-btns .btn{font-size:13.5px;padding:12px 4px}
+  .quiz-opts{grid-template-columns:1fr}
+  .flip-card{height:390px}
+  .flip-face{padding:28px 22px}
+  .fc-back-head{padding-right:34px}
+  .fc-extras{grid-template-columns:1fr;gap:14px}
+  .fc-front-foot{justify-content:center}
+  .fc-front-foot .fc-hint{font-size:11.5px}
+  .fc-mark-row{justify-content:flex-start}
+  .toolbar{position:static;background:transparent;backdrop-filter:none}
+  .wcard-grid{grid-template-columns:repeat(auto-fill,minmax(160px,1fr))}
+  .deck-grid{grid-template-columns:repeat(2,1fr)}
+  .deck-opt{padding:11px 10px}
+  .deck-opt .do-t{font-size:13px}
+  .cat-words{grid-template-columns:repeat(auto-fill,minmax(180px,1fr))}
+  .modal-card{padding:0}
+  .modal-scroll{padding:24px 20px}
+  .wm-word{font-size:28px}
+  .toast-wrap{bottom:calc(78px + var(--safe-b))}
+  .search-overlay{padding:6vh 12px 12px}
+  .shortcuts-grid{grid-template-columns:1fr;gap:20px}
+  /* 词库表格：窄屏收起次要列，状态移到单词旁 */
+  .wt-hide-sm{display:none}
+  .wt-lvl-sm{display:inline-flex;margin-left:5px;vertical-align:middle}
+  /* 窄屏把筛选条收起来，先让用户看到词表 */
+  .filter-bar{display:flex;align-items:center;gap:10px;margin:2px 0 12px}
+  /* 窄屏：筛选面板的标签与控件竖排（标签在上、控件在下）——
+     58px 的左列在 320px 屏上会把控件挤到只剩一半宽 */
+  .filter-panel{padding:2px 12px 8px}
+  .filter-row{flex-direction:column;gap:8px;padding:10px 0}
+  .filter-label{min-width:0;padding-top:0}
+  .filters-wrap.collapsed{display:none}
+  .word-table td{padding:10px 8px;font-size:13.5px}
+  .word-table th{padding:10px 8px;font-size:12px}
+  .wt-word{font-size:14.5px}
+  .wt-sense{font-size:13px}
+  /* 触控目标加大：筛选 chip / 字母条 ≥36px、分页 ≥38px、星标等小按钮 28→32px */
+  .chip,.letter-btn{min-height:36px}
+  .pager button{min-width:38px;height:38px}
+  .mini-btn{width:32px;height:32px}
+  /* 视图切换组与工具条小按钮此前只有 27–29px 高（图标钮），拇指难点中 */
+  .btn-group button{min-width:40px;min-height:36px;justify-content:center}
+  .toolbar .btn.sm{min-height:36px}
+}
+@media (max-width:420px){
+  .dash-stats{grid-template-columns:repeat(2,1fr)}
+  /* 热力图日历（18 周）＋星期标签列要塞进手机的可用宽度：
+     格子 13px→12px、缝 3px→2px（18×12 + 17×2 = 250px），
+     再加 12px 的星期标签列仍有余量；≤360 档另有更小的一档（见下）。 */
+  :root{--heat-cell:12px;--heat-gap:2px;--heat-step:14px}
+  .nav-item{font-size:9.5px}
+  .fc-btns .btn small{font-size:10px}
+  .fc-btns .btn small .kbd-hint{display:none}
+  /* 牌组选项单列：两列时「形容词 · 积极」被断成「…积 / 极」的孤字行 */
+  .deck-grid{grid-template-columns:1fr}
+}
+/* WCAG 1.4.10 回流（320px 宽不得出现横向滚动）：
+   ① 统计页热力图 18 列 × (13px 格 + 3px 间距) = 285px 的**固有**宽度，
+      在 320 视口（页面内边距 28 + 卡片内边距 44 → 可用 248px）里放不下，
+      卡片被撑到 331px、整页随之横向滚动；把格子缩到 11px、间距 2px
+      （18×11 + 17×2 = 232px）即可容下，18 周信息不丢；
+   ② 首页 hero 的「今日学习」面板固定 284px，在 248px 内会被 overflow:hidden
+      **裁掉内容**；hero 本是 flex-wrap:wrap，窄屏改整行铺满即自动换行；
+   ③ 单列网格改 minmax(0,1fr)，允许列宽低于内容的 min-content 底线 */
+@media (max-width:360px){
+  /* 极窄屏的长词组 + 正面词性提示会比普通词多两行：收紧少量垂直留白，
+     避免 390px 卡高里出现一小截没有必要的内部滚动。 */
+  .flip-face{padding:24px 18px}
+  .fc-recall{margin-bottom:16px}
+  .fc-front-foot{padding-top:16px}
+  :root{--heat-cell:11px;--heat-gap:2px;--heat-step:13px}
+  .heat-wrap{grid-template-rows:repeat(7,var(--heat-cell));gap:var(--heat-gap)}
+  .heat,.heat-swatch,.heat-pad{width:var(--heat-cell);height:var(--heat-cell)}
+  .rand-word{width:100%;max-width:100%}
+  .stats-grid{grid-template-columns:minmax(0,1fr)}
+  /* 320px 下统计卡仍保持两列：五张卡单列排下来首屏放不下，
+     每格约 141px，「0/1525 已掌握」这类内容仍放得下（字号略收）。 */
+  .dash-stats{grid-template-columns:repeat(2,minmax(0,1fr));gap:8px}
+  .stat-card{padding:12px 12px}
+  .stat-card .v{font-size:19px}
+  /* 「今日学习目标」卡的环形图 + 文案是 flex 横排，文案那一格有 min-width:180px
+     的行内下限（js/app.js），96 + 180 + 间距 > 320 视口内可用宽度 → 卡片被撑宽、
+     整页横向滚动；窄屏让这一行换行（环在上、文案在下）即可，
+     行内 min-width 不动（那属 js/app.js 的域）。 */
+  .ring-wrap{flex-wrap:wrap;gap:12px}
+  .ring-wrap>div{min-width:0!important}
+  /* 第五十轮（WCAG 1.4.12）：hero 首列写死了行内 min-width:280px
+     （js/app.js 的 style="flex:1;min-width:280px"），而 320px 视口下
+     hero 内容盒只有 320−28(页面内边距)−44(hero 内边距)=248px ⇒ 该列被撑到
+     280px，右侧 32px 被 .hero 的 overflow:hidden **裁掉**：用户按 SC 1.4.12
+     加大字间距后首段文字真的被切（内容丢失）。
+     口径与本段 .ring-wrap>div 一致：行内下限在窄屏解除（CSS 的 !important
+     可压过非 important 的行内声明，属刻意为之，已注明原因）。 */
+  .hero>div:first-child{min-width:0!important}
+}
+/* 手机上两列词卡太窄，长单词会被硬拆成两行——改成单列更易读 */
+@media (max-width:520px){
+  .wcard-grid{grid-template-columns:1fr}
+  /* 详情弹窗 → 底部抽屉：贴底、上方大圆角、整屏宽；拇指够得到的下缘手势区 */
+  .modal{padding:0;align-items:flex-end}
+  .modal-card{
+    max-width:none;border-radius:18px 18px 0 0;border-left:none;border-right:none;border-bottom:none;
+    box-shadow:0 -8px 32px rgba(20,26,46,.18);max-height:86vh;animation:sheet-up .26s var(--ease-out);
+  }
+  .modal-scroll{padding:26px 18px calc(24px + var(--safe-b, 0px));max-height:86vh}
+  /* 抽屉把手：纯视觉装饰，不响应交互（关闭仍走 ✕ / Esc / 点遮罩） */
+  .modal-card::before{
+    content:'';position:absolute;top:8px;left:50%;transform:translateX(-50%);
+    width:40px;height:4px;border-radius:2px;background:var(--line-2);z-index:4;pointer-events:none;
+  }
+  .modal-close{top:16px}
+}
+
+/* ======================================================= 自适应增强（宽/窄）==
+   宽屏（≥1600px）：容器原先恒定 1200px —— 在 2560px 屏上内容被压在中间
+   一条窄带里，两侧各空 680px，词表/图表白白浪费横向空间。这里让容器随视口
+   逐级放宽（--content-max），并把随宽度受益的版块（图表网格、热力图、
+   词表列宽）一起放开。
+   窄屏（≤520px）：工具条收紧成两行、hero 按钮改两列、触控目标补到 24px、
+   表格视图的释义列不再被压成「一字一行」。
+   ========================================================================== */
+@media (min-width:1600px){
+  :root{--content-max:1440px;--heat-cell:18px;--heat-gap:4px;--heat-step:22px}
+  .page-title{font-size:27px}
+  .hero{padding:40px 40px 44px}
+  .hero h1{font-size:30px}
+  .hero p{font-size:15px;max-width:56ch}
+  .home-grid{grid-template-columns:1.65fr 1fr;gap:20px}
+  /* 宽屏上 hero 变宽，随之把随机一词面板也放宽一档，仍与左侧正文留足行宽 */
+  .rand-word{width:560px;flex-basis:560px}
+  .dash-stats{gap:16px}
+  .stat-card{padding:17px 19px}
+  .stat-card .v{font-size:27px}
+  .letter-bars{columns:4}
+  /* 阅读型版块适度放宽（仍远小于容器，避免行长失控） */
+  .quiz-stage{max-width:820px}
+  .fc-stage{max-width:840px}
+  .deck-setup,.quiz-setup{max-width:760px}
+  .search-box{max-width:720px}
+}
+@media (min-width:1900px){
+  :root{--content-max:1600px}
+  .page-title{font-size:28px}
+  .hero h1{font-size:32px}
+  /* 四列：热力图/首字母/测验记录三张卡自带 grid-column:1/-1，仍横跨整行 */
+  .stats-grid{grid-template-columns:repeat(4,minmax(0,1fr))}
+}
+@media (min-width:2400px){
+  :root{--content-max:1720px}
+}
+
+/* 窄屏：工具条不再散成三行（搜索框独占一行，其余控件排第二行） */
+@media (max-width:560px){
+  .toolbar{gap:8px}
+  .toolbar .search-wrap{min-width:0;flex:1 0 100%}
+  /* 下拉框：给一个内容宽度下限（min-width:0 会把「全部状态」压成「全∨」） */
+  .toolbar select{flex:1 1 0;min-width:100px}
+  /* 视图切换组与它后面的按钮同属 .toolbar-end：窄屏下这一组铺满剩余宽度，
+     两个图标钮各占一半，不再剩下一个按钮孤零零换行 */
+  .toolbar-end{flex:1 1 150px;min-width:0;display:flex;gap:8px;align-items:center}
+  /* 分组本身不被压到内容宽度以下（用户加大字间距时按钮会更宽，
+     压下去就会溢出裁切框，SC 1.4.12） */
+  .toolbar-end .btn-group{flex:1 1 auto;min-width:max-content}
+  .toolbar-end .btn-group button{flex:1}
+  .toolbar-end .btn{flex:none}
+  /* 首页五张统计卡在两列里排不满：第 5 张（连续学习）单独占一格，右下角空一块。
+     让它横跨两列收尾，排布才是齐的。 */
+  .dash-stats .stat-card:last-child{grid-column:1/-1}
+}
+/* 窄屏：hero 的三个 CTA 改两列网格（主按钮独占一行，另两个并排）——
+   原先三个按钮各占一行，首屏要滚很久才看得到下面的「随机一词」 */
+@media (max-width:560px){
+  /* 圆环图与图例改竖排：并排时图例只剩 ~90px，「已掌握」被压成一列单字 */
+  .donut-chart{flex-direction:column;align-items:flex-start;gap:12px}
+  .donut-chart svg{max-width:100%;height:auto}
+  .hero-actions{display:grid;grid-template-columns:1fr 1fr;gap:8px}
+  .hero-actions .btn.big{grid-column:1/-1}
+  .hero-actions .btn.big + .btn.big{grid-column:auto}
+  /* 两列并排后每格只有 ~113px，收一收字号与内边距，按钮文字仍保持单行 */
+  .hero-actions .btn.big{font-size:13.8px;padding:12px 8px;gap:5px}
+  /* 主按钮独占整行，字号仍保持主角位 */
+  .hero-actions .btn.big.primary{font-size:15px;padding:13px 12px}
+}
+/* 窄屏：表格视图（用户在手机上手动切到「表格」）的释义列不再被挤成一字一行。
+   做法是给整张表一个下限宽度，让 .list-wrap 变成**表格内**的横向滚动容器
+   （页面本身不产生横向滚动，SC 1.4.10 的回流断言仍成立）。 */
+@media (max-width:560px){
+  .word-table{min-width:430px}
+  .wt-sense{min-width:150px}
+}
+/* 触控目标（SC 2.5.8）：表头排序钮 19px、单词按钮 23px，均不足 24×24 */
+@media (max-width:860px){
+  .th-sort{min-height:24px;align-items:center}
+  .wt-open{min-height:24px;display:inline-flex;align-items:center}
+}
+
+/* 长单词整词一行（窄屏）：首页「随机一词」与闪卡正面都是大号衬线体，
+   而词库里最长的词有 18 个字母（operationalization / heteroskedasticity…，
+   见 data/words.json）。窄屏下这些词一行放不下，word-break:break-word
+   会从**词中间**硬拆（multidisciplina / ry），读起来像坏字。
+
+   口径：让最长的词（operationalization，38px 下 312px）整词一行。
+     首页 .rand-word .w 可用宽 = 视口 − 124px（页面内边距 + hero 卡片内边距；
+       实测 320→196 / 390→266 / 560→436，均为 视口−124）
+     闪卡 .fc-word 可用宽 = 视口 − 116px（卡面内边距 + 喇叭钮与间距；
+       实测 320→204 / 390→274 / 430→314）
+   实测每档能装下最长词的最大字号：首页 320→23.5px / 390→32px / 470→42px，
+   闪卡 320→26px / 390→34px / 430→39px ⇒ 字号取 视口×系数 − 常数。
+   两处都在 ≤585px 生效（585px 正好是 .fc-word 的 clamp 起涨点，两边接得上）；
+   宽屏维持 38px / 56px 的主视觉。 */
+@media (max-width:585px){
+  .rand-word .w{font-size:clamp(22px, calc(11.9vw - 14.8px), 38px)}
+  .fc-word{font-size:clamp(24px, calc(12.3vw - 14.3px), 38px)}
+}
+
+/* --------------------------------------------------- motion & a11y prefs -- */
+@media (prefers-reduced-motion:reduce){
+  *,*::before,*::after{animation-duration:.01ms!important;animation-iteration-count:1!important;transition-duration:.01ms!important;scroll-behavior:auto!important}
+}
+
+/* ------------------------------------------- Windows 高对比度（forced-colors） */
+/* 系统接管全部背景色与边框色后，「选中」「答对/答错」这类**只由颜色承载**的状态
+   会全部塌缩成同一个样子（实测 forced-colors: active 下 .chip.on 与 .chip 的
+   背景/边框色/宽/线型完全相同；.quiz-opt 的 correct/wrong/dim 三态同样如此）。
+   forced-colors 只改**颜色**，不改描边宽度与线型 —— 故用它做与颜色无关的第二通道：
+     · 选中态（各视图的 .on）→ 3px 实线描边；
+     · 答对 → 3px 实线描边，答错 → 3px 虚线描边（两者彼此也可区分）；
+     · 未选项的 opacity:.45 淡化在强制颜色下会拉低文字对比度 → 复位为 1。
+   热力图是**图表**，色阶本身就是它要传达的信息 → 保留作者配色
+   （forced-color-adjust:none），否则 4 级色阶全变成同一个白色、图表信息归零。 */
+@media (forced-colors:active){
+  .chip.on,.btn-group button.on,.letter-btn.on,.pager button.on,.seg button.on,
+  .nav-item.active,.wm-mark-btns .btn.on,.wm-fav.on{outline:3px solid;outline-offset:1px}
+  .quiz-opt.correct{outline:3px solid;outline-offset:1px}
+  .quiz-opt.wrong{outline:3px dashed;outline-offset:1px}
+  .quiz-opt.dim{opacity:1}
+  .heat,.heat-swatch{forced-color-adjust:none}
+}
+
+/* ------------------------------------------------------------------ print -- */
+/* 打印清单容器：屏幕上不显示，打印时独占页面 */
+.print-list{display:none}
+@media print{
+  body > *:not(.print-list){display:none!important}
+  .print-list{display:block!important;padding:0;margin:0}
+  .pl-head{border-bottom:2px solid #000;padding-bottom:6px;margin-bottom:12px}
+  .pl-title{font-family:var(--font-serif);font-size:16pt;margin:0}
+  .pl-meta{font-size:9pt;color:#555;margin-top:3px}
+  .pl-item{break-inside:avoid;page-break-inside:avoid;margin-bottom:9px;padding-bottom:7px;border-bottom:1px dotted #bbb}
+  .pl-w{font-family:var(--font-serif);font-size:12pt;font-weight:700}
+  .pl-pos{font-size:8pt;color:#666;margin-left:6px;font-weight:400}
+  .pl-g{font-size:10pt;color:#222;margin:2px 0 4px}
+  .pl-ex{font-size:9.5pt;line-height:1.5;margin:1px 0 1px 14px}
+  .pl-ex-en{color:#000}
+  .pl-ex-zh{color:#555;margin-left:6px}
+
+  .topbar,.toolbar,.filters,.filter-panel,.letter-bar,.pager,.footer,.fc-foot,.fc-btns,.mini-btn,
+  .q-summary,
+  .icon-btn,.topbar-right,.count-line .btn,.empty-state,.dash-stats,.hero{display:none!important}
+  /* 深色主题下 .pl-w/.pl-title 会继承浅色 --text，白纸上等于隐形：打印一律复位为黑 */
+  body{background:#fff;color:#000;font-size:12pt}
+  .view-container{max-width:none;padding:0}
+  /* 词库表格规则系历史遗留死代码：body>*:not(.print-list) 已整体隐藏 main，
+     打印清单（.pl-*）里也不含 .word-table——第四十九轮甄别后删除 */
+}

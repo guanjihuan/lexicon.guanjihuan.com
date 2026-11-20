@@ -1,0 +1,225 @@
+yield	动词	产生；导致（结果、收益）
+stem from	动词	源自；由…造成
+prevail	动词	占优势，占上风；流行，盛行
+ascribe	动词	把…归因于；认为…是由于
+proceed	动词	继续进行，继续做
+fulfill	动词	实现；达到；履行，执行
+dictate	动词	影响；决定；规定
+comment	动词	评论；评述
+incorporate	动词	包含；将…包括在内
+clarify	动词	澄清；阐明；使更清晰易懂
+illustrate	动词	（尤指用例子）说明，阐明
+pinpoint	动词	准确指出，确定（位置或时间）
+hinder	动词	阻碍，妨碍
+claim	动词	声明；断言；声称
+prohibit	动词	禁止；阻止
+compensate	动词	弥补，补偿
+trigger	动词	引起，引发
+compose	动词	组成，构成；使表情（或思绪等）镇定
+resemble	动词	像；看起来像；与…相似
+adhere to	动词	坚持；遵守；忠于
+perceive	动词	认为；看待；视为
+unravel	动词	揭开，弄清，阐明（谜团或复杂问题）；被澄清；被解决
+inherit	动词	继承；承接；遗传
+scrutinize	动词	细看，仔细审查
+extract	动词	取出；拔出；提取
+unveil	动词	首次公布；揭示；公开
+corroborate	动词	证实，确证
+attribute to	动词	把（某种特质）归属于（某人）；认为（某人）具有（某种特性）
+decline	动词	（逐渐）减少，衰落，降低；拒绝，谢绝
+exceed	动词	超过，超出（数量）；超越（规定的范围）
+bypass	动词	绕过；绕…走；避开
+contradict	动词	反驳，否定；（事实或声明）（与…）相矛盾，（与…）有抵触
+exploit	动词	利用；开发；发挥
+employ	动词	使用；利用
+render	动词	使成为；使变得；使处于某种状态
+extend	动词	扩大；扩展；使增加长度
+proofread	动词	校对；校阅
+commence	动词	开始；着手
+interpret	动词	解释；解读；阐释
+tackle	动词	对付，处理；与…交涉
+leverage	动词	利用；借助（条件、资源）实现目标
+provoke	动词	激起，引起（尤指负面反应）
+witness	动词	目击，看到（尤指事故或犯罪）；见证
+reconcile	动词	调和；调解；使一致
+deduce	动词	推断，推论
+accommodate	动词	容纳；适应；顾及（需要）；提供空间
+restrict	动词	限制；限定；妨碍
+immerse	动词	埋头做…
+retain	动词	保持；保留；保有
+invoke	动词	援引；引用（法律、条文、理论）
+manifest	动词	显示；表现；表明
+encapsulate	动词	扼要表述；压缩；概括
+collapse	动词	崩溃；瓦解；垮塌；倒塌
+denote	动词	表示，代表
+owe	动词	把…归功（于）；把…归因（于）
+evaluate	动词	评估；评价；估计
+arise	动词	发生；产生；出现
+indicate	动词	标示；表明；显示；暗示
+endowed with	动词	具有…的；天生具备…的（be endowed with）
+suppress	动词	抑制，忍住，压抑；查禁
+exemplify	动词	作为…的典范（或范例、典型、榜样等）；举例说明
+discard	动词	丢弃；排除；抛弃（假设、备选方案）
+harbor	动词	庇护；窝藏
+overlook	动词	忽视；忽略；未被注意到
+quantify	动词	量化；确定…的数量；测定
+popularize	动词	宣传；推广；使大众化；使流行
+specify	动词	具体说明；明确指出
+obstruct	动词	阻碍；妨碍；阻挡（理解、进程）
+encompass	动词	包含，包括（尤指很多不同事物）
+articulate	动词	清楚地表达
+underpin	动词	支撑；加强；巩固；构成（基础）
+advance	动词	（使）前进；使进步，使进展；使发展；促进
+stimulate	动词	激发，激励；促进
+diversify	动词	（使）多样化；（使）多元化
+sustain	动词	保持，维持，使持续，使继续
+entail	动词	使必要；牵涉
+consist in	动词	在于；存在于
+intervene	动词	干涉，干预；调停
+suffice	动词	足够；满足要求
+evade	动词	逃脱，躲开；回避，逃避
+cement	动词	加强，巩固（协议或友谊）
+delineate	动词	描述；勾勒
+specialize	动词	专门研究，专攻；专门从事
+coincide	动词	（几乎）同时发生
+designate	动词	命名；指定；选定
+conceal	动词	隐藏；隐匿；隐瞒
+govern	动词	统治；管理；治理
+refer to	动词	提到；谈到；提及；指代；参考
+exaggerate	动词	夸张；夸大；对…言过其实
+merge	动词	（使）合并；（使）融合
+surge	动词	陡增，剧增，急剧上升
+reinforce	动词	强化，加深，进一步证实（观点、看法等）
+coordinate	动词	协调；使相配合
+impose	动词	推行；强制实行
+originate	动词	起源，发源，发端；产生
+distinguish	动词	区分，分辨；使有所区别
+confront	动词	面对；面临；遭遇；与…对峙
+coin	动词	创造（单词或说法）；首次使用（某个表达）
+revisit	动词	重访（某地）
+speculate	动词	推测；推断；猜测
+devise	动词	巧妙构思；巧妙设计
+misinterpret	动词	误解；曲解
+debunk	动词	驳斥；揭穿；戳破
+evolve	动词	（使）逐步发展；（使）逐步演变；（使）逐渐形成；（使）进化
+prove	动词	证明是，结果是
+leap	动词	飞跃；跃升；跳跃（a leap forward 巨大进步）
+mitigate	动词	使缓和；减轻（危害等）
+emulate	动词	效仿；模拟；模仿（研究情境、设计）
+constitute	动词	形成；构成；组成
+elucidate	动词	阐明；解释
+reveal	动词	揭露；泄露；透露
+advocate	动词	主张；拥护；支持；提倡
+embed	动词	把…牢牢嵌入（或插入、埋入）
+conflate	动词	混为一谈；混同（conflate A with B）
+signal	动词	表达，表示；显示
+unify	动词	整合；统一；使成一体
+fabricate	动词	编造；捏造；制造；装配；组装
+complement	动词	补充；补足；使完善；为…增色
+implement	动词	实施；执行；推行（措施、计划）
+pave	动词	为…铺平道路；为…创造条件（pave the way for）
+expose	动词	暴露；露出；使曝光
+migrate	动词	迁移；移居；（使）移动
+remain	动词	停留，留下；保持不变，仍然是
+characterize	动词	是…的特征；为…所特有
+broaden	动词	扩展；拓宽
+emanate	动词	散发；发出（光、热、气味等）
+diagnose	动词	诊断（病症）；查出（问题）
+resolve	动词	解决；化解；决定；决心
+vary	动词	（使）不同；（使）呈现差异
+respect	动词	尊重；重视
+cease	动词	停止，中止
+disperse	动词	（使）扩散，（使）散开，（使）分散
+construct	动词	建造；构筑；构成，组成
+reside	动词	居住；存在于…之中（reside in）
+obviate	动词	排除，消除；使无必要
+propel	动词	推进，推动
+repel	动词	排斥；相斥
+disseminate	动词	散布，传播，宣传
+lay the foundation for	动词	为…打下基础；奠定…的基础
+regard	动词	考虑，思考；将…认为；看待
+cast light on	动词	阐明；使（问题等）易于理解；使人了解
+comprise	动词	包含；包括；构成，组成
+assign	动词	分配；分派；指派；把…归属于
+extrapolate	动词	推断；推知
+infer	动词	推断；推论；推理（infer causality 推断因果关系）
+entangle	动词	（用网、绳等）缠住，套住
+disentangle	动词	使脱离；使摆脱；分开；理顺，分清
+spur	动词	促进；推动（spur further research 促使进一步研究）
+account for	动词	解释；说明（某事）
+pertain	动词	有关；关于（pertain to 与…有关）
+synchronize	动词	（使）同步，（使）同时发生
+uncover	动词	揭露，发现（秘密或隐藏物）；揭开（覆盖物）
+raise	动词	提出；引起；使存在（raise concerns 引起关注）
+categorize	动词	对…进行分类，将…归类
+diverge	动词	（道路）分叉；出现差异；发生分歧
+drive	动词	推动；驱动；驱使（be driven by 由…驱动）
+favor	动词	支持；赞成；主张（in favor of 支持；赞同）
+acquire	动词	取得，获得；购得；学到
+manipulate	动词	操纵；操控；控制（manipulate variables 操控变量）
+compromise	动词	妥协；折中；让步；和解
+validate	动词	验证；证实；确认（validate the model 验证模型）
+stagger	动词	使错开；使交错
+enrich	动词	使丰富，使富含；充实
+anchor	动词	使稳固；扎根；锚定（be anchored in 植根于）
+exert	动词	运用；行使（权威、权力等）；施加（影响等）
+disrupt	动词	打断，中断，扰乱
+analyze	动词	分析；研究；解析
+apply	动词	应用；运用；适用于；申请
+assess	动词	评估；估价；评定
+assume	动词	假定；认为；承担；呈现（某种形态）
+calculate	动词	计算；估计；推测
+combine	动词	结合；联合；合并
+compare	动词	比较；对比；比作
+conclude	动词	得出结论；总结；缔结
+conduct	动词	进行；实施；引导；指挥
+consider	动词	考虑；认为；顾及
+contribute	动词	贡献；促成；起作用
+define	动词	界定；定义；限定
+demonstrate	动词	证明；表明；论证；显示
+depend	动词	依靠；取决于；依赖（depend on）
+describe	动词	描述；形容；记述
+design	动词	设计；构思；策划
+determine	动词	确定；决定；查明；致使
+develop	动词	发展；开发；形成；研制
+discuss	动词	讨论；论述；探讨
+enhance	动词	提高；增强；提升
+ensure	动词	确保；保证；担保
+estimate	动词	估计；估算；估价
+examine	动词	检查；审查；考察；诊察
+exist	动词	存在；生存
+expect	动词	期望；预料；期待
+explain	动词	解释；说明；阐明
+explore	动词	探索；探究；勘察；研讨
+express	动词	表达；表示；表明
+focus	动词	集中；聚焦；专注于（focus on）
+generate	动词	产生；生成；引起
+highlight	动词	突出；强调；使显著
+identify	动词	识别；确认；确定；认定
+include	动词	包括；包含；算入
+involve	动词	涉及；包含；需要
+judge	动词	判断；评价；评判
+label	动词	标注；贴标签；标示
+maintain	动词	维持；保持；坚持认为；维修
+measure	动词	度量；测量；衡量（policy measures 政策措施；measure a variable 测量某个变量）
+obtain	动词	获得；得到；取得
+occur	动词	发生；出现；被想起（occur to sb 想到）
+perform	动词	执行；进行；表现；运作
+predict	动词	预测；预言；预报
+prevent	动词	阻止；预防；防止
+provide	动词	提供；供给；规定
+realize	动词	意识到；认识到；实现（实现目标，realize a goal）；变为现实
+receive	动词	收到；接受；接待
+recognize	动词	认出；承认；认可
+reduce	动词	减少；降低；缩小；把…归纳为
+reflect	动词	反映；体现；思考；反思；映出，倒映
+report	动词	报告；报道；汇报
+respond	动词	回应；反应；作出响应
+suggest	动词	建议；提议；表明；暗示
+summarize	动词	总结；概括；归纳
+support	动词	支持；支撑；证实；资助
+test	动词	检验；测试；考察；化验
+trace	动词	追踪；追溯；描摹；查明；探明
+transform	动词	转变；改造；使改观
+treat	动词	处理；对待；论述；探讨
+understand	动词	理解；懂得；领会

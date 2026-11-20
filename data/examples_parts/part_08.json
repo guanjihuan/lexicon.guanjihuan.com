@@ -1,0 +1,520 @@
+{
+ "overlook": [
+  {
+   "en": "Many reviewers overlooked the methodological flaws buried in the study's appendix.",
+   "zh": "许多评论者忽视了该研究附录中潜藏的方法论缺陷。"
+  },
+  {
+   "en": "It would be unwise to overlook the warning signs that preceded the financial crisis.",
+   "zh": "忽视金融危机前出现的预警信号是不明智的。"
+  },
+  {
+   "en": "Her contributions to the field were so subtle that historians long overlooked them.",
+   "zh": "她对该领域的贡献十分微妙，以至于历史学家长期未加注意。"
+  }
+ ],
+ "cascade": [
+  {
+   "en": "The small decision triggered a cascade of changes throughout the entire organization.",
+   "zh": "这个微小的决定在整个组织中引发了一连串变革。"
+  },
+  {
+   "en": "A cascade of failures in the supply chain forced the manufacturer to delay its launch.",
+   "zh": "供应链中接连不断的故障迫使制造商推迟了产品发布。"
+  },
+  {
+   "en": "Researchers observed a cascade of effects as the new policy reduced regional inequality.",
+   "zh": "随着新政策减少了地区不平等，研究人员观察到了一连串效应。"
+  }
+ ],
+ "crucial": [
+  {
+   "en": "Peer review is crucial for maintaining the credibility of published research.",
+   "zh": "同行评审对于维护已发表研究的公信力至关重要。"
+  },
+  {
+   "en": "The missing consent forms were crucial to the validity of the entire trial.",
+   "zh": "缺失的知情同意书对整个试验的有效性至关重要。"
+  },
+  {
+   "en": "Early investment in training proved crucial when the project faced rapid changes.",
+   "zh": "早期在培训上的投入在项目面临快速变化时被证明是至关重要的。"
+  }
+ ],
+ "heuristic": [
+  {
+   "en": "The team developed a heuristic for estimating costs without a full market survey.",
+   "zh": "团队制定了一套无需全面市场调查即可估算成本的启发式方法。"
+  },
+  {
+   "en": "Such heuristic reasoning works well for routine tasks but fails under pressure.",
+   "zh": "这种启发式推理在日常任务中效果良好，但在压力之下会失效。"
+  },
+  {
+   "en": "Students apply a simple heuristic when choosing sources for their first essay.",
+   "zh": "学生为第一篇论文选择资料时会套用一个简单的启发式规则。"
+  }
+ ],
+ "fragile": [
+  {
+   "en": "The peace agreement remains fragile despite months of careful negotiation.",
+   "zh": "尽管经过了数月的谨慎谈判，协议仍然十分脆弱。"
+  },
+  {
+   "en": "These conclusions are fragile because the sample size was quite small.",
+   "zh": "由于样本量很小，这些结论并不牢靠。"
+  },
+  {
+   "en": "The exhibition requires fragile glass objects to be transported with extreme care.",
+   "zh": "这次展览要求易碎的玻璃器皿在运输中格外小心。"
+  }
+ ],
+ "recipe": [
+  {
+   "en": "Mentorship and honest feedback form the recipe for long-term professional growth.",
+   "zh": "指导与诚实的反馈构成了职业长期成长的秘诀。"
+  },
+  {
+   "en": "The team followed an unconventional recipe for rebuilding the aging infrastructure.",
+   "zh": "团队遵循了一套非常规的方法来重建老旧的基础设施。"
+  },
+  {
+   "en": "Her success recipe combines rigorous training with a willingness to fail often.",
+   "zh": "她的成功秘诀结合了严格训练与不怕反复失败的意愿。"
+  }
+ ],
+ "prestigious": [
+  {
+   "en": "Publishing in the journal offers access to a highly prestigious academic community.",
+   "zh": "在该期刊发表论文可以进入一个享有盛名的学术共同体。"
+  },
+  {
+   "en": "He was appointed to a prestigious chair at the national research council.",
+   "zh": "他被任命担任国家研究委员会中一个显赫的职位。"
+  },
+  {
+   "en": "The prestigious award encouraged many young scholars to keep pursuing their work.",
+   "zh": "这一有声望的奖项鼓励许多年轻学者继续投入自己的研究。"
+  }
+ ],
+ "excess": [
+  {
+   "en": "An excess of sugar in the diet is linked to several chronic conditions.",
+   "zh": "饮食中糖分过量与多种慢性疾病有关。"
+  },
+  {
+   "en": "The laboratory reported an excess of false positives in its screening protocol.",
+   "zh": "实验室报告称其筛查方案中假阳性过多。"
+  },
+  {
+   "en": "The lab discarded the excess reagents after the final assay run.",
+   "zh": "实验室丢弃了最后一轮检测后剩余的多余试剂。"
+  }
+ ],
+ "aforementioned": [
+  {
+   "en": "The aforementioned study provides strong evidence for this conclusion.",
+   "zh": "上述研究为这一结论提供了有力证据。"
+  },
+  {
+   "en": "We return to the aforementioned issue in the final section of this chapter.",
+   "zh": "在本章最后一节，我们回到前面提到的那个问题。"
+  },
+  {
+   "en": "The aforementioned costs must be recovered before any expansion can begin.",
+   "zh": "上述成本必须在任何扩张开始之前得到补偿。"
+  }
+ ],
+ "disparate": [
+  {
+   "en": "The program brings together researchers from disparate fields such as physics and sociology.",
+   "zh": "该计划汇集了来自物理学与社会学等迥然不同领域的研究者。"
+  },
+  {
+   "en": "Students with disparate learning backgrounds need additional scaffolding during the first term.",
+   "zh": "学习背景迥然不同的学生在第一学期需要额外的支架式支持。"
+  },
+  {
+   "en": "These disparate datasets cannot be merged without a common classification scheme.",
+   "zh": "这些差异极大的数据集若没有统一的分类方案就无法合并。"
+  }
+ ],
+ "paradigmatic": [
+  {
+   "en": "Her study of urban migration remains paradigmatic for later generations of historians.",
+   "zh": "她关于城市移民的研究为后世历史学家树立了典范。"
+  },
+  {
+   "en": "The case became a paradigmatic illustration of institutional failure in public health.",
+   "zh": "该案例成为公共卫生制度失灵的典型例证。"
+  },
+  {
+   "en": "Critics described his experiments as paradigmatic of the era's methodological limits.",
+   "zh": "评论者称他的实验是该时代方法论局限的典型写照。"
+  }
+ ],
+ "quantify": [
+  {
+   "en": "Researchers must quantify the emissions before comparing the two design proposals.",
+   "zh": "研究人员必须先量化排放量，然后才能比较这两种设计方案。"
+  },
+  {
+   "en": "It is difficult to quantify the long-term benefit of early childhood education.",
+   "zh": "早期儿童教育的长期收益很难量化。"
+  },
+  {
+   "en": "The report quantifies the financial risk of ignoring the aging infrastructure.",
+   "zh": "该报告量化了忽视基础设施老化所带来的财务风险。"
+  }
+ ],
+ "self-contained": [
+  {
+   "en": "Each chapter is self-contained and can be read independently by students.",
+   "zh": "每一章都自成一体，学生可以独立阅读。"
+  },
+  {
+   "en": "The village operates a self-contained energy system with no external supply.",
+   "zh": "该村运行着一套完全自给自足、不依赖外部供应的能源系统。"
+  },
+  {
+   "en": "The review article is self-contained and requires no prior reading.",
+   "zh": "这篇综述文章自成一体，无需事先阅读其他材料。"
+  }
+ ],
+ "preliminary": [
+  {
+   "en": "Preliminary results suggest that the new compound reduces inflammation in laboratory models.",
+   "zh": "初步结果表明这种新化合物可减少实验室模型中的炎症。"
+  },
+  {
+   "en": "A preliminary study of two hundred workers was conducted before the full trial.",
+   "zh": "在全面试验之前，对 200 名工人进行了一项初步研究。"
+  },
+  {
+   "en": "The report offers preliminary conclusions, since long-term data are still pending.",
+   "zh": "由于长期数据尚未到位，该报告只给出初步结论。"
+  }
+ ],
+ "interchangeably": [
+  {
+   "en": "These two terms are often used interchangeably, although they differ subtly.",
+   "zh": "这两个术语常被互换使用，尽管它们有细微差别。"
+  },
+  {
+   "en": "The drug and the supplement may be taken interchangeably for mild symptoms.",
+   "zh": "该药物与补充剂在缓解轻微症状时可交替使用。"
+  },
+  {
+   "en": "In this framework, micro and nano scales are treated interchangeably for simplicity.",
+   "zh": "在这一框架中，出于简化考虑，微观与纳米尺度被等同处理。"
+  }
+ ],
+ "popularize": [
+  {
+   "en": "Public lectures helped popularize quantum computing among high school teachers.",
+   "zh": "公开讲座帮助在高中教师中推广了量子计算。"
+  },
+  {
+   "en": "The museum popularizes traditional weaving through hands-on workshops for children.",
+   "zh": "该博物馆通过面向儿童的动手工作坊推广传统编织技艺。"
+  },
+  {
+   "en": "Her novel popularized the study of memory across a generation of readers.",
+   "zh": "她的小说在一代读者中普及了对记忆的研究。"
+  }
+ ],
+ "primarily": [
+  {
+   "en": "The program was designed primarily to reduce regional disparities in healthcare access.",
+   "zh": "该项目主要旨在减少医疗服务获取方面的地区差距。"
+  },
+  {
+   "en": "Revenue comes primarily from subscriptions rather than one-time purchases.",
+   "zh": "收入主要来自订阅而非一次性购买。"
+  },
+  {
+   "en": "The exhibition focuses primarily on manuscripts produced during the sixteenth century.",
+   "zh": "该展览主要聚焦于 16 世纪产生的手稿。"
+  }
+ ],
+ "specify": [
+  {
+   "en": "Please specify the sample size and the statistical model in your abstract.",
+   "zh": "请在摘要中明确说明样本量和统计模型。"
+  },
+  {
+   "en": "The contract specifies that all data must be stored on approved servers.",
+   "zh": "合同规定所有数据必须存储在经批准的服务器上。"
+  },
+  {
+   "en": "Researchers should specify their exclusion criteria before collecting any data.",
+   "zh": "研究人员应在收集数据前明确说明其排除标准。"
+  }
+ ],
+ "obstruct": [
+  {
+   "en": "Fallen branches obstructed the narrow mountain path for several hours.",
+   "zh": "倒下的树枝堵塞了狭窄的山路达数小时之久。"
+  },
+  {
+   "en": "Large vehicles frequently obstruct traffic in the narrow streets downtown.",
+   "zh": "大型车辆经常在市中心狭窄的街道上阻塞交通。"
+  },
+  {
+   "en": "The committee worried that political objections might obstruct the entire reform process.",
+   "zh": "委员会担心政治反对意见会阻碍整个改革进程。"
+  }
+ ],
+ "snapshot": [
+  {
+   "en": "The photograph provides a snapshot of rural life in the early twentieth century.",
+   "zh": "这张照片提供了 20 世纪初乡村生活的一个快照。"
+  },
+  {
+   "en": "Our survey offers only a snapshot of current student attitudes.",
+   "zh": "我们的调查只是对当前学生态度的即时快照。"
+  },
+  {
+   "en": "This application takes a snapshot of the screen whenever an error appears.",
+   "zh": "该应用程序在出现错误时会截取屏幕快照。"
+  }
+ ],
+ "spark": [
+  {
+   "en": "A single lecture provided the spark that ignited her interest in the history of medieval medicine.",
+   "zh": "一场讲座提供了点燃她对中世纪医学史兴趣的火花。"
+  },
+  {
+   "en": "The discovery of the archive was the spark that launched her career.",
+   "zh": "这批档案的发现成为开启她职业生涯的契机。"
+  },
+  {
+   "en": "The spark of curiosity in young readers is best nurtured through open-ended questions.",
+   "zh": "年轻读者心中的好奇心火花最好通过开放式问题来培养。"
+  }
+ ],
+ "diverse": [
+  {
+   "en": "The city hosts a diverse population from more than ninety different countries.",
+   "zh": "这座城市拥有来自九十多个国家的多元人口。"
+  },
+  {
+   "en": "The seminar welcomes diverse academic backgrounds rather than a single tradition.",
+   "zh": "该研讨会欢迎多元的学术背景，而非局限于单一传统。"
+  },
+  {
+   "en": "Policy makers must consider diverse needs when designing rural transport networks.",
+   "zh": "政策制定者在设计农村交通网络时必须考虑多样的需求。"
+  }
+ ],
+ "encompass": [
+  {
+   "en": "The revised curriculum encompasses both theoretical and applied aspects of economics.",
+   "zh": "修订后的课程涵盖了经济学的理论与应用两个方面。"
+  },
+  {
+   "en": "The summit's agenda encompassed climate, migration, and financial regulation.",
+   "zh": "峰会的议程涵盖了气候、移民和金融监管等议题。"
+  },
+  {
+   "en": "Her research encompasses the history of medicine in three different cultures.",
+   "zh": "她的研究涵盖了三种不同文化中的医学史。"
+  }
+ ],
+ "articulate": [
+  {
+   "en": "Effective leaders must articulate complex ideas clearly to diverse audiences.",
+   "zh": "有效的领导者必须向不同的受众清楚表达复杂观点。"
+  },
+  {
+   "en": "She articulated her concerns about data privacy in a single paragraph.",
+   "zh": "她用一段话清楚表达了对数据隐私的担忧。"
+  },
+  {
+   "en": "The report articulates why the proposed reforms are urgently needed.",
+   "zh": "该报告清楚地说明了为何迫切需要这些改革。"
+  }
+ ],
+ "multifaceted": [
+  {
+   "en": "Climate change is a multifaceted problem spanning economics, science, and politics.",
+   "zh": "气候变化是一个涵盖经济、科学与政治的多方面问题。"
+  },
+  {
+   "en": "The interview reveals a multifaceted personality combining warmth and sharp criticism.",
+   "zh": "这次访谈展现了一个兼具温情与尖锐批判的多面个性。"
+  },
+  {
+   "en": "Assessing the case required a multifaceted approach drawn from several disciplines.",
+   "zh": "评估此案需要一种融合多个学科的多方面的方法。"
+  }
+ ],
+ "instrumental": [
+  {
+   "en": "Mentorship was instrumental in her transition from technician to senior engineer.",
+   "zh": "指导工作在她的从技术员到高级工程师的转变中起到了关键作用。"
+  },
+  {
+   "en": "Early exposure to laboratory work proved instrumental for developing her scientific curiosity.",
+   "zh": "早期接触实验室工作对培养她的科学好奇心起到了重要作用。"
+  },
+  {
+   "en": "The mediators were instrumental in resolving the dispute between the two departments.",
+   "zh": "调解人在解决两个部门之间的争端中发挥了关键作用。"
+  }
+ ],
+ "underpin": [
+  {
+   "en": "Solid evidence underpins every conclusion drawn in the final chapter.",
+   "zh": "扎实可靠的证据构成了最后一章全部结论的基础。"
+  },
+  {
+   "en": "Trust between researchers underpins the open publication model adopted by the journal.",
+   "zh": "研究者之间的信任构成了该期刊所采用的开放出版模式的基础。"
+  },
+  {
+   "en": "Careful fieldwork underpins the argument that the trade route extended further north.",
+   "zh": "细致的田野调查支撑了贸易路线更向北延伸这一论点。"
+  }
+ ],
+ "groundbreaking": [
+  {
+   "en": "Her groundbreaking work on gene editing reshaped research in the field.",
+   "zh": "她在基因编辑方面的开创性工作重塑了该领域的研究。"
+  },
+  {
+   "en": "The institute announced a groundbreaking method for storing renewable energy.",
+   "zh": "该研究所宣布了一种用于储存可再生能源的开创性方法。"
+  },
+  {
+   "en": "His groundbreaking paper remains required reading in doctoral seminars today.",
+   "zh": "他那篇开创性的论文至今仍是博士研讨课的必读材料。"
+  }
+ ],
+ "insofar as": [
+  {
+   "en": "The model is reliable insofar as the training data remain representative.",
+   "zh": "就训练数据仍具有代表性而言，该模型是可靠的。"
+  },
+  {
+   "en": "She agrees insofar as the proposal addresses the funding problem directly.",
+   "zh": "就该提案直接解决资金问题而言，她表示同意。"
+  },
+  {
+   "en": "The policy permits anonymized publication insofar as all identifying details have been removed.",
+   "zh": "只要所有可识别身份的信息均已删除，该政策即允许以匿名方式发表。"
+  }
+ ],
+ "nascent": [
+  {
+   "en": "Nascent industries require patient capital and long-term regulatory support.",
+   "zh": "新兴产业需要耐心的资本和长期的监管支持。"
+  },
+  {
+   "en": "The nascent democracy movement quickly organized across the capital's university districts.",
+   "zh": "新兴的民主运动很快在首都的大学城区组织起来。"
+  },
+  {
+   "en": "Researchers described the technology as a nascent field with few established methods.",
+   "zh": "研究人员把这项技术描述为一个尚无成熟方法的新兴领域。"
+  }
+ ],
+ "advance": [
+  {
+   "en": "Public investment helped advance the deployment of clean energy across the region.",
+   "zh": "公共投资促进了这个地区清洁能源的部署。"
+  },
+  {
+   "en": "The committee advanced the proposal after a lengthy and careful debate.",
+   "zh": "经过长时间而细致的辩论，委员会推进了这项提案。"
+  },
+  {
+   "en": "New microscopy techniques advanced our understanding of cellular repair mechanisms.",
+   "zh": "新的显微技术推进了我们对细胞修复机制的理解。"
+  }
+ ],
+ "perspective": [
+  {
+   "en": "Studying the same archive from a different perspective revealed unexpected patterns.",
+   "zh": "从不同角度研究同一批档案，揭示了意想不到的规律。"
+  },
+  {
+   "en": "Her interdisciplinary perspective strengthened the central argument considerably.",
+   "zh": "她的跨学科视角显著增强了核心论证的说服力。"
+  },
+  {
+   "en": "Students gain valuable perspective by examining primary sources rather than summaries.",
+   "zh": "通过查阅原始资料而非摘要，学生能获得宝贵的视角。"
+  }
+ ],
+ "radical": [
+  {
+   "en": "The proposal calls for radical reform of the way research grants are allocated.",
+   "zh": "该提案要求对研究经费的分配方式做出根本性改革。"
+  },
+  {
+   "en": "Such a radical change would demand substantial investment and political courage.",
+   "zh": "如此激进的变革需要大量投资和政治勇气。"
+  },
+  {
+   "en": "Critics worried that the radical tone of the article discouraged moderate debate.",
+   "zh": "评论者担心这篇文章的激进语气妨碍了温和的讨论。"
+  }
+ ],
+ "in-depth": [
+  {
+   "en": "The journal published an in-depth review of twenty years of climate data.",
+   "zh": "该期刊发表了一篇关于 20 年气候数据的深入综述。"
+  },
+  {
+   "en": "Students must complete an in-depth analysis of one primary source.",
+   "zh": "学生必须完成对一份原始资料的深入分析。"
+  },
+  {
+   "en": "Our in-depth interviews revealed how teachers adapted to the new curriculum.",
+   "zh": "我们的深入访谈揭示了教师们如何适应新课程。"
+  }
+ ],
+ "stimulate": [
+  {
+   "en": "Competitive funding grants stimulate research in neglected fields of study.",
+   "zh": "竞争性资助资金能促进冷门研究领域的发展。"
+  },
+  {
+   "en": "The exhibition was designed to stimulate discussion about urban development.",
+   "zh": "这次展览旨在激发关于城市发展的讨论。"
+  },
+  {
+   "en": "Lower interest rates may stimulate consumer spending during the coming quarter.",
+   "zh": "较低的利率可能在下个季度刺激消费者支出。"
+  }
+ ],
+ "diversify": [
+  {
+   "en": "Funds helped diversify the portfolio and reduce exposure to a single market.",
+   "zh": "这些资金帮助使投资组合多元化，降低了单一市场的风险敞口。"
+  },
+  {
+   "en": "Universities should diversify their student recruitment beyond traditional feeder schools.",
+   "zh": "大学应将招生来源拓展到传统生源学校以外，实现多元化。"
+  },
+  {
+   "en": "Smallholders diversify their crops to protect against unpredictable seasonal rainfall.",
+   "zh": "小农户通过作物多样化来抵御不可预测的季节性降雨。"
+  }
+ ],
+ "sustain": [
+  {
+   "en": "The scholarship fund sustains the program for students from low-income families.",
+   "zh": "该奖学金基金维持着面向低收入家庭学生的项目运转。"
+  },
+  {
+   "en": "Careful conservation work has sustained the forest ecosystem for decades.",
+   "zh": "细致的保护工作使这片森林生态系统维持了数十年。"
+  },
+  {
+   "en": "The region cannot sustain such rapid growth without substantial investment in infrastructure.",
+   "zh": "没有对基础设施的大量投资，无法维持如此快速的增长。"
+  }
+ ]
+}

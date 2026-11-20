@@ -1,0 +1,562 @@
+{
+ "dimension": [
+  {
+   "en": "The study examines three dimensions of organizational culture across public sector agencies.",
+   "zh": "该研究考察了公共部门机构中组织文化的三个维度。"
+  },
+  {
+   "en": "Adding a temporal dimension to the model revealed unexpected seasonal variation in demand.",
+   "zh": "在模型中加入时间维度后，发现了需求出人意料的季节性变化。"
+  },
+  {
+   "en": "The problem is not technical but political, and thus of a different dimension entirely.",
+   "zh": "这个问题不是技术性的，而是政治性的，因此完全属于另一个维度。"
+  }
+ ],
+ "mechanism": [
+  {
+   "en": "The proposed mechanism explains how moderate inflation influences wage growth.",
+   "zh": "所提出的机制解释了适度通货膨胀如何影响工资增长。"
+  },
+  {
+   "en": "Researchers proposed a mechanism linking sleep loss to impaired memory consolidation.",
+   "zh": "研究者提出了一种将睡眠不足与记忆巩固受损联系起来的机制。"
+  },
+  {
+   "en": "Faulty gear mechanisms account for most of the reported production downtime.",
+   "zh": "齿轮机构故障造成了所报告的大部分生产停机时间。"
+  }
+ ],
+ "methodology": [
+  {
+   "en": "The methodology combines archival research with twenty semi-structured interviews.",
+   "zh": "该研究方法将档案研究与 20 次半结构化访谈相结合。"
+  },
+  {
+   "en": "Critics questioned the methodology underlying the widely cited survey results.",
+   "zh": "批评者质疑了这一广受引用的调查结果背后的研究方法。"
+  },
+  {
+   "en": "A mixed methodology was adopted to capture both quantitative and qualitative evidence.",
+   "zh": "研究采用了混合方法以同时获取定量和定性证据。"
+  }
+ ],
+ "synthesis": [
+  {
+   "en": "The final chapter offers a synthesis of findings from four independent studies.",
+   "zh": "最后一章综合了四项独立研究的研究发现。"
+  },
+  {
+   "en": "Chemical synthesis of the compound gave a final yield of eighty percent.",
+   "zh": "该化合物的化学合成产率达到了 80%。"
+  },
+  {
+   "en": "Her essay provides a convincing synthesis of competing theoretical frameworks.",
+   "zh": "她的论文对相互竞争的理论框架作出了令人信服的综述。"
+  }
+ ],
+ "nuance": [
+  {
+   "en": "The translator preserved every nuance of the original diplomatic correspondence.",
+   "zh": "译者保留了原始外交函件中的每一处细微差别。"
+  },
+  {
+   "en": "Interpreters often miss the nuance that distinguishes similar legal terms.",
+   "zh": "口译员常常会忽略区分相近法律术语的微妙之处。"
+  },
+  {
+   "en": "The article captures the nuance of public opinion remarkably well.",
+   "zh": "这篇文章极为出色地把握了公众舆论的微妙之处。"
+  }
+ ],
+ "precedent": [
+  {
+   "en": "The ruling set an important precedent for future data protection cases.",
+   "zh": "该裁决为今后的数据保护案件确立了重要先例。"
+  },
+  {
+   "en": "No precedent exists for handling disputes involving autonomous vehicles.",
+   "zh": "在处理涉及自动驾驶汽车的纠纷方面尚无先例。"
+  },
+  {
+   "en": "His decision to publish early established a precedent within the research group.",
+   "zh": "他提前发表的做法在该研究小组内确立了先例。"
+  }
+ ],
+ "notation": [
+  {
+   "en": "The notation used in this paper follows standard conventions in econometrics.",
+   "zh": "本文所用的记号遵循计量经济学的标准惯例。"
+  },
+  {
+   "en": "Students must master the notation before attempting complex calculations.",
+   "zh": "学生在进行复杂计算之前必须掌握这些符号体系。"
+  },
+  {
+   "en": "A revised notation makes the equations considerably easier to follow.",
+   "zh": "经过修订的符号体系使这些方程式更容易理解。"
+  }
+ ],
+ "abstraction": [
+  {
+   "en": "The abstraction of key variables allowed the model to generalize across datasets.",
+   "zh": "对关键变量的抽象使模型能够推广到不同的数据集。"
+  },
+  {
+   "en": "High levels of abstraction often hinder communication with non-specialist audiences.",
+   "zh": "高度的抽象往往会妨碍与非专业受众的沟通。"
+  },
+  {
+   "en": "Some theorists regard the rational agent as an unhelpful abstraction.",
+   "zh": "一些理论家认为，理性人假设不过是一种无益的抽象。"
+  }
+ ],
+ "granularity": [
+  {
+   "en": "The data are recorded at a granularity of one second for accurate analysis.",
+   "zh": "数据以一秒的粒度记录，以便进行精确分析。"
+  },
+  {
+   "en": "Increasing the granularity of the survey revealed important subgroup differences.",
+   "zh": "提高调查的精细程度揭示了重要的子群体差异。"
+  },
+  {
+   "en": "Users can adjust the granularity of the timeline to suit their needs.",
+   "zh": "用户可以调整时间轴的粒度以满足自身需求。"
+  }
+ ],
+ "attribution": [
+  {
+   "en": "Proper attribution of sources reduces plagiarism in academic writing.",
+   "zh": "正确标注来源可以减少学术写作中的抄袭现象。"
+  },
+  {
+   "en": "The attribution of blame to individual actors ignores structural causes.",
+   "zh": "把责任归于个人行为者忽视了结构性原因。"
+  },
+  {
+   "en": "Data attribution remains difficult when models combine several datasets.",
+   "zh": "当模型结合多个数据集时，数据归因仍然很困难。"
+  }
+ ],
+ "correlation": [
+  {
+   "en": "A strong correlation exists between sleep duration and academic performance.",
+   "zh": "睡眠时长与学业表现之间存在很强的相关性。"
+  },
+  {
+   "en": "Correlation does not imply causation, and the distinction matters greatly.",
+   "zh": "相关并不等同于因果关系，这一区别非常重要。"
+  },
+  {
+   "en": "The researchers reported a negative correlation with statistical significance.",
+   "zh": "研究者报告了一个具有统计显著性的负相关关系。"
+  }
+ ],
+ "deviation": [
+  {
+   "en": "Standard deviation of the measurements exceeded the tolerance allowed by engineers.",
+   "zh": "测量值的标准偏差超出了工程师允许的容差范围。"
+  },
+  {
+   "en": "Any deviation from the approved protocol must be documented and justified.",
+   "zh": "任何偏离既定方案的做法都必须记录并说明理由。"
+  },
+  {
+   "en": "The observed deviation in temperature suggested a faulty sensor.",
+   "zh": "观察到的温度偏差表明传感器可能存在故障。"
+  }
+ ],
+ "calibration": [
+  {
+   "en": "Regular calibration of the instruments ensures consistent and reliable measurements.",
+   "zh": "定期校准仪器可确保测量结果的一致性与可靠性。"
+  },
+  {
+   "en": "The calibration curve allowed researchers to convert signals into accurate concentrations.",
+   "zh": "校准曲线使研究者能够把信号转化为准确的浓度值。"
+  },
+  {
+   "en": "Sensor calibration was performed twice before each experimental session.",
+   "zh": "每次实验开始前都进行了两次传感器校准。"
+  }
+ ],
+ "feasibility": [
+  {
+   "en": "The committee assessed the feasibility of expanding the research program.",
+   "zh": "委员会评估了扩展该研究计划的可行性。"
+  },
+  {
+   "en": "A pilot study was conducted to test the feasibility of the approach.",
+   "zh": "开展了一项试点研究以检验该方法的可行性。"
+  },
+  {
+   "en": "Despite its technical feasibility, the project lacks sufficient funding.",
+   "zh": "尽管该项目在技术上可行，但资金不足。"
+  }
+ ],
+ "resolution": [
+  {
+   "en": "The committee adopted a resolution condemning the manipulation of the data.",
+   "zh": "委员会通过了一项谴责数据操纵行为的决议。"
+  },
+  {
+   "en": "Higher resolution imaging revealed fine structures previously invisible to researchers.",
+   "zh": "更高分辨率的成像揭示了此前研究者无法看到的精细结构。"
+  },
+  {
+   "en": "He made a firm resolution to complete the thesis by December.",
+   "zh": "他下定决心要在 12 月前完成论文。"
+  }
+ ],
+ "comprehension": [
+  {
+   "en": "Reading comprehension scores among second-language learners remain low nationally.",
+   "zh": "全国范围内，二语学习者的阅读理解得分仍然偏低。"
+  },
+  {
+   "en": "Careful comprehension of the methodology is essential before replication.",
+   "zh": "在复现该研究之前，仔细理解其研究方法至关重要。"
+  },
+  {
+   "en": "Students demonstrated stronger lexical comprehension than grammatical comprehension.",
+   "zh": "学生表现出的词汇理解能力强于语法理解能力。"
+  }
+ ],
+ "traceability": [
+  {
+   "en": "Full traceability of the product requires recording every stage of manufacture.",
+   "zh": "实现产品的完全可追溯性需要记录每一个制造环节。"
+  },
+  {
+   "en": "Improved traceability allows regulators to identify the source of contaminated batches.",
+   "zh": "可追溯性的提升使监管机构能够查明受污染批次的来源。"
+  },
+  {
+   "en": "The certification scheme rewards exporters who can demonstrate full traceability.",
+   "zh": "该认证计划奖励能够证明完全可追溯性的出口商。"
+  }
+ ],
+ "authenticity": [
+  {
+   "en": "Museum curators test the authenticity of documents before displaying them publicly.",
+   "zh": "博物馆策展人在公开展出文件前会检验其真实性。"
+  },
+  {
+   "en": "The authenticity of the recording was questioned by several expert reviewers.",
+   "zh": "该录音的真实性受到几位专家评审的质疑。"
+  },
+  {
+   "en": "Doubts about the dataset's authenticity delayed its publication considerably.",
+   "zh": "对该数据集真实性的疑虑大大推迟了它的发表。"
+  }
+ ],
+ "integrity": [
+  {
+   "en": "The laboratory ensures the integrity of every sample during long-term storage.",
+   "zh": "实验室在长期储存过程中确保每个样本的完整性。"
+  },
+  {
+   "en": "Academic integrity policies prohibit the falsification of experimental results.",
+   "zh": "学术诚信政策禁止伪造实验结果。"
+  },
+  {
+   "en": "Encryption protects data integrity during transmission between remote servers.",
+   "zh": "加密技术可保护数据在远程服务器之间传输时的完整性。"
+  }
+ ],
+ "provenance": [
+  {
+   "en": "The provenance of archival materials must be recorded before they are displayed.",
+   "zh": "档案材料展出之前必须记录其来源信息。"
+  },
+  {
+   "en": "The provenance of these specimens traces back to a nineteenth-century expedition.",
+   "zh": "这些标本的来源可追溯到 19 世纪的一次考察。"
+  },
+  {
+   "en": "Clear provenance records help buyers verify the authenticity of rare manuscripts.",
+   "zh": "清晰的来源记录有助于买家核实珍贵手稿的真伪。"
+  }
+ ],
+ "redundancy": [
+  {
+   "en": "Redundancy in the system protects against unexpected component failures.",
+   "zh": "系统中的冗余可防范意外出现的部件故障。"
+  },
+  {
+   "en": "The editorial team removed redundancy to tighten the argument considerably.",
+   "zh": "编辑团队删去冗余内容，使论证紧凑了不少。"
+  },
+  {
+   "en": "Redundancy in recruitment is common when grants fund multiple similar projects.",
+   "zh": "当资助金支持多个相似项目时，重复招聘的情况很常见。"
+  }
+ ],
+ "throughput": [
+  {
+   "en": "Higher throughput depends on reducing latency in the request processing pipeline.",
+   "zh": "更高的吞吐量取决于降低请求处理管道中的延迟。"
+  },
+  {
+   "en": "The upgrade doubled the system's throughput during peak trading hours.",
+   "zh": "这次升级使系统在交易高峰期的吞吐量翻了一番。"
+  },
+  {
+   "en": "Throughput remains limited by the number of available processing cores.",
+   "zh": "吞吐量仍然受可用处理核心数量的限制。"
+  }
+ ],
+ "perception": [
+  {
+   "en": "Public perception of the policy changed sharply after the televised debate.",
+   "zh": "电视辩论之后，公众对该政策的看法发生了急剧变化。"
+  },
+  {
+   "en": "Color perception varies considerably between individuals and display devices.",
+   "zh": "色彩感知在个体之间以及不同显示设备之间差异明显。"
+  },
+  {
+   "en": "Risk perception strongly influences whether households purchase insurance.",
+   "zh": "风险认知显著影响家庭是否购买保险。"
+  }
+ ],
+ "robust": [
+  {
+   "en": "The robust framework survived repeated stress tests without structural failure.",
+   "zh": "这个稳健的框架经受住了多次压力测试而未发生结构性失效。"
+  },
+  {
+   "en": "Her robust argument convinced even the most skeptical members of the committee.",
+   "zh": "她有力的论证说服了委员会中最持怀疑态度的成员。"
+  },
+  {
+   "en": "A robust economy absorbs external shocks better than a fragile one.",
+   "zh": "稳健的经济体比脆弱的经济体更能吸收外部冲击。"
+  }
+ ],
+ "coherent": [
+  {
+   "en": "The paper presents a coherent account of the causes of the crisis.",
+   "zh": "该论文对危机成因提出了连贯的解释。"
+  },
+  {
+   "en": "To remain coherent, the report must avoid contradictory claims about the data.",
+   "zh": "为了保持一致，报告必须避免对数据作出自相矛盾的主张。"
+  },
+  {
+   "en": "Their coherent strategy linked research funding to measurable social outcomes.",
+   "zh": "他们连贯的策略把科研经费与可衡量的社会成效联系起来。"
+  }
+ ],
+ "comprehensive": [
+  {
+   "en": "The study offers a comprehensive review of four decades of clinical evidence.",
+   "zh": "该研究对 40 年的临床证据作了全面的综述。"
+  },
+  {
+   "en": "Comprehensive reforms will require sustained investment in rural infrastructure.",
+   "zh": "全面的改革需要对农村基础设施的持续投入。"
+  },
+  {
+   "en": "Her comprehensive bibliography includes over two hundred scholarly sources.",
+   "zh": "她那份全面的参考文献目录收录了两百多篇学术文献。"
+  }
+ ],
+ "implicit": [
+  {
+   "en": "The report contains an implicit assumption that demand will remain stable.",
+   "zh": "该报告隐含地假定需求将保持稳定。"
+  },
+  {
+   "en": "Implicit bias may shape which applicants receive funding from agencies.",
+   "zh": "内隐偏差可能影响哪些申请者获得机构资助。"
+  },
+  {
+   "en": "Much of the contract's risk was implicit rather than explicitly stated.",
+   "zh": "该合同的大部分风险是隐含的而非明确写出的。"
+  }
+ ],
+ "novel": [
+  {
+   "en": "The novel approach reduces training time without sacrificing accuracy.",
+   "zh": "这种新颖的方法在不影响准确性的前提下减少了训练时间。"
+  },
+  {
+   "en": "Her novel theory challenged decades of accepted scientific thought.",
+   "zh": "她的新颖理论挑战了几十年来被公认的科学观点。"
+  },
+  {
+   "en": "The company developed a novel method for detecting structural damage.",
+   "zh": "该公司开发了一种检测结构损伤的全新方法。"
+  }
+ ],
+ "conclusive": [
+  {
+   "en": "No single study produced conclusive results, so a meta-analysis was commissioned.",
+   "zh": "没有哪项研究得出确凿的结果，因此又委托开展了一项元分析。"
+  },
+  {
+   "en": "Researchers called for a larger trial to provide conclusive proof of benefit.",
+   "zh": "研究者呼吁开展更大规模的试验以提供确凿的疗效证明。"
+  },
+  {
+   "en": "The audit gave conclusive answers on every disputed point.",
+   "zh": "审计对所有争议点都给出了确定性的结论。"
+  }
+ ],
+ "arbitrary": [
+  {
+   "en": "The deadline for submission appeared completely arbitrary to the reviewing panel.",
+   "zh": "对评审小组而言，提交截止日期显得完全是随意设定的。"
+  },
+  {
+   "en": "Choosing an arbitrary threshold produced results that contradicted earlier findings.",
+   "zh": "选择一个任意的阈值所得出的结果与早前的发现相矛盾。"
+  },
+  {
+   "en": "Decisions based on arbitrary criteria are difficult to defend publicly.",
+   "zh": "基于武断标准作出的决定很难在公众面前得到辩护。"
+  }
+ ],
+ "heterogeneous": [
+  {
+   "en": "The sample was heterogeneous, combining participants from diverse regions and backgrounds.",
+   "zh": "该样本是异质的，涵盖了来自不同地区和背景的参与者。"
+  },
+  {
+   "en": "Heterogeneous data require careful treatment before any statistical modeling.",
+   "zh": "异质数据在任何统计建模之前都需要谨慎处理。"
+  },
+  {
+   "en": "The heterogeneous collection of documents makes automated classification difficult.",
+   "zh": "这些文件的混杂性使得自动分类变得困难。"
+  }
+ ],
+ "homogeneous": [
+  {
+   "en": "The treatment and control groups should form a homogeneous population.",
+   "zh": "实验组与对照组应当构成同质的总体。"
+  },
+  {
+   "en": "A homogeneous sample strengthens the internal validity of the experiment.",
+   "zh": "同质样本能增强实验的内部效度。"
+  },
+  {
+   "en": "The region is culturally homogeneous, which simplifies our fieldwork considerably.",
+   "zh": "该地区在文化上是同质的，这大大简化了我们的田野工作。"
+  }
+ ],
+ "optimal": [
+  {
+   "en": "The algorithm searches for the optimal solution under the stated constraints.",
+   "zh": "该算法在既定约束条件下搜索最优解。"
+  },
+  {
+   "en": "Researchers identified the optimal temperature for preserving the biological samples.",
+   "zh": "研究者确定了保存这些生物样本的最佳温度。"
+  },
+  {
+   "en": "This design achieves an optimal balance between accuracy and computational cost.",
+   "zh": "这一设计在准确性与计算成本之间取得了最佳平衡。"
+  }
+ ],
+ "partial": [
+  {
+   "en": "Only partial data were available when the analysis was first conducted.",
+   "zh": "初次进行分析时只能获得部分数据。"
+  },
+  {
+   "en": "The report offers a partial explanation for the discrepancies in the records.",
+   "zh": "该报告对记录中的差异给出了部分的解释。"
+  },
+  {
+   "en": "Partial coverage of the sampling area limits the reliability of the estimates.",
+   "zh": "对抽样区域的局部覆盖限制了估计结果的可靠性。"
+  }
+ ],
+ "systematic": [
+  {
+   "en": "A systematic review of three hundred studies was conducted last year.",
+   "zh": "去年开展了一项涵盖 300 项研究的系统综述。"
+  },
+  {
+   "en": "Systematic errors in the calibration procedure distorted the final measurements.",
+   "zh": "校准程序中的系统性误差扭曲了最终的测量结果。"
+  },
+  {
+   "en": "The team adopted a systematic approach to identifying and prioritizing the risks.",
+   "zh": "团队采用系统化方法来识别风险并确定其优先级。"
+  }
+ ],
+ "transparent": [
+  {
+   "en": "The review process must remain transparent to maintain public trust.",
+   "zh": "评审过程必须保持透明，才能维持公众信任。"
+  },
+  {
+   "en": "The report gives a transparent account of how the data were collected.",
+   "zh": "该报告对数据采集方式作了清晰的说明。"
+  },
+  {
+   "en": "Transparent governance helps to reduce corruption within public institutions.",
+   "zh": "透明的治理有助于减少公共机构中的腐败。"
+  }
+ ],
+ "holistic": [
+  {
+   "en": "A holistic approach considers environmental, social and economic factors together.",
+   "zh": "整体性的方法会同时考虑环境、社会和经济因素。"
+  },
+  {
+   "en": "The clinic offers holistic care rather than treating symptoms separately.",
+   "zh": "该诊所提供整体性的照护，而不是孤立地治疗症状。"
+  },
+  {
+   "en": "She adopted a holistic view of student wellbeing across the whole school.",
+   "zh": "她采用全校范围的整体视角来看待学生福祉。"
+  }
+ ],
+ "interdisciplinary": [
+  {
+   "en": "The interdisciplinary team combined expertise from physics, chemistry and engineering.",
+   "zh": "这个跨学科团队融合了物理、化学和工程方面的专长。"
+  },
+  {
+   "en": "Interdisciplinary research often produces findings that single disciplines cannot explain.",
+   "zh": "跨学科研究常常产生单一学科无法解释的发现。"
+  },
+  {
+   "en": "Funding schemes should reward interdisciplinary collaboration between laboratories.",
+   "zh": "资助计划应当奖励各实验室之间的跨学科合作。"
+  }
+ ],
+ "nuanced": [
+  {
+   "en": "Her nuanced analysis avoided oversimplifying the causes of the conflict.",
+   "zh": "她细致的分析避免了对冲突成因的过度简化。"
+  },
+  {
+   "en": "The review offered a nuanced assessment of the policy's actual impact.",
+   "zh": "这篇综述对政策的实际影响作出了细致入微的评判。"
+  },
+  {
+   "en": "Judges valued the defendant's nuanced understanding of the cultural context.",
+   "zh": "法官们看重被告对文化背景细致入微的理解。"
+  }
+ ],
+ "quantitative": [
+  {
+   "en": "Quantitative analysis revealed a strong relationship between the two variables.",
+   "zh": "定量分析显示这两个变量之间存在密切关系。"
+  },
+  {
+   "en": "The course combines quantitative methods with qualitative fieldwork techniques.",
+   "zh": "该课程把定量方法与定性田野调查技术结合起来。"
+  },
+  {
+   "en": "Funding decisions should rely on quantitative evidence rather than anecdote alone.",
+   "zh": "资助决定应当依据定量证据，而不能仅凭轶事。"
+  }
+ ]
+}

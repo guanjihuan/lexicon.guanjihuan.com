@@ -1,0 +1,218 @@
+abstract	形容词	抽象的；纯理论的；摘要（名词用法）	中性的
+accurate	形容词	准确的；精确的；正确无误的	积极的
+additional	形容词	附加的；额外的；补充的	中性的
+alternative	形容词	可供选择的；替代的；（作名词时：an alternative to… 替代方案）	中性的
+appropriate	形容词	适当的；恰当的；合适的	积极的
+available	形容词	可获得的；可用的；有空的	中性的
+basic	形容词	基本的；基础的；初步的	中性的
+central	形容词	中心的；核心的；主要的	中性的
+common	形容词	常见的；普遍的；共同的	中性的
+complex	形容词	复杂的；难懂的；复合的	中性的
+correct	形容词	正确的；恰当的；改正，纠正（动词用法；correct a mistake 改正错误）	积极的
+current	形容词	当前的；现行的；最新的	中性的
+detailed	形容词	详尽的；细致的；详细的	中性的
+difficult	形容词	困难的；难对付的；费力的	消极的
+effective	形容词	有效的；生效的；有影响的	积极的
+efficient	形容词	高效的；效率高的；有能力的	积极的
+essential	形容词	必要的；本质的；必需的	积极的
+exact	形容词	精确的；确切的；严谨的	积极的
+existing	形容词	现有的；既存的；已存在的	中性的
+explicit	形容词	明确的；清楚的；直言的	中性的
+familiar	形容词	熟悉的；常见的；通晓的	中性的
+final	形容词	最终的；最后的；不可更改的	中性的
+general	形容词	一般的；普遍的；总体的	中性的
+important	形容词	重要的；重大的；有影响的	积极的
+independent	形容词	独立的；自主的；单独的	中性的
+initial	形容词	最初的；开始的；首字母的	中性的
+key	形容词	关键的；最主要的	中性的
+large	形容词	大的；大量的；广大的	中性的
+likely	形容词	可能的；大概的	中性的
+main	形容词	主要的；最重要的；总部的	中性的
+major	形容词	主要的；重大的；首要的；主修的；主修，专修（动词用法；major in 主修）	中性的
+modern	形容词	现代的；新式的；时髦的	中性的
+natural	形容词	自然的；天然的；正常的；固有的	中性的
+necessary	形容词	必要的；必需的；必然的	中性的
+normal	形容词	正常的；普通的；标准的	中性的
+obvious	形容词	明显的；显而易见的；明白易懂的	中性的
+particular	形容词	特定的；特别的；讲究的；挑剔的	中性的
+permanent	形容词	永久的；长期的；固定的	中性的
+potential	形容词	潜在的；可能的；潜在的事物（名词用法）	中性的
+practical	形容词	实际的；实用的；可行的	中性的
+previous	形容词	先前的；以往的；上一个的	中性的
+primary	形容词	主要的；初级的；首要的	中性的
+principal	形容词	主要的；首要的；首席的；主体的	中性的
+probable	形容词	大概的；很可能发生的；可能的	中性的
+professional	形容词	专业的；职业的；内行的	中性的
+rapid	形容词	快速的；迅速的；急促的	中性的
+reasonable	形容词	合理的；讲道理的；公道的	中性的
+recent	形容词	最近的；近来的；新近的	中性的
+relevant	形容词	相关的；切题的；有价值的	中性的
+reliable	形容词	可靠的；可信赖的	中性的
+safe	形容词	安全的；可靠的；稳妥的	积极的
+scarce	形容词	稀少的；缺乏的；不足的	消极的
+sensitive	形容词	敏感的；灵敏的；易受影响的	中性的
+severe	形容词	严重的；严厉的；剧烈的	消极的
+significant	形容词	显著的；重要的；有意义的	中性的
+similar	形容词	相似的；类似的；同样的	中性的
+simple	形容词	简单的；朴素的；单一的	中性的
+specific	形容词	具体的；特定的；明确的；专门的	中性的
+stable	形容词	稳定的；稳固的；不波动的	积极的
+strict	形容词	严格的；严厉的；严谨的	中性的
+strong	形容词	强烈的；坚固的；有力的；浓的	中性的
+sufficient	形容词	足够的；充分的	中性的
+suitable	形容词	合适的；适宜的；相称的	中性的
+technical	形容词	技术的；专业的；技术性的	中性的
+theoretical	形容词	理论的；理论上的；假设的	中性的
+traditional	形容词	传统的；惯例的；守旧的	中性的
+typical	形容词	典型的；有代表性的；一贯的	中性的
+universal	形容词	普遍的；通用的；普适的；包罗万象的	中性的
+useful	形容词	有用的；有益的；有帮助的	积极的
+usual	形容词	通常的；平常的；一贯的	中性的
+valid	形容词	有效的；正当的；确凿的	中性的
+valuable	形容词	有价值的；贵重的；宝贵的	积极的
+various	形容词	各种各样的；不同的；多方面的	中性的
+wide	形容词	广泛的；宽广的；大量的	中性的
+wrong	形容词	错误的；不适当的；不对的；出毛病；有故障（something is wrong with …）	消极的
+robust	形容词	稳健的；鲁棒的；强健的	积极的
+coherent	形容词	连贯的；一致的；协调的	中性的
+comprehensive	形容词	全面的；综合的；完备的	积极的
+implicit	形容词	含蓄的；隐含的；不言明的	中性的
+novel	形容词	新颖的；全新的；前所未有的	积极的
+conclusive	形容词	决定性的；结论性的；确凿的	积极的
+arbitrary	形容词	任意的；武断的；任性的	消极的
+heterogeneous	形容词	异质的；不均质的；混杂的	中性的
+homogeneous	形容词	同质的；均质的；同种的（生物学义）	中性的
+optimal	形容词	最优的；最佳的；最适宜的	积极的
+partial	形容词	部分的；不完整的；局部的	中性的
+systematic	形容词	系统的；系统化的；有条理的	积极的
+transparent	形容词	透明的；清晰明了的；公开的	中性的
+holistic	形容词	整体的；全局的；全面的	中性的
+interdisciplinary	形容词	跨学科的；多学科交叉的	中性的
+nuanced	形容词	细致入微的；有细微差别的；分寸得当的	积极的
+quantitative	形容词	定量的；数量上的	中性的
+methodological	形容词	方法论的；方法上的	中性的
+sustainable	形容词	可持续的；可长期维持的	积极的
+cohesive	形容词	有凝聚力的；紧密结合的	积极的
+discrete	形容词	离散的；独立的；分离的	中性的
+succinct	形容词	简洁的；简明的；言简意赅的	积极的
+substantive	形容词	实质性的；实质的；有实际内容的	中性的
+tangible	形容词	有形的；确实的；可感知的	中性的
+transient	形容词	短暂的；转瞬即逝的；暂时的	中性的
+sequential	形容词	顺序的；连续的；次序的	中性的
+overarching	形容词	统摄的；总括的；根本的	中性的
+pervasive	形容词	普遍的；弥漫的；渗透性的	中性的
+profound	形容词	深刻的；深远的；意义重大的	积极的
+retrospective	形容词	回顾的；回溯性的	中性的
+applicable	形容词	适用的；可应用的；切合实际的	中性的
+deterministic	形容词	确定性的；可确定的；无随机性的	中性的
+fundamental	形容词	基本的；根本的；首要的	中性的
+meaningful	形容词	有意义的；意味深长的	中性的
+multidimensional	形容词	多维的；多方面的	中性的
+operational	形容词	操作性的；可供操作的；运营的；实际的；运行有效的	中性的
+systemic	形容词	系统的；系统性的（影响）	中性的
+unified	形容词	统一的；一致的	中性的
+random	形容词	随机的；任意的	中性的
+experimental	形容词	实验的；试验性的	中性的
+comparable	形容词	可比较的；类似的	中性的
+respective	形容词	各自的；分别的	中性的
+ancillary	形容词	辅助的；附属的；次要的	中性的
+observational	形容词	观察性的；观测的（observational studies 观察性研究）；观察的，观察力的（observational skills）	中性的
+cross-sectional	形容词	横截面的；截面调查的	中性的
+dependent	形容词	依赖的；取决于…的；受…制约的	中性的
+equivalent	形容词	等同的；相同的；相当的；对等物（作名词时）	中性的
+mediating	形容词	中介的；起中介作用的（mediating variable 中介变量）	中性的
+moderating	形容词	调节的；起调节作用的（moderating effect 调节效应）	中性的
+institutional	形容词	制度的；机构的；体制的（institutional setting 制度情境）	中性的
+organizational	形容词	组织的；组织层面的（organizational change 组织变革）	中性的
+societal	形容词	社会的；社会层面的（societal change 社会变迁）	中性的
+demographic	形容词	人口统计的；人口结构的（demographic change 人口结构变化）；人群，特定群体（作名词时）	中性的
+disproportionate	形容词	不成比例的；失衡的（disproportionate impact 不成比例的影响）	中性的
+inferential	形容词	推断的；推论统计的（inferential statistics 推断统计）	中性的
+deductive	形容词	演绎的；推论的（deductive reasoning 演绎推理）	中性的
+inductive	形容词	归纳的（inductive reasoning 归纳推理）	中性的
+case-control	形容词	病例对照的；对照的（case-control study 病例对照研究）	中性的
+mixed-method	形容词	混合方法的；混合研究方法的（mixed-methods design 混合方法研究设计）	中性的
+pooled	形容词	合并的；汇总的（pooled estimate 合并估计值）	中性的
+prospective	形容词	前瞻性的；预期的（prospective cohort 前瞻性队列）	中性的
+pragmatic	形容词	务实的；实用主义的（pragmatic approach 务实的做法）	中性的
+normative	形容词	规范的；规范性的；价值判断的（哲学义，normative statements）	中性的
+interpretive	形容词	解释性的；诠释的	中性的
+conceptual	形容词	概念上的（conceptual framework 概念框架）	中性的
+multidisciplinary	形容词	多学科的；跨学科的	中性的
+thematic	形容词	主题的；主题性的（thematic analysis 主题分析）	中性的
+rhetorical	形容词	修辞的；论辩的（rhetorical strategy 修辞策略）	中性的
+exploratory	形容词	探索性的；探索的（exploratory study 探索性研究）	中性的
+influential	形容词	有影响力的（influential factor 影响因素）	中性的
+exhaustive	形容词	详尽的；彻底的（an exhaustive review 详尽的综述）	中性的
+broad	形容词	宽泛的；广泛的（in a broad sense 广义上）	中性的
+verbatim	形容词	逐字的；一字不差的（verbatim transcription 逐字转录）；亦作副词，逐字地	中性的
+chemical	形容词	化学的；化学品的（chemical composition 化学成分）	中性的
+digital	形容词	数字的；数码的（digital data 数字数据）	中性的
+dynamic	形容词	动态的；不断变化的（dynamic system 动态系统）	中性的
+molecular	形容词	分子的（molecular structure 分子结构）	中性的
+legacy	形容词	遗留的，既有的（legacy systems/data 遗留系统/既有数据）；遗产，遗赠（名词）	中性的
+legal	形容词	法律的，法定的（legal framework 法律框架；legal obligations 法定义务）	中性的
+passive	形容词	被动的（passive voice 被动语态；passive smoking 被动吸烟）	中性的
+periodic	形容词	周期的，定期的（periodic fluctuations 周期性波动；a periodic review 定期审查）	中性的
+accessible	形容词	易获取的；可接近的；可达的	中性的
+accountable	形容词	应负责任的；负有问责的；可说明责任的	中性的
+apparent	形容词	明显的；表面上的；显然的	中性的
+authentic	形容词	真实的；可信的；正宗的	中性的
+autonomous	形容词	自主的；自治的；自主运作的	中性的
+beneficial	形容词	有益的；有利的	积极的
+categorical	形容词	分类的；绝对化的；明确划分的	中性的
+characteristic	形容词	典型的；特有的；构成特征的	中性的
+collective	形容词	集体的；共同的；总计的	中性的
+conditional	形容词	有条件的；附条件的；取决于…的	中性的
+deliberate	形容词	故意的；深思熟虑的；审慎的	中性的
+ethical	形容词	伦理的；合乎道德的；道德的	中性的
+finite	形容词	有限的；有尽的	中性的
+formal	形容词	形式的；正式的；正规的	中性的
+hypothetical	形容词	假设的；假想的；设想的	中性的
+identical	形容词	完全相同的；一致的；同一的	中性的
+innovative	形容词	创新的；革新性的；新式的	积极的
+interdependent	形容词	相互依存的；相互依赖的	中性的
+logical	形容词	合乎逻辑的；条理清楚的；逻辑的	中性的
+measurable	形容词	可测量的；可量化的；可衡量的	中性的
+misleading	形容词	有误导性的；使人误解的；易生错觉的	消极的
+neutral	形容词	中性的；中立的；不带倾向的	中性的
+observable	形容词	可观察的；可观测的；看得见的	中性的
+paradoxical	形容词	悖论性的；看似矛盾的；反常的	中性的
+productive	形容词	多产的；富有成效的；生产性的	积极的
+questionable	形容词	有疑问的；可疑的；成问题的	消极的
+rational	形容词	理性的；合理的；讲求实际的	中性的
+realistic	形容词	现实的；切合实际的；写实的	中性的
+recurrent	形容词	反复出现的；重现的；周期的	中性的
+reputable	形容词	有声望的；信誉良好的	积极的
+scientific	形容词	科学的；合乎科学方法的	中性的
+structural	形容词	结构的；构造的；结构性的	中性的
+technological	形容词	技术的；科技的；工艺的	中性的
+vulnerable	形容词	脆弱的；易受伤害的；易受影响的	消极的
+inevitable	形容词	不可避免的，必然发生的	中性的
+irreversible	形容词	不可逆的，不可挽回的	中性的
+vague	形容词	模糊的，不明确的（a vague definition 含糊的定义）	消极的
+obscure	形容词	晦涩难懂的；无名的；（动词）使模糊，掩盖	中性的
+opaque	形容词	不透明的；晦涩难懂的（an opaque process 不透明的过程）	中性的
+superficial	形容词	肤浅的，浅薄的；表面的	消极的
+erroneous	形容词	错误的（erroneous assumptions 错误的假设）	消极的
+flawed	形容词	有缺陷的，有瑕疵的（a flawed argument 有缺陷的论证）	消极的
+unfounded	形容词	无根据的，无事实依据的（unfounded claims 无根据的断言）	消极的
+unwarranted	形容词	无正当理由的，不必要的（unwarranted criticism 无端批评）	消极的
+tenuous	形容词	站不住脚的，脆弱的（tenuous evidence 单薄的证据）	消极的
+cogent	形容词	有说服力的，令人信服的（a cogent argument 有力的论证）	积极的
+dubious	形容词	可疑的，靠不住的；半信半疑的	消极的
+anecdotal	形容词	轶事的；仅凭传闻的（anecdotal evidence 轶事证据，非系统证据）	中性的
+decisive	形容词	决定性的；果断的（a decisive factor 决定性因素）	积极的
+doctoral	形容词	博士的（doctoral dissertation 博士论文；doctoral studies 博士阶段学习）	中性的
+monetary	形容词	货币的，金融的（monetary policy 货币政策）	中性的
+fiscal	形容词	财政的（fiscal year 财政年度；fiscal policy 财政政策）	中性的
+neural	形容词	神经的（neural networks 神经网络）	中性的
+toxic	形容词	有毒的（toxic substances 有毒物质）	消极的
+renewable	形容词	可再生的（renewable energy 可再生能源）	中性的
+clinical	形容词	临床的（clinical trial 临床试验；clinical practice 临床实践）	中性的
+chronic	形容词	慢性的，长期的（chronic disease 慢性病；chronic stress 长期压力）	消极的
+acute	形容词	急性的；严重的，剧烈的；敏锐的（acute shortage 严重短缺）	中性的
+episodic	形容词	偶尔发生的，阵发性的；（叙事）分集的，片段式的；（记忆）情景的（episodic memory 情景记忆）	中性的
+sustained	形容词	持续的，持久的（sustained growth 持续增长；sustained attention 持续注意）	中性的
+intermittent	形容词	间歇的，断断续续的（intermittent fasting 间歇性禁食）	中性的
+cognitive	形容词	认知的（cognitive development 认知发展；cognitive load 认知负荷）	中性的

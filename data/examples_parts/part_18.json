@@ -1,0 +1,562 @@
+{
+ "explore": [
+  {
+   "en": "The research team will explore the geological causes of the collapse.",
+   "zh": "研究团队将探究这次坍塌的地质成因。"
+  },
+  {
+   "en": "Students should explore alternative theories rather than accept conventional wisdom.",
+   "zh": "学生应当探索替代性理论，而不是接受传统观点。"
+  },
+  {
+   "en": "The divers explored the shipwreck in remarkable detail.",
+   "zh": "潜水员们对沉船遗址进行了极为细致的勘察。"
+  }
+ ],
+ "express": [
+  {
+   "en": "Participants were invited to express their views on the proposed reform.",
+   "zh": "参与者被邀请就拟议中的改革发表意见。"
+  },
+  {
+   "en": "The poem expresses a deep sense of isolation.",
+   "zh": "这首诗表达了一种深切的孤独感。"
+  },
+  {
+   "en": "She expressed her disagreement through a formal written statement.",
+   "zh": "她通过一份正式的书面声明表达了自己的异议。"
+  }
+ ],
+ "focus": [
+  {
+   "en": "Researchers should focus on the long-term consequences of the policy.",
+   "zh": "研究者应当关注这项政策的长期后果。"
+  },
+  {
+   "en": "Her lecture focused on the causes of regional inequality.",
+   "zh": "她的讲座聚焦于地区不平等的成因。"
+  },
+  {
+   "en": "The committee decided to focus its efforts on renewable energy.",
+   "zh": "委员会决定将工作重点放在可再生能源上。"
+  }
+ ],
+ "generate": [
+  {
+   "en": "Renewable sources generate a third of the country's electricity.",
+   "zh": "可再生能源发电占该国电力的三分之一。"
+  },
+  {
+   "en": "The experiment generated unexpected results that challenged existing theories.",
+   "zh": "这项实验产生了出乎意料的结果，挑战了既有理论。"
+  },
+  {
+   "en": "The event generated considerable interest among young researchers.",
+   "zh": "这场活动在青年研究者中引起了极大兴趣。"
+  }
+ ],
+ "highlight": [
+  {
+   "en": "The report highlights the growing gap between rural and urban incomes.",
+   "zh": "该报告突出了城乡收入差距日益扩大的问题。"
+  },
+  {
+   "en": "She highlighted the need for clearer guidelines in the industry.",
+   "zh": "她强调了该行业需要更明确的指导方针。"
+  },
+  {
+   "en": "The stark contrast highlights the structural weakness of the bridge.",
+   "zh": "鲜明的对比凸显了桥梁的结构性缺陷。"
+  }
+ ],
+ "identify": [
+  {
+   "en": "The study will identify three major causes of employee turnover.",
+   "zh": "该研究将确定员工流失的三个主要原因。"
+  },
+  {
+   "en": "Researchers can identify a strong link between sleep and memory performance.",
+   "zh": "研究者可以确认睡眠与记忆表现之间的密切联系。"
+  },
+  {
+   "en": "Can you identify the species of bird in this photograph?",
+   "zh": "你能辨认出这张照片中鸟的种类吗？"
+  }
+ ],
+ "include": [
+  {
+   "en": "The final report will include detailed financial projections for five years.",
+   "zh": "最终报告将包含未来五年的详细财务预测。"
+  },
+  {
+   "en": "Please make sure to include all supporting documents in your submission.",
+   "zh": "请确保在提交材料中包含所有证明文件。"
+  },
+  {
+   "en": "The package includes software, cables, and a two-year warranty.",
+   "zh": "该套件包括软件、数据线以及两年保修服务。"
+  }
+ ],
+ "involve": [
+  {
+   "en": "The project will involve collaboration with universities in three countries.",
+   "zh": "该项目将涉及与三国高校的合作。"
+  },
+  {
+   "en": "Such decisions inevitably involve difficult ethical questions for administrators.",
+   "zh": "此类决定不可避免地涉及让管理者头疼的伦理问题。"
+  },
+  {
+   "en": "The role involves coordinating volunteers across regional offices.",
+   "zh": "该职位需要协调各地区办公室的志愿者。"
+  }
+ ],
+ "judge": [
+  {
+   "en": "The panel will judge each submission against published criteria.",
+   "zh": "评审小组将依据公布的评分标准评判每份投稿。"
+  },
+  {
+   "en": "Readers should not judge the novel by its cover alone.",
+   "zh": "读者不应仅凭封面来评判这部小说。"
+  },
+  {
+   "en": "Historians judge the reform's success by its lasting effects.",
+   "zh": "历史学家以改革的持久影响来评判其成败。"
+  }
+ ],
+ "label": [
+  {
+   "en": "Careful researchers label every sample with its source and date.",
+   "zh": "严谨的研究人员会给每个样本标注来源和日期。"
+  },
+  {
+   "en": "Do not label a theory as proven without strong empirical evidence.",
+   "zh": "没有充分的实证证据，不要把某个理论标注为已获证实。"
+  },
+  {
+   "en": "The museum will label each artwork with its date of acquisition.",
+   "zh": "博物馆将标注每件艺术品的入藏日期。"
+  }
+ ],
+ "maintain": [
+  {
+   "en": "The university must maintain high standards in its doctoral programs.",
+   "zh": "该大学必须在其博士项目中保持高标准。"
+  },
+  {
+   "en": "Regular inspection helps maintain the structural integrity of old bridges.",
+   "zh": "定期检查有助于保持老旧桥梁的结构完整性。"
+  },
+  {
+   "en": "He maintains that the current evidence does not support that conclusion.",
+   "zh": "他坚持认为现有证据并不支持该结论。"
+  }
+ ],
+ "measure": [
+  {
+   "en": "Researchers measure the growth of algae on the northern slopes.",
+   "zh": "研究者测量北坡上藻类的生长情况。"
+  },
+  {
+   "en": "Economic output alone cannot measure the social wellbeing of a nation.",
+   "zh": "仅靠经济产出无法衡量一个国家的社会福祉。"
+  },
+  {
+   "en": "Researchers measured policy outcomes over ten years.",
+   "zh": "研究者用 10 年的时间衡量了政策成效。"
+  }
+ ],
+ "obtain": [
+  {
+   "en": "Graduates can obtain the required certificate after completing the course.",
+   "zh": "毕业生完成课程后即可取得所需证书。"
+  },
+  {
+   "en": "The team obtained permission to survey the protected wetland.",
+   "zh": "该团队获得了调查这片受保护湿地的许可。"
+  },
+  {
+   "en": "The team obtained useful historical data from public archives.",
+   "zh": "团队从公共档案馆获得了有价值的历史数据。"
+  }
+ ],
+ "occur": [
+  {
+   "en": "Such an error rarely occurs in carefully audited systems.",
+   "zh": "这类错误在经过严格审计的系统中很少发生。"
+  },
+  {
+   "en": "The idea occurred to her while she was traveling abroad.",
+   "zh": "她在国外旅行时突然想到了这个主意。"
+  },
+  {
+   "en": "Most of these changes occurred within a single decade.",
+   "zh": "这些变化大多发生在短短 10 年之内。"
+  }
+ ],
+ "perform": [
+  {
+   "en": "The team performed a series of controlled experiments over two years.",
+   "zh": "该团队在两年间进行了一系列对照实验。"
+  },
+  {
+   "en": "She performs well under pressure during public presentations.",
+   "zh": "她在公开演讲中面对压力时表现出色。"
+  },
+  {
+   "en": "The committee will perform an annual review of research ethics.",
+   "zh": "委员会将每年对科研伦理进行一次审查。"
+  }
+ ],
+ "predict": [
+  {
+   "en": "Models can predict rainfall with reasonable accuracy three days ahead.",
+   "zh": "模型能够提前三天以合理精度预测降雨。"
+  },
+  {
+   "en": "Nobody could predict the scale of the financial crisis.",
+   "zh": "没有人能预见到这场金融危机的规模。"
+  },
+  {
+   "en": "The algorithm predicts which students are likely to withdraw.",
+   "zh": "该算法预测哪些学生可能会中途退学。"
+  }
+ ],
+ "prevent": [
+  {
+   "en": "Simple hygiene measures prevent most infections in clinical settings.",
+   "zh": "简单的卫生措施可以预防临床环境中大多数感染。"
+  },
+  {
+   "en": "Careful planning prevented the project from exceeding its budget.",
+   "zh": "周密的规划使该项目免于超出预算。"
+  },
+  {
+   "en": "Nothing could have prevented the collapse of the fishery.",
+   "zh": "任何措施都无法阻止渔业走向崩溃。"
+  }
+ ],
+ "provide": [
+  {
+   "en": "The government will provide subsidies to small farms this year.",
+   "zh": "政府今年将向小型农场提供补贴。"
+  },
+  {
+   "en": "The survey provides strong evidence for this interpretation.",
+   "zh": "这项调查为这种解释提供了有力证据。"
+  },
+  {
+   "en": "Hotels must provide adequate fire exits for every floor.",
+   "zh": "酒店必须为每一层提供足够的消防出口。"
+  }
+ ],
+ "realize": [
+  {
+   "en": "Only later did she realize the significance of the discovery.",
+   "zh": "她直到后来才意识到这一发现的重要意义。"
+  },
+  {
+   "en": "The team realized that the assumptions of the model were flawed.",
+   "zh": "团队意识到该模型的假设存在缺陷。"
+  },
+  {
+   "en": "They realized their lifelong dream after years of persistent effort.",
+   "zh": "经过多年的坚持不懈，他们终于实现了毕生的梦想。"
+  }
+ ],
+ "receive": [
+  {
+   "en": "Applicants will receive confirmation within five working days.",
+   "zh": "申请者将在五个工作日内收到确认通知。"
+  },
+  {
+   "en": "The hospital received a donation of new medical equipment.",
+   "zh": "这家医院收到了一批新的医疗设备捐赠。"
+  },
+  {
+   "en": "She received encouraging feedback on her first article.",
+   "zh": "她的第一篇文章得到了令人鼓舞的反馈。"
+  }
+ ],
+ "recognize": [
+  {
+   "en": "The committee recognized the outstanding contributions of the laboratory staff.",
+   "zh": "委员会表彰了实验室工作人员的杰出贡献。"
+  },
+  {
+   "en": "Many scholars now recognize the limitations of this influential model.",
+   "zh": "如今许多学者承认这一影响力很大的模型存在局限。"
+  },
+  {
+   "en": "I did not recognize her in the crowded reception hall.",
+   "zh": "在拥挤的接待大厅里，我没认出她来。"
+  }
+ ],
+ "reduce": [
+  {
+   "en": "The new method reduces the risk of infection dramatically.",
+   "zh": "新方法大幅降低了感染风险。"
+  },
+  {
+   "en": "We must reduce our dependence on imported energy.",
+   "zh": "我们必须减少对进口能源的依赖。"
+  },
+  {
+   "en": "Prolonged exposure to noise reduced the workers' concentration sharply.",
+   "zh": "长时间接触噪声使工人们的注意力明显下降。"
+  }
+ ],
+ "reflect": [
+  {
+   "en": "Rising temperatures clearly reflect changes in regional rainfall patterns.",
+   "zh": "气温上升明显反映了区域降水模式的变化。"
+  },
+  {
+   "en": "The water surface reflects the evening sky perfectly.",
+   "zh": "水面完美地倒映着傍晚的天空。"
+  },
+  {
+   "en": "She reflected on the ethical problems raised by her research.",
+   "zh": "她思考了这项研究带来的伦理问题。"
+  }
+ ],
+ "report": [
+  {
+   "en": "The inspector reported serious safety failures at the plant.",
+   "zh": "检查员报告了该工厂存在的严重安全隐患。"
+  },
+  {
+   "en": "Employees reported that the working conditions had steadily improved.",
+   "zh": "员工们报告说工作条件一直在稳步改善。"
+  },
+  {
+   "en": "She reports regularly on economic developments across the region.",
+   "zh": "她定期报道该地区的经济发展情况。"
+  }
+ ],
+ "respond": [
+  {
+   "en": "The company responded quickly to complaints about the faulty device.",
+   "zh": "该公司迅速回应了关于该故障设备的投诉。"
+  },
+  {
+   "en": "Regulators responded to the scandal by tightening disclosure requirements.",
+   "zh": "监管机构通过收紧信息披露要求来回应这一丑闻。"
+  },
+  {
+   "en": "Our team responded effectively to the sudden change in demand.",
+   "zh": "我们的团队有效应对了需求的突然变化。"
+  }
+ ],
+ "suggest": [
+  {
+   "en": "The data suggest a strong correlation between rainfall and crop yields.",
+   "zh": "数据表明降雨量与作物产量之间存在很强的相关性。"
+  },
+  {
+   "en": "I suggest delaying the decision until we have more evidence.",
+   "zh": "我建议在获得更多证据之前暂缓决定。"
+  },
+  {
+   "en": "Her expression suggested that she disagreed with the proposal.",
+   "zh": "她的表情表明她不同意这个提议。"
+  }
+ ],
+ "summarize": [
+  {
+   "en": "The final chapter summarizes the findings of both field studies.",
+   "zh": "最后一章总结了两项实地研究的发现。"
+  },
+  {
+   "en": "Could you summarize the main arguments in three sentences?",
+   "zh": "你能否用三句话概括主要论点？"
+  },
+  {
+   "en": "This table summarizes the monthly costs of the project.",
+   "zh": "这张表概括了该项目每月的成本。"
+  }
+ ],
+ "support": [
+  {
+   "en": "The evidence supports the hypothesis that the two species compete.",
+   "zh": "证据支持这两个物种存在竞争的假设。"
+  },
+  {
+   "en": "These beams support the roof of the old mill.",
+   "zh": "这些横梁支撑着老磨坊的屋顶。"
+  },
+  {
+   "en": "The scholarship program supports graduate students from underrepresented regions.",
+   "zh": "该奖学金项目资助来自代表性不足地区的研究生。"
+  }
+ ],
+ "test": [
+  {
+   "en": "Researchers tested the hypothesis using a large sample of respondents.",
+   "zh": "研究者利用大量受访者样本检验了该假设。"
+  },
+  {
+   "en": "The laboratory tests soil samples for heavy metals every month.",
+   "zh": "该实验室每月检测土壤样本中的重金属。"
+  },
+  {
+   "en": "The written exam tests both grammar and reading comprehension.",
+   "zh": "该笔试同时考查语法和阅读理解。"
+  }
+ ],
+ "trace": [
+  {
+   "en": "Researchers traced the contamination back to a single chemical plant.",
+   "zh": "研究者追溯出污染源头是一家化工厂。"
+  },
+  {
+   "en": "The design of the bowl can be traced to ancient Greece.",
+   "zh": "这种碗的造型可追溯到古希腊。"
+  },
+  {
+   "en": "She traced the decline of the industry over three decades.",
+   "zh": "她追溯了 30 年来该产业的衰落历程。"
+  }
+ ],
+ "transform": [
+  {
+   "en": "New technology transformed the way the lab processes samples.",
+   "zh": "新技术改变了实验室处理样本的方式。"
+  },
+  {
+   "en": "The proposal would transform the struggling regional economy completely.",
+   "zh": "该提案将彻底改变这一陷入困境的地区经济。"
+  },
+  {
+   "en": "Digital tools are transforming archival research across the humanities.",
+   "zh": "数字工具正在改变整个人文学科的档案研究。"
+  }
+ ],
+ "treat": [
+  {
+   "en": "The chapter treats the question of urban inequality in depth.",
+   "zh": "该章深入探讨了城市不平等的问题。"
+  },
+  {
+   "en": "We should treat such claims with considerable skepticism.",
+   "zh": "我们对这类说法应当保持相当程度的怀疑。"
+  },
+  {
+   "en": "The chapter treats economic inequality as a matter of institutional design.",
+   "zh": "该章把经济不平等视为制度设计问题来论述。"
+  }
+ ],
+ "understand": [
+  {
+   "en": "Researchers still do not fully understand how memory forms.",
+   "zh": "研究者仍未完全理解记忆是如何形成的。"
+  },
+  {
+   "en": "Students must understand the difference between correlation and causation.",
+   "zh": "学生必须理解相关性与因果关系之间的区别。"
+  },
+  {
+   "en": "Students who understand the assignment perfectly usually finish the work early.",
+   "zh": "完全理解这项任务的学生通常会提前完成作业。"
+  }
+ ],
+ "verify": [
+  {
+   "en": "Editors should verify every citation against the original source.",
+   "zh": "编辑应当对照原始来源核实每一条引文。"
+  },
+  {
+   "en": "The checksum allows users to verify the file's integrity.",
+   "zh": "校验和可以让用户核实文件的完整性。"
+  },
+  {
+   "en": "We can verify the model's predictions using independent field data.",
+   "zh": "我们可以用独立的实地数据核实该模型的预测。"
+  }
+ ],
+ "achieve": [
+  {
+   "en": "The team achieved a significant reduction in processing time.",
+   "zh": "该团队大幅缩短了处理时间。"
+  },
+  {
+   "en": "Few students achieve such excellent results without sustained effort.",
+   "zh": "很少有学生不靠持续努力就取得如此优异的成绩。"
+  },
+  {
+   "en": "The agreement was designed to achieve lasting cooperation between the parties.",
+   "zh": "该协议的目的是实现各方之间的长期合作。"
+  }
+ ],
+ "address": [
+  {
+   "en": "The conference will address the effects of automation on employment.",
+   "zh": "本次会议将讨论自动化对就业的影响。"
+  },
+  {
+   "en": "This report addresses questions raised by the previous reviewers.",
+   "zh": "本报告讨论了上一轮评审提出的问题。"
+  },
+  {
+   "en": "The chancellor addressed the graduates in the main hall.",
+   "zh": "校长在主大厅向毕业生发表了讲话。"
+  }
+ ],
+ "analysis": [
+  {
+   "en": "Her analysis of the survey data revealed unexpected regional patterns.",
+   "zh": "她对调查数据的分析揭示了出人意料的区域规律。"
+  },
+  {
+   "en": "The analysis suggests the drug reduces recovery time significantly.",
+   "zh": "该分析表明这种药物能显著缩短恢复时间。"
+  },
+  {
+   "en": "Critics questioned the assumptions underlying the financial analysis.",
+   "zh": "批评者质疑了这项金融分析背后的假设。"
+  }
+ ],
+ "argument": [
+  {
+   "en": "His strongest argument concerns the fairness of the allocation system.",
+   "zh": "他最有力的论点涉及分配体系的公平性。"
+  },
+  {
+   "en": "They settled the argument with a series of compromise measures.",
+   "zh": "他们通过一系列折中方案平息了争论。"
+  },
+  {
+   "en": "The book's central argument challenges traditional economic theory.",
+   "zh": "该书的核心论点挑战了传统经济理论。"
+  }
+ ],
+ "area": [
+  {
+   "en": "The university has expanded rapidly in the area of robotics.",
+   "zh": "该大学在机器人领域发展迅速。"
+  },
+  {
+   "en": "Farmers in the area reported unusually heavy rainfall this spring.",
+   "zh": "该地区的农民报告说今春降雨异常偏多。"
+  },
+  {
+   "en": "That region covers an area of roughly forty square kilometers.",
+   "zh": "该区域面积约为 40 平方公里。"
+  }
+ ],
+ "aspect": [
+  {
+   "en": "We must consider every aspect of the proposal before approving it.",
+   "zh": "在批准之前，我们必须考虑该提案的每一个方面。"
+  },
+  {
+   "en": "The visual aspect of the building appeals to younger audiences.",
+   "zh": "这座建筑的视觉外观吸引着年轻观众。"
+  },
+  {
+   "en": "One aspect of the problem remains unresolved after extensive discussion.",
+   "zh": "经过广泛讨论，该问题的一个方面仍未解决。"
+  }
+ ]
+}

@@ -1,0 +1,254 @@
+{
+ "mediating": [
+  {
+   "en": "Sleep quality was found to be a mediating variable between job stress and employee turnover.",
+   "zh": "研究发现，睡眠质量是工作压力与员工流失之间的中介变量。"
+  },
+  {
+   "en": "The mediating role of supervisor support cannot be ignored when explaining employee wellbeing.",
+   "zh": "在解释员工福祉时，主管支持所起的中介作用不可忽视。"
+  },
+  {
+   "en": "Language ability plays a mediating role between education and employment outcomes.",
+   "zh": "语言能力在教育与就业结果之间起着中介作用。"
+  }
+ ],
+ "moderating": [
+  {
+   "en": "Team size has a moderating effect on the relationship between training and productivity.",
+   "zh": "团队规模对培训与生产率之间的关系具有调节效应。"
+  },
+  {
+   "en": "Prior experience played a moderating role in the link between training load and performance gains.",
+   "zh": "先前经验在训练负荷与成绩提升之间的关系中起到了调节作用。"
+  },
+  {
+   "en": "The moderating influence of leadership support remained stable across three separate samples.",
+   "zh": "领导支持的调节影响在三个独立样本中保持稳定。"
+  }
+ ],
+ "policy": [
+  {
+   "en": "The new policy aims to reduce waiting times in public hospitals nationwide.",
+   "zh": "这项新政策旨在降低全国公立医院的候诊时间。"
+  },
+  {
+   "en": "Policy implementation often fails when local agencies lack adequate resources and authority.",
+   "zh": "当地方机构缺乏足够的资源和权限时，政策执行往往失败。"
+  },
+  {
+   "en": "Economists debate whether the monetary policy stance will reduce inflation this year.",
+   "zh": "经济学家们争论今年的货币政策立场是否会降低通货膨胀。"
+  }
+ ],
+ "institutional": [
+  {
+   "en": "Institutional support strongly influences how new teachers adopt classroom practices.",
+   "zh": "制度支持对新教师如何采用课堂教学方式有着显著影响。"
+  },
+  {
+   "en": "The study examines trust in institutional bodies across four European countries.",
+   "zh": "本研究考察了四个欧洲国家中人们对公共机构的信任。"
+  },
+  {
+   "en": "Institutional investors shifted their portfolios after the market volatility last autumn.",
+   "zh": "去年秋季市场波动之后，机构投资者调整了他们的投资组合。"
+  }
+ ],
+ "organizational": [
+  {
+   "en": "Organizational culture often resists change even when new technology is available.",
+   "zh": "即使有新技术可用，组织文化也常常抗拒变革。"
+  },
+  {
+   "en": "The organizational structure of the firm was reorganized to improve communication.",
+   "zh": "该公司的组织结构经过重组，以改善沟通。"
+  },
+  {
+   "en": "Managers reported that organizational commitment had declined noticeably over two years.",
+   "zh": "管理者报告说，员工的组织承诺在两年内明显下降。"
+  }
+ ],
+ "societal": [
+  {
+   "en": "Societal attitudes toward migration have shifted considerably over the past decade.",
+   "zh": "过去 10 年里，社会对移民的态度发生了很大变化。"
+  },
+  {
+   "en": "Technological innovation continues to reshape societal expectations of public services.",
+   "zh": "技术创新持续重塑社会对公共服务的期待。"
+  },
+  {
+   "en": "The author argues that inequality produces deep societal costs for future generations.",
+   "zh": "作者认为，不平等会给后代带来深刻的社会成本。"
+  }
+ ],
+ "demographic": [
+  {
+   "en": "Demographic change has slowed population growth across most European regions.",
+   "zh": "人口结构变化减缓了欧洲大多数地区的人口增长。"
+  },
+  {
+   "en": "The aging demographic presents serious challenges for pension systems worldwide.",
+   "zh": "老龄化人口对全球养老金体系构成了严峻挑战。"
+  },
+  {
+   "en": "Marketing teams analyzed demographic data before entering the new market.",
+   "zh": "市场团队在进入新市场前分析了人口统计数据。"
+  }
+ ],
+ "inclusion": [
+  {
+   "en": "The inclusion of rural schools in the reform program widened access to resources.",
+   "zh": "将农村学校纳入改革计划扩大了资源获取的范围。"
+  },
+  {
+   "en": "Social inclusion remains a central goal of housing policy in many countries.",
+   "zh": "社会包容仍然是许多国家住房政策的核心目标。"
+  },
+  {
+   "en": "The committee reviewed the inclusion of minority researchers in grant panels.",
+   "zh": "该委员会审查了少数族裔研究者在科研资助评审小组中的纳入情况。"
+  }
+ ],
+ "disproportionate": [
+  {
+   "en": "The reform had a disproportionate impact on low-income households across the country.",
+   "zh": "该改革对全国低收入家庭产生了不成比例的影响。"
+  },
+  {
+   "en": "A disproportionate share of the funding was directed toward urban research centers.",
+   "zh": "城市研究中心获得了远超其比例的资金份额。"
+  },
+  {
+   "en": "Regulators penalized the firm for its disproportionate treatment of part-time employees.",
+   "zh": "监管机构因该公司对兼职员工不成比例的差别对待而对其处以罚款。"
+  }
+ ],
+ "inferential": [
+  {
+   "en": "The use of inferential statistics allows researchers to draw conclusions beyond the raw data.",
+   "zh": "推断统计使研究者能够超出原始数据本身得出结论。"
+  },
+  {
+   "en": "Students often confuse descriptive reporting with inferential claims about causality.",
+   "zh": "学生常常把描述性报告与关于因果关系的推论混为一谈。"
+  },
+  {
+   "en": "The paper uses inferential techniques to test whether the effect persists over time.",
+   "zh": "该论文运用推断技术检验这一效应是否随时间持续存在。"
+  }
+ ],
+ "norm": [
+  {
+   "en": "Social norms strongly influence how individuals respond to environmental regulations.",
+   "zh": "社会规范显著影响个人对环境法规的反应。"
+  },
+  {
+   "en": "The study compared professional norms across five different legal systems.",
+   "zh": "该研究比较了五个不同法律体系下的专业规范。"
+  },
+  {
+   "en": "Such behavior violates the unwritten norm of academic honesty.",
+   "zh": "此类行为违反了不成文的学术诚信规范。"
+  }
+ ],
+ "solely": [
+  {
+   "en": "The delay was solely due to a shortage of laboratory equipment.",
+   "zh": "延误完全是由于实验室设备短缺造成的。"
+  },
+  {
+   "en": "This measure should not be viewed as solely an economic intervention.",
+   "zh": "不应仅仅把这项措施视为一种经济干预。"
+  },
+  {
+   "en": "The model was trained solely on data collected from European archives.",
+   "zh": "该模型完全使用从欧洲档案馆收集的数据进行训练。"
+  }
+ ],
+ "statistically": [
+  {
+   "en": "The correlation was statistically significant at the five percent level.",
+   "zh": "该相关关系在 5% 水平上具有统计显著性。"
+  },
+  {
+   "en": "Statistically, the two groups did not differ on any measured outcome.",
+   "zh": "在统计意义上，两组在任何测量结果上都没有差异。"
+  },
+  {
+   "en": "Differences between regions were statistically insignificant after controlling for income.",
+   "zh": "在控制收入变量后，地区之间的差异在统计上并不显著。"
+  }
+ ],
+ "analytically": [
+  {
+   "en": "Analytically, the framework separates descriptive questions from causal ones.",
+   "zh": "在分析上，该框架把描述性问题与因果性问题区分开来。"
+  },
+  {
+   "en": "The two approaches are analytically distinct, even if they share vocabulary.",
+   "zh": "这两种方法在分析上截然不同，尽管共享相同的术语。"
+  },
+  {
+   "en": "This case is analytically useful for understanding how institutions respond to shocks.",
+   "zh": "这个案例在分析上对于理解机构如何应对冲击很有价值。"
+  }
+ ],
+ "conceptually": [
+  {
+   "en": "Conceptually, the theory links individual choices to wider structural conditions.",
+   "zh": "在概念上，该理论把个人选择与更宏观的结构条件联系起来。"
+  },
+  {
+   "en": "The reviewers found the argument conceptually sound but empirically untested.",
+   "zh": "评审者认为该论证在概念上是合理的，但未经实证检验。"
+  },
+  {
+   "en": "Conceptually, classification and explanation require quite different kinds of evidence.",
+   "zh": "在概念上，分类与解释需要相当不同类型的证据。"
+  }
+ ],
+ "evidently": [
+  {
+   "en": "The protocol was, evidently, adapted from an earlier study.",
+   "zh": "该方案显然改编自一项早期研究。"
+  },
+  {
+   "en": "The early results evidently exceeded the expectations of the research team.",
+   "zh": "早期结果显然超出了研究团队的预期。"
+  },
+  {
+   "en": "Evidently, the training program did little to change daily practice.",
+   "zh": "显然，该培训项目对改变日常实践作用甚微。"
+  }
+ ],
+ "ostensibly": [
+  {
+   "en": "The ostensibly neutral rule actually reinforced existing inequalities.",
+   "zh": "这条表面上中立的规则实际上强化了既有的不平等。"
+  },
+  {
+   "en": "The reform was ostensibly designed to reduce administrative delays for citizens.",
+   "zh": "这项改革据称旨在减少公民办理事务时的行政延误。"
+  },
+  {
+   "en": "Although ostensibly voluntary, the scheme was supported by subtle financial incentives.",
+   "zh": "尽管名义上是自愿的，该计划背后却有不易察觉的经济激励。"
+  }
+ ],
+ "seemingly": [
+  {
+   "en": "The two variables that appear unrelated show a seemingly random pattern.",
+   "zh": "这两个看似无关的变量呈现出一种看似随机的模式。"
+  },
+  {
+   "en": "The seemingly minor issue eventually became a major point of contention.",
+   "zh": "看似微不足道的问题却演变成了主要的争论焦点。"
+  },
+  {
+   "en": "Participants often prefer the seemingly simpler explanation for complex findings.",
+   "zh": "参与者往往偏好那种看似更简单、能够解释复杂结果的说明。"
+  }
+ ]
+}

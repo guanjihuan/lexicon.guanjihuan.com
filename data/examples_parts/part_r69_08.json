@@ -1,0 +1,310 @@
+{
+  "transcription": [
+    {
+      "en": "Verbatim transcription of the interviews required additional training and considerable time.",
+      "zh": "访谈的逐字转录需要额外培训并耗费大量时间。"
+    },
+    {
+      "en": "The transcription service converted recorded lectures into searchable text documents.",
+      "zh": "该转录服务将录制的讲座转换为可检索的文本文档。"
+    },
+    {
+      "en": "Errors in the transcription were detected by comparing audio recordings with the written record.",
+      "zh": "通过将录音与文字记录对照，研究者发现了转录中的错误。"
+    }
+  ],
+  "member checking": [
+    {
+      "en": "Member checking allowed participants to correct misinterpretations before the final analysis began.",
+      "zh": "成员核验使参与者在最终分析开始前得以纠正误解。"
+    },
+    {
+      "en": "Some researchers treat member checking as a standard safeguard in qualitative studies.",
+      "zh": "一些研究者将成员核验视为定性研究中的标准保障措施。"
+    },
+    {
+      "en": "Thematic codes were revised after member checking revealed that several themes were poorly understood.",
+      "zh": "成员核验显示若干主题理解不足，研究者据此修订了主题编码。"
+    }
+  ],
+  "audit trail": [
+    {
+      "en": "The audit trail documented every change made to the dataset during the study.",
+      "zh": "审计轨迹记录了研究期间对数据集所做的每一处改动。"
+    },
+    {
+      "en": "Regulators require a complete audit trail for all electronic health records.",
+      "zh": "监管机构要求所有电子健康记录都具备完整的审计轨迹。"
+    },
+    {
+      "en": "Without an audit trail, it becomes difficult to establish who approved each protocol change.",
+      "zh": "缺少审计轨迹时，便难以确定每一次方案变更由谁批准。"
+    }
+  ],
+  "purposive": [
+    {
+      "en": "Purposive sampling was used to recruit participants with varied experience of the phenomenon.",
+      "zh": "研究采用目的性抽样招募具有不同现象经验的参与者。"
+    },
+    {
+      "en": "Critics argue that purposive samples limit the statistical generalizability of the findings.",
+      "zh": "批评者指出目的性抽样限制了研究结论的统计可推广性。"
+    },
+    {
+      "en": "A purposive design was chosen because the research question concerned depth rather than breadth.",
+      "zh": "由于研究问题关注深度而非广度，研究者选择了目的性设计。"
+    }
+  ],
+  "ethnography": [
+    {
+      "en": "Ethnography was conducted over several months in two community settings.",
+      "zh": "研究在两个社区场景中开展了为期数月的民族志调查。"
+    },
+    {
+      "en": "Her ethnography of clinical work reveals routines that formal models of care tend to overlook.",
+      "zh": "她对临床工作的民族志研究揭示了正式照护模型往往忽略的惯例。"
+    },
+    {
+      "en": "Ethnography remains valuable when quantitative indicators fail to explain how work is actually organized.",
+      "zh": "当定量指标无法解释工作实际如何组织时，民族志仍然具有价值。"
+    }
+  ],
+  "latent": [
+    {
+      "en": "Latent variables cannot be observed directly and must be inferred from observable indicators.",
+      "zh": "潜在变量无法直接观察，只能从可观测指标加以推断。"
+    },
+    {
+      "en": "The model assumes that some of the variation in test scores reflects a latent aptitude.",
+      "zh": "该模型假定测验分数中的部分变异反映了某种潜在能力。"
+    },
+    {
+      "en": "Latent demand remained hidden until a sudden change in policy brought it into the open.",
+      "zh": "潜在需求一直隐藏未露，直到一项政策突然改变才公开显现。"
+    }
+  ],
+  "screening": [
+    {
+      "en": "Screening of large cohorts identified participants eligible for the intervention.",
+      "zh": "对大型队列的筛查识别出了符合干预条件的参与者。"
+    },
+    {
+      "en": "The screening protocol excluded individuals with severe renal impairment.",
+      "zh": "筛查方案排除了伴有严重肾功能损害的个体。"
+    },
+    {
+      "en": "Literature screening was performed independently by two reviewers to reduce selection bias.",
+      "zh": "文献筛选由两名评审者独立完成，以减少选择偏倚。"
+    }
+  ],
+  "surveillance": [
+    {
+      "en": "Surveillance data revealed a gradual decline in the incidence of the infection.",
+      "zh": "监测数据显示该感染的发病率呈逐步下降趋势。"
+    },
+    {
+      "en": "Active surveillance captured more cases than passive reporting by clinicians.",
+      "zh": "主动监测所捕获的病例多于临床医生被动报告的病例。"
+    },
+    {
+      "en": "The surveillance system collects information from laboratories and hospitals nationwide.",
+      "zh": "该监测系统从全国范围的实验室和医院收集信息。"
+    }
+  ],
+  "scoping review": [
+    {
+      "en": "A scoping review was conducted to map the range of approaches used in this field.",
+      "zh": "本研究开展范围综述，以梳理该领域中所采用的各种方法。"
+    },
+    {
+      "en": "The scoping review identified gaps in how outcomes are reported across published studies.",
+      "zh": "该范围综述发现了已发表研究中结果报告方式的空白。"
+    },
+    {
+      "en": "Unlike a systematic review, the scoping review did not assess the quality of included studies.",
+      "zh": "与系统综述不同，范围综述未评估所纳入研究的质量。"
+    }
+  ],
+  "peer review": [
+    {
+      "en": "Every submission underwent anonymous peer review by two independent reviewers.",
+      "zh": "每份投稿均由两名独立评审人进行匿名同行评审。"
+    },
+    {
+      "en": "The journal strengthened its peer review procedures after several retractions.",
+      "zh": "在数起撤稿事件之后，该期刊加强了其同行评审程序。"
+    },
+    {
+      "en": "Peer review comments helped the authors clarify the limits of their argument.",
+      "zh": "同行评审意见帮助作者澄清了论证的限度。"
+    }
+  ],
+  "conflict of interest": [
+    {
+      "en": "Any conflict of interest must be disclosed in the acknowledgements of the article.",
+      "zh": "任何利益冲突都必须在文章的致谢部分予以披露。"
+    },
+    {
+      "en": "Members with a conflict of interest were recused from the committee deliberations.",
+      "zh": "存在利益冲突的成员被要求回避，不参与委员会审议。"
+    },
+    {
+      "en": "The editorial policy treats a declared conflict of interest as a matter for full disclosure.",
+      "zh": "该编辑政策将已申报的利益冲突视为应当充分披露的事项。"
+    }
+  ],
+  "open access": [
+    {
+      "en": "Depositing the accepted manuscript in a repository has made the article open access.",
+      "zh": "将接受稿存入存储库使该文章得以开放获取。"
+    },
+    {
+      "en": "Open access publishing has widened the readership of the journal in low-income regions.",
+      "zh": "开放获取出版扩大了该刊在低收入地区的读者群。"
+    },
+    {
+      "en": "Many funders now require that all resulting outputs are freely available through open access channels.",
+      "zh": "许多资助机构现要求所有成果通过开放获取渠道免费提供。"
+    }
+  ],
+  "grant": [
+    {
+      "en": "The project was supported by a national research grant awarded to the lead investigator.",
+      "zh": "该项目获得授予首席研究者的国家科研基金资助。"
+    },
+    {
+      "en": "Writing a competitive grant proposal requires a clear budget and a realistic timeline.",
+      "zh": "撰写有竞争力的基金申请书需要清晰的预算和切合实际的时间安排。"
+    },
+    {
+      "en": "Her grant application was reviewed by an international panel of external experts.",
+      "zh": "她的基金申请由国际专家组成的外部评审组评审。"
+    }
+  ],
+  "platform": [
+    {
+      "en": "The platform provides researchers with a shared environment for analyzing large datasets.",
+      "zh": "该平台为研究者提供了一个分析大型数据集的共享环境。"
+    },
+    {
+      "en": "Institutional repositories can be integrated with the platform through standard interfaces.",
+      "zh": "机构存储库可通过标准接口与该平台集成。"
+    },
+    {
+      "en": "Governments increasingly rely on digital platforms to deliver public services online.",
+      "zh": "政府越来越依赖数字平台在线提供公共服务。"
+    }
+  ],
+  "architecture": [
+    {
+      "en": "The architecture of the system separates data storage from the services built on top of it.",
+      "zh": "该系统的体系结构将数据存储与其上构建的服务相分离。"
+    },
+    {
+      "en": "A modular architecture allows individual components to be replaced without redesigning the whole.",
+      "zh": "模块化的体系结构使单个组件可以在不重新设计整体的情况下被替换。"
+    },
+    {
+      "en": "The proposed architecture addresses the scalability and reliability requirements set by the funder.",
+      "zh": "所提出的体系结构回应了资助方提出的可扩展性与可靠性要求。"
+    }
+  ],
+  "repository": [
+    {
+      "en": "An institutional repository preserves the digital record of research output for the long term.",
+      "zh": "机构存储库长期保存研究产出的数字记录。"
+    },
+    {
+      "en": "The dataset was uploaded to the repository with detailed documentation.",
+      "zh": "该数据集连同详细文档被上传至存储库。"
+    },
+    {
+      "en": "Repository policies usually require authors to deposit accepted manuscripts in a timely manner.",
+      "zh": "存储库政策通常要求作者及时提交接受稿。"
+    }
+  ],
+  "interoperability": [
+    {
+      "en": "Interoperability between the two systems depends on a shared vocabulary and consistent formats.",
+      "zh": "两个系统之间的互操作性取决于共享的词汇表和一致的格式。"
+    },
+    {
+      "en": "Limited interoperability remains an obstacle to combining registries from different countries.",
+      "zh": "互操作性不足仍是整合不同国家登记系统的障碍。"
+    },
+    {
+      "en": "The project aims to improve interoperability for health records across regional providers.",
+      "zh": "该项目旨在改善各地区医疗服务提供者之间健康记录数据的互操作性。"
+    }
+  ],
+  "metadata": [
+    {
+      "en": "Metadata describing each file allows the archive to be searched by date and author.",
+      "zh": "描述每个文件的元数据使档案能够按日期和作者检索。"
+    },
+    {
+      "en": "The metadata schema was extended to record the provenance of derived datasets.",
+      "zh": "该元数据模式被扩展以记录衍生数据集的来源。"
+    },
+    {
+      "en": "Poor metadata practice reduces the reuse value of otherwise rich research data.",
+      "zh": "元数据管理不力会降低内容丰富的研究数据的复用价值。"
+    }
+  ],
+  "ontology": [
+    {
+      "en": "The ontology provides a formal representation of the concepts used in the domain.",
+      "zh": "该本体提供了该领域中所用概念的形式化表示。"
+    },
+    {
+      "en": "Mapping the records onto a shared ontology improved consistency across the databases.",
+      "zh": "将这些记录映射到共享本体提升了各数据库之间的一致性。"
+    },
+    {
+      "en": "Ontology development requires agreement among experts on the meaning of key terms.",
+      "zh": "本体开发需要专家们就关键术语的含义达成一致。"
+    }
+  ],
+  "privacy": [
+    {
+      "en": "Privacy protection requires that personal data be collected only for stated purposes.",
+      "zh": "隐私保护要求个人数据仅为既定目的而收集。"
+    },
+    {
+      "en": "The study obtained informed consent after explaining how participant privacy would be maintained.",
+      "zh": "在说明如何维护参与者隐私之后，研究取得了知情同意。"
+    },
+    {
+      "en": "Regulators have tightened privacy rules for organizations that handle health information.",
+      "zh": "监管机构已收紧处理健康信息的组织所适用的隐私规则。"
+    }
+  ],
+  "cybersecurity": [
+    {
+      "en": "Cybersecurity training is now a routine requirement in health research institutions.",
+      "zh": "网络安全培训如今是卫生研究机构的常规要求。"
+    },
+    {
+      "en": "A cybersecurity incident in the registry exposed an unpatched weakness in the system.",
+      "zh": "登记系统中的一次网络安全事件暴露了系统中未经修补的弱点。"
+    },
+    {
+      "en": "The committee reviews cybersecurity policies annually to keep controls aligned with current threats.",
+      "zh": "该委员会每年审查网络安全政策，使控制措施与当前威胁保持一致。"
+    }
+  ],
+  "intellectual property": [
+    {
+      "en": "The agreement clarifies who holds intellectual property rights in jointly produced material.",
+      "zh": "该协议明确了共同产出成果的知识产权归属。"
+    },
+    {
+      "en": "Universities often retain intellectual property in the software developed within funded projects.",
+      "zh": "各大学通常保留在受资助项目中开发的软件的知识产权。"
+    },
+    {
+      "en": "A formal policy reduces the risk of disputes over intellectual property between collaborators.",
+      "zh": "正式的政策降低了合作者之间就知识产权发生争议的风险。"
+    }
+  ]
+}

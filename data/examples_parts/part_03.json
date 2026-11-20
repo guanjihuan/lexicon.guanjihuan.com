@@ -1,0 +1,534 @@
+{
+ "adhere to": [
+  {
+   "en": "All research teams must adhere to strict ethical guidelines when collecting human subjects' data.",
+   "zh": "所有研究团队在收集人类受试者数据时都必须严格遵守伦理准则。"
+  },
+  {
+   "en": "Despite mounting pressure from shareholders, the board continued to adhere to its founding principles.",
+   "zh": "尽管股东施加了越来越大的压力，董事会仍坚持其创始原则。"
+  },
+  {
+   "en": "Students who fail to adhere to the attendance policy will lose examination privileges.",
+   "zh": "不遵守出勤政策的学生将失去考试资格。"
+  }
+ ],
+ "seamless": [
+  {
+   "en": "The upgrade allows a seamless transition from the old system to the new platform.",
+   "zh": "此次升级实现了从旧系统到新平台的平滑过渡。"
+  },
+  {
+   "en": "Users reported a seamless connection between the mobile application and the cloud database.",
+   "zh": "用户报告称该移动应用与云数据库之间的连接天衣无缝。"
+  },
+  {
+   "en": "Our workflow integration is designed to be seamless, requiring no manual data entry at all.",
+   "zh": "我们的工作流集成旨在实现无缝衔接，完全无需手动录入数据。"
+  }
+ ],
+ "proof": [
+  {
+   "en": "There is no proof that the proposed method improves accuracy under real conditions.",
+   "zh": "没有证据表明所提出的方法在真实条件下能提高准确性。"
+  },
+  {
+   "en": "The prosecution presented photographs as proof of the defendant's presence at the scene.",
+   "zh": "控方提交照片作为被告出现在犯罪现场的证据。"
+  },
+  {
+   "en": "The new proof settles a question that had resisted solution for fifty years.",
+   "zh": "这一新证明解决了一个悬置 50 年的问题。"
+  }
+ ],
+ "anomalous": [
+  {
+   "en": "The sensor recorded anomalous temperature spikes that engineers had never observed before.",
+   "zh": "传感器记录到了异常的温度峰值，此前工程师从未观测到此类情况。"
+  },
+  {
+   "en": "Regulators opened a formal investigation after anomalous trading patterns appeared in the stock.",
+   "zh": "该股票出现异常的交易模式后，监管机构启动了正式调查。"
+  },
+  {
+   "en": "Reviewers should flag any anomalous data points rather than quietly discarding them.",
+   "zh": "评审者应当标记出任何异常数据点，而不是悄悄将其丢弃。"
+  }
+ ],
+ "ultimately": [
+  {
+   "en": "The committee debated for three hours and ultimately approved the revised budget.",
+   "zh": "委员会辩论了三小时，最终批准了修订后的预算。"
+  },
+  {
+   "en": "Both methods performed well initially, but the simpler approach ultimately proved more reliable.",
+   "zh": "两种方法起初表现都不错，但更简单的做法最终被证明更可靠。"
+  },
+  {
+   "en": "The success of the project depended, ultimately, on collaboration rather than on funding.",
+   "zh": "该项目的成功最终取决于协作而非资金。"
+  }
+ ],
+ "illuminating": [
+  {
+   "en": "Her lecture on medieval trade routes was deeply illuminating for first-year history students.",
+   "zh": "她关于中世纪贸易路线的讲座对一年级历史专业学生极有启发。"
+  },
+  {
+   "en": "The failed experiment provided illuminating insights into how the enzyme actually functions.",
+   "zh": "这次失败的实验就该酶的实际运作方式提供了富有启发性的见解。"
+  },
+  {
+   "en": "Photographs from the archive document early construction on the cathedral in illuminating detail.",
+   "zh": "档案馆的照片以极具启发性的方式翔实记录了这座大教堂早期的建造情况。"
+  }
+ ],
+ "perceive": [
+  {
+   "en": "Customers often perceive a brand as more reliable when the service response time is short.",
+   "zh": "当服务响应时间较短时，顾客往往认为该品牌更值得信赖。"
+  },
+  {
+   "en": "Many researchers perceive the peer review process as slow and somewhat opaque.",
+   "zh": "许多研究者认为同行评审流程缓慢且不够透明。"
+  },
+  {
+   "en": "How students perceive failure strongly affects their willingness to attempt difficult tasks.",
+   "zh": "学生如何看待失败，会显著影响他们尝试困难任务的意愿。"
+  }
+ ],
+ "unravel": [
+  {
+   "en": "Investigators worked for months to unravel the cause of the mysterious laboratory contamination.",
+   "zh": "调查人员工作了数月，以查明实验室中原因不明的污染的成因。"
+  },
+  {
+   "en": "The mystery surrounding the missing funds was slowly unraveled through witness testimony.",
+   "zh": "随着证人作证，资金失踪之谜逐渐被解开。"
+  },
+  {
+   "en": "Complex regulatory frameworks can unravel quickly when new legislation is introduced.",
+   "zh": "当新立法出台时，复杂的监管框架可能迅速瓦解。"
+  }
+ ],
+ "instructive": [
+  {
+   "en": "The comparison of two unsuccessful campaigns proved highly instructive for junior analysts.",
+   "zh": "对两次失败活动的比较对初级分析员极具教育意义。"
+  },
+  {
+   "en": "This textbook includes instructive case studies drawn from real court proceedings.",
+   "zh": "这本教科书收录了取材于真实庭审的有启发性案例研究。"
+  },
+  {
+   "en": "Even an instructive failure can strengthen a team's understanding of system architecture.",
+   "zh": "即便是一次有教育意义的失败，也能加深团队对系统架构的理解。"
+  }
+ ],
+ "inherit": [
+  {
+   "en": "She inherited a small print shop from her grandfather and modernized it entirely.",
+   "zh": "她从祖父那里继承了一家小印刷厂，并对其进行了全面现代化改造。"
+  },
+  {
+   "en": "The new director inherits a research group with an impressive publication record.",
+   "zh": "这位新主任接手了一个出版记录骄人的研究团队。"
+  },
+  {
+   "en": "Height is partly inherited, yet nutrition during childhood also shapes it considerably.",
+   "zh": "身高部分由遗传决定，但童年时期的营养状况也对其有相当大的影响。"
+  }
+ ],
+ "commonly": [
+  {
+   "en": "Wireless sensors are commonly used to monitor structural health in aging bridges.",
+   "zh": "无线传感器常被用于监测老化桥梁的结构健康状况。"
+  },
+  {
+   "en": "It is commonly assumed that larger samples automatically guarantee more reliable conclusions.",
+   "zh": "人们通常以为样本量越大就必然能得到更可靠的结论。"
+  },
+  {
+   "en": "This species is commonly found in shallow coastal waters across the Mediterranean region.",
+   "zh": "该物种常见于地中海地区的浅海水域。"
+  }
+ ],
+ "customarily": [
+  {
+   "en": "The department customarily holds its weekly seminar on Thursday afternoons.",
+   "zh": "该系通常在周四下午举行每周研讨会。"
+  },
+  {
+   "en": "Overnight delivery is customarily included in the standard subscription price.",
+   "zh": "隔夜送达通常包含在标准订阅价格之内。"
+  },
+  {
+   "en": "Witnesses customarily stated their full names before the committee began recording testimony.",
+   "zh": "在委员会开始记录证词前，证人通常会先陈述自己的全名。"
+  }
+ ],
+ "plausible": [
+  {
+   "en": "The scientist offered a plausible explanation for the sudden decline in bird populations.",
+   "zh": "这位科学家为鸟类种群的突然减少提出了一个貌似合理的解释。"
+  },
+  {
+   "en": "Although the account seems plausible, no independent evidence supports it.",
+   "zh": "尽管这一说法看似可信，但没有任何独立证据支持它。"
+  },
+  {
+   "en": "Reviewers rejected the manuscript because its central claim was highly implausible.",
+   "zh": "审稿人退回了这篇稿件，因为其核心主张极不可信。"
+  }
+ ],
+ "scrutinize": [
+  {
+   "en": "Auditors scrutinized the financial statements line by line for hidden irregularities.",
+   "zh": "审计人员逐行仔细审查财务报表，寻找隐藏的违规之处。"
+  },
+  {
+   "en": "The committee scrutinized the proposal carefully before granting the research grant.",
+   "zh": "委员会在批准研究经费之前仔细审查了这份提案。"
+  },
+  {
+   "en": "Undergraduate researchers should scrutinize their own statistical assumptions as well.",
+   "zh": "本科生研究者也应该仔细检验自身的统计假设。"
+  }
+ ],
+ "detrimental": [
+  {
+   "en": "Prolonged exposure to bright screens is detrimental to healthy sleep patterns.",
+   "zh": "长时间接触明亮屏幕有害于健康的睡眠模式。"
+  },
+  {
+   "en": "Excessive bureaucratic oversight proved detrimental to innovation within the research group.",
+   "zh": "过度的官僚监督被证明对研究组内的创新有害。"
+  },
+  {
+   "en": "The company avoided synthetic preservatives, since they can be detrimental to product quality.",
+   "zh": "该公司避免使用合成防腐剂，因为它们可能损害产品质量。"
+  }
+ ],
+ "ubiquitous": [
+  {
+   "en": "Smartphones have become ubiquitous in university classrooms across the country.",
+   "zh": "智能手机在全国各大学教室中已变得无处不在。"
+  },
+  {
+   "en": "Wireless sensors are now ubiquitous in modern industrial manufacturing plants.",
+   "zh": "无线传感器如今在现代工业制造工厂中随处可见。"
+  },
+  {
+   "en": "Screens of every size have made digital advertising ubiquitous in public spaces.",
+   "zh": "各种尺寸的屏幕使数字广告在公共空间变得无处不在。"
+  }
+ ],
+ "extract": [
+  {
+   "en": "Researchers extracted DNA from ancient bone samples preserved in permafrost.",
+   "zh": "研究人员从永久冻土中保存的古代骨骼样本中提取了 DNA。"
+  },
+  {
+   "en": "The new software can extract key themes from thousands of interview transcripts automatically.",
+   "zh": "新软件可以从数千份访谈记录中自动提取关键主题。"
+  },
+  {
+   "en": "Miners extract several valuable minerals from each tonne of processed ore.",
+   "zh": "矿业人员从每吨处理过的矿石中提取出数种有价值的矿物。"
+  }
+ ],
+ "unveil": [
+  {
+   "en": "The university unveiled a new center for climate research this week.",
+   "zh": "该大学本周为一座新的气候研究中心举行了揭幕仪式。"
+  },
+  {
+   "en": "Regulators unveiled new guidelines for disclosing algorithmic bias in financial systems.",
+   "zh": "监管机构公布了关于披露金融系统算法偏差的新指南。"
+  },
+  {
+   "en": "The museum will unveil its long-restored medieval manuscript to the public in June.",
+   "zh": "博物馆将于六月向公众展出修复已久的这部中世纪手稿。"
+  }
+ ],
+ "predominant": [
+  {
+   "en": "Coal remained the predominant energy source in the region until the 1980s.",
+   "zh": "直到 20 世纪 80 年代，煤炭仍是该地区的主要能源来源。"
+  },
+  {
+   "en": "The predominant concern among reviewers was the study's small sample size.",
+   "zh": "评审者最担心的问题是该研究的样本量过小。"
+  },
+  {
+   "en": "English is the predominant language of academic publishing worldwide.",
+   "zh": "英语是全世界学术出版的主要语言。"
+  }
+ ],
+ "protocol": [
+  {
+   "en": "The laboratory followed a strict protocol for handling hazardous chemical samples.",
+   "zh": "实验室遵循严格的规程来处理危险化学样品。"
+  },
+  {
+   "en": "The two universities signed a protocol establishing joint doctoral programs next spring.",
+   "zh": "两所大学签署了一项协议，将于明年春天启动联合博士项目。"
+  },
+  {
+   "en": "Interview transcripts were coded according to the research protocol approved in advance.",
+   "zh": "访谈记录按事先批准的研究规程进行了编码。"
+  }
+ ],
+ "consent": [
+  {
+   "en": "All participants signed a written consent form before the experiment began.",
+   "zh": "所有参与者在实验开始前都签署了书面同意书。"
+  },
+  {
+   "en": "Researchers must obtain consent before recording any identifiable conversation.",
+   "zh": "研究人员在录制任何可识别的对话之前必须获得同意。"
+  },
+  {
+   "en": "Publication of the dataset was possible only with the consent of the participating schools.",
+   "zh": "只有在参与研究的学校的同意下，该数据集才得以公开。"
+  }
+ ],
+ "context": [
+  {
+   "en": "Statistical results are meaningless without proper context and a clear baseline.",
+   "zh": "没有恰当的背景和明确的基准，统计结果毫无意义。"
+  },
+  {
+   "en": "The author carefully situates the argument within its historical context.",
+   "zh": "作者谨慎地将这一论点置于其历史背景之中。"
+  },
+  {
+   "en": "Any criticism of the policy should account for its economic context.",
+   "zh": "对该政策的任何批评都应当考虑其经济背景。"
+  }
+ ],
+ "corroborate": [
+  {
+   "en": "Two independent witnesses corroborated the defendant's account of the evening.",
+   "zh": "两名独立证人证实了被告对当晚情况的说法。"
+  },
+  {
+   "en": "Recent satellite data corroborate the model's prediction about coastal erosion.",
+   "zh": "最新的卫星数据证实了该模型关于海岸侵蚀的预测。"
+  },
+  {
+   "en": "Audit records corroborate the figures that appeared in the annual financial statement.",
+   "zh": "审计记录证实了年度财务报表中出现的数字。"
+  }
+ ],
+ "simultaneous": [
+  {
+   "en": "The laboratory recorded simultaneous changes in temperature and pressure during the reaction.",
+   "zh": "实验室记录到反应过程中温度和压力的同时变化。"
+  },
+  {
+   "en": "The simultaneous interpretation in three languages confused many of the conference guests.",
+   "zh": "三种语言同时进行的同声传译让许多会议来宾感到困惑。"
+  },
+  {
+   "en": "The trial and the audit took place simultaneously in two different cities.",
+   "zh": "试验与审计在两个不同的城市同时进行。"
+  }
+ ],
+ "infinite": [
+  {
+   "en": "The regression model cannot capture the infinite complexity of real-world linguistic variation.",
+   "zh": "该回归模型无法刻画现实语言变异的无限复杂性。"
+  },
+  {
+   "en": "Traditional investors often assume that markets offer infinite opportunities for profit.",
+   "zh": "传统投资者常假定市场提供无限的获利机会。"
+  },
+  {
+   "en": "The archive holds seemingly infinite stores of unpublished photographs.",
+   "zh": "该档案馆收藏着看似无穷无尽的未发表照片。"
+  }
+ ],
+ "intermediate": [
+  {
+   "en": "Students must complete an intermediate statistics course before enrolling in the doctoral program.",
+   "zh": "学生必须先修完中级统计学课程才能注册博士项目。"
+  },
+  {
+   "en": "The intermediate stage of the experiment produced the clearest images of the sample.",
+   "zh": "实验的中间阶段产生了最清晰的样本图像。"
+  },
+  {
+   "en": "Teachers placed students in intermediate groups according to their written test scores.",
+   "zh": "教师根据学生的笔试成绩将他们编入中等水平的小组。"
+  }
+ ],
+ "ambiguous": [
+  {
+   "en": "The instructions were ambiguous, so several students completed the task incorrectly.",
+   "zh": "说明含糊不清，因此有几个学生错误地完成了任务。"
+  },
+  {
+   "en": "The ambiguous wording of the contract allowed both firms to claim victory.",
+   "zh": "合同措辞含糊，使双方都可以宣称自己占了上风。"
+  },
+  {
+   "en": "Reviewers requested clearer definitions because the key term remained ambiguous throughout the paper.",
+   "zh": "审稿人要求给出更清晰的定义，因为该关键术语在全文中始终含糊不清。"
+  }
+ ],
+ "attribute to": [
+  {
+   "en": "Few historians are willing to attribute to drought alone the steady decline of the empire.",
+   "zh": "很少有历史学家愿意把帝国持续的衰落仅仅归因于干旱。"
+  },
+  {
+   "en": "The team attributed its success to careful planning and generous collaboration.",
+   "zh": "该团队将成功归因于周密的计划和慷慨的协作。"
+  },
+  {
+   "en": "Earlier critics attributed to the young scholar a maturity of style rarely seen at her age.",
+   "zh": "早年的评论家认为这位年轻学者具有其年龄少见的成熟文风。"
+  }
+ ],
+ "external": [
+  {
+   "en": "The building's external walls were repaired with sustainable materials.",
+   "zh": "该建筑的外墙使用可持续材料进行了修缮。"
+  },
+  {
+   "en": "An external reviewer will evaluate the findings for objectivity and rigor.",
+   "zh": "一位外部评审将对研究结论的客观性与严谨性进行评估。"
+  },
+  {
+   "en": "The vaccine relies on external funding that expires at the end of the year.",
+   "zh": "该疫苗项目依赖的外部资金将在年底到期。"
+  }
+ ],
+ "decline": [
+  {
+   "en": "Enrollment in the graduate program has declined steadily over the past five years.",
+   "zh": "该研究生项目的入学人数在过去五年里持续下降。"
+  },
+  {
+   "en": "The publisher declined to comment on the allegations raised by the editorial board.",
+   "zh": "出版社拒绝对编辑委员会提出的指控发表评论。"
+  },
+  {
+   "en": "Public trust in traditional media declined sharply after the scandal became public.",
+   "zh": "丑闻公开后，公众对传统媒体的信任急剧下降。"
+  }
+ ],
+ "intrinsic": [
+  {
+   "en": "The intrinsic value of the manuscript far exceeds its market price.",
+   "zh": "这份手稿的内在价值远高于其市场售价。"
+  },
+  {
+   "en": "Students should explore the intrinsic motivation behind their choice of discipline.",
+   "zh": "学生应该探究自己选择该学科的内在动机。"
+  },
+  {
+   "en": "Researchers must separate intrinsic difficulty from poor teaching in their evaluations.",
+   "zh": "研究人员在评估时必须区分内在难度与教学不佳。"
+  }
+ ],
+ "innovation": [
+  {
+   "en": "Technological innovation has transformed how rural clinics manage patient records.",
+   "zh": "技术创新改变了乡村诊所管理病历的方式。"
+  },
+  {
+   "en": "The firm credits its success to patient innovation rather than aggressive marketing.",
+   "zh": "该公司将其成功归功于耐心而持续的创新，而非激进的营销。"
+  },
+  {
+   "en": "Recent innovation in materials science now allows batteries to charge in under ten minutes.",
+   "zh": "材料科学领域近期的创新使电池如今能在 10 分钟内完成充电。"
+  }
+ ],
+ "harvest": [
+  {
+   "en": "The research team began a data harvest from public archives across twenty countries.",
+   "zh": "研究团队开始从 20 个国家的公共档案中采集数据。"
+  },
+  {
+   "en": "The crop harvest was unexpectedly strong despite weeks of insufficient rainfall.",
+   "zh": "尽管数周降雨不足，作物收成却出乎意料地好。"
+  },
+  {
+   "en": "Economists were careful to harvest every available statistic before publishing their estimate.",
+   "zh": "经济学家在发布估计值之前谨慎地收集了所有可得的统计数据。"
+  }
+ ],
+ "unavoidable": [
+  {
+   "en": "Some delay was unavoidable given the complexity of the statistical analysis required.",
+   "zh": "鉴于所需统计分析的复杂性，一定程度的延误是无法避免的。"
+  },
+  {
+   "en": "Rising material costs make an increase in tuition unavoidable next autumn.",
+   "zh": "原材料成本上升使得明年秋季学费上涨无法避免。"
+  },
+  {
+   "en": "Loss of memory in older adults is not entirely unavoidable, experts suggest.",
+   "zh": "专家表示，老年人记忆力的丧失并非完全无法避免。"
+  }
+ ],
+ "unquestionable": [
+  {
+   "en": "The method has an unquestionable advantage: it requires no specialized equipment.",
+   "zh": "该方法有一项不容置疑的优势：无需任何专用设备。"
+  },
+  {
+   "en": "Her reputation for accuracy remained unquestionable throughout a career of forty years.",
+   "zh": "在 40 年的职业生涯中，她以准确著称的声誉始终不容置疑。"
+  },
+  {
+   "en": "It is unquestionable that climate change will affect agricultural yields worldwide.",
+   "zh": "气候变化将影响全球的农业产量，这一点是不容置疑的。"
+  }
+ ],
+ "longitudinal": [
+  {
+   "en": "The researchers conducted a longitudinal study tracking students for eight years.",
+   "zh": "研究人员进行了一项纵向研究，跟踪学生长达八年。"
+  },
+  {
+   "en": "The longitudinal data revealed that reading scores improved most during the third year.",
+   "zh": "纵向数据显示，阅读成绩在第三年提高幅度最大。"
+  },
+  {
+   "en": "A longitudinal survey of coastal villages documents gradual changes in traditional livelihoods.",
+   "zh": "一项对沿海村庄的纵向调查记录了传统生计的逐渐变化。"
+  }
+ ],
+ "exceed": [
+  {
+   "en": "Annual operating costs exceeded the original budget by nearly twelve percent.",
+   "zh": "年度运营成本超出原始预算近 12%。"
+  },
+  {
+   "en": "The final results exceeded the expectations of both the research team and reviewers.",
+   "zh": "最终结果超出了研究团队和评审双方的预期。"
+  },
+  {
+   "en": "Applicants whose proposed budgets exceed the upper limit will be flagged for review.",
+   "zh": "拟定预算超过上限的申请者将被标记以供审查。"
+  }
+ ],
+ "due to": [
+  {
+   "en": "The shipment was delayed due to unusually strong coastal winds.",
+   "zh": "由于沿海风力异常强劲，货物运输延误了。"
+  },
+  {
+   "en": "The seminar was canceled due to the unavailability of the visiting scholar.",
+   "zh": "由于来访学者无法出席，研讨会取消了。"
+  },
+  {
+   "en": "Revenue rose sharply due to stronger demand for the company's consulting services.",
+   "zh": "由于对公司咨询服务的需求上升，收入大幅增长。"
+  }
+ ]
+}

@@ -1,0 +1,8903 @@
+{
+ "_meta": {
+  "purpose": "学术核心高频分层逐词定稿台账(册卅三轮)。tools/_gen_core.py 读本台账整体重写 curation.json 的 core/noncore 段。",
+  "criteria": "core=严格学术核心·仅硬证据入核（册四十一轮口径，用户直令 45-50% 带 + 终裁「仅硬证据」）：AWL 词族成员（Coxhead 原表口径、补命中须报词头族名）∪机械 strict 命中∪学术论证/篇章核心连接词显式枚举（对比让步 however/whereas/conversely/nevertheless/nonetheless/albeit/by contrast/in contrast to/compared with；因果 therefore/thus/hence/consequently/accordingly/as a result (of)/give rise to/lead to；增强 moreover/furthermore/in addition (to)/additionally；确定性缓称 arguably/presumably/inevitably/necessarily/clearly/indeed/notably/likely/probable/unlikely/possibly（逐词闭集））∪报告动词组（show/report/indicate/suggest/imply/assert/claim/state/note 类）∪语域近学术专属词∪族完整派生∪册四十一轮时的连接语块（当时 26 个 NO_POS 全入核；后续扩容逐词裁定）；显式排除口语基础连接 but/because/so/since/and/also；通用高频而学术不承载论证功能者降出。判据断代：本口径取代册卅三轮「学术文本高频」，diffuse 例外判例仅旧口径内有效、双向不援引。",
+  "mechanism": "1403 词由 8 批子代理按上述判据逐词裁定(输入 senses[0]+pos+机械提案),25 个册卅四新词由属主直判;强制名单零违例;族一致性调整 4 词(coincidence/moderating/moderator/moderation 提入),伪同族与频率分裂 3 例留痕(proofread/invaluable/disaggregate)。",
+  "caveat": "频率判据为词表级编辑判断+权威词表比对,未接实时语料;提案信号与最终裁定差异见 CHANGELOG 五十六节。",
+  "final_core": 1060,
+  "total": 2222,
+  "pass2_note": "二审（覆核）性质：一审 keep 全量从严复验，规则先于结果成文（1953c4 三条款），被翻者 reason 双轮留痕。属主口径终裁（用户直令 2026-11-16）：仅硬证据入核——strict 机械命中∪枚举（I-甲）∪AWL 成立（I-乙）∪II-H；II-M 76 词全部降出，L 16 弃；moderator 系 strict∩II-M 交叉词、按口径第一条（机械命中优先）保留，终值 724（超带上限 714 计 10、如实披露）。",
+  "r65_note": "第六十五轮（日常连接词批）34 条裁定由属主直接改台账写入；tools/_gen_ledger_r65.py 仅为留档副本、不可重跑。",
+  "r71_note": "第七十一轮（词汇增补·全库缺口扫描批）213 条裁定由属主直接写入台账：core 146 / noncore 67。core 判据沿册四十一轮「仅硬证据入核」——AWL 词族成立成员（报词头族名）∪ 学术骨架词机械命中 ∪ 报告动词组同族扩展 ∪ 高置信论证功能词（限定与评价承载论证功能）∪ 语域近学术专属词（方法/统计/学术出版类）；通用高频而不承载论证功能者（趋势描述形容词与副词、通用论述动词、文学性评价词）降出。感情色彩与语体色彩由第七十轮台账另行逐词裁定，现行产物以 sentiment_decisions.json 为准。"
+ },
+ "decisions": {
+  "unprecedented": {
+   "verdict": "core",
+   "reason": "学术程度描述高频"
+  },
+  "exceptionally": {
+   "verdict": "core",
+   "reason": "程度副词高频"
+  },
+  "hitherto": {
+   "verdict": "noncore",
+   "reason": "文学古语,已被to date取代"
+  },
+  "controversial": {
+   "verdict": "noncore",
+   "reason": "首轮 keep（立场/确定性词；remains controversial 高频框架）；二审 retain（II-M remains controversial 立场框架）；属主口径裁定降出（用户直令 45-50% 带、仅 H 档计入 2026-11-16）"
+  },
+  "peculiar": {
+   "verdict": "noncore",
+   "reason": "文学语域,学术载荷低"
+  },
+  "yield": {
+   "verdict": "noncore",
+   "reason": "首轮 keep（报告动词（yield results/evidence）跨学科）；二审 retain（II-M yield results/evidence 报告功能跨域）；属主口径裁定降出（用户直令 45-50% 带、仅 H 档计入 2026-11-16）"
+  },
+  "unexpectedly": {
+   "verdict": "noncore",
+   "reason": "结果意外性副词常见 ｜册四十一轮严格学术核心口径降出（一审复核）"
+  },
+  "stem from": {
+   "verdict": "noncore",
+   "reason": "首轮 keep（因果论证短语，跨学科高频）；二审 retain（II-M 因果论证短语，X stems from Y 高频）；属主口径裁定降出（用户直令 45-50% 带、仅 H 档计入 2026-11-16）"
+  },
+  "puzzling": {
+   "verdict": "noncore",
+   "reason": "文学口语语域"
+  },
+  "contrast": {
+   "verdict": "core",
+   "reason": "AWL,对比骨架词"
+  },
+  "extensive": {
+   "verdict": "core",
+   "reason": "AWL,综述高频"
+  },
+  "complementary": {
+   "verdict": "core",
+   "reason": "互补论证常见"
+  },
+  "prior": {
+   "verdict": "core",
+   "reason": "prior work高频"
+  },
+  "accordingly": {
+   "verdict": "core",
+   "reason": "结果连接副词高频"
+  },
+  "paramount": {
+   "verdict": "noncore",
+   "reason": "低频,of paramount importance固定套语"
+  },
+  "drastic": {
+   "verdict": "noncore",
+   "reason": "新闻语域,低频"
+  },
+  "dramatic": {
+   "verdict": "core",
+   "reason": "dramatic increase高频"
+  },
+  "exclusively": {
+   "verdict": "noncore",
+   "reason": "排他程度副词常见 ｜册四十一轮严格学术核心口径降出（一审复核）"
+  },
+  "explicitly": {
+   "verdict": "core",
+   "reason": "明确性副词高频"
+  },
+  "intriguing": {
+   "verdict": "noncore",
+   "reason": "文学口语语域"
+  },
+  "trial": {
+   "verdict": "core",
+   "reason": "clinical trial跨学科高频"
+  },
+  "prevail": {
+   "verdict": "core",
+   "reason": " prevailing理论常见"
+  },
+  "ascribe": {
+   "verdict": "noncore",
+   "reason": "低频,attribution更常用"
+  },
+  "seminal": {
+   "verdict": "noncore",
+   "reason": "文献综述高频评价词 ｜册四十一轮严格学术核心口径降出（一审复核）"
+  },
+  "subsequent": {
+   "verdict": "core",
+   "reason": "AWL,时序高频"
+  },
+  "extraordinary": {
+   "verdict": "noncore",
+   "reason": "通用形容,学术载荷低"
+  },
+  "definitive": {
+   "verdict": "noncore",
+   "reason": "首轮 keep（确定性词；definitive evidence/conclusion）；二审 retain（II-M definitive evidence/conclusion 确定性）；属主口径裁定降出（用户直令 45-50% 带、仅 H 档计入 2026-11-16）"
+  },
+  "definite": {
+   "verdict": "core",
+   "reason": "通用高频形容"
+  },
+  "a priori": {
+   "verdict": "core",
+   "reason": "方法论文频用语,非低频拉丁虚词"
+  },
+  "proceed": {
+   "verdict": "core",
+   "reason": "通用高频动词"
+  },
+  "preceding": {
+   "verdict": "noncore",
+   "reason": "首轮 keep（语篇回指定位（in the preceding section），学术专属）；二审 retain（II-M in the preceding section 语篇定位正式词）；属主口径裁定降出（用户直令 45-50% 带、仅 H 档计入 2026-11-16）"
+  },
+  "considerable": {
+   "verdict": "core",
+   "reason": "程度形容高频"
+  },
+  "supplementary": {
+   "verdict": "core",
+   "reason": "补充材料出版高频"
+  },
+  "fulfill": {
+   "verdict": "noncore",
+   "reason": "fulfill requirements常见 ｜册四十一轮严格学术核心口径降出（一审复核）"
+  },
+  "dictate": {
+   "verdict": "noncore",
+   "reason": "低频,determine更常用"
+  },
+  "moderate": {
+   "verdict": "core",
+   "reason": "程度描述高频"
+  },
+  "modest": {
+   "verdict": "core",
+   "reason": "modest increase局限讨论高频"
+  },
+  "scheme": {
+   "verdict": "core",
+   "reason": "研究方案高频名词"
+  },
+  "alternate": {
+   "verdict": "noncore",
+   "reason": "低频,alternative主导"
+  },
+  "rigid": {
+   "verdict": "core",
+   "reason": "假设/结构描述常见"
+  },
+  "comment": {
+   "verdict": "core",
+   "reason": "通用高频评论动词"
+  },
+  "incorporate": {
+   "verdict": "core",
+   "reason": "AWL高频"
+  },
+  "clarify": {
+   "verdict": "noncore",
+   "reason": "首轮 keep（澄清报告动词（骨架补命中））；二审 retain（II-M 澄清报告功能、正式体）；属主口径裁定降出（用户直令 45-50% 带、仅 H 档计入 2026-11-16）"
+  },
+  "illustrate": {
+   "verdict": "core",
+   "reason": "AWL,举例阐释高频"
+  },
+  "subtle": {
+   "verdict": "core",
+   "reason": "subtle differences常见"
+  },
+  "pinpoint": {
+   "verdict": "noncore",
+   "reason": "口语化精确动词,低频"
+  },
+  "conventional": {
+   "verdict": "core",
+   "reason": "常规对比高频"
+  },
+  "salient": {
+   "verdict": "noncore",
+   "reason": "低频书面,学术普遍性不足"
+  },
+  "elusive": {
+   "verdict": "noncore",
+   "reason": "文学语域"
+  },
+  "precise": {
+   "verdict": "core",
+   "reason": "精确描述高频"
+  },
+  "hinder": {
+   "verdict": "noncore",
+   "reason": "低频,impede更学术"
+  },
+  "substantial": {
+   "verdict": "core",
+   "reason": "AWL,程度高频"
+  },
+  "genuine": {
+   "verdict": "core",
+   "reason": "通用高频形容"
+  },
+  "initially": {
+   "verdict": "core",
+   "reason": "时序副词高频"
+  },
+  "routine": {
+   "verdict": "core",
+   "reason": "程序描述高频"
+  },
+  "essentially": {
+   "verdict": "core",
+   "reason": "等同性副词高频"
+  },
+  "claim": {
+   "verdict": "core",
+   "reason": "学术功能高频词(点名)"
+  },
+  "thorough": {
+   "verdict": "core",
+   "reason": "分析质量描述常见"
+  },
+  "amenable": {
+   "verdict": "noncore",
+   "reason": "低频文学"
+  },
+  "inherent": {
+   "verdict": "core",
+   "reason": "inherent limitation高频"
+  },
+  "novelty": {
+   "verdict": "core",
+   "reason": "创新性评价高频"
+  },
+  "competitive": {
+   "verdict": "core",
+   "reason": "通用高频"
+  },
+  "dominant": {
+   "verdict": "core",
+   "reason": "dominant paradigm高频"
+  },
+  "additionally": {
+   "verdict": "core",
+   "reason": "递进连接高频"
+  },
+  "consequently": {
+   "verdict": "core",
+   "reason": "因果连接高频(机械误降)"
+  },
+  "likewise": {
+   "verdict": "noncore",
+   "reason": "首轮 keep（类比/递进连接副词，篇章骨架功能类）；二审 retain（II-M 类比递进连接副词，(c)闭集未纳故落 II）；属主口径裁定降出（用户直令 45-50% 带、仅 H 档计入 2026-11-16）"
+  },
+  "prohibit": {
+   "verdict": "core",
+   "reason": "AWL,规范限制高频"
+  },
+  "prerequisite": {
+   "verdict": "noncore",
+   "reason": "低频,requirement主导"
+  },
+  "noteworthy": {
+   "verdict": "noncore",
+   "reason": "it is noteworthy套语常见 ｜册四十一轮严格学术核心口径降出（一审复核）"
+  },
+  "analogous": {
+   "verdict": "noncore",
+   "reason": "类比论证常见 ｜册四十一轮严格学术核心口径降出（一审复核）"
+  },
+  "compensate": {
+   "verdict": "core",
+   "reason": "AWL,补偿高频"
+  },
+  "trigger": {
+   "verdict": "core",
+   "reason": "因果触发高频"
+  },
+  "compelling": {
+   "verdict": "noncore",
+   "reason": "compelling evidence常见 ｜册四十一轮严格学术核心口径降出（一审复核）"
+  },
+  "compose": {
+   "verdict": "core",
+   "reason": "be composed of高频"
+  },
+  "resemble": {
+   "verdict": "core",
+   "reason": "相似论证动词"
+  },
+  "paradox": {
+   "verdict": "noncore",
+   "reason": "低频话题名词"
+  },
+  "adhere to": {
+   "verdict": "noncore",
+   "reason": "低频,follow/comply主导"
+  },
+  "seamless": {
+   "verdict": "noncore",
+   "reason": "宣传口语语域"
+  },
+  "proof": {
+   "verdict": "core",
+   "reason": "论证基础名词高频"
+  },
+  "anomalous": {
+   "verdict": "noncore",
+   "reason": "低频,物理窄域"
+  },
+  "ultimately": {
+   "verdict": "core",
+   "reason": "收束副词高频"
+  },
+  "illuminating": {
+   "verdict": "noncore",
+   "reason": "文学评价语域"
+  },
+  "perceive": {
+   "verdict": "core",
+   "reason": "AWL,认知高频"
+  },
+  "unravel": {
+   "verdict": "noncore",
+   "reason": "首轮 keep（b7af93 语料判例（unravel the mechanisms 标题构式在用））；二审 retain（II-M b7af93 语料判例旁证在用，频率中等）；属主口径裁定降出（用户直令 45-50% 带、仅 H 档计入 2026-11-16）"
+  },
+  "instructive": {
+   "verdict": "core",
+   "reason": "评价启发用法尚可"
+  },
+  "inherit": {
+   "verdict": "noncore",
+   "reason": "具体话题/CS窄域"
+  },
+  "commonly": {
+   "verdict": "noncore",
+   "reason": "首轮 keep（commonly used/reported 频率缓称高频）；二审降（II-L 日常频率副词、可替代）"
+  },
+  "customarily": {
+   "verdict": "noncore",
+   "reason": "低频,usually主导"
+  },
+  "plausible": {
+   "verdict": "core",
+   "reason": "plausible explanation高频"
+  },
+  "scrutinize": {
+   "verdict": "noncore",
+   "reason": "低频,examine主导"
+  },
+  "detrimental": {
+   "verdict": "noncore",
+   "reason": "首轮 keep（AWL补命中；detrimental effects 跨域高频搭配）；二审 retain（II-M detrimental effects 跨域高频（AWL 存疑落 II））；属主口径裁定降出（用户直令 45-50% 带、仅 H 档计入 2026-11-16）"
+  },
+  "ubiquitous": {
+   "verdict": "noncore",
+   "reason": "文学夸张,低频"
+  },
+  "extract": {
+   "verdict": "core",
+   "reason": "AWL,数据提取高频"
+  },
+  "unveil": {
+   "verdict": "noncore",
+   "reason": "新闻语域"
+  },
+  "predominant": {
+   "verdict": "core",
+   "reason": "predominant method高频"
+  },
+  "protocol": {
+   "verdict": "core",
+   "reason": "research protocol高频"
+  },
+  "consent": {
+   "verdict": "noncore",
+   "reason": "伦理话题专名,窄域"
+  },
+  "context": {
+   "verdict": "core",
+   "reason": "AWL,研究语境高频"
+  },
+  "corroborate": {
+   "verdict": "noncore",
+   "reason": "低频,confirm/support主导"
+  },
+  "simultaneous": {
+   "verdict": "core",
+   "reason": "同时性描述高频"
+  },
+  "infinite": {
+   "verdict": "noncore",
+   "reason": "数学窄域/日常夸张"
+  },
+  "intermediate": {
+   "verdict": "core",
+   "reason": "中间结果高频"
+  },
+  "ambiguous": {
+   "verdict": "core",
+   "reason": "立场形容词高频"
+  },
+  "attribute to": {
+   "verdict": "core",
+   "reason": "归因论证高频"
+  },
+  "external": {
+   "verdict": "core",
+   "reason": "external validity高频"
+  },
+  "decline": {
+   "verdict": "core",
+   "reason": "趋势描述高频"
+  },
+  "intrinsic": {
+   "verdict": "noncore",
+   "reason": "intrinsic motivation高频 ｜册四十一轮严格学术核心口径降出（一审复核）"
+  },
+  "innovation": {
+   "verdict": "core",
+   "reason": "AWL,创新高频"
+  },
+  "harvest": {
+   "verdict": "noncore",
+   "reason": "学术功能高频词(点名) ｜册四十一轮严格学术核心口径降出（一审复核）"
+  },
+  "unavoidable": {
+   "verdict": "noncore",
+   "reason": "低频,inevitable主导"
+  },
+  "unquestionable": {
+   "verdict": "noncore",
+   "reason": "低频"
+  },
+  "longitudinal": {
+   "verdict": "noncore",
+   "reason": "longitudinal study跨学科方法高频 ｜册四十一轮严格学术核心口径降出（一审复核）"
+  },
+  "exceed": {
+   "verdict": "core",
+   "reason": "AWL,比较超限高频"
+  },
+  "due to": {
+   "verdict": "core",
+   "reason": "连接语块白名单"
+  },
+  "owing to": {
+   "verdict": "core",
+   "reason": "连接语块白名单"
+  },
+  "incorporation": {
+   "verdict": "core",
+   "reason": "AWL incorporate族"
+  },
+  "fingerprint": {
+   "verdict": "noncore",
+   "reason": "具体话题词"
+  },
+  "state-of-the-art": {
+   "verdict": "noncore",
+   "reason": "技术综述高频搭配 ｜册四十一轮严格学术核心口径降出（一审复核）"
+  },
+  "promising": {
+   "verdict": "noncore",
+   "reason": "新闻倾向,载荷低"
+  },
+  "repetition": {
+   "verdict": "noncore",
+   "reason": "具体话题,低频"
+  },
+  "obstacle": {
+   "verdict": "noncore",
+   "reason": "barrier/challenge主导"
+  },
+  "alternatively": {
+   "verdict": "core",
+   "reason": "选项连接高频"
+  },
+  "ratio": {
+   "verdict": "core",
+   "reason": "数据比率高频"
+  },
+  "bypass": {
+   "verdict": "noncore",
+   "reason": "低频,回避义偏工程"
+  },
+  "constraint": {
+   "verdict": "core",
+   "reason": "AWL,限制高频"
+  },
+  "vital": {
+   "verdict": "core",
+   "reason": "重要性强调高频"
+  },
+  "critical": {
+   "verdict": "noncore",
+   "reason": "首轮 keep（AWL补命中；critical analysis/thinking 高频）；二审 retain（II-M critical analysis/thinking 评价骨架（AWL ）；属主口径裁定降出（用户直令 45-50% 带、仅 H 档计入 2026-11-16）"
+  },
+  "contradict": {
+   "verdict": "core",
+   "reason": "矛盾论证高频"
+  },
+  "cumulative": {
+   "verdict": "core",
+   "reason": "AWL,累积效应高频"
+  },
+  "pivotal": {
+   "verdict": "noncore",
+   "reason": "新闻夸饰,低频"
+  },
+  "outline": {
+   "verdict": "noncore",
+   "reason": "学术功能高频词(点名) ｜册四十一轮严格学术核心口径降出（一审复核）"
+  },
+  "exploit": {
+   "verdict": "core",
+   "reason": "AWL,利用义高频"
+  },
+  "clarity": {
+   "verdict": "noncore",
+   "reason": "for clarity套语常见 ｜册四十一轮严格学术核心口径降出（一审复核）"
+  },
+  "briefly": {
+   "verdict": "core",
+   "reason": "简述引导高频"
+  },
+  "employ": {
+   "verdict": "noncore",
+   "reason": "首轮 keep（employ a method 正式方法动词高频）；二审 retain（II-M employ a method 正式方法动词）；属主口径裁定降出（用户直令 45-50% 带、仅 H 档计入 2026-11-16）"
+  },
+  "ingredient": {
+   "verdict": "noncore",
+   "reason": "具体话题词"
+  },
+  "pioneering": {
+   "verdict": "noncore",
+   "reason": "文学评价,seminal主导"
+  },
+  "conversely": {
+   "verdict": "core",
+   "reason": "对比连接高频(机械误降)"
+  },
+  "render": {
+   "verdict": "core",
+   "reason": "AWL,使成为高频"
+  },
+  "benchmark": {
+   "verdict": "noncore",
+   "reason": "实证评估高频 ｜册四十一轮严格学术核心口径降出（一审复核）"
+  },
+  "convergence": {
+   "verdict": "noncore",
+   "reason": "数理/生物窄域"
+  },
+  "capacity": {
+   "verdict": "core",
+   "reason": "AWL,容量能力高频"
+  },
+  "capability": {
+   "verdict": "noncore",
+   "reason": "能力评估高频 ｜册四十一轮严格学术核心口径降出（一审复核）"
+  },
+  "extend": {
+   "verdict": "core",
+   "reason": "扩展论证高频"
+  },
+  "revised": {
+   "verdict": "core",
+   "reason": "revise族,修订稿高频"
+  },
+  "proofread": {
+   "verdict": "core",
+   "reason": "出版操作词,学术载荷低(机械误提) ｜册四十一轮严格学术核心口径晋升入核"
+  },
+  "extraneous": {
+   "verdict": "noncore",
+   "reason": "低频,irrelevant主导"
+  },
+  "ingenious": {
+   "verdict": "noncore",
+   "reason": "文学评价语域"
+  },
+  "spurious": {
+   "verdict": "noncore",
+   "reason": "spurious correlation量化通用警示 ｜册四十一轮严格学术核心口径降出（一审复核）"
+  },
+  "residual": {
+   "verdict": "noncore",
+   "reason": "residual effect理科通用 ｜册四十一轮严格学术核心口径降出（一审复核）"
+  },
+  "reciprocal": {
+   "verdict": "core",
+   "reason": "reciprocal relationship常见"
+  },
+  "from scratch": {
+   "verdict": "noncore",
+   "reason": "口语短语"
+  },
+  "commence": {
+   "verdict": "noncore",
+   "reason": "法律新闻腔,低频"
+  },
+  "discipline": {
+   "verdict": "noncore",
+   "reason": "首轮 keep（学科义元认知高频（academic disciplines/disciplinary））；二审 retain（II-M academic disciplines 义承载（义项注归 b7af93）；属主口径裁定降出（用户直令 45-50% 带、仅 H 档计入 2026-11-16）"
+  },
+  "akin": {
+   "verdict": "noncore",
+   "reason": "文学,similar主导"
+  },
+  "column": {
+   "verdict": "core",
+   "reason": "具体话题词,载荷低 ｜册四十一轮严格学术核心口径晋升入核"
+  },
+  "interpret": {
+   "verdict": "core",
+   "reason": "AWL,解读高频"
+  },
+  "composite": {
+   "verdict": "noncore",
+   "reason": "低频,combined主导"
+  },
+  "analog": {
+   "verdict": "noncore",
+   "reason": "工程窄域"
+  },
+  "tackle": {
+   "verdict": "noncore",
+   "reason": "口语,Address主导"
+  },
+  "generic": {
+   "verdict": "noncore",
+   "reason": "低频,general主导"
+  },
+  "leverage": {
+   "verdict": "core",
+   "reason": "应用社科/CS利用义高频"
+  },
+  "top-down": {
+   "verdict": "noncore",
+   "reason": "建模窄域"
+  },
+  "bottom-up": {
+   "verdict": "noncore",
+   "reason": "建模窄域"
+  },
+  "prohibitive": {
+   "verdict": "core",
+   "reason": "prohibitive cost常见搭配"
+  },
+  "provoke": {
+   "verdict": "noncore",
+   "reason": "低频,cause/trigger主导"
+  },
+  "parenthesis": {
+   "verdict": "noncore",
+   "reason": "排版话题词"
+  },
+  "implementation": {
+   "verdict": "core",
+   "reason": "AWL,实施高频"
+  },
+  "by no means": {
+   "verdict": "noncore",
+   "reason": "学术模糊限制语常见 ｜册四十一轮严格学术核心口径降出（一审复核）"
+  },
+  "exceptional": {
+   "verdict": "core",
+   "reason": "例外情形描述高频"
+  },
+  "permanently": {
+   "verdict": "core",
+   "reason": "permanent族高频"
+  },
+  "witness": {
+   "verdict": "noncore",
+   "reason": "witnessed a decline常见学术用法 ｜册四十一轮严格学术核心口径降出（一审复核）"
+  },
+  "reconcile": {
+   "verdict": "noncore",
+   "reason": "reconcile results矛盾调和高频 ｜册四十一轮严格学术核心口径降出（一审复核）"
+  },
+  "apparatus": {
+   "verdict": "core",
+   "reason": "实验装置高频"
+  },
+  "negligible": {
+   "verdict": "noncore",
+   "reason": "negligible difference量化高频(机械误降) ｜册四十一轮严格学术核心口径降出（一审复核）"
+  },
+  "rigorous": {
+   "verdict": "core",
+   "reason": "方法立场形容词高频(机械误降)"
+  },
+  "therein": {
+   "verdict": "noncore",
+   "reason": "文言公式副词低频"
+  },
+  "inevitably": {
+   "verdict": "core",
+   "reason": "高频程度逻辑副词"
+  },
+  "complimentary": {
+   "verdict": "noncore",
+   "reason": "日常赞美义低频"
+  },
+  "reconciliation": {
+   "verdict": "noncore",
+   "reason": "政经话题词窄域"
+  },
+  "revelation": {
+   "verdict": "noncore",
+   "reason": "宗教新闻语域"
+  },
+  "deduce": {
+   "verdict": "core",
+   "reason": "AWL推理动词"
+  },
+  "recursive": {
+   "verdict": "core",
+   "reason": "数理计算机专名 ｜册四十一轮严格学术核心口径晋升入核"
+  },
+  "iterative": {
+   "verdict": "noncore",
+   "reason": "方法学跨域常用 ｜册四十一轮严格学术核心口径降出（一审复核）"
+  },
+  "indispensable": {
+   "verdict": "noncore",
+   "reason": "立场形容词高频 ｜册四十一轮严格学术核心口径降出（一审复核）"
+  },
+  "merely": {
+   "verdict": "noncore",
+   "reason": "高频限定副词 ｜册四十一轮严格学术核心口径降出（一审复核）"
+  },
+  "barely": {
+   "verdict": "core",
+   "reason": "通用高频副词"
+  },
+  "representative": {
+   "verdict": "core",
+   "reason": "AWL样本常用"
+  },
+  "accommodate": {
+   "verdict": "core",
+   "reason": "AWL容纳顾及义"
+  },
+  "twofold": {
+   "verdict": "noncore",
+   "reason": "低频复合词"
+  },
+  "feasible": {
+   "verdict": "core",
+   "reason": "AWL方案评价高频"
+  },
+  "intricate": {
+   "verdict": "noncore",
+   "reason": "文学描写语域"
+  },
+  "interval": {
+   "verdict": "core",
+   "reason": "AWL时间间距常用"
+  },
+  "preferable": {
+   "verdict": "core",
+   "reason": "方案取舍高频"
+  },
+  "hierarchical": {
+   "verdict": "core",
+   "reason": "分类组织常用"
+  },
+  "fine-grained": {
+   "verdict": "noncore",
+   "reason": "计算机专名"
+  },
+  "legitimate": {
+   "verdict": "core",
+   "reason": "AWL正当性高频"
+  },
+  "restrict": {
+   "verdict": "core",
+   "reason": "AWL限制高频"
+  },
+  "immerse": {
+   "verdict": "noncore",
+   "reason": "日常文学语域"
+  },
+  "plethora": {
+   "verdict": "noncore",
+   "reason": "文学量化词点名降"
+  },
+  "concomitant": {
+   "verdict": "noncore",
+   "reason": "文学医学窄域"
+  },
+  "necessarily": {
+   "verdict": "core",
+   "reason": "逻辑限定高频"
+  },
+  "striking": {
+   "verdict": "noncore",
+   "reason": "生动描写文学倾向"
+  },
+  "in situ": {
+   "verdict": "noncore",
+   "reason": "拉丁语块不豁免"
+  },
+  "pedagogical": {
+   "verdict": "noncore",
+   "reason": "教育窄域"
+  },
+  "hallmark": {
+   "verdict": "noncore",
+   "reason": "新闻比喻词"
+  },
+  "well-defined": {
+   "verdict": "noncore",
+   "reason": "首轮 keep（定义/建模学术搭配形容词（well-defined problem））；二审 retain（II-M 定义/建模搭配形容词）；属主口径裁定降出（用户直令 45-50% 带、仅 H 档计入 2026-11-16）"
+  },
+  "suspicious": {
+   "verdict": "noncore",
+   "reason": "日常语域"
+  },
+  "blurred": {
+   "verdict": "noncore",
+   "reason": "具体日常义"
+  },
+  "prominent": {
+   "verdict": "noncore",
+   "reason": "骨架形容词点名 ｜册四十一轮严格学术核心口径降出（一审复核）"
+  },
+  "notably": {
+   "verdict": "core",
+   "reason": "骨架副词点名"
+  },
+  "compatible": {
+   "verdict": "core",
+   "reason": "兼容共存常用"
+  },
+  "retain": {
+   "verdict": "core",
+   "reason": "AWL保留高频"
+  },
+  "invoke": {
+   "verdict": "noncore",
+   "reason": "法理援引窄域"
+  },
+  "paradigm": {
+   "verdict": "noncore",
+   "reason": "理论范式跨域高频 ｜册四十一轮严格学术核心口径降出（一审复核）"
+  },
+  "concurrent": {
+   "verdict": "core",
+   "reason": "AWL并发同时"
+  },
+  "manifest": {
+   "verdict": "noncore",
+   "reason": "文学显示动词"
+  },
+  "encapsulate": {
+   "verdict": "noncore",
+   "reason": "计算机修辞窄域"
+  },
+  "collapse": {
+   "verdict": "core",
+   "reason": "具体倒塌义主导 ｜册四十一轮严格学术核心口径晋升入核"
+  },
+  "virtually": {
+   "verdict": "core",
+   "reason": "高频虚化限定"
+  },
+  "advantageous": {
+   "verdict": "core",
+   "reason": "低频,常用beneficial ｜册四十一轮严格学术核心口径晋升入核"
+  },
+  "denote": {
+   "verdict": "core",
+   "reason": "定义说明高频"
+  },
+  "schematic": {
+   "verdict": "noncore",
+   "reason": "图表专名低频"
+  },
+  "diagram": {
+   "verdict": "core",
+   "reason": "图表通用高频"
+  },
+  "onerous": {
+   "verdict": "noncore",
+   "reason": "法律文学低频"
+  },
+  "inclined": {
+   "verdict": "core",
+   "reason": "倾向表达常用"
+  },
+  "nevertheless": {
+   "verdict": "core",
+   "reason": "高频让步连接"
+  },
+  "criterion": {
+   "verdict": "core",
+   "reason": "AWL标准高频"
+  },
+  "owe": {
+   "verdict": "noncore",
+   "reason": "日常归功于低频"
+  },
+  "evaluate": {
+   "verdict": "core",
+   "reason": "AWL评估核心动词"
+  },
+  "arise": {
+   "verdict": "core",
+   "reason": "问题产生高频"
+  },
+  "indicate": {
+   "verdict": "core",
+   "reason": "高频报告动词"
+  },
+  "cutting-edge": {
+   "verdict": "noncore",
+   "reason": "新闻营销语域"
+  },
+  "fraction": {
+   "verdict": "noncore",
+   "reason": "小部分学术高频 ｜册四十一轮严格学术核心口径降出（一审复核）"
+  },
+  "endowed with": {
+   "verdict": "noncore",
+   "reason": "文学搭配"
+  },
+  "progressively": {
+   "verdict": "noncore",
+   "reason": "低频,常用increasingly"
+  },
+  "immensely": {
+   "verdict": "noncore",
+   "reason": "文学程度词"
+  },
+  "suppress": {
+   "verdict": "core",
+   "reason": "AWL压制高频"
+  },
+  "profoundly": {
+   "verdict": "core",
+   "reason": "影响程度高频"
+  },
+  "exemplify": {
+   "verdict": "noncore",
+   "reason": "举例说明常用 ｜册四十一轮严格学术核心口径降出（一审复核）"
+  },
+  "illustrative": {
+   "verdict": "noncore",
+   "reason": "低频形容词"
+  },
+  "cornerstone": {
+   "verdict": "core",
+   "reason": "新闻比喻词 ｜册四十一轮严格学术核心口径晋升入核"
+  },
+  "discard": {
+   "verdict": "noncore",
+   "reason": "具体丢弃低频"
+  },
+  "provisional": {
+   "verdict": "noncore",
+   "reason": "政治临时义低频"
+  },
+  "temporary": {
+   "verdict": "core",
+   "reason": "通用高频形容词"
+  },
+  "temporal": {
+   "verdict": "noncore",
+   "reason": "物理哲学窄域"
+  },
+  "distinctive": {
+   "verdict": "core",
+   "reason": "特征对比常用"
+  },
+  "distinct": {
+   "verdict": "core",
+   "reason": "明显区别高频"
+  },
+  "harbor": {
+   "verdict": "noncore",
+   "reason": "文学包庇点名降"
+  },
+  "overlook": {
+   "verdict": "noncore",
+   "reason": "学术忽略低频"
+  },
+  "cascade": {
+   "verdict": "noncore",
+   "reason": "具体瀑布比喻"
+  },
+  "crucial": {
+   "verdict": "core",
+   "reason": "立场形容词高频"
+  },
+  "heuristic": {
+   "verdict": "noncore",
+   "reason": "学术功能高频词 ｜册四十一轮严格学术核心口径降出（一审复核）"
+  },
+  "fragile": {
+   "verdict": "noncore",
+   "reason": "日常具体义主导"
+  },
+  "recipe": {
+   "verdict": "noncore",
+   "reason": "具体食谱点名降"
+  },
+  "prestigious": {
+   "verdict": "noncore",
+   "reason": "新闻声望语域"
+  },
+  "excess": {
+   "verdict": "core",
+   "reason": "AWL过量学术常用"
+  },
+  "aforementioned": {
+   "verdict": "noncore",
+   "reason": "公文陈旧低频"
+  },
+  "disparate": {
+   "verdict": "noncore",
+   "reason": "文学差异词"
+  },
+  "paradigmatic": {
+   "verdict": "noncore",
+   "reason": "语言学专名"
+  },
+  "quantify": {
+   "verdict": "core",
+   "reason": "方法学量化高频"
+  },
+  "self-contained": {
+   "verdict": "noncore",
+   "reason": "日常复合词"
+  },
+  "preliminary": {
+   "verdict": "core",
+   "reason": "AWL初步结果高频"
+  },
+  "interchangeably": {
+   "verdict": "noncore",
+   "reason": "低频副词"
+  },
+  "popularize": {
+   "verdict": "noncore",
+   "reason": "科普传媒窄域"
+  },
+  "primarily": {
+   "verdict": "noncore",
+   "reason": "首轮 keep（限定程度副词（primarily due to），限定类高频）；二审 retain（II-M 限定缓称可辩护，primarily due to 搭配常见）；属主口径裁定降出（用户直令 45-50% 带、仅 H 档计入 2026-11-16）"
+  },
+  "specify": {
+   "verdict": "core",
+   "reason": "方法章节高频"
+  },
+  "obstruct": {
+   "verdict": "noncore",
+   "reason": "具体阻碍低频"
+  },
+  "snapshot": {
+   "verdict": "noncore",
+   "reason": "具体快照点名降"
+  },
+  "spark": {
+   "verdict": "noncore",
+   "reason": "具体火花比喻"
+  },
+  "diverse": {
+   "verdict": "noncore",
+   "reason": "首轮 keep（AWL补命中；多样跨域高频）；二审 retain（II-M 多样跨域搭配）；属主口径裁定降出（用户直令 45-50% 带、仅 H 档计入 2026-11-16）"
+  },
+  "encompass": {
+   "verdict": "noncore",
+   "reason": "范围动词低频"
+  },
+  "articulate": {
+   "verdict": "noncore",
+   "reason": "首轮 keep（属主补判（批1漏裁；论证表达动词、AWL 疑成员））；二审 retain（II-M articulate the rationale 论证表达（AWL 成员）；属主口径裁定降出（用户直令 45-50% 带、仅 H 档计入 2026-11-16）"
+  },
+  "multifaceted": {
+   "verdict": "noncore",
+   "reason": "新闻复合形容"
+  },
+  "instrumental": {
+   "verdict": "core",
+   "reason": "起作用评价高频"
+  },
+  "underpin": {
+   "verdict": "core",
+   "reason": "支撑论点高频"
+  },
+  "groundbreaking": {
+   "verdict": "noncore",
+   "reason": "新闻夸饰语域"
+  },
+  "insofar as": {
+   "verdict": "noncore",
+   "reason": "法律公式低频"
+  },
+  "nascent": {
+   "verdict": "noncore",
+   "reason": "文学萌芽语域"
+  },
+  "advance": {
+   "verdict": "noncore",
+   "reason": "进展推动常用 ｜册四十一轮严格学术核心口径降出（一审复核）"
+  },
+  "perspective": {
+   "verdict": "core",
+   "reason": "AWL视角高频"
+  },
+  "radical": {
+   "verdict": "core",
+   "reason": "激进变革常用"
+  },
+  "in-depth": {
+   "verdict": "noncore",
+   "reason": "首轮 keep（方法描述高频形容词（in-depth interview/analysis））；二审 retain（II-M in-depth interview/analysis 方法描述）；属主口径裁定降出（用户直令 45-50% 带、仅 H 档计入 2026-11-16）"
+  },
+  "stimulate": {
+   "verdict": "core",
+   "reason": "促进激发跨域"
+  },
+  "diversify": {
+   "verdict": "noncore",
+   "reason": "经济窄域"
+  },
+  "sustain": {
+   "verdict": "core",
+   "reason": "AWL维持高频"
+  },
+  "invaluable": {
+   "verdict": "noncore",
+   "reason": "低频夸张;与 valuable 系真实频率有别(40.4 判例)"
+  },
+  "superior": {
+   "verdict": "noncore",
+   "reason": "首轮 keep（比较结论词，临床/实验高频（superior to））；二审 retain（II-M superior to 比较结论临床高频）；属主口径裁定降出（用户直令 45-50% 带、仅 H 档计入 2026-11-16）"
+  },
+  "entail": {
+   "verdict": "noncore",
+   "reason": "逻辑牵涉低频"
+  },
+  "route": {
+   "verdict": "core",
+   "reason": "途径通用常用"
+  },
+  "notwithstanding": {
+   "verdict": "core",
+   "reason": "正式让步高频"
+  },
+  "versatile": {
+   "verdict": "core",
+   "reason": "新闻多面评价 ｜册四十一轮严格学术核心口径晋升入核"
+  },
+  "catalog": {
+   "verdict": "noncore",
+   "reason": "具体目录低频"
+  },
+  "notable": {
+   "verdict": "noncore",
+   "reason": "显著评价高频 ｜册四十一轮严格学术核心口径降出（一审复核）"
+  },
+  "scenario": {
+   "verdict": "noncore",
+   "reason": "情景分析窄域"
+  },
+  "evolution": {
+   "verdict": "noncore",
+   "reason": "演化演变跨域 ｜册四十一轮严格学术核心口径降出（一审复核）"
+  },
+  "exaggeration": {
+   "verdict": "noncore",
+   "reason": "日常夸张低频"
+  },
+  "consist in": {
+   "verdict": "core",
+   "reason": "在于搭配常用"
+  },
+  "correspondence": {
+   "verdict": "core",
+   "reason": "对应关系常用"
+  },
+  "collaborative": {
+   "verdict": "noncore",
+   "reason": "协作研究高频 ｜册四十一轮严格学术核心口径降出（一审复核）"
+  },
+  "interface": {
+   "verdict": "core",
+   "reason": "界面交互跨域"
+  },
+  "concept": {
+   "verdict": "core",
+   "reason": "AWL概念高频"
+  },
+  "daunting": {
+   "verdict": "noncore",
+   "reason": "新闻畏惧点名降"
+  },
+  "long-standing": {
+   "verdict": "noncore",
+   "reason": "背景描述高频 ｜册四十一轮严格学术核心口径降出（一审复核）"
+  },
+  "progress": {
+   "verdict": "noncore",
+   "reason": "进展通用高频 ｜册四十一轮严格学术核心口径降出（一审复核）"
+  },
+  "mounting": {
+   "verdict": "noncore",
+   "reason": "evidence搭配高频 ｜册四十一轮严格学术核心口径降出（一审复核）"
+  },
+  "intervene": {
+   "verdict": "noncore",
+   "reason": "干预方法跨域 ｜册四十一轮严格学术核心口径降出（一审复核）"
+  },
+  "suffice": {
+   "verdict": "noncore",
+   "reason": "文言公式低频"
+  },
+  "contemporary": {
+   "verdict": "core",
+   "reason": "AWL当代高频"
+  },
+  "concerned": {
+   "verdict": "core",
+   "reason": "通用高频学术义"
+  },
+  "conservation": {
+   "verdict": "noncore",
+   "reason": "物理环保专名"
+  },
+  "evade": {
+   "verdict": "noncore",
+   "reason": "日常逃脱低频"
+  },
+  "cement": {
+   "verdict": "noncore",
+   "reason": "具体巩固点名降"
+  },
+  "delineate": {
+   "verdict": "noncore",
+   "reason": "公文勾勒低频"
+  },
+  "specialize": {
+   "verdict": "noncore",
+   "reason": "专攻日常低频"
+  },
+  "coincide": {
+   "verdict": "core",
+   "reason": "结果吻合常用"
+  },
+  "coincidence": {
+   "verdict": "core",
+   "reason": "巧合论证少用 ｜册四十一轮严格学术核心口径晋升入核"
+  },
+  "designate": {
+   "verdict": "core",
+   "reason": "指定命名低频 ｜册四十一轮严格学术核心口径晋升入核"
+  },
+  "assertion": {
+   "verdict": "core",
+   "reason": "论断学术高频"
+  },
+  "otherwise": {
+   "verdict": "core",
+   "reason": "高频逻辑副词"
+  },
+  "unless": {
+   "verdict": "noncore",
+   "reason": "高频条件连词 ｜册四十一轮严格学术核心口径降出（一审复核）"
+  },
+  "remainder": {
+   "verdict": "noncore",
+   "reason": "剩余数学窄义"
+  },
+  "provided that": {
+   "verdict": "core",
+   "reason": "条件连接语块"
+  },
+  "emergence": {
+   "verdict": "core",
+   "reason": "兴起出现高频"
+  },
+  "successively": {
+   "verdict": "noncore",
+   "reason": "低频副词"
+  },
+  "whereby": {
+   "verdict": "core",
+   "reason": "学术公式连接词"
+  },
+  "conceal": {
+   "verdict": "noncore",
+   "reason": "隐藏日常低频"
+  },
+  "pertinent": {
+   "verdict": "noncore",
+   "reason": "公文相关低频"
+  },
+  "probabilistic": {
+   "verdict": "noncore",
+   "reason": "统计专名窄域"
+  },
+  "govern": {
+   "verdict": "noncore",
+   "reason": "支配决定常用 ｜册四十一轮严格学术核心口径降出（一审复核）"
+  },
+  "refer to": {
+   "verdict": "noncore",
+   "reason": "指称引用极高频 ｜册四十一轮严格学术核心口径降出（一审复核）"
+  },
+  "exaggerate": {
+   "verdict": "noncore",
+   "reason": "日常夸张低频"
+  },
+  "overwhelming": {
+   "verdict": "noncore",
+   "reason": "多数证据搭配高频 ｜册四十一轮严格学术核心口径降出（一审复核）"
+  },
+  "furthermore": {
+   "verdict": "core",
+   "reason": "高频递进连接"
+  },
+  "perpetual": {
+   "verdict": "noncore",
+   "reason": "文学永恒义"
+  },
+  "singular": {
+   "verdict": "noncore",
+   "reason": "文学非凡语法窄义"
+  },
+  "merge": {
+   "verdict": "noncore",
+   "reason": "数据合并偏窄"
+  },
+  "ample": {
+   "verdict": "noncore",
+   "reason": "文学充足低频"
+  },
+  "surge": {
+   "verdict": "noncore",
+   "reason": "新闻激增语域"
+  },
+  "intuitive": {
+   "verdict": "noncore",
+   "reason": "直觉解释常用 ｜册四十一轮严格学术核心口径降出（一审复核）"
+  },
+  "reinforce": {
+   "verdict": "core",
+   "reason": "强化观点高频"
+  },
+  "trajectory": {
+   "verdict": "noncore",
+   "reason": "轨道比喻窄域"
+  },
+  "coordinate": {
+   "verdict": "core",
+   "reason": "协调变量常用"
+  },
+  "impose": {
+   "verdict": "core",
+   "reason": "AWL强加高频"
+  },
+  "trait": {
+   "verdict": "noncore",
+   "reason": "心理生物专名"
+  },
+  "whereas": {
+   "verdict": "core",
+   "reason": "高频对比连词"
+  },
+  "originate": {
+   "verdict": "core",
+   "reason": "起源来源常用"
+  },
+  "latter": {
+   "verdict": "noncore",
+   "reason": "首轮 keep（篇章回指骨架词（the former/latter），论证功能词）；二审 retain（II-M the former/latter 篇章回指功能）；属主口径裁定降出（用户直令 45-50% 带、仅 H 档计入 2026-11-16）"
+  },
+  "distinguish": {
+   "verdict": "noncore",
+   "reason": "首轮 keep（AWL补命中；区分论证动词）；二审 retain（II-M distinguish between 区分论证操作）；属主口径裁定降出（用户直令 45-50% 带、仅 H 档计入 2026-11-16）"
+  },
+  "confront": {
+   "verdict": "noncore",
+   "reason": "对峙新闻语域"
+  },
+  "coin": {
+   "verdict": "noncore",
+   "reason": "造词典故低频"
+  },
+  "via": {
+   "verdict": "core",
+   "reason": "连接语块名单"
+  },
+  "revisit": {
+   "verdict": "noncore",
+   "reason": "revisit the question 学术常用 ｜册四十一轮严格学术核心口径降出（一审复核）"
+  },
+  "remarkable": {
+   "verdict": "core",
+   "reason": "引人注目 高频描述词"
+  },
+  "analogy": {
+   "verdict": "noncore",
+   "reason": "类比论证骨架词 ｜册四十一轮严格学术核心口径降出（一审复核）"
+  },
+  "speculate": {
+   "verdict": "noncore",
+   "reason": "推测 论证动词 ｜册四十一轮严格学术核心口径降出（一审复核）"
+  },
+  "devise": {
+   "verdict": "core",
+   "reason": "devise a method 高频搭配"
+  },
+  "uniform": {
+   "verdict": "core",
+   "reason": "uniform distribution 术语常用"
+  },
+  "reproducible": {
+   "verdict": "noncore",
+   "reason": "可复现性 学术核心价值词 ｜册四十一轮严格学术核心口径降出（一审复核）"
+  },
+  "avenue": {
+   "verdict": "noncore",
+   "reason": "avenues of research 高频搭配 ｜册四十一轮严格学术核心口径降出（一审复核）"
+  },
+  "exploration": {
+   "verdict": "noncore",
+   "reason": "首轮 keep（AWL补命中 explore 族派生，机械表词头断裂假阴）；二审 retain（II-M 研究动作名词；EXPLORE 是否 AWL 记不准落 II）；属主口径裁定降出（用户直令 45-50% 带、仅 H 档计入 2026-11-16）"
+  },
+  "confirmation": {
+   "verdict": "noncore",
+   "reason": "首轮 keep（confirm 族一致；confirmation bias 术语高频）；二审 retain（II-M confirmation bias 术语+族一致）；属主口径裁定降出（用户直令 45-50% 带、仅 H 档计入 2026-11-16）"
+  },
+  "misinterpret": {
+   "verdict": "noncore",
+   "reason": "低频 多由misunderstanding替"
+  },
+  "lengthy": {
+   "verdict": "noncore",
+   "reason": "日常描述词 学术载荷低"
+  },
+  "putative": {
+   "verdict": "noncore",
+   "reason": "低频书面专门词"
+  },
+  "unintentional": {
+   "verdict": "noncore",
+   "reason": "日常语域为主"
+  },
+  "debunk": {
+   "verdict": "noncore",
+   "reason": "科普语域 论文本体低频"
+  },
+  "untenable": {
+   "verdict": "core",
+   "reason": "站不住脚 批评论证常用"
+  },
+  "imperative": {
+   "verdict": "noncore",
+   "reason": "it is imperative 正式高频 ｜册四十一轮严格学术核心口径降出（一审复核）"
+  },
+  "persuasive": {
+   "verdict": "noncore",
+   "reason": "论证立场形容词 ｜册四十一轮严格学术核心口径降出（一审复核）"
+  },
+  "trenchant": {
+   "verdict": "noncore",
+   "reason": "文学语域低频"
+  },
+  "far-reaching": {
+   "verdict": "noncore",
+   "reason": "far-reaching implications 惯用 ｜册四十一轮严格学术核心口径降出（一审复核）"
+  },
+  "occasionally": {
+   "verdict": "noncore",
+   "reason": "通用高频副词 ｜册四十一轮严格学术核心口径降出（一审复核）"
+  },
+  "gradually": {
+   "verdict": "noncore",
+   "reason": "通用高频副词 ｜册四十一轮严格学术核心口径降出（一审复核）"
+  },
+  "evolve": {
+   "verdict": "core",
+   "reason": "AWL 词族"
+  },
+  "commensurate": {
+   "verdict": "noncore",
+   "reason": "低频 偏经济专门"
+  },
+  "vertical": {
+   "verdict": "core",
+   "reason": "图表轴向通用高频"
+  },
+  "prove": {
+   "verdict": "noncore",
+   "reason": "prove that 极高频 ｜册四十一轮严格学术核心口径降出（一审复核）"
+  },
+  "sparse": {
+   "verdict": "noncore",
+   "reason": "偏统计计算专门"
+  },
+  "ideally": {
+   "verdict": "core",
+   "reason": "通用高频副词"
+  },
+  "undoubtedly": {
+   "verdict": "noncore",
+   "reason": "立场副词 高频 ｜册四十一轮严格学术核心口径降出（一审复核）"
+  },
+  "asset": {
+   "verdict": "core",
+   "reason": "通用高频名词"
+  },
+  "qualitative": {
+   "verdict": "core",
+   "reason": "qualitative research 高频方法词"
+  },
+  "sequence": {
+   "verdict": "core",
+   "reason": "跨学科高频名词"
+  },
+  "formula": {
+   "verdict": "core",
+   "reason": "公式 高频学术名词"
+  },
+  "prototypical": {
+   "verdict": "noncore",
+   "reason": "低频 偏语言学计算专门"
+  },
+  "adequate": {
+   "verdict": "core",
+   "reason": "高频通用形容词"
+  },
+  "pronounced": {
+   "verdict": "noncore",
+   "reason": "pronounced difference 学术描述 ｜册四十一轮严格学术核心口径降出（一审复核）"
+  },
+  "albeit": {
+   "verdict": "core",
+   "reason": "正式让步连词 学术高频"
+  },
+  "leap": {
+   "verdict": "noncore",
+   "reason": "具体/新闻语域 学术低频"
+  },
+  "not to mention": {
+   "verdict": "noncore",
+   "reason": "高频连接语块 ｜册四十一轮严格学术核心口径降出（一审复核）"
+  },
+  "prevalent": {
+   "verdict": "core",
+   "reason": "AWL 高频学术词"
+  },
+  "mitigate": {
+   "verdict": "noncore",
+   "reason": "mitigate risk 高频学术动词 ｜册四十一轮严格学术核心口径降出（一审复核）"
+  },
+  "metaphor": {
+   "verdict": "noncore",
+   "reason": "跨学科概念高频 ｜册四十一轮严格学术核心口径降出（一审复核）"
+  },
+  "emulate": {
+   "verdict": "noncore",
+   "reason": "中低频 偏工程专门"
+  },
+  "constitute": {
+   "verdict": "core",
+   "reason": "AWL 高频构成动词"
+  },
+  "merit": {
+   "verdict": "noncore",
+   "reason": "the merits of 评价骨架词 ｜册四十一轮严格学术核心口径降出（一审复核）"
+  },
+  "adverse": {
+   "verdict": "noncore",
+   "reason": "adverse effects 高频搭配 ｜册四十一轮严格学术核心口径降出（一审复核）"
+  },
+  "elucidate": {
+   "verdict": "core",
+   "reason": "正式阐明动词 论文常见"
+  },
+  "adjacent": {
+   "verdict": "core",
+   "reason": "AWL 词族"
+  },
+  "prospect": {
+   "verdict": "core",
+   "reason": "前景展望 高频名词"
+  },
+  "reveal": {
+   "verdict": "core",
+   "reason": "results reveal 高频报告动词"
+  },
+  "irrespective": {
+   "verdict": "core",
+   "reason": "irrespective of 正式高频（形容词）"
+  },
+  "obsolete": {
+   "verdict": "noncore",
+   "reason": "偏技术话题词 学术中低频"
+  },
+  "consensus": {
+   "verdict": "core",
+   "reason": "AWL 高频 科学共识"
+  },
+  "advocate": {
+   "verdict": "core",
+   "reason": "立场动词 AWL"
+  },
+  "incremental": {
+   "verdict": "noncore",
+   "reason": "increment 族 渐进改进常用 ｜册四十一轮严格学术核心口径降出（一审复核）"
+  },
+  "dilemma": {
+   "verdict": "noncore",
+   "reason": "两难论证常用 ｜册四十一轮严格学术核心口径降出（一审复核）"
+  },
+  "namely": {
+   "verdict": "noncore",
+   "reason": "首轮 keep（阐释/举例说明连接词，篇章骨架）；二审 retain（II-M 阐释连接词，篇章功能）；属主口径裁定降出（用户直令 45-50% 带、仅 H 档计入 2026-11-16）"
+  },
+  "expertise": {
+   "verdict": "noncore",
+   "reason": "专业知能 高频名词 ｜册四十一轮严格学术核心口径降出（一审复核）"
+  },
+  "embed": {
+   "verdict": "noncore",
+   "reason": "具体物理义为主"
+  },
+  "ad hoc": {
+   "verdict": "noncore",
+   "reason": "方法论高频拉丁词 ｜册四十一轮严格学术核心口径降出（一审复核）"
+  },
+  "conflate": {
+   "verdict": "noncore",
+   "reason": "混为一谈 论证常用 ｜册四十一轮严格学术核心口径降出（一审复核）"
+  },
+  "scope": {
+   "verdict": "core",
+   "reason": "scope of study 极高频"
+  },
+  "historical": {
+   "verdict": "noncore",
+   "reason": "通用高频形容词 ｜册四十一轮严格学术核心口径降出（一审复核）"
+  },
+  "fruitful": {
+   "verdict": "noncore",
+   "reason": "文学搭配中低频"
+  },
+  "signal": {
+   "verdict": "noncore",
+   "reason": "signal that 学术常用义 ｜册四十一轮严格学术核心口径降出（一审复核）"
+  },
+  "fashion": {
+   "verdict": "noncore",
+   "reason": "in a…fashion 书面低频"
+  },
+  "unify": {
+   "verdict": "core",
+   "reason": "统合框架 论证动词"
+  },
+  "procedure": {
+   "verdict": "core",
+   "reason": "AWL 程序方法高频"
+  },
+  "consecutive": {
+   "verdict": "core",
+   "reason": "连续多年 高频搭配"
+  },
+  "empirical": {
+   "verdict": "core",
+   "reason": "empirical 极高频学术词"
+  },
+  "computational": {
+   "verdict": "noncore",
+   "reason": "计算方法 泛学科高频 ｜册四十一轮严格学术核心口径降出（一审复核）"
+  },
+  "sophisticated": {
+   "verdict": "noncore",
+   "reason": "精密模型 高频评价词 ｜册四十一轮严格学术核心口径降出（一审复核）"
+  },
+  "fabricate": {
+   "verdict": "core",
+   "reason": "捏造/制造 学术伦理高频"
+  },
+  "complement": {
+   "verdict": "core",
+   "reason": "互补论证动词"
+  },
+  "implement": {
+   "verdict": "core",
+   "reason": "AWL 实施高频"
+  },
+  "outlook": {
+   "verdict": "noncore",
+   "reason": "新闻语域为主"
+  },
+  "purely": {
+   "verdict": "noncore",
+   "reason": "通用高频副词 ｜册四十一轮严格学术核心口径降出（一审复核）"
+  },
+  "subject": {
+   "verdict": "core",
+   "reason": "研究对象 极高频"
+  },
+  "pave": {
+   "verdict": "noncore",
+   "reason": "比喻低频 口语搭配"
+  },
+  "expose": {
+   "verdict": "core",
+   "reason": "be exposed to 高频学术义"
+  },
+  "atmosphere": {
+   "verdict": "noncore",
+   "reason": "大气/氛围 跨学科常用 ｜册四十一轮严格学术核心口径降出（一审复核）"
+  },
+  "migrate": {
+   "verdict": "core",
+   "reason": "迁徙迁移 高频族词"
+  },
+  "statistical": {
+   "verdict": "core",
+   "reason": "statistical analysis 极高频"
+  },
+  "validity": {
+   "verdict": "core",
+   "reason": "AWL 效度高频"
+  },
+  "process": {
+   "verdict": "core",
+   "reason": "极高频学术名词"
+  },
+  "substitution": {
+   "verdict": "core",
+   "reason": "substitute 族 方法常用"
+  },
+  "nonetheless": {
+   "verdict": "core",
+   "reason": "高频连接副词"
+  },
+  "reference": {
+   "verdict": "core",
+   "reason": "引用参考 极高频"
+  },
+  "separate": {
+   "verdict": "noncore",
+   "reason": "极高频通用形容词 ｜册四十一轮严格学术核心口径降出（一审复核）"
+  },
+  "coefficient": {
+   "verdict": "noncore",
+   "reason": "数量方法专门词 窄域"
+  },
+  "remain": {
+   "verdict": "noncore",
+   "reason": "极高频系动词 ｜册四十一轮严格学术核心口径降出（一审复核）"
+  },
+  "characterize": {
+   "verdict": "core",
+   "reason": "AWL 刻画高频"
+  },
+  "broaden": {
+   "verdict": "noncore",
+   "reason": "broaden the scope 学术搭配 ｜册四十一轮严格学术核心口径降出（一审复核）"
+  },
+  "ongoing": {
+   "verdict": "core",
+   "reason": "AWL 持续进行"
+  },
+  "in accordance with": {
+   "verdict": "core",
+   "reason": "连接语块名单必核"
+  },
+  "plateau": {
+   "verdict": "noncore",
+   "reason": "平台期 话题具体词"
+  },
+  "underlying": {
+   "verdict": "core",
+   "reason": "underlying mechanism 极高频"
+  },
+  "complexity": {
+   "verdict": "core",
+   "reason": "复杂系统 高频概念"
+  },
+  "intense": {
+   "verdict": "noncore",
+   "reason": "首轮 keep（属主补判（批3漏裁；程度词候审））；二审降（II-L 日常程度词、strong/high 可替）"
+  },
+  "flexible": {
+   "verdict": "core",
+   "reason": "通用高频形容词"
+  },
+  "scrutiny": {
+   "verdict": "noncore",
+   "reason": "under scrutiny 正式常用 ｜册四十一轮严格学术核心口径降出（一审复核）"
+  },
+  "emanate": {
+   "verdict": "noncore",
+   "reason": "低频具体散发义"
+  },
+  "in conjunction with": {
+   "verdict": "core",
+   "reason": "连接语块名单必核"
+  },
+  "diagnose": {
+   "verdict": "noncore",
+   "reason": "诊断问题 跨域常用 ｜册四十一轮严格学术核心口径降出（一审复核）"
+  },
+  "logic": {
+   "verdict": "core",
+   "reason": "逻辑推理 高频概念"
+  },
+  "regime": {
+   "verdict": "core",
+   "reason": "体制/regime shift 高频"
+  },
+  "resolve": {
+   "verdict": "noncore",
+   "reason": "解决问题 高频动词 ｜册四十一轮严格学术核心口径降出（一审复核）"
+  },
+  "vary": {
+   "verdict": "core",
+   "reason": "varies across 极高频"
+  },
+  "respect": {
+   "verdict": "core",
+   "reason": "重视 通用高频"
+  },
+  "proximity": {
+   "verdict": "noncore",
+   "reason": "邻近关系 正式常用 ｜册四十一轮严格学术核心口径降出（一审复核）"
+  },
+  "widespread": {
+   "verdict": "core",
+   "reason": "普遍存在 高频搭配"
+  },
+  "dissertation": {
+   "verdict": "noncore",
+   "reason": "学位论文专词 论文本体少现"
+  },
+  "cease": {
+   "verdict": "noncore",
+   "reason": "中止 中低频书面词"
+  },
+  "premise": {
+   "verdict": "core",
+   "reason": "前提 论证骨架词"
+  },
+  "disperse": {
+   "verdict": "noncore",
+   "reason": "具体扩散 专门低频"
+  },
+  "construct": {
+   "verdict": "core",
+   "reason": "AWL 建构高频"
+  },
+  "formidable": {
+   "verdict": "noncore",
+   "reason": "文学搭配为主"
+  },
+  "stringent": {
+   "verdict": "core",
+   "reason": "stringent requirements 正式常用"
+  },
+  "availability": {
+   "verdict": "noncore",
+   "reason": "可得性 数据语境高频 ｜册四十一轮严格学术核心口径降出（一审复核）"
+  },
+  "reside": {
+   "verdict": "noncore",
+   "reason": "resides in 低频正式"
+  },
+  "penalty": {
+   "verdict": "noncore",
+   "reason": "处罚代价 社科高频 ｜册四十一轮严格学术核心口径降出（一审复核）"
+  },
+  "obviate": {
+   "verdict": "noncore",
+   "reason": "低频书面词"
+  },
+  "concise": {
+   "verdict": "noncore",
+   "reason": "简明定义 写作语境常用 ｜册四十一轮严格学术核心口径降出（一审复核）"
+  },
+  "propel": {
+   "verdict": "noncore",
+   "reason": "具体推进 低频"
+  },
+  "repel": {
+   "verdict": "noncore",
+   "reason": "物理斥力 专门低频"
+  },
+  "recipient": {
+   "verdict": "noncore",
+   "reason": "资助对象偏话题词"
+  },
+  "consistent": {
+   "verdict": "core",
+   "reason": "consistent with 极高频"
+  },
+  "disseminate": {
+   "verdict": "noncore",
+   "reason": "首轮 keep（AWL补命中；知识传播方法/申报语境）；二审 retain（II-M 知识传播方法语域（AWL 不确信落 II））；属主口径裁定降出（用户直令 45-50% 带、仅 H 档计入 2026-11-16）"
+  },
+  "lay the foundation for": {
+   "verdict": "noncore",
+   "reason": "首轮 keep（贡献声明惯用因果奠基语块（研究意义段高频））；二审 retain（II-M 贡献声明惯用语块）；属主口径裁定降出（用户直令 45-50% 带、仅 H 档计入 2026-11-16）"
+  },
+  "comparative": {
+   "verdict": "noncore",
+   "reason": "首轮 keep（comparative analysis/design 研究设计骨架（AWL 补命中 C）；二审 retain（II-M comparative analysis/design 方法搭配）；属主口径裁定降出（用户直令 45-50% 带、仅 H 档计入 2026-11-16）"
+  },
+  "composition": {
+   "verdict": "core",
+   "reason": "构成成分 高频名词"
+  },
+  "regard": {
+   "verdict": "noncore",
+   "reason": "regard as 极高频 ｜册四十一轮严格学术核心口径降出（一审复核）"
+  },
+  "regarding": {
+   "verdict": "core",
+   "reason": "连接语块名单必核"
+  },
+  "intelligible": {
+   "verdict": "noncore",
+   "reason": "低频评价词"
+  },
+  "faithful": {
+   "verdict": "noncore",
+   "reason": "日常忠诚义为主"
+  },
+  "ignorance": {
+   "verdict": "noncore",
+   "reason": "日常名词 学术载荷低"
+  },
+  "reservoir": {
+   "verdict": "noncore",
+   "reason": "水库 具体话题词"
+  },
+  "cast light on": {
+   "verdict": "noncore",
+   "reason": "阐明惯用学术搭配 ｜册四十一轮严格学术核心口径降出（一审复核）"
+  },
+  "myriad": {
+   "verdict": "noncore",
+   "reason": "文学语域 可替换"
+  },
+  "prone": {
+   "verdict": "core",
+   "reason": "prone to 风险高频"
+  },
+  "redundant": {
+   "verdict": "noncore",
+   "reason": "冗余 信息语境常用 ｜册四十一轮严格学术核心口径降出（一审复核）"
+  },
+  "comprise": {
+   "verdict": "core",
+   "reason": "AWL 包含高频"
+  },
+  "substantially": {
+   "verdict": "core",
+   "reason": "程度副词 极高频"
+  },
+  "entity": {
+   "verdict": "core",
+   "reason": "实体 跨学科概念"
+  },
+  "content": {
+   "verdict": "noncore",
+   "reason": "content analysis 高频 ｜册四十一轮严格学术核心口径降出（一审复核）"
+  },
+  "either": {
+   "verdict": "noncore",
+   "reason": "基础功能词极高频 ｜册四十一轮严格学术核心口径降出（一审复核）"
+  },
+  "dichotomy": {
+   "verdict": "noncore",
+   "reason": "首轮 keep（AWL补命中；二分对立论证名词）；二审 retain（II-M 对立/二分论证名词、语域偏专属（AWL 不确信））；属主口径裁定降出（用户直令 45-50% 带、仅 H 档计入 2026-11-16）"
+  },
+  "tentative": {
+   "verdict": "core",
+   "reason": "暂定结论 学术评价词"
+  },
+  "assign": {
+   "verdict": "core",
+   "reason": "random assignment 高频"
+  },
+  "assignment": {
+   "verdict": "core",
+   "reason": "任务分配 教育研究常用"
+  },
+  "extrapolate": {
+   "verdict": "noncore",
+   "reason": "外推讨论段常用 ｜册四十一轮严格学术核心口径降出（一审复核）"
+  },
+  "trend": {
+   "verdict": "noncore",
+   "reason": "首轮 keep（趋势分析核心名词，跨学科极高频）；二审 retain（II-M trend analysis 方法名词，新闻语域并存）；属主口径裁定降出（用户直令 45-50% 带、仅 H 档计入 2026-11-16）"
+  },
+  "eligible": {
+   "verdict": "noncore",
+   "reason": "资格标准 方法语境常用 ｜册四十一轮严格学术核心口径降出（一审复核）"
+  },
+  "under no circumstances": {
+   "verdict": "core",
+   "reason": "正式强调连接语块"
+  },
+  "infer": {
+   "verdict": "core",
+   "reason": "推断 极高频论证动词"
+  },
+  "compact": {
+   "verdict": "core",
+   "reason": "紧凑格式 通用常用"
+  },
+  "susceptibility": {
+   "verdict": "noncore",
+   "reason": "首轮 keep（AWL 补命中（SUSCEPTIBLE 族），跨学科概念）；二审 retain（II-M 跨学科概念（医学/社科/环境））；属主口径裁定降出（用户直令 45-50% 带、仅 H 档计入 2026-11-16）"
+  },
+  "mutual": {
+   "verdict": "core",
+   "reason": "相互 高频搭配"
+  },
+  "entangle": {
+   "verdict": "noncore",
+   "reason": "具体缠绕 低频"
+  },
+  "disentangle": {
+   "verdict": "noncore",
+   "reason": "低频比喻用法"
+  },
+  "extrinsic": {
+   "verdict": "noncore",
+   "reason": "哲学/心理专门对立项"
+  },
+  "roughly": {
+   "verdict": "noncore",
+   "reason": "大致 高频副词 ｜册四十一轮严格学术核心口径降出（一审复核）"
+  },
+  "relevance": {
+   "verdict": "core",
+   "reason": "相关性 极高频"
+  },
+  "unique": {
+   "verdict": "core",
+   "reason": "独特 高频评价词"
+  },
+  "retraction": {
+   "verdict": "noncore",
+   "reason": "撤稿专词 低频"
+  },
+  "spur": {
+   "verdict": "noncore",
+   "reason": "spur research 常见搭配 ｜册四十一轮严格学术核心口径降出（一审复核）"
+  },
+  "skepticism": {
+   "verdict": "noncore",
+   "reason": "怀疑态度 论证语境常用 ｜册四十一轮严格学术核心口径降出（一审复核）"
+  },
+  "visibility": {
+   "verdict": "noncore",
+   "reason": "可见性 社科常用概念 ｜册四十一轮严格学术核心口径降出（一审复核）"
+  },
+  "observation": {
+   "verdict": "core",
+   "reason": "观察 极高频方法词"
+  },
+  "account for": {
+   "verdict": "core",
+   "reason": "解释占比 极高频短语动词"
+  },
+  "aside": {
+   "verdict": "noncore",
+   "reason": "setting aside 论证常用 ｜册四十一轮严格学术核心口径降出（一审复核）"
+  },
+  "roadmap": {
+   "verdict": "noncore",
+   "reason": "路线图 政策话题词"
+  },
+  "pertain": {
+   "verdict": "noncore",
+   "reason": "pertains to 低频正式"
+  },
+  "stark": {
+   "verdict": "noncore",
+   "reason": "stark contrast 高频搭配 ｜册四十一轮严格学术核心口径降出（一审复核）"
+  },
+  "synchronize": {
+   "verdict": "noncore",
+   "reason": "技术具体义为主"
+  },
+  "uncover": {
+   "verdict": "noncore",
+   "reason": "揭示发现 研究语境常用 ｜册四十一轮严格学术核心口径降出（一审复核）"
+  },
+  "unusual": {
+   "verdict": "noncore",
+   "reason": "AWL/骨架/通用高频学术承载 ｜册四十一轮严格学术核心口径降出（一审复核）"
+  },
+  "pathway": {
+   "verdict": "noncore",
+   "reason": "途径具体隐喻,话题词"
+  },
+  "elementary": {
+   "verdict": "core",
+   "reason": "AWL/骨架/通用高频学术承载"
+  },
+  "invisible": {
+   "verdict": "noncore",
+   "reason": "学术承载有限,文学义多"
+  },
+  "raise": {
+   "verdict": "noncore",
+   "reason": "提出议题高频搭配 ｜册四十一轮严格学术核心口径降出（一审复核）"
+  },
+  "feature": {
+   "verdict": "core",
+   "reason": "AWL/骨架/通用高频学术承载"
+  },
+  "building block": {
+   "verdict": "core",
+   "reason": "构件常用隐喻"
+  },
+  "categorize": {
+   "verdict": "noncore",
+   "reason": "首轮 keep（分类研究动作（AWL 补命中 CATEGOR 族））；二审 retain（II-M 分类研究动作（AWL 成员不确信））；属主口径裁定降出（用户直令 45-50% 带、仅 H 档计入 2026-11-16）"
+  },
+  "eminent": {
+   "verdict": "noncore",
+   "reason": " renown 语域偏文学,低频"
+  },
+  "dual": {
+   "verdict": "noncore",
+   "reason": "双元理论常用 ｜册四十一轮严格学术核心口径降出（一审复核）"
+  },
+  "diverge": {
+   "verdict": "core",
+   "reason": "AWL/骨架/通用高频学术承载"
+  },
+  "equivocal": {
+   "verdict": "noncore",
+   "reason": "低频表态词"
+  },
+  "unequivocal": {
+   "verdict": "noncore",
+   "reason": "低频表态词"
+  },
+  "originally": {
+   "verdict": "core",
+   "reason": "AWL/骨架/通用高频学术承载"
+  },
+  "fertile": {
+   "verdict": "noncore",
+   "reason": "具体/农业隐喻,低频"
+  },
+  "overall": {
+   "verdict": "noncore",
+   "reason": "首轮 keep（篇章总结连接标记（overall, ...））；二审 retain（II-M 总结标记但日常亦用）；属主口径裁定降出（用户直令 45-50% 带、仅 H 档计入 2026-11-16）"
+  },
+  "drive": {
+   "verdict": "noncore",
+   "reason": "驱动义高频学术 ｜册四十一轮严格学术核心口径降出（一审复核）"
+  },
+  "favor": {
+   "verdict": "noncore",
+   "reason": "支持/赞成学术用法 ｜册四十一轮严格学术核心口径降出（一审复核）"
+  },
+  "coercive": {
+   "verdict": "noncore",
+   "reason": "窄域(政法)低频"
+  },
+  "acquire": {
+   "verdict": "core",
+   "reason": "AWL/骨架/通用高频学术承载"
+  },
+  "repeatable": {
+   "verdict": "core",
+   "reason": "可重复性方法词"
+  },
+  "synonym": {
+   "verdict": "noncore",
+   "reason": "语言学窄域词"
+  },
+  "manipulate": {
+   "verdict": "core",
+   "reason": "AWL/骨架/通用高频学术承载"
+  },
+  "compromise": {
+   "verdict": "core",
+   "reason": "AWL/骨架/通用高频学术承载"
+  },
+  "a posteriori": {
+   "verdict": "core",
+   "reason": "拉丁虚词,不豁免 ｜册四十一轮严格学术核心口径晋升入核"
+  },
+  "validate": {
+   "verdict": "core",
+   "reason": "AWL/骨架/通用高频学术承载"
+  },
+  "concrete": {
+   "verdict": "noncore",
+   "reason": "AWL/骨架/通用高频学术承载 ｜册四十一轮严格学术核心口径降出（一审复核）"
+  },
+  "approximate": {
+   "verdict": "core",
+   "reason": "AWL/骨架/通用高频学术承载"
+  },
+  "onto": {
+   "verdict": "core",
+   "reason": "AWL/骨架/通用高频学术承载"
+  },
+  "indeed": {
+   "verdict": "core",
+   "reason": "立场骨架副词"
+  },
+  "metric": {
+   "verdict": "noncore",
+   "reason": "量化评价高频 ｜册四十一轮严格学术核心口径降出（一审复核）"
+  },
+  "stagger": {
+   "verdict": "noncore",
+   "reason": "窄域(错开设计)低频"
+  },
+  "problematic": {
+   "verdict": "noncore",
+   "reason": "AWL/骨架/通用高频学术承载 ｜册四十一轮严格学术核心口径降出（一审复核）"
+  },
+  "enrich": {
+   "verdict": "noncore",
+   "reason": "丰富文献常用 ｜册四十一轮严格学术核心口径降出（一审复核）"
+  },
+  "exponential": {
+   "verdict": "noncore",
+   "reason": "增长描述高频 ｜册四十一轮严格学术核心口径降出（一审复核）"
+  },
+  "segment": {
+   "verdict": "noncore",
+   "reason": "群体分段常用 ｜册四十一轮严格学术核心口径降出（一审复核）"
+  },
+  "scale": {
+   "verdict": "core",
+   "reason": "AWL/骨架/通用高频学术承载"
+  },
+  "expedient": {
+   "verdict": "noncore",
+   "reason": "文学语域,低频"
+  },
+  "tricky": {
+   "verdict": "noncore",
+   "reason": "口语语域"
+  },
+  "counterintuitive": {
+   "verdict": "noncore",
+   "reason": "结果表述常见 ｜册四十一轮严格学术核心口径降出（一审复核）"
+  },
+  "realm": {
+   "verdict": "noncore",
+   "reason": "文学隐喻,中低频"
+  },
+  "arena": {
+   "verdict": "noncore",
+   "reason": "具体隐喻,中低频"
+  },
+  "anchor": {
+   "verdict": "core",
+   "reason": "具体隐喻(锚定) ｜册四十一轮严格学术核心口径晋升入核"
+  },
+  "territory": {
+   "verdict": "noncore",
+   "reason": "具体话题(疆域)"
+  },
+  "nominal": {
+   "verdict": "core",
+   "reason": "AWL统计常用"
+  },
+  "exert": {
+   "verdict": "core",
+   "reason": "施加影响高频搭配"
+  },
+  "viable": {
+   "verdict": "core",
+   "reason": "可行性高频"
+  },
+  "disrupt": {
+   "verdict": "noncore",
+   "reason": "中断研究常用 ｜册四十一轮严格学术核心口径降出（一审复核）"
+  },
+  "impetus": {
+   "verdict": "noncore",
+   "reason": "正式但非高频"
+  },
+  "onset": {
+   "verdict": "noncore",
+   "reason": "医学窄域偏多"
+  },
+  "category": {
+   "verdict": "noncore",
+   "reason": "首轮 keep（分类学术核心名词（AWL 补命中））；二审 retain（II-M 分类核心名词（AWL 存疑落 II））；属主口径裁定降出（用户直令 45-50% 带、仅 H 档计入 2026-11-16）"
+  },
+  "accuracy": {
+   "verdict": "noncore",
+   "reason": "度量高频 ｜册四十一轮严格学术核心口径降出（一审复核）"
+  },
+  "analyze": {
+   "verdict": "core",
+   "reason": "AWL/骨架/通用高频学术承载"
+  },
+  "approach": {
+   "verdict": "core",
+   "reason": "AWL/骨架/通用高频学术承载"
+  },
+  "apply": {
+   "verdict": "core",
+   "reason": "AWL/骨架/通用高频学术承载"
+  },
+  "assess": {
+   "verdict": "core",
+   "reason": "AWL/骨架/通用高频学术承载"
+  },
+  "assume": {
+   "verdict": "core",
+   "reason": "AWL/骨架/通用高频学术承载"
+  },
+  "calculate": {
+   "verdict": "core",
+   "reason": "通用高频学术"
+  },
+  "combine": {
+   "verdict": "noncore",
+   "reason": "AWL/骨架/通用高频学术承载 ｜册四十一轮严格学术核心口径降出（一审复核）"
+  },
+  "compare": {
+   "verdict": "noncore",
+   "reason": "首轮 keep（比较论证极高频（AWL 补命中））；二审 retain（II-M 比较论证操作（正式体分工在 comparison/compared wi）；属主口径裁定降出（用户直令 45-50% 带、仅 H 档计入 2026-11-16）"
+  },
+  "conclude": {
+   "verdict": "core",
+   "reason": "AWL/骨架/通用高频学术承载"
+  },
+  "conduct": {
+   "verdict": "core",
+   "reason": "实施研究骨架"
+  },
+  "consider": {
+   "verdict": "core",
+   "reason": "AWL/骨架/通用高频学术承载"
+  },
+  "contribute": {
+   "verdict": "core",
+   "reason": "AWL/骨架/通用高频学术承载"
+  },
+  "define": {
+   "verdict": "core",
+   "reason": "AWL/骨架/通用高频学术承载"
+  },
+  "demonstrate": {
+   "verdict": "core",
+   "reason": "AWL/骨架/通用高频学术承载"
+  },
+  "depend": {
+   "verdict": "core",
+   "reason": "AWL/骨架/通用高频学术承载"
+  },
+  "describe": {
+   "verdict": "core",
+   "reason": "AWL/骨架/通用高频学术承载"
+  },
+  "design": {
+   "verdict": "core",
+   "reason": "AWL/骨架/通用高频学术承载"
+  },
+  "determine": {
+   "verdict": "core",
+   "reason": "AWL/骨架/通用高频学术承载"
+  },
+  "develop": {
+   "verdict": "noncore",
+   "reason": "AWL/骨架/通用高频学术承载 ｜册四十一轮严格学术核心口径降出（一审复核）"
+  },
+  "discuss": {
+   "verdict": "core",
+   "reason": "AWL/骨架/通用高频学术承载"
+  },
+  "enhance": {
+   "verdict": "core",
+   "reason": "AWL/骨架/通用高频学术承载"
+  },
+  "ensure": {
+   "verdict": "core",
+   "reason": "AWL/骨架/通用高频学术承载"
+  },
+  "estimate": {
+   "verdict": "core",
+   "reason": "AWL/骨架/通用高频学术承载"
+  },
+  "examine": {
+   "verdict": "core",
+   "reason": "AWL/骨架/通用高频学术承载"
+  },
+  "exist": {
+   "verdict": "noncore",
+   "reason": "AWL/骨架/通用高频学术承载 ｜册四十一轮严格学术核心口径降出（一审复核）"
+  },
+  "expect": {
+   "verdict": "noncore",
+   "reason": "AWL/骨架/通用高频学术承载 ｜册四十一轮严格学术核心口径降出（一审复核）"
+  },
+  "explain": {
+   "verdict": "noncore",
+   "reason": "首轮 keep（报告/因果解释动词；may explain 讨论部高频）；二审 retain（II-M 因果解释论证动词，未列(e)组、AWL 不确定）；属主口径裁定降出（用户直令 45-50% 带、仅 H 档计入 2026-11-16）"
+  },
+  "explore": {
+   "verdict": "core",
+   "reason": "AWL/骨架/通用高频学术承载"
+  },
+  "express": {
+   "verdict": "noncore",
+   "reason": "AWL/骨架/通用高频学术承载 ｜册四十一轮严格学术核心口径降出（一审复核）"
+  },
+  "focus": {
+   "verdict": "core",
+   "reason": "AWL/骨架/通用高频学术承载"
+  },
+  "generate": {
+   "verdict": "core",
+   "reason": "AWL/骨架/通用高频学术承载"
+  },
+  "highlight": {
+   "verdict": "noncore",
+   "reason": "首轮 keep（学术报告动词（results highlight），强调骨架高频）；二审 retain（II-M 结果凸显报告近义动词，未列(e)组）；属主口径裁定降出（用户直令 45-50% 带、仅 H 档计入 2026-11-16）"
+  },
+  "identify": {
+   "verdict": "core",
+   "reason": "AWL/骨架/通用高频学术承载"
+  },
+  "include": {
+   "verdict": "core",
+   "reason": "AWL/骨架/通用高频学术承载"
+  },
+  "involve": {
+   "verdict": "core",
+   "reason": "AWL/骨架/通用高频学术承载"
+  },
+  "judge": {
+   "verdict": "noncore",
+   "reason": "AWL/骨架/通用高频学术承载 ｜册四十一轮严格学术核心口径降出（一审复核）"
+  },
+  "label": {
+   "verdict": "core",
+   "reason": "AWL/骨架/通用高频学术承载"
+  },
+  "maintain": {
+   "verdict": "core",
+   "reason": "AWL/骨架/通用高频学术承载"
+  },
+  "measure": {
+   "verdict": "noncore",
+   "reason": "AWL/骨架/通用高频学术承载 ｜册四十一轮严格学术核心口径降出（一审复核）"
+  },
+  "obtain": {
+   "verdict": "core",
+   "reason": "AWL/骨架/通用高频学术承载"
+  },
+  "occur": {
+   "verdict": "core",
+   "reason": "AWL/骨架/通用高频学术承载"
+  },
+  "perform": {
+   "verdict": "noncore",
+   "reason": "AWL/骨架/通用高频学术承载 ｜册四十一轮严格学术核心口径降出（一审复核）"
+  },
+  "predict": {
+   "verdict": "core",
+   "reason": "AWL/骨架/通用高频学术承载"
+  },
+  "prevent": {
+   "verdict": "noncore",
+   "reason": "AWL/骨架/通用高频学术承载 ｜册四十一轮严格学术核心口径降出（一审复核）"
+  },
+  "provide": {
+   "verdict": "core",
+   "reason": "AWL/骨架/通用高频学术承载"
+  },
+  "realize": {
+   "verdict": "noncore",
+   "reason": "AWL/骨架/通用高频学术承载 ｜册四十一轮严格学术核心口径降出（一审复核）"
+  },
+  "receive": {
+   "verdict": "noncore",
+   "reason": "AWL/骨架/通用高频学术承载 ｜册四十一轮严格学术核心口径降出（一审复核）"
+  },
+  "recognize": {
+   "verdict": "noncore",
+   "reason": "AWL/骨架/通用高频学术承载 ｜册四十一轮严格学术核心口径降出（一审复核）"
+  },
+  "reduce": {
+   "verdict": "noncore",
+   "reason": "AWL/骨架/通用高频学术承载 ｜册四十一轮严格学术核心口径降出（一审复核）"
+  },
+  "reflect": {
+   "verdict": "core",
+   "reason": "AWL/骨架/通用高频学术承载"
+  },
+  "report": {
+   "verdict": "core",
+   "reason": "AWL/骨架/通用高频学术承载"
+  },
+  "respond": {
+   "verdict": "core",
+   "reason": "AWL/骨架/通用高频学术承载"
+  },
+  "suggest": {
+   "verdict": "core",
+   "reason": "AWL/骨架/通用高频学术承载"
+  },
+  "summarize": {
+   "verdict": "core",
+   "reason": "AWL/骨架/通用高频学术承载"
+  },
+  "support": {
+   "verdict": "core",
+   "reason": "AWL/骨架/通用高频学术承载"
+  },
+  "test": {
+   "verdict": "core",
+   "reason": "AWL/骨架/通用高频学术承载"
+  },
+  "trace": {
+   "verdict": "core",
+   "reason": "AWL/骨架/通用高频学术承载"
+  },
+  "transform": {
+   "verdict": "core",
+   "reason": "AWL/骨架/通用高频学术承载"
+  },
+  "treat": {
+   "verdict": "core",
+   "reason": "AWL/骨架/通用高频学术承载"
+  },
+  "understand": {
+   "verdict": "noncore",
+   "reason": "AWL/骨架/通用高频学术承载 ｜册四十一轮严格学术核心口径降出（一审复核）"
+  },
+  "achieve": {
+   "verdict": "core",
+   "reason": "AWL/骨架/通用高频学术承载"
+  },
+  "address": {
+   "verdict": "core",
+   "reason": "AWL/骨架/通用高频学术承载"
+  },
+  "analysis": {
+   "verdict": "core",
+   "reason": "AWL/骨架/通用高频学术承载"
+  },
+  "argument": {
+   "verdict": "core",
+   "reason": "AWL/骨架/通用高频学术承载"
+  },
+  "area": {
+   "verdict": "core",
+   "reason": "AWL/骨架/通用高频学术承载"
+  },
+  "aspect": {
+   "verdict": "core",
+   "reason": "AWL/骨架/通用高频学术承载"
+  },
+  "assessment": {
+   "verdict": "core",
+   "reason": "AWL/骨架/通用高频学术承载"
+  },
+  "assumption": {
+   "verdict": "core",
+   "reason": "AWL/骨架/通用高频学术承载"
+  },
+  "basis": {
+   "verdict": "core",
+   "reason": "AWL/骨架/通用高频学术承载"
+  },
+  "cause": {
+   "verdict": "core",
+   "reason": "AWL/骨架/通用高频学术承载"
+  },
+  "challenge": {
+   "verdict": "core",
+   "reason": "AWL/骨架/通用高频学术承载"
+  },
+  "conclusion": {
+   "verdict": "core",
+   "reason": "AWL/骨架/通用高频学术承载"
+  },
+  "data": {
+   "verdict": "core",
+   "reason": "AWL/骨架/通用高频学术承载"
+  },
+  "definition": {
+   "verdict": "core",
+   "reason": "AWL/骨架/通用高频学术承载"
+  },
+  "difference": {
+   "verdict": "core",
+   "reason": "AWL/骨架/通用高频学术承载"
+  },
+  "direction": {
+   "verdict": "noncore",
+   "reason": "AWL/骨架/通用高频学术承载 ｜册四十一轮严格学术核心口径降出（一审复核）"
+  },
+  "element": {
+   "verdict": "core",
+   "reason": "AWL/骨架/通用高频学术承载"
+  },
+  "environment": {
+   "verdict": "core",
+   "reason": "AWL/骨架/通用高频学术承载"
+  },
+  "evidence": {
+   "verdict": "core",
+   "reason": "AWL/骨架/通用高频学术承载"
+  },
+  "example": {
+   "verdict": "noncore",
+   "reason": "AWL/骨架/通用高频学术承载 ｜册四十一轮严格学术核心口径降出（一审复核）"
+  },
+  "experiment": {
+   "verdict": "core",
+   "reason": "方法核心名词"
+  },
+  "explanation": {
+   "verdict": "noncore",
+   "reason": "首轮 keep（explain 族一致（splitting 避免））；二审 retain（II-M explain 族一致、规则派生）；属主口径裁定降出（用户直令 45-50% 带、仅 H 档计入 2026-11-16）"
+  },
+  "factor": {
+   "verdict": "core",
+   "reason": "AWL/骨架/通用高频学术承载"
+  },
+  "framework": {
+   "verdict": "core",
+   "reason": "AWL/骨架/通用高频学术承载"
+  },
+  "function": {
+   "verdict": "core",
+   "reason": "AWL/骨架/通用高频学术承载"
+  },
+  "goal": {
+   "verdict": "core",
+   "reason": "AWL/骨架/通用高频学术承载"
+  },
+  "hypothesis": {
+   "verdict": "core",
+   "reason": "AWL/骨架/通用高频学术承载"
+  },
+  "implication": {
+   "verdict": "core",
+   "reason": "AWL/骨架/通用高频学术承载"
+  },
+  "impact": {
+   "verdict": "noncore",
+   "reason": "首轮 keep（AWL补命中+impact on 影响论述骨架名词）；二审 retain（II-M impact on 论述高频但 IMPACT 非 AWL 无疑）；属主口径裁定降出（用户直令 45-50% 带、仅 H 档计入 2026-11-16）"
+  },
+  "issue": {
+   "verdict": "core",
+   "reason": "AWL/骨架/通用高频学术承载"
+  },
+  "knowledge": {
+   "verdict": "noncore",
+   "reason": "首轮 keep（prior knowledge/knowledge gap 文献综述高频承载）；二审降（II-L GSL 泛义承载词，prior knowledge 系语块）"
+  },
+  "level": {
+   "verdict": "noncore",
+   "reason": "AWL/骨架/通用高频学术承载 ｜册四十一轮严格学术核心口径降出（一审复核）"
+  },
+  "limit": {
+   "verdict": "core",
+   "reason": "AWL/骨架/通用高频学术承载"
+  },
+  "method": {
+   "verdict": "core",
+   "reason": "AWL/骨架/通用高频学术承载"
+  },
+  "model": {
+   "verdict": "core",
+   "reason": "AWL/骨架/通用高频学术承载"
+  },
+  "objective": {
+   "verdict": "core",
+   "reason": "AWL/骨架/通用高频学术承载"
+  },
+  "outcome": {
+   "verdict": "noncore",
+   "reason": "AWL/骨架/通用高频学术承载 ｜册四十一轮严格学术核心口径降出（一审复核）"
+  },
+  "pattern": {
+   "verdict": "noncore",
+   "reason": "首轮 keep（结果描述核心名词，补命中 AWL（pattern 族；上轮高频口径延续））；二审降（II-L 批文点名泛义类，AWL 补命中说不清族名）"
+  },
+  "phase": {
+   "verdict": "core",
+   "reason": "AWL/骨架/通用高频学术承载"
+  },
+  "principle": {
+   "verdict": "core",
+   "reason": "AWL/骨架/通用高频学术承载"
+  },
+  "problem": {
+   "verdict": "noncore",
+   "reason": "AWL/骨架/通用高频学术承载 ｜册四十一轮严格学术核心口径降出（一审复核）"
+  },
+  "purpose": {
+   "verdict": "core",
+   "reason": "AWL/骨架/通用高频学术承载"
+  },
+  "quality": {
+   "verdict": "noncore",
+   "reason": "AWL/骨架/通用高频学术承载 ｜册四十一轮严格学术核心口径降出（一审复核）"
+  },
+  "range": {
+   "verdict": "core",
+   "reason": "AWL/骨架/通用高频学术承载"
+  },
+  "rate": {
+   "verdict": "noncore",
+   "reason": "AWL/骨架/通用高频学术承载 ｜册四十一轮严格学术核心口径降出（一审复核）"
+  },
+  "reason": {
+   "verdict": "core",
+   "reason": "AWL/骨架/通用高频学术承载"
+  },
+  "requirement": {
+   "verdict": "core",
+   "reason": "AWL/骨架/通用高频学术承载"
+  },
+  "research": {
+   "verdict": "core",
+   "reason": "AWL/骨架/通用高频学术承载"
+  },
+  "result": {
+   "verdict": "core",
+   "reason": "AWL/骨架/通用高频学术承载"
+  },
+  "role": {
+   "verdict": "core",
+   "reason": "AWL/骨架/通用高频学术承载"
+  },
+  "rule": {
+   "verdict": "noncore",
+   "reason": "AWL/骨架/通用高频学术承载 ｜册四十一轮严格学术核心口径降出（一审复核）"
+  },
+  "section": {
+   "verdict": "core",
+   "reason": "AWL/骨架/通用高频学术承载"
+  },
+  "source": {
+   "verdict": "core",
+   "reason": "AWL/骨架/通用高频学术承载"
+  },
+  "standard": {
+   "verdict": "noncore",
+   "reason": "首轮 keep（规范/基准名词跨学科极高频（gold standard））；二审 retain（II-M standard deviation/error 方法名词，泛义并存）；属主口径裁定降出（用户直令 45-50% 带、仅 H 档计入 2026-11-16）"
+  },
+  "step": {
+   "verdict": "noncore",
+   "reason": "AWL/骨架/通用高频学术承载 ｜册四十一轮严格学术核心口径降出（一审复核）"
+  },
+  "strategy": {
+   "verdict": "noncore",
+   "reason": "首轮 keep（AWL 补命中（strategy/strategic 族），跨学科）；二审 retain（II-M 社科研究语域高频，商业日常亦有）；属主口径裁定降出（用户直令 45-50% 带、仅 H 档计入 2026-11-16）"
+  },
+  "structure": {
+   "verdict": "core",
+   "reason": "AWL/骨架/通用高频学术承载"
+  },
+  "technique": {
+   "verdict": "core",
+   "reason": "AWL/骨架/通用高频学术承载"
+  },
+  "term": {
+   "verdict": "noncore",
+   "reason": "首轮 keep（术语定义功能（the term X refers to））；二审降（II-L 泛义多义词，定义功能由 in terms of/语块承担）"
+  },
+  "theory": {
+   "verdict": "core",
+   "reason": "AWL/骨架/通用高频学术承载"
+  },
+  "value": {
+   "verdict": "noncore",
+   "reason": "数值/价值高频 ｜册四十一轮严格学术核心口径降出（一审复核）"
+  },
+  "variable": {
+   "verdict": "core",
+   "reason": "AWL/骨架/通用高频学术承载"
+  },
+  "abstract": {
+   "verdict": "core",
+   "reason": "AWL/骨架/通用高频学术承载"
+  },
+  "accurate": {
+   "verdict": "noncore",
+   "reason": "AWL/骨架/通用高频学术承载 ｜册四十一轮严格学术核心口径降出（一审复核）"
+  },
+  "additional": {
+   "verdict": "noncore",
+   "reason": "通用高频学术承载词 ｜册四十一轮严格学术核心口径降出（一审复核）"
+  },
+  "alternative": {
+   "verdict": "core",
+   "reason": "AWL词族"
+  },
+  "appropriate": {
+   "verdict": "core",
+   "reason": "AWL词族"
+  },
+  "available": {
+   "verdict": "core",
+   "reason": "通用高频学术承载词"
+  },
+  "basic": {
+   "verdict": "noncore",
+   "reason": "通用高频 ｜册四十一轮严格学术核心口径降出（一审复核）"
+  },
+  "central": {
+   "verdict": "noncore",
+   "reason": "通用高频学术承载词 ｜册四十一轮严格学术核心口径降出（一审复核）"
+  },
+  "common": {
+   "verdict": "noncore",
+   "reason": "通用高频 ｜册四十一轮严格学术核心口径降出（一审复核）"
+  },
+  "complex": {
+   "verdict": "core",
+   "reason": "AWL词族"
+  },
+  "correct": {
+   "verdict": "noncore",
+   "reason": "通用高频 ｜册四十一轮严格学术核心口径降出（一审复核）"
+  },
+  "current": {
+   "verdict": "noncore",
+   "reason": "通用高频学术承载词 ｜册四十一轮严格学术核心口径降出（一审复核）"
+  },
+  "detailed": {
+   "verdict": "noncore",
+   "reason": "通用高频 ｜册四十一轮严格学术核心口径降出（一审复核）"
+  },
+  "difficult": {
+   "verdict": "noncore",
+   "reason": "通用高频 ｜册四十一轮严格学术核心口径降出（一审复核）"
+  },
+  "effective": {
+   "verdict": "noncore",
+   "reason": "通用高频学术承载词 ｜册四十一轮严格学术核心口径降出（一审复核）"
+  },
+  "efficient": {
+   "verdict": "noncore",
+   "reason": "通用高频学术承载词 ｜册四十一轮严格学术核心口径降出（一审复核）"
+  },
+  "essential": {
+   "verdict": "core",
+   "reason": "通用高频"
+  },
+  "exact": {
+   "verdict": "noncore",
+   "reason": "通用高频学术承载词 ｜册四十一轮严格学术核心口径降出（一审复核）"
+  },
+  "existing": {
+   "verdict": "noncore",
+   "reason": "existing studies高频,机械误杀 ｜册四十一轮严格学术核心口径降出（一审复核）"
+  },
+  "explicit": {
+   "verdict": "core",
+   "reason": "AWL词族"
+  },
+  "familiar": {
+   "verdict": "noncore",
+   "reason": "通用高频 ｜册四十一轮严格学术核心口径降出（一审复核）"
+  },
+  "final": {
+   "verdict": "noncore",
+   "reason": "首轮 keep（AWL补命中（Coxhead FINAL 族，freq_refs 漏词头））；二审降（II-L FINAL 非 AWL（一审补命中不成立）、日常泛词）"
+  },
+  "general": {
+   "verdict": "noncore",
+   "reason": "通用高频学术承载词 ｜册四十一轮严格学术核心口径降出（一审复核）"
+  },
+  "important": {
+   "verdict": "core",
+   "reason": "通用高频"
+  },
+  "independent": {
+   "verdict": "core",
+   "reason": "independent variable高频"
+  },
+  "initial": {
+   "verdict": "core",
+   "reason": "AWL词族"
+  },
+  "key": {
+   "verdict": "noncore",
+   "reason": "通用高频 ｜册四十一轮严格学术核心口径降出（一审复核）"
+  },
+  "large": {
+   "verdict": "noncore",
+   "reason": "通用高频 ｜册四十一轮严格学术核心口径降出（一审复核）"
+  },
+  "likely": {
+   "verdict": "core",
+   "reason": "通用高频学术承载词"
+  },
+  "main": {
+   "verdict": "noncore",
+   "reason": "通用高频 ｜册四十一轮严格学术核心口径降出（一审复核）"
+  },
+  "major": {
+   "verdict": "core",
+   "reason": "通用高频学术承载词"
+  },
+  "modern": {
+   "verdict": "core",
+   "reason": "通用高频"
+  },
+  "natural": {
+   "verdict": "noncore",
+   "reason": "通用高频 ｜册四十一轮严格学术核心口径降出（一审复核）"
+  },
+  "necessary": {
+   "verdict": "noncore",
+   "reason": "通用高频 ｜册四十一轮严格学术核心口径降出（一审复核）"
+  },
+  "normal": {
+   "verdict": "core",
+   "reason": "通用高频"
+  },
+  "obvious": {
+   "verdict": "core",
+   "reason": "通用高频"
+  },
+  "particular": {
+   "verdict": "core",
+   "reason": "通用高频学术承载词"
+  },
+  "permanent": {
+   "verdict": "core",
+   "reason": "通用高频"
+  },
+  "potential": {
+   "verdict": "core",
+   "reason": "AWL词族"
+  },
+  "practical": {
+   "verdict": "noncore",
+   "reason": "通用高频 ｜册四十一轮严格学术核心口径降出（一审复核）"
+  },
+  "previous": {
+   "verdict": "core",
+   "reason": "AWL词族"
+  },
+  "primary": {
+   "verdict": "core",
+   "reason": "通用高频学术承载词"
+  },
+  "principal": {
+   "verdict": "core",
+   "reason": "通用高频学术承载词"
+  },
+  "probable": {
+   "verdict": "core",
+   "reason": "通用高频"
+  },
+  "professional": {
+   "verdict": "core",
+   "reason": "通用高频"
+  },
+  "rapid": {
+   "verdict": "noncore",
+   "reason": "AWL词族 ｜册四十一轮严格学术核心口径降出（一审复核）"
+  },
+  "reasonable": {
+   "verdict": "core",
+   "reason": "通用高频"
+  },
+  "recent": {
+   "verdict": "noncore",
+   "reason": "通用高频学术承载词 ｜册四十一轮严格学术核心口径降出（一审复核）"
+  },
+  "relevant": {
+   "verdict": "noncore",
+   "reason": "通用高频学术承载词 ｜册四十一轮严格学术核心口径降出（一审复核）"
+  },
+  "reliable": {
+   "verdict": "core",
+   "reason": "通用高频学术承载词"
+  },
+  "safe": {
+   "verdict": "noncore",
+   "reason": "通用高频 ｜册四十一轮严格学术核心口径降出（一审复核）"
+  },
+  "scarce": {
+   "verdict": "noncore",
+   "reason": "经济/资源高频,判据点名 ｜册四十一轮严格学术核心口径降出（一审复核）"
+  },
+  "sensitive": {
+   "verdict": "core",
+   "reason": "通用高频学术承载词"
+  },
+  "severe": {
+   "verdict": "noncore",
+   "reason": "通用高频 ｜册四十一轮严格学术核心口径降出（一审复核）"
+  },
+  "significant": {
+   "verdict": "core",
+   "reason": "核心高频学术词"
+  },
+  "similar": {
+   "verdict": "core",
+   "reason": "通用高频"
+  },
+  "simple": {
+   "verdict": "noncore",
+   "reason": "通用高频 ｜册四十一轮严格学术核心口径降出（一审复核）"
+  },
+  "specific": {
+   "verdict": "core",
+   "reason": "通用高频学术承载词"
+  },
+  "stable": {
+   "verdict": "core",
+   "reason": "通用高频"
+  },
+  "strict": {
+   "verdict": "core",
+   "reason": "通用高频"
+  },
+  "strong": {
+   "verdict": "noncore",
+   "reason": "通用高频 ｜册四十一轮严格学术核心口径降出（一审复核）"
+  },
+  "sufficient": {
+   "verdict": "core",
+   "reason": "AWL词族"
+  },
+  "suitable": {
+   "verdict": "noncore",
+   "reason": "通用高频 ｜册四十一轮严格学术核心口径降出（一审复核）"
+  },
+  "technical": {
+   "verdict": "core",
+   "reason": "AWL词族"
+  },
+  "theoretical": {
+   "verdict": "core",
+   "reason": "理论方法高频对举,判据点名"
+  },
+  "traditional": {
+   "verdict": "core",
+   "reason": "通用高频"
+  },
+  "typical": {
+   "verdict": "core",
+   "reason": "通用高频"
+  },
+  "universal": {
+   "verdict": "core",
+   "reason": "通用高频学术承载词"
+  },
+  "useful": {
+   "verdict": "noncore",
+   "reason": "通用高频 ｜册四十一轮严格学术核心口径降出（一审复核）"
+  },
+  "usual": {
+   "verdict": "noncore",
+   "reason": "通用高频 ｜册四十一轮严格学术核心口径降出（一审复核）"
+  },
+  "valid": {
+   "verdict": "core",
+   "reason": "AWL词族"
+  },
+  "valuable": {
+   "verdict": "core",
+   "reason": "通用高频"
+  },
+  "various": {
+   "verdict": "noncore",
+   "reason": "通用高频 ｜册四十一轮严格学术核心口径降出（一审复核）"
+  },
+  "wide": {
+   "verdict": "noncore",
+   "reason": "通用高频 ｜册四十一轮严格学术核心口径降出（一审复核）"
+  },
+  "wrong": {
+   "verdict": "noncore",
+   "reason": "通用高频 ｜册四十一轮严格学术核心口径降出（一审复核）"
+  },
+  "actually": {
+   "verdict": "noncore",
+   "reason": "高频认识副词 ｜册四十一轮严格学术核心口径降出（一审复核）"
+  },
+  "apparently": {
+   "verdict": "core",
+   "reason": "高频认识副词"
+  },
+  "approximately": {
+   "verdict": "core",
+   "reason": "数据描述高频"
+  },
+  "basically": {
+   "verdict": "noncore",
+   "reason": "高频认识副词 ｜册四十一轮严格学术核心口径降出（一审复核）"
+  },
+  "clearly": {
+   "verdict": "core",
+   "reason": "高频方式副词"
+  },
+  "closely": {
+   "verdict": "noncore",
+   "reason": "首轮 keep（closely related/associated 搭配高频）；二审降（II-L 日常程度副词、频率印象仅及搭配）"
+  },
+  "considerably": {
+   "verdict": "core",
+   "reason": "程度副词高频"
+  },
+  "consistently": {
+   "verdict": "core",
+   "reason": "结果描述高频"
+  },
+  "constantly": {
+   "verdict": "core",
+   "reason": "高频时间副词"
+  },
+  "currently": {
+   "verdict": "noncore",
+   "reason": "高频时间副词 ｜册四十一轮严格学术核心口径降出（一审复核）"
+  },
+  "deliberately": {
+   "verdict": "core",
+   "reason": "通用高频"
+  },
+  "effectively": {
+   "verdict": "noncore",
+   "reason": "通用高频学术承载词 ｜册四十一轮严格学术核心口径降出（一审复核）"
+  },
+  "eventually": {
+   "verdict": "core",
+   "reason": "高频时间副词"
+  },
+  "exactly": {
+   "verdict": "noncore",
+   "reason": "通用高频 ｜册四十一轮严格学术核心口径降出（一审复核）"
+  },
+  "frequently": {
+   "verdict": "core",
+   "reason": "频率副词高频"
+  },
+  "generally": {
+   "verdict": "noncore",
+   "reason": "首轮 keep（概括立场高频副词，学术行文默认 hedging 承载）；二审 retain（II-M 概括 hedging 高频但日常亦用）；属主口径裁定降出（用户直令 45-50% 带、仅 H 档计入 2026-11-16）"
+  },
+  "greatly": {
+   "verdict": "noncore",
+   "reason": "程度副词高频 ｜册四十一轮严格学术核心口径降出（一审复核）"
+  },
+  "increasingly": {
+   "verdict": "core",
+   "reason": "趋势描述高频"
+  },
+  "mainly": {
+   "verdict": "noncore",
+   "reason": "高频程度副词 ｜册四十一轮严格学术核心口径降出（一审复核）"
+  },
+  "mostly": {
+   "verdict": "noncore",
+   "reason": "高频程度副词 ｜册四十一轮严格学术核心口径降出（一审复核）"
+  },
+  "normally": {
+   "verdict": "core",
+   "reason": "高频认识副词"
+  },
+  "obviously": {
+   "verdict": "core",
+   "reason": "高频认识副词"
+  },
+  "particularly": {
+   "verdict": "core",
+   "reason": "高频强调副词"
+  },
+  "probably": {
+   "verdict": "noncore",
+   "reason": "首轮 keep（认识 hedge 副词（epistemic 类点名））；二审 retain（II-M 认识 hedge（(d) 列 probable 未列此形，落 II））；属主口径裁定降出（用户直令 45-50% 带、仅 H 档计入 2026-11-16）"
+  },
+  "quickly": {
+   "verdict": "noncore",
+   "reason": "通用高频 ｜册四十一轮严格学术核心口径降出（一审复核）"
+  },
+  "rarely": {
+   "verdict": "noncore",
+   "reason": "高频频率副词 ｜册四十一轮严格学术核心口径降出（一审复核）"
+  },
+  "recently": {
+   "verdict": "noncore",
+   "reason": "高频时间副词 ｜册四十一轮严格学术核心口径降出（一审复核）"
+  },
+  "regularly": {
+   "verdict": "noncore",
+   "reason": "高频频率副词 ｜册四十一轮严格学术核心口径降出（一审复核）"
+  },
+  "relatively": {
+   "verdict": "noncore",
+   "reason": "比较描述高频 ｜册四十一轮严格学术核心口径降出（一审复核）"
+  },
+  "reportedly": {
+   "verdict": "noncore",
+   "reason": "据述高频,通用高频层 ｜册四十一轮严格学术核心口径降出（一审复核）"
+  },
+  "sharply": {
+   "verdict": "noncore",
+   "reason": "趋势变化高频,判据点名 ｜册四十一轮严格学术核心口径降出（一审复核）"
+  },
+  "simply": {
+   "verdict": "noncore",
+   "reason": "通用高频 ｜册四十一轮严格学术核心口径降出（一审复核）"
+  },
+  "somewhat": {
+   "verdict": "noncore",
+   "reason": "程度副词高频 ｜册四十一轮严格学术核心口径降出（一审复核）"
+  },
+  "specifically": {
+   "verdict": "core",
+   "reason": "高频强调副词"
+  },
+  "steadily": {
+   "verdict": "noncore",
+   "reason": "趋势描述高频 ｜册四十一轮严格学术核心口径降出（一审复核）"
+  },
+  "subsequently": {
+   "verdict": "core",
+   "reason": "AWL词族"
+  },
+  "surely": {
+   "verdict": "noncore",
+   "reason": "口语化情态,论文低频"
+  },
+  "therefore": {
+   "verdict": "core",
+   "reason": "高频因果连接"
+  },
+  "thus": {
+   "verdict": "core",
+   "reason": "高频因果连接,判据点名"
+  },
+  "typically": {
+   "verdict": "core",
+   "reason": "高频认识副词"
+  },
+  "widely": {
+   "verdict": "noncore",
+   "reason": "首轮 keep（文献定位高频搭配（widely used/regarded））；二审 retain（II-M widely used/regarded 文献定位搭配）；属主口径裁定降出（用户直令 45-50% 带、仅 H 档计入 2026-11-16）"
+  },
+  "although": {
+   "verdict": "core",
+   "reason": "高频让步连接"
+  },
+  "because": {
+   "verdict": "noncore",
+   "reason": "首轮 keep（因果连接极高频）；二审降（II-L 显式排除组，书面由 therefore/give rise to 承担）"
+  },
+  "besides": {
+   "verdict": "noncore",
+   "reason": "通用高频连接 ｜册四十一轮严格学术核心口径降出（一审复核）"
+  },
+  "but": {
+   "verdict": "noncore",
+   "reason": "首轮 keep（转折连接极高频）；二审降（II-L 显式排除组，书面由 however/whereas 承担）"
+  },
+  "however": {
+   "verdict": "core",
+   "reason": "最高频篇章连接"
+  },
+  "moreover": {
+   "verdict": "core",
+   "reason": "高频递进连接"
+  },
+  "so": {
+   "verdict": "noncore",
+   "reason": "首轮 keep（因果连接基础词，论证功能级（骨架补命中））；二审降（II-L 显式排除组成员，不得以枚举身份 retain）"
+  },
+  "though": {
+   "verdict": "noncore",
+   "reason": "首轮 keep（让步连接功能词（skeleton 补命中））；二审降（II-L 让步口语变体，书面正对为 although（在 (a) 旁系））"
+  },
+  "whether": {
+   "verdict": "noncore",
+   "reason": "首轮 keep（研究问题从句连接（whether X differs），骨架）；二审 retain（II-M whether X differs 假设从句连接，未被排除）；属主口径裁定降出（用户直令 45-50% 带、仅 H 档计入 2026-11-16）"
+  },
+  "while": {
+   "verdict": "noncore",
+   "reason": "首轮 keep（最高频对比连接词，骨架补命中）；二审 retain（II-M 学术书面最高频对比连接（正式体自洽））；属主口径裁定降出（用户直令 45-50% 带、仅 H 档计入 2026-11-16）"
+  },
+  "yet": {
+   "verdict": "noncore",
+   "reason": "首轮 keep（高频转折连接副词，论证骨架）；二审 retain（II-M 转折连接，书面可辩护（非显式排除成员））；属主口径裁定降出（用户直令 45-50% 带、仅 H 档计入 2026-11-16）"
+  },
+  "since": {
+   "verdict": "noncore",
+   "reason": "首轮 keep（因果连接骨干（骨架补命中，机械表缺此短词））；二审降（II-L 显式排除组精神，正式体由 as/since→because 对应词承担）"
+  },
+  "integrate": {
+   "verdict": "core",
+   "reason": "AWL词族"
+  },
+  "isolate": {
+   "verdict": "core",
+   "reason": "变量分离高频,AWL族,机械误杀"
+  },
+  "formulate": {
+   "verdict": "core",
+   "reason": "AWL词族"
+  },
+  "derive": {
+   "verdict": "core",
+   "reason": "AWL词族"
+  },
+  "exhibit": {
+   "verdict": "core",
+   "reason": "AWL词族"
+  },
+  "allocate": {
+   "verdict": "core",
+   "reason": "资源分配高频,AWL族,机械误杀"
+  },
+  "aggregate": {
+   "verdict": "core",
+   "reason": "AWL词族"
+  },
+  "simulate": {
+   "verdict": "core",
+   "reason": "研究方法高频,机械误杀"
+  },
+  "synthesize": {
+   "verdict": "core",
+   "reason": "综合/合成高频,AWL族,机械误杀"
+  },
+  "differentiate": {
+   "verdict": "core",
+   "reason": "AWL词族"
+  },
+  "correlate": {
+   "verdict": "core",
+   "reason": "相关分析高频"
+  },
+  "refine": {
+   "verdict": "core",
+   "reason": "通用高频学术承载词"
+  },
+  "regulate": {
+   "verdict": "core",
+   "reason": "AWL词族"
+  },
+  "retrieve": {
+   "verdict": "core",
+   "reason": "信息/记忆检索高频"
+  },
+  "visualize": {
+   "verdict": "core",
+   "reason": "数据呈现高频"
+  },
+  "elaborate": {
+   "verdict": "core",
+   "reason": "AWL词族"
+  },
+  "hypothesize": {
+   "verdict": "core",
+   "reason": "假设动词高频,hypothesis族,机械误杀"
+  },
+  "conceptualize": {
+   "verdict": "core",
+   "reason": "conceptual族高频"
+  },
+  "streamline": {
+   "verdict": "noncore",
+   "reason": "管理流程用语,低频"
+  },
+  "prioritize": {
+   "verdict": "core",
+   "reason": "priority族高频"
+  },
+  "attain": {
+   "verdict": "noncore",
+   "reason": "attainment族学术常用,机械误杀 ｜册四十一轮严格学术核心口径降出（一审复核）"
+  },
+  "ascertain": {
+   "verdict": "noncore",
+   "reason": "低频近正式语"
+  },
+  "comprehend": {
+   "verdict": "noncore",
+   "reason": "低频,多用understand族"
+  },
+  "underscore": {
+   "verdict": "noncore",
+   "reason": "新闻语域,多用emphasize"
+  },
+  "foster": {
+   "verdict": "core",
+   "reason": "AWL词族,foster collaboration高频"
+  },
+  "rationale": {
+   "verdict": "core",
+   "reason": "研究依据高频"
+  },
+  "indicator": {
+   "verdict": "core",
+   "reason": "指标跨学科高频,机械误杀"
+  },
+  "taxonomy": {
+   "verdict": "noncore",
+   "reason": "生物/信息学专名"
+  },
+  "corpus": {
+   "verdict": "noncore",
+   "reason": "语料库/文献库高频 ｜册四十一轮严格学术核心口径降出（一审复核）"
+  },
+  "discrepancy": {
+   "verdict": "noncore",
+   "reason": "首轮 keep（AWL补命中；差异比对结果话语高频）；二审 retain（II-M 结果比对话语词（AWL 不确信落 II））；属主口径裁定降出（用户直令 45-50% 带、仅 H 档计入 2026-11-16）"
+  },
+  "trade-off": {
+   "verdict": "noncore",
+   "reason": "首轮 keep（权衡论证概念，经济/医学/工程跨域）；二审 retain（II-M 权衡概念跨工程/经济/医学）；属主口径裁定降出（用户直令 45-50% 带、仅 H 档计入 2026-11-16）"
+  },
+  "robustness": {
+   "verdict": "noncore",
+   "reason": "工程统计窄域"
+  },
+  "bias": {
+   "verdict": "core",
+   "reason": "研究偏差高频"
+  },
+  "variance": {
+   "verdict": "core",
+   "reason": "方差统计基础词,机械误杀"
+  },
+  "threshold": {
+   "verdict": "core",
+   "reason": "阈值跨学科高频,机械误杀"
+  },
+  "pipeline": {
+   "verdict": "noncore",
+   "reason": "工业/IT用语"
+  },
+  "workflow": {
+   "verdict": "noncore",
+   "reason": "流程管理用语,低频"
+  },
+  "stakeholder": {
+   "verdict": "noncore",
+   "reason": "管理政策专用"
+  },
+  "compliance": {
+   "verdict": "noncore",
+   "reason": "法规伦理专用"
+  },
+  "legislation": {
+   "verdict": "core",
+   "reason": "AWL词族"
+  },
+  "governance": {
+   "verdict": "noncore",
+   "reason": "政治经济专用"
+  },
+  "accountability": {
+   "verdict": "noncore",
+   "reason": "治理政策集群词"
+  },
+  "transparency": {
+   "verdict": "noncore",
+   "reason": "治理政策集群词"
+  },
+  "sustainability": {
+   "verdict": "noncore",
+   "reason": "政策环保集群词"
+  },
+  "resilience": {
+   "verdict": "noncore",
+   "reason": "心理/工程集群词"
+  },
+  "infrastructure": {
+   "verdict": "core",
+   "reason": "AWL词族"
+  },
+  "ecosystem": {
+   "verdict": "noncore",
+   "reason": "生态学本义比喻泛用"
+  },
+  "literacy": {
+   "verdict": "noncore",
+   "reason": "教育研究专用"
+  },
+  "coherence": {
+   "verdict": "noncore",
+   "reason": "物理/语言学专用"
+  },
+  "distinction": {
+   "verdict": "core",
+   "reason": "make a distinction高频"
+  },
+  "magnitude": {
+   "verdict": "noncore",
+   "reason": "量级描述高频学术名词 ｜册四十一轮严格学术核心口径降出（一审复核）"
+  },
+  "dimension": {
+   "verdict": "core",
+   "reason": "维度跨学科高频"
+  },
+  "mechanism": {
+   "verdict": "core",
+   "reason": "机理高频学术名词"
+  },
+  "methodology": {
+   "verdict": "core",
+   "reason": "方法论高频"
+  },
+  "synthesis": {
+   "verdict": "core",
+   "reason": "综合/合成跨学科高频"
+  },
+  "nuance": {
+   "verdict": "noncore",
+   "reason": "人文评论低频"
+  },
+  "precedent": {
+   "verdict": "noncore",
+   "reason": "法律政策窄域"
+  },
+  "notation": {
+   "verdict": "noncore",
+   "reason": "数理符号窄域"
+  },
+  "abstraction": {
+   "verdict": "core",
+   "reason": "抽象族高频"
+  },
+  "granularity": {
+   "verdict": "noncore",
+   "reason": "数据工程窄域"
+  },
+  "attribution": {
+   "verdict": "core",
+   "reason": "归因心理高频"
+  },
+  "correlation": {
+   "verdict": "core",
+   "reason": "相关统计高频"
+  },
+  "deviation": {
+   "verdict": "core",
+   "reason": "偏差高频"
+  },
+  "calibration": {
+   "verdict": "noncore",
+   "reason": "仪器标定窄域"
+  },
+  "feasibility": {
+   "verdict": "noncore",
+   "reason": "可行性研究高频 ｜册四十一轮严格学术核心口径降出（一审复核）"
+  },
+  "resolution": {
+   "verdict": "noncore",
+   "reason": "多义学术高频 ｜册四十一轮严格学术核心口径降出（一审复核）"
+  },
+  "comprehension": {
+   "verdict": "noncore",
+   "reason": "教育心理窄域"
+  },
+  "traceability": {
+   "verdict": "noncore",
+   "reason": "工程溯源窄域"
+  },
+  "authenticity": {
+   "verdict": "noncore",
+   "reason": "质性研究窄域"
+  },
+  "integrity": {
+   "verdict": "noncore",
+   "reason": "科研诚信高频 ｜册四十一轮严格学术核心口径降出（一审复核）"
+  },
+  "provenance": {
+   "verdict": "noncore",
+   "reason": "数据出处窄域"
+  },
+  "redundancy": {
+   "verdict": "noncore",
+   "reason": "工程冗余窄域"
+  },
+  "throughput": {
+   "verdict": "noncore",
+   "reason": "计算吞吐窄域"
+  },
+  "perception": {
+   "verdict": "core",
+   "reason": "感知研究高频"
+  },
+  "robust": {
+   "verdict": "core",
+   "reason": "稳健评价高频"
+  },
+  "coherent": {
+   "verdict": "core",
+   "reason": "连贯高频"
+  },
+  "comprehensive": {
+   "verdict": "core",
+   "reason": "全面高频"
+  },
+  "implicit": {
+   "verdict": "noncore",
+   "reason": "首轮 keep（隐含假设论证词，AWL imply 族旁支、学术搭配稳）；二审 retain（II-M implicit assumption 论证词；IMPLY 族关联不硬）；属主口径裁定降出（用户直令 45-50% 带、仅 H 档计入 2026-11-16）"
+  },
+  "novel": {
+   "verdict": "core",
+   "reason": "新颖性高频"
+  },
+  "conclusive": {
+   "verdict": "noncore",
+   "reason": "低频决定性"
+  },
+  "arbitrary": {
+   "verdict": "noncore",
+   "reason": "任意性高频论证 ｜册四十一轮严格学术核心口径降出（一审复核）"
+  },
+  "heterogeneous": {
+   "verdict": "noncore",
+   "reason": "异质样本高频 ｜册四十一轮严格学术核心口径降出（一审复核）"
+  },
+  "homogeneous": {
+   "verdict": "core",
+   "reason": "同质族高频"
+  },
+  "optimal": {
+   "verdict": "core",
+   "reason": "最优高频"
+  },
+  "partial": {
+   "verdict": "noncore",
+   "reason": "部分高频 ｜册四十一轮严格学术核心口径降出（一审复核）"
+  },
+  "systematic": {
+   "verdict": "core",
+   "reason": "系统化高频"
+  },
+  "transparent": {
+   "verdict": "noncore",
+   "reason": "透明多义高频 ｜册四十一轮严格学术核心口径降出（一审复核）"
+  },
+  "holistic": {
+   "verdict": "noncore",
+   "reason": "人文边缘表达"
+  },
+  "interdisciplinary": {
+   "verdict": "core",
+   "reason": "跨学科描述高频"
+  },
+  "nuanced": {
+   "verdict": "noncore",
+   "reason": "低频评论词"
+  },
+  "quantitative": {
+   "verdict": "core",
+   "reason": "定量高频"
+  },
+  "methodological": {
+   "verdict": "core",
+   "reason": "方法论族高频"
+  },
+  "sustainable": {
+   "verdict": "core",
+   "reason": "可持续高频"
+  },
+  "cohesive": {
+   "verdict": "noncore",
+   "reason": "低频凝聚"
+  },
+  "discrete": {
+   "verdict": "core",
+   "reason": "离散数理高频"
+  },
+  "succinct": {
+   "verdict": "noncore",
+   "reason": "文艺简练"
+  },
+  "substantive": {
+   "verdict": "core",
+   "reason": "实质性论证高频"
+  },
+  "tangible": {
+   "verdict": "noncore",
+   "reason": "低频有形"
+  },
+  "transient": {
+   "verdict": "noncore",
+   "reason": "暂态窄域"
+  },
+  "sequential": {
+   "verdict": "noncore",
+   "reason": "方法窄域序贯"
+  },
+  "overarching": {
+   "verdict": "noncore",
+   "reason": "文学总括"
+  },
+  "pervasive": {
+   "verdict": "core",
+   "reason": "普遍弥漫高频"
+  },
+  "profound": {
+   "verdict": "core",
+   "reason": "深远高频"
+  },
+  "thereby": {
+   "verdict": "core",
+   "reason": "因果连接高频"
+  },
+  "respectively": {
+   "verdict": "core",
+   "reason": "分别标注高频"
+  },
+  "similarly": {
+   "verdict": "core",
+   "reason": "类比连接高频"
+  },
+  "meanwhile": {
+   "verdict": "noncore",
+   "reason": "叙事语域学术中等"
+  },
+  "arguably": {
+   "verdict": "core",
+   "reason": "学术缓称高频"
+  },
+  "presumably": {
+   "verdict": "noncore",
+   "reason": "口语推测"
+  },
+  "predominantly": {
+   "verdict": "core",
+   "reason": "主要程度高频"
+  },
+  "simultaneously": {
+   "verdict": "core",
+   "reason": "同时高频"
+  },
+  "markedly": {
+   "verdict": "noncore",
+   "reason": "首轮 keep（程度副词（程度类点名），markedly higher 学术高频）；二审 retain（II-M markedly higher 程度正式体）；属主口径裁定降出（用户直令 45-50% 带、仅 H 档计入 2026-11-16）"
+  },
+  "jointly": {
+   "verdict": "noncore",
+   "reason": "低频共同"
+  },
+  "mutually": {
+   "verdict": "core",
+   "reason": "互斥搭配高频"
+  },
+  "collectively": {
+   "verdict": "noncore",
+   "reason": "总体副词高频 ｜册四十一轮严格学术核心口径降出（一审复核）"
+  },
+  "uniformly": {
+   "verdict": "core",
+   "reason": "数学均匀窄域 ｜册四十一轮严格学术核心口径晋升入核"
+  },
+  "by contrast": {
+   "verdict": "core",
+   "reason": "对比连接语块"
+  },
+  "in contrast": {
+   "verdict": "core",
+   "reason": "对比连接语块极高频"
+  },
+  "in addition": {
+   "verdict": "core",
+   "reason": "累加连接语块极高频"
+  },
+  "hence": {
+   "verdict": "core",
+   "reason": "因果副词高频"
+  },
+  "given that": {
+   "verdict": "noncore",
+   "reason": "首轮 keep（假设/让步连接语块，论证段功能词）；二审 retain（II-M 前提/让步论证语块，正式体）；属主口径裁定降出（用户直令 45-50% 带、仅 H 档计入 2026-11-16）"
+  },
+  "even if": {
+   "verdict": "core",
+   "reason": "让步连接语块"
+  },
+  "even though": {
+   "verdict": "noncore",
+   "reason": "让步连接语块 ｜册四十一轮严格学术核心口径降出（一审复核）"
+  },
+  "so that": {
+   "verdict": "core",
+   "reason": "目的结果语块"
+  },
+  "as long as": {
+   "verdict": "core",
+   "reason": "条件连接语块"
+  },
+  "rather than": {
+   "verdict": "core",
+   "reason": "选择连接语块"
+  },
+  "investigate": {
+   "verdict": "core",
+   "reason": "研究动词高频"
+  },
+  "justify": {
+   "verdict": "core",
+   "reason": "辩护论证高频"
+  },
+  "maximize": {
+   "verdict": "core",
+   "reason": "最大化高频"
+  },
+  "minimize": {
+   "verdict": "noncore",
+   "reason": "最小化高频 ｜册四十一轮严格学术核心口径降出（一审复核）"
+  },
+  "modify": {
+   "verdict": "core",
+   "reason": "修正高频"
+  },
+  "monitor": {
+   "verdict": "noncore",
+   "reason": "监测方法高频 ｜册四十一轮严格学术核心口径降出（一审复核）"
+  },
+  "optimize": {
+   "verdict": "noncore",
+   "reason": "优化工科高频 ｜册四十一轮严格学术核心口径降出（一审复核）"
+  },
+  "presume": {
+   "verdict": "core",
+   "reason": "口语推测少用 ｜册四十一轮严格学术核心口径晋升入核"
+  },
+  "promote": {
+   "verdict": "noncore",
+   "reason": "促进高频 ｜册四十一轮严格学术核心口径降出（一审复核）"
+  },
+  "propose": {
+   "verdict": "core",
+   "reason": "提出提议极高频"
+  },
+  "refute": {
+   "verdict": "core",
+   "reason": "反驳论证高频"
+  },
+  "substantiate": {
+   "verdict": "core",
+   "reason": "证实主张高频"
+  },
+  "undermine": {
+   "verdict": "core",
+   "reason": "削弱效度高频率"
+  },
+  "utilize": {
+   "verdict": "core",
+   "reason": "利用高频"
+  },
+  "gauge": {
+   "verdict": "noncore",
+   "reason": "新闻评估语域"
+  },
+  "harness": {
+   "verdict": "noncore",
+   "reason": "生动商务文风"
+  },
+  "deploy": {
+   "verdict": "noncore",
+   "reason": "部署方法理科高频 ｜册四十一轮严格学术核心口径降出（一审复核）"
+  },
+  "eliminate": {
+   "verdict": "core",
+   "reason": "排除高频"
+  },
+  "embody": {
+   "verdict": "noncore",
+   "reason": "低频体现"
+  },
+  "endorse": {
+   "verdict": "noncore",
+   "reason": "媒体表态语域"
+  },
+  "augment": {
+   "verdict": "noncore",
+   "reason": "低频增强"
+  },
+  "impede": {
+   "verdict": "noncore",
+   "reason": "低频阻碍"
+  },
+  "juxtapose": {
+   "verdict": "noncore",
+   "reason": "低频并置"
+  },
+  "rectify": {
+   "verdict": "noncore",
+   "reason": "低频纠正"
+  },
+  "temper": {
+   "verdict": "noncore",
+   "reason": "文学缓和"
+  },
+  "transcend": {
+   "verdict": "noncore",
+   "reason": "文学哲学"
+  },
+  "warrant": {
+   "verdict": "core",
+   "reason": "results warrant高频"
+  },
+  "probe": {
+   "verdict": "core",
+   "reason": "学术探查骨架动词（probe the mechanisms/data，双表命中）；原判「生动」系语域印象非频率证据，随 diffuse 同题复核改回核"
+  },
+  "offset": {
+   "verdict": "core",
+   "reason": "抵消经济高频"
+  },
+  "mean": {
+   "verdict": "noncore",
+   "reason": "意味着极高频 ｜册四十一轮严格学术核心口径降出（一审复核）"
+  },
+  "generalize": {
+   "verdict": "core",
+   "reason": "推广结论高频"
+  },
+  "paraphrase": {
+   "verdict": "noncore",
+   "reason": "写作教学术语"
+  },
+  "quote": {
+   "verdict": "noncore",
+   "reason": "新闻语域"
+  },
+  "caveat": {
+   "verdict": "noncore",
+   "reason": "限定提醒高频 ｜册四十一轮严格学术核心口径降出（一审复核）"
+  },
+  "confound": {
+   "verdict": "core",
+   "reason": "混淆方法高频"
+  },
+  "dataset": {
+   "verdict": "noncore",
+   "reason": "首轮 keep（data 族延伸，当代实证核心词）；二审 retain（II-M 当代实证核心词、频率上升）；属主口径裁定降出（用户直令 45-50% 带、仅 H 档计入 2026-11-16）"
+  },
+  "disparity": {
+   "verdict": "noncore",
+   "reason": "差距社会医学高频 ｜册四十一轮严格学术核心口径降出（一审复核）"
+  },
+  "discourse": {
+   "verdict": "noncore",
+   "reason": "语言人文窄域"
+  },
+  "distribution": {
+   "verdict": "core",
+   "reason": "分布统计高频"
+  },
+  "diversity": {
+   "verdict": "noncore",
+   "reason": "首轮 keep（AWL补命中；diversity 高频名词）；二审 retain（II-M 学科/文化多样性概念词）；属主口径裁定降出（用户直令 45-50% 带、仅 H 档计入 2026-11-16）"
+  },
+  "endpoint": {
+   "verdict": "noncore",
+   "reason": "临床试验窄域"
+  },
+  "error": {
+   "verdict": "core",
+   "reason": "误差极高频"
+  },
+  "evaluation": {
+   "verdict": "core",
+   "reason": "评估高频"
+  },
+  "fidelity": {
+   "verdict": "noncore",
+   "reason": "保真窄域"
+  },
+  "finding": {
+   "verdict": "core",
+   "reason": "findings极高频"
+  },
+  "gap": {
+   "verdict": "noncore",
+   "reason": "首轮 keep（research gap=立论段骨架词（缺口论述必备））；二审降（II-L 批文点名泛义类；立论功能系 research gap 语块）"
+  },
+  "gradient": {
+   "verdict": "noncore",
+   "reason": "数理梯度窄域"
+  },
+  "heterogeneity": {
+   "verdict": "noncore",
+   "reason": "异质族荟萃高频 ｜册四十一轮严格学术核心口径降出（一审复核）"
+  },
+  "incidence": {
+   "verdict": "core",
+   "reason": "发生率流病高频"
+  },
+  "inference": {
+   "verdict": "core",
+   "reason": "推断统计高频"
+  },
+  "intervention": {
+   "verdict": "core",
+   "reason": "干预医学教育高频"
+  },
+  "justification": {
+   "verdict": "core",
+   "reason": "正当性依据高频"
+  },
+  "limitation": {
+   "verdict": "core",
+   "reason": "局限章节极高频"
+  },
+  "literature": {
+   "verdict": "core",
+   "reason": "文献极高频"
+  },
+  "margin": {
+   "verdict": "noncore",
+   "reason": "边际误差高频 ｜册四十一轮严格学术核心口径降出（一审复核）"
+  },
+  "narrative": {
+   "verdict": "core",
+   "reason": "叙事综述高频"
+  },
+  "outlier": {
+   "verdict": "noncore",
+   "reason": "数据分析较窄"
+  },
+  "oversight": {
+   "verdict": "noncore",
+   "reason": "行政监管泛义"
+  },
+  "phenomenon": {
+   "verdict": "core",
+   "reason": "现象高频"
+  },
+  "prevalence": {
+   "verdict": "noncore",
+   "reason": "流行率高频 ｜册四十一轮严格学术核心口径降出（一审复核）"
+  },
+  "proportion": {
+   "verdict": "core",
+   "reason": "比例高频"
+  },
+  "proxy": {
+   "verdict": "noncore",
+   "reason": "代理变量较窄"
+  },
+  "regression": {
+   "verdict": "core",
+   "reason": "回归统计高频"
+  },
+  "reliability": {
+   "verdict": "core",
+   "reason": "信度高频"
+  },
+  "reproducibility": {
+   "verdict": "noncore",
+   "reason": "可复现高频 ｜册四十一轮严格学术核心口径降出（一审复核）"
+  },
+  "retrospective": {
+   "verdict": "noncore",
+   "reason": "研究设计标签"
+  },
+  "sample": {
+   "verdict": "core",
+   "reason": "样本极高频"
+  },
+  "saturation": {
+   "verdict": "core",
+   "reason": "饱和窄域 ｜册四十一轮严格学术核心口径晋升入核"
+  },
+  "sensitivity": {
+   "verdict": "core",
+   "reason": "敏感性分析高频"
+  },
+  "specificity": {
+   "verdict": "core",
+   "reason": "特异度与敏感成对"
+  },
+  "spectrum": {
+   "verdict": "noncore",
+   "reason": "谱系广泛高频 ｜册四十一轮严格学术核心口径降出（一审复核）"
+  },
+  "statistic": {
+   "verdict": "noncore",
+   "reason": "统计量族高频 ｜册四十一轮严格学术核心口径降出（一审复核）"
+  },
+  "tension": {
+   "verdict": "core",
+   "reason": "张力社会物理高频"
+  },
+  "theorem": {
+   "verdict": "noncore",
+   "reason": "数学定理窄域"
+  },
+  "uncertainty": {
+   "verdict": "noncore",
+   "reason": "首轮 keep（不确定性核心概念（量化/立场））；二审 retain（II-M quantify uncertainty 立场/量化概念）；属主口径裁定降出（用户直令 45-50% 带、仅 H 档计入 2026-11-16）"
+  },
+  "verification": {
+   "verdict": "core",
+   "reason": "验证方法高频"
+  },
+  "boundary": {
+   "verdict": "noncore",
+   "reason": "边界条件高频 ｜册四十一轮严格学术核心口径降出（一审复核）"
+  },
+  "baseline": {
+   "verdict": "core",
+   "reason": "基线理科高频"
+  },
+  "consistency": {
+   "verdict": "core",
+   "reason": "一致性高频"
+  },
+  "precision": {
+   "verdict": "core",
+   "reason": "精度高频"
+  },
+  "population": {
+   "verdict": "noncore",
+   "reason": "总体人口高频 ｜册四十一轮严格学术核心口径降出（一审复核）"
+  },
+  "coverage": {
+   "verdict": "noncore",
+   "reason": "覆盖率中高频 ｜册四十一轮严格学术核心口径降出（一审复核）"
+  },
+  "replication": {
+   "verdict": "core",
+   "reason": "复现研究高频"
+  },
+  "retention": {
+   "verdict": "noncore",
+   "reason": "留存率高频 ｜册四十一轮严格学术核心口径降出（一审复核）"
+  },
+  "significance": {
+   "verdict": "core",
+   "reason": "显著性高频"
+  },
+  "probability": {
+   "verdict": "noncore",
+   "reason": "概率高频 ｜册四十一轮严格学术核心口径降出（一审复核）"
+  },
+  "publication": {
+   "verdict": "core",
+   "reason": "发表高频"
+  },
+  "insight": {
+   "verdict": "core",
+   "reason": "见解高频"
+  },
+  "formulation": {
+   "verdict": "core",
+   "reason": "表述构想高频"
+  },
+  "contradiction": {
+   "verdict": "core",
+   "reason": "矛盾逻辑高频"
+  },
+  "comparison": {
+   "verdict": "noncore",
+   "reason": "首轮 keep（comparison with/between 高频（AWL 补命中））；二审 retain（II-M in comparison with/between 高频）；属主口径裁定降出（用户直令 45-50% 带、仅 H 档计入 2026-11-16）"
+  },
+  "dependence": {
+   "verdict": "core",
+   "reason": "依赖族高频"
+  },
+  "causation": {
+   "verdict": "core",
+   "reason": "因果与causal一致"
+  },
+  "estimation": {
+   "verdict": "core",
+   "reason": "估算统计高频"
+  },
+  "prediction": {
+   "verdict": "core",
+   "reason": "预测高频"
+  },
+  "citation": {
+   "verdict": "core",
+   "reason": "引用学术高频"
+  },
+  "introduction": {
+   "verdict": "noncore",
+   "reason": "首轮 keep（章节体裁名+引入义双载荷，学术行文高频）；二审 retain（II-M IMRaD 章体名+日常义并存）；属主口径裁定降出（用户直令 45-50% 带、仅 H 档计入 2026-11-16）"
+  },
+  "summary": {
+   "verdict": "core",
+   "reason": "摘要高频"
+  },
+  "background": {
+   "verdict": "noncore",
+   "reason": "研究背景高频 ｜册四十一轮严格学术核心口径降出（一审复核）"
+  },
+  "instrument": {
+   "verdict": "core",
+   "reason": "研究工具高频"
+  },
+  "respondent": {
+   "verdict": "core",
+   "reason": "AWL族实证高频"
+  },
+  "participant": {
+   "verdict": "core",
+   "reason": "AWL族实证高频"
+  },
+  "survey": {
+   "verdict": "core",
+   "reason": "AWL族研究方式词"
+  },
+  "questionnaire": {
+   "verdict": "noncore",
+   "reason": "实证方法必备 ｜册四十一轮严格学术核心口径降出（一审复核）"
+  },
+  "cohort": {
+   "verdict": "noncore",
+   "reason": "流行病学群术语"
+  },
+  "treatment": {
+   "verdict": "core",
+   "reason": "实验处理学术义"
+  },
+  "iteration": {
+   "verdict": "noncore",
+   "reason": "计算机域词"
+  },
+  "proposition": {
+   "verdict": "noncore",
+   "reason": "逻辑学专词"
+  },
+  "constituent": {
+   "verdict": "noncore",
+   "reason": "义项学术载荷低"
+  },
+  "periphery": {
+   "verdict": "core",
+   "reason": "AWL族"
+  },
+  "elasticity": {
+   "verdict": "noncore",
+   "reason": "经济物理专词"
+  },
+  "workload": {
+   "verdict": "noncore",
+   "reason": "通用高频词 ｜册四十一轮严格学术核心口径降出（一审复核）"
+  },
+  "applicable": {
+   "verdict": "noncore",
+   "reason": "首轮 keep（APPLICABLE 系 AWL APPLICATION 族成员（AWL 补命中）；避免）；二审 retain（II-M applicable to 高频、可辩护派生）；属主口径裁定降出（用户直令 45-50% 带、仅 H 档计入 2026-11-16）"
+  },
+  "deterministic": {
+   "verdict": "noncore",
+   "reason": "数学计算机群词"
+  },
+  "fundamental": {
+   "verdict": "core",
+   "reason": "立场形容词高频"
+  },
+  "meaningful": {
+   "verdict": "noncore",
+   "reason": "通用高频学术义 ｜册四十一轮严格学术核心口径降出（一审复核）"
+  },
+  "multidimensional": {
+   "verdict": "noncore",
+   "reason": "构式群低频"
+  },
+  "operational": {
+   "verdict": "noncore",
+   "reason": "方法学术语群(与operationalize族一致)"
+  },
+  "systemic": {
+   "verdict": "core",
+   "reason": "系统层面常用义"
+  },
+  "unified": {
+   "verdict": "noncore",
+   "reason": "学术载荷低"
+  },
+  "random": {
+   "verdict": "core",
+   "reason": "随机抽样必备"
+  },
+  "experimental": {
+   "verdict": "core",
+   "reason": "实证论文必备(机械假阴)"
+  },
+  "comparable": {
+   "verdict": "core",
+   "reason": "比较框架高频"
+  },
+  "respective": {
+   "verdict": "core",
+   "reason": "各自的常用连接义"
+  },
+  "ancillary": {
+   "verdict": "noncore",
+   "reason": "低频"
+  },
+  "observational": {
+   "verdict": "core",
+   "reason": "观察研究常用"
+  },
+  "cross-sectional": {
+   "verdict": "noncore",
+   "reason": "医学设计群词"
+  },
+  "dependent": {
+   "verdict": "core",
+   "reason": "变量搭配必备"
+  },
+  "correspondingly": {
+   "verdict": "core",
+   "reason": "逻辑副词"
+  },
+  "empirically": {
+   "verdict": "core",
+   "reason": "论证骨架词"
+  },
+  "implicitly": {
+   "verdict": "noncore",
+   "reason": "首轮 keep（implicit 族一致保族完整（副词随行））；二审 retain（II-M implicit 规则 -ly 派生、学术在用）；属主口径裁定降出（用户直令 45-50% 带、仅 H 档计入 2026-11-16）"
+  },
+  "principally": {
+   "verdict": "core",
+   "reason": "程度副词高频"
+  },
+  "quantitatively": {
+   "verdict": "core",
+   "reason": "论证骨架词"
+  },
+  "qualitatively": {
+   "verdict": "core",
+   "reason": "论证骨架词"
+  },
+  "retrospectively": {
+   "verdict": "noncore",
+   "reason": "低频医学群词"
+  },
+  "significantly": {
+   "verdict": "core",
+   "reason": "极高频结果陈述"
+  },
+  "tentatively": {
+   "verdict": "noncore",
+   "reason": "低频"
+  },
+  "largely": {
+   "verdict": "noncore",
+   "reason": "首轮 keep（程度归因高频副词（largely driven/explained by））；二审 retain（II-M largely driven by 归因高频）；属主口径裁定降出（用户直令 45-50% 带、仅 H 档计入 2026-11-16）"
+  },
+  "precisely": {
+   "verdict": "core",
+   "reason": "精确化论证常用"
+  },
+  "rapidly": {
+   "verdict": "noncore",
+   "reason": "趋势描述高频 ｜册四十一轮严格学术核心口径降出（一审复核）"
+  },
+  "comparatively": {
+   "verdict": "noncore",
+   "reason": "比较论证常用 ｜册四十一轮严格学术核心口径降出（一审复核）"
+  },
+  "for example": {
+   "verdict": "core",
+   "reason": "举例连接极高频"
+  },
+  "for instance": {
+   "verdict": "core",
+   "reason": "举例连接高频"
+  },
+  "in general": {
+   "verdict": "noncore",
+   "reason": "首轮 keep（概括连接语块，限定/推广行文必备）；二审 retain（II-M 概括语块，与 generally 同档）；属主口径裁定降出（用户直令 45-50% 带、仅 H 档计入 2026-11-16）"
+  },
+  "in fact": {
+   "verdict": "core",
+   "reason": "纠正强调高频"
+  },
+  "in particular": {
+   "verdict": "core",
+   "reason": "聚焦连接高频"
+  },
+  "in terms of": {
+   "verdict": "core",
+   "reason": "22连接语块白名单"
+  },
+  "with respect to": {
+   "verdict": "core",
+   "reason": "22连接语块白名单"
+  },
+  "compared with": {
+   "verdict": "core",
+   "reason": "比较语块高频"
+  },
+  "versus": {
+   "verdict": "core",
+   "reason": "对比常用"
+  },
+  "despite": {
+   "verdict": "core",
+   "reason": "22连接语块白名单"
+  },
+  "until": {
+   "verdict": "noncore",
+   "reason": "通用高频连词 ｜册四十一轮严格学术核心口径降出（一审复核）"
+  },
+  "on the other hand": {
+   "verdict": "core",
+   "reason": "转折语块高频"
+  },
+  "in other words": {
+   "verdict": "core",
+   "reason": "释义语块高频"
+  },
+  "as a result": {
+   "verdict": "core",
+   "reason": "因果语块极高频(机械假阴)"
+  },
+  "in conclusion": {
+   "verdict": "noncore",
+   "reason": "首轮 keep（收束篇章标记，Discussion/Conclusion 体裁词）；二审 retain（II-M 收束篇章标记、体裁词频中）；属主口径裁定降出（用户直令 45-50% 带、仅 H 档计入 2026-11-16）"
+  },
+  "in short": {
+   "verdict": "noncore",
+   "reason": "收束标记 ｜册四十一轮严格学术核心口径降出（一审复核）"
+  },
+  "to sum up": {
+   "verdict": "noncore",
+   "reason": "首轮 keep（篇章收束标记）；二审降（II-L 收束正对为 in summary/to conclude，讲义体）"
+  },
+  "that is": {
+   "verdict": "core",
+   "reason": "释义标记高频"
+  },
+  "correspond": {
+   "verdict": "core",
+   "reason": "一致论述高频"
+  },
+  "comply": {
+   "verdict": "noncore",
+   "reason": "行政合规群词"
+  },
+  "establish": {
+   "verdict": "core",
+   "reason": "报告动词确立义"
+  },
+  "facilitate": {
+   "verdict": "core",
+   "reason": "AWL族促进义"
+  },
+  "note": {
+   "verdict": "core",
+   "reason": "报告动词指出义"
+  },
+  "present": {
+   "verdict": "core",
+   "reason": "提出呈现高频"
+  },
+  "record": {
+   "verdict": "core",
+   "reason": "记录义高频"
+  },
+  "seek": {
+   "verdict": "core",
+   "reason": "试图义高频"
+  },
+  "show": {
+   "verdict": "core",
+   "reason": "报告动词极高频"
+  },
+  "tend": {
+   "verdict": "noncore",
+   "reason": "首轮 keep（倾向限定结构（tend to），hedging 高频）；二审 retain（II-M tend to 倾向 hedge 描述高频）；属主口径裁定降出（用户直令 45-50% 带、仅 H 档计入 2026-11-16）"
+  },
+  "view": {
+   "verdict": "noncore",
+   "reason": "观点名词高频 ｜册四十一轮严格学术核心口径降出（一审复核）"
+  },
+  "concern": {
+   "verdict": "core",
+   "reason": "点名学术功能词"
+  },
+  "enable": {
+   "verdict": "core",
+   "reason": "使能义高频"
+  },
+  "lack": {
+   "verdict": "noncore",
+   "reason": "缺口论述高频 ｜册四十一轮严格学术核心口径降出（一审复核）"
+  },
+  "aim": {
+   "verdict": "core",
+   "reason": "目的语高频"
+  },
+  "case": {
+   "verdict": "noncore",
+   "reason": "首轮 keep（in the case of/case 论证情形高频（与 case study 族呼应））；二审降（II-L 泛义承载词（规则例举类），case study 独立保留）"
+  },
+  "point": {
+   "verdict": "noncore",
+   "reason": "论点义极高频 ｜册四十一轮严格学术核心口径降出（一审复核）"
+  },
+  "type": {
+   "verdict": "noncore",
+   "reason": "类型义高频 ｜册四十一轮严格学术核心口径降出（一审复核）"
+  },
+  "field": {
+   "verdict": "noncore",
+   "reason": "首轮 keep（学科/田野义为文献综述骨架承载（in the field of/fieldwork））；二审降（II-L 泛义承载词（批文点名类），田野义由 fieldwork 等词形承担）"
+  },
+  "degree": {
+   "verdict": "core",
+   "reason": "程度义高频"
+  },
+  "imply": {
+   "verdict": "core",
+   "reason": "报告动词高频"
+  },
+  "posit": {
+   "verdict": "noncore",
+   "reason": "哲学低频词"
+  },
+  "converge": {
+   "verdict": "noncore",
+   "reason": "中低频汇聚义"
+  },
+  "contextualize": {
+   "verdict": "core",
+   "reason": "定性方法常用"
+  },
+  "normalize": {
+   "verdict": "core",
+   "reason": "数据规整常用"
+  },
+  "standardize": {
+   "verdict": "noncore",
+   "reason": "AWL族方法词 ｜册四十一轮严格学术核心口径降出（一审复核）"
+  },
+  "stratify": {
+   "verdict": "noncore",
+   "reason": "抽样群术语"
+  },
+  "impute": {
+   "verdict": "noncore",
+   "reason": "统计群术语"
+  },
+  "triangulate": {
+   "verdict": "noncore",
+   "reason": "窄方法词点名"
+  },
+  "saturate": {
+   "verdict": "core",
+   "reason": "化学特定用法 ｜册四十一轮严格学术核心口径晋升入核"
+  },
+  "overestimate": {
+   "verdict": "noncore",
+   "reason": "通用词学术载荷高(机械假阴) ｜册四十一轮严格学术核心口径降出（一审复核）"
+  },
+  "underestimate": {
+   "verdict": "core",
+   "reason": "通用词学术载荷高(机械假阴)"
+  },
+  "enforce": {
+   "verdict": "core",
+   "reason": "政策实施搭配"
+  },
+  "regress": {
+   "verdict": "noncore",
+   "reason": "统计群术语"
+  },
+  "control": {
+   "verdict": "core",
+   "reason": "对照组必备"
+  },
+  "verify": {
+   "verdict": "core",
+   "reason": "验证流程词(机械假阴)"
+  },
+  "operationalize": {
+   "verdict": "noncore",
+   "reason": "方法学群术语"
+  },
+  "effect": {
+   "verdict": "core",
+   "reason": "效应义极高频"
+  },
+  "parameter": {
+   "verdict": "core",
+   "reason": "AWL族模型词"
+  },
+  "anomaly": {
+   "verdict": "noncore",
+   "reason": "异常描述中频 ｜册四十一轮严格学术核心口径降出（一审复核）"
+  },
+  "replicate": {
+   "verdict": "core",
+   "reason": "复现验证通用(机械假阴)"
+  },
+  "document": {
+   "verdict": "core",
+   "reason": "报告动词记录义"
+  },
+  "attribute": {
+   "verdict": "core",
+   "reason": "归因动词高频"
+  },
+  "convention": {
+   "verdict": "noncore",
+   "reason": "惯例义中低频"
+  },
+  "post hoc": {
+   "verdict": "noncore",
+   "reason": "拉丁专短语不豁免"
+  },
+  "power": {
+   "verdict": "noncore",
+   "reason": "通用极高频词(机械假阴) ｜册四十一轮严格学术核心口径降出（一审复核）"
+  },
+  "interpretation": {
+   "verdict": "core",
+   "reason": "结果解读高频"
+  },
+  "equivalent": {
+   "verdict": "core",
+   "reason": "等同比较高频"
+  },
+  "imbalance": {
+   "verdict": "noncore",
+   "reason": "中低频"
+  },
+  "inverse": {
+   "verdict": "noncore",
+   "reason": "数学群词"
+  },
+  "span": {
+   "verdict": "noncore",
+   "reason": "跨度义低频"
+  },
+  "spread": {
+   "verdict": "noncore",
+   "reason": "分布义中低频"
+  },
+  "subset": {
+   "verdict": "noncore",
+   "reason": "数学计算机群词"
+  },
+  "skew": {
+   "verdict": "noncore",
+   "reason": "统计群术语"
+  },
+  "weight": {
+   "verdict": "noncore",
+   "reason": "权重义常用 ｜册四十一轮严格学术核心口径降出（一审复核）"
+  },
+  "algorithm": {
+   "verdict": "noncore",
+   "reason": "计算机域专词"
+  },
+  "covariate": {
+   "verdict": "noncore",
+   "reason": "统计群术语"
+  },
+  "stratum": {
+   "verdict": "noncore",
+   "reason": "抽样群术语"
+  },
+  "sampling": {
+   "verdict": "core",
+   "reason": "实证方法必备"
+  },
+  "recruitment": {
+   "verdict": "noncore",
+   "reason": "研究管理群词"
+  },
+  "dropout": {
+   "verdict": "noncore",
+   "reason": "教育医学群词"
+  },
+  "attrition": {
+   "verdict": "noncore",
+   "reason": "流失群词点名"
+  },
+  "ethics": {
+   "verdict": "noncore",
+   "reason": "首轮 keep（研究伦理/ethics statement 必备（AWL补命中近））；二审 retain（II-M research ethics/ethics statement 必备）；属主口径裁定降出（用户直令 45-50% 带、仅 H 档计入 2026-11-16）"
+  },
+  "anonymity": {
+   "verdict": "noncore",
+   "reason": "低频"
+  },
+  "interview": {
+   "verdict": "noncore",
+   "reason": "访谈方法常用(机械假阴) ｜册四十一轮严格学术核心口径降出（一审复核）"
+  },
+  "setting": {
+   "verdict": "noncore",
+   "reason": "研究情境常用(机械假阴) ｜册四十一轮严格学术核心口径降出（一审复核）"
+  },
+  "confounding": {
+   "verdict": "noncore",
+   "reason": "流病群术语"
+  },
+  "mediating": {
+   "verdict": "core",
+   "reason": "社科统计群(族一致) ｜册四十一轮严格学术核心口径晋升入核"
+  },
+  "moderating": {
+   "verdict": "core",
+   "reason": "社科统计群(族一致) ｜册四十一轮严格学术核心口径晋升入核"
+  },
+  "policy": {
+   "verdict": "core",
+   "reason": "政策研究极高频"
+  },
+  "institutional": {
+   "verdict": "core",
+   "reason": "制度层面高频"
+  },
+  "organizational": {
+   "verdict": "noncore",
+   "reason": "组织层面常用(机械假阴) ｜册四十一轮严格学术核心口径降出（一审复核）"
+  },
+  "societal": {
+   "verdict": "noncore",
+   "reason": "社会层面常用(机械假阴) ｜册四十一轮严格学术核心口径降出（一审复核）"
+  },
+  "demographic": {
+   "verdict": "noncore",
+   "reason": "首轮 keep（AWL补命中；样本描述必备（demographic characteristics））；二审 retain（II-M 样本描述必备（demographic characteristics））；属主口径裁定降出（用户直令 45-50% 带、仅 H 档计入 2026-11-16）"
+  },
+  "inclusion": {
+   "verdict": "noncore",
+   "reason": "首轮 keep（inclusion/exclusion criteria=方法段骨架对举术语）；二审 retain（II-M inclusion/exclusion criteria 方法段对举）；属主口径裁定降出（用户直令 45-50% 带、仅 H 档计入 2026-11-16）"
+  },
+  "disproportionate": {
+   "verdict": "noncore",
+   "reason": "中低频"
+  },
+  "inferential": {
+   "verdict": "core",
+   "reason": "统计基础概念"
+  },
+  "norm": {
+   "verdict": "core",
+   "reason": "社会规范高频"
+  },
+  "solely": {
+   "verdict": "noncore",
+   "reason": "限定副词常用(机械假阴) ｜册四十一轮严格学术核心口径降出（一审复核）"
+  },
+  "statistically": {
+   "verdict": "core",
+   "reason": "结果报告高频"
+  },
+  "analytically": {
+   "verdict": "noncore",
+   "reason": "低频"
+  },
+  "conceptually": {
+   "verdict": "core",
+   "reason": "概念实证对举骨架"
+  },
+  "evidently": {
+   "verdict": "core",
+   "reason": "显然立场副词"
+  },
+  "ostensibly": {
+   "verdict": "noncore",
+   "reason": "文学口吻"
+  },
+  "seemingly": {
+   "verdict": "noncore",
+   "reason": "看似限定常用 ｜册四十一轮严格学术核心口径降出（一审复核）"
+  },
+  "interviewer": {
+   "verdict": "noncore",
+   "reason": "派生低频"
+  },
+  "measurement": {
+   "verdict": "noncore",
+   "reason": "测量学高频 ｜册四十一轮严格学术核心口径降出（一审复核）"
+  },
+  "percentage": {
+   "verdict": "core",
+   "reason": "数据描述高频"
+  },
+  "frequency": {
+   "verdict": "core",
+   "reason": "频数义通用(机械假阴)"
+  },
+  "exposure": {
+   "verdict": "noncore",
+   "reason": "首轮 keep（AWL补命中 expose 族派生，exposure to 医学社科跨域高频）；二审 retain（II-M exposure to 医学社科跨域术语）；属主口径裁定降出（用户直令 45-50% 带、仅 H 档计入 2026-11-16）"
+  },
+  "risk": {
+   "verdict": "noncore",
+   "reason": "风险极高频(机械假阴) ｜册四十一轮严格学术核心口径降出（一审复核）"
+  },
+  "determinant": {
+   "verdict": "noncore",
+   "reason": "流病群词"
+  },
+  "mediator": {
+   "verdict": "core",
+   "reason": "社科统计群(族一致) ｜册四十一轮严格学术核心口径晋升入核"
+  },
+  "moderator": {
+   "verdict": "core",
+   "reason": "首轮 keep（同上，调节变量标准术语（上轮族一致性提入原判据在新口径下仍成立））；二审 retain（II-M 论坛义干扰下学术义仍稳）；属主口径裁定降出（用户直令 45-50% 带、仅 H 档计入 2026-11-16）"
+  },
+  "replicability": {
+   "verdict": "noncore",
+   "reason": "复现族一致判core ｜册四十一轮严格学术核心口径降出（一审复核）"
+  },
+  "generalizability": {
+   "verdict": "core",
+   "reason": "讨论局限常用(机械假阴)"
+  },
+  "response": {
+   "verdict": "noncore",
+   "reason": "回应率高频 ｜册四十一轮严格学术核心口径降出（一审复核）"
+  },
+  "follow-up": {
+   "verdict": "core",
+   "reason": "随访研究常用"
+  },
+  "meta-analysis": {
+   "verdict": "noncore",
+   "reason": "综述设计群词"
+  },
+  "disaggregate": {
+   "verdict": "noncore",
+   "reason": "低频统计义;与 aggregate 系频率/窄域有别(40.4 判例)"
+  },
+  "multicollinearity": {
+   "verdict": "noncore",
+   "reason": "点名窄域词"
+  },
+  "efficiency": {
+   "verdict": "noncore",
+   "reason": "效率极高频(机械假阴) ｜册四十一轮严格学术核心口径降出（一审复核）"
+  },
+  "deductive": {
+   "verdict": "core",
+   "reason": "推理对举高频"
+  },
+  "inductive": {
+   "verdict": "core",
+   "reason": "推理对举高频(翻机械案)"
+  },
+  "contribution": {
+   "verdict": "core",
+   "reason": "贡献论述高频"
+  },
+  "operationalization": {
+   "verdict": "noncore",
+   "reason": "方法学群术语"
+  },
+  "confounder": {
+   "verdict": "noncore",
+   "reason": "流病群术语(族一致)"
+  },
+  "falsify": {
+   "verdict": "noncore",
+   "reason": "哲学方法论低频"
+  },
+  "mediation": {
+   "verdict": "core",
+   "reason": "社科统计群(族一致) ｜册四十一轮严格学术核心口径晋升入核"
+  },
+  "moderation": {
+   "verdict": "core",
+   "reason": "社科统计群(族一致) ｜册四十一轮严格学术核心口径晋升入核"
+  },
+  "endogeneity": {
+   "verdict": "noncore",
+   "reason": "计量群词点名"
+  },
+  "propensity": {
+   "verdict": "noncore",
+   "reason": "得分群词点名"
+  },
+  "placebo": {
+   "verdict": "noncore",
+   "reason": "试验专词点名"
+  },
+  "blinding": {
+   "verdict": "noncore",
+   "reason": "试验专词点名"
+  },
+  "allocation": {
+   "verdict": "core",
+   "reason": "资源配置常用(机械假阴)"
+  },
+  "case-control": {
+   "verdict": "noncore",
+   "reason": "试验设计群点名"
+  },
+  "effect size": {
+   "verdict": "noncore",
+   "reason": "量化专短语(effect核不受影响)"
+  },
+  "mixed-method": {
+   "verdict": "noncore",
+   "reason": "窄方法术语"
+  },
+  "cluster": {
+   "verdict": "noncore",
+   "reason": "统计聚类常用 ｜册四十一轮严格学术核心口径降出（一审复核）"
+  },
+  "panel": {
+   "verdict": "noncore",
+   "reason": "专家组面板数据常用 ｜册四十一轮严格学术核心口径降出（一审复核）"
+  },
+  "pooled": {
+   "verdict": "noncore",
+   "reason": "统计合并估计窄"
+  },
+  "prospective": {
+   "verdict": "core",
+   "reason": "研究设计高频"
+  },
+  "pragmatic": {
+   "verdict": "noncore",
+   "reason": "务实表态常用 ｜册四十一轮严格学术核心口径降出（一审复核）"
+  },
+  "reflexivity": {
+   "verdict": "noncore",
+   "reason": "质性研究窄术语"
+  },
+  "positionality": {
+   "verdict": "noncore",
+   "reason": "质性研究窄术语"
+  },
+  "critique": {
+   "verdict": "noncore",
+   "reason": "批判性写作常用 ｜册四十一轮严格学术核心口径降出（一审复核）"
+  },
+  "normative": {
+   "verdict": "core",
+   "reason": "规范性讨论常用"
+  },
+  "interpretive": {
+   "verdict": "core",
+   "reason": "研究范式描述常用"
+  },
+  "adoption": {
+   "verdict": "core",
+   "reason": "采纳推广高频搭配"
+  },
+  "uptake": {
+   "verdict": "noncore",
+   "reason": "采纳度域 specialize"
+  },
+  "adherence": {
+   "verdict": "noncore",
+   "reason": "医学依从窄词"
+  },
+  "dissemination": {
+   "verdict": "noncore",
+   "reason": "首轮 keep（disseminate 族一致）；二审 retain（II-M 族一致）；属主口径裁定降出（用户直令 45-50% 带、仅 H 档计入 2026-11-16）"
+  },
+  "scalability": {
+   "verdict": "noncore",
+   "reason": "工程域术语"
+  },
+  "equity": {
+   "verdict": "core",
+   "reason": "社会公平高频"
+  },
+  "bottleneck": {
+   "verdict": "noncore",
+   "reason": "具体工程比喻"
+  },
+  "alignment": {
+   "verdict": "noncore",
+   "reason": "一致性通用高频 ｜册四十一轮严格学术核心口径降出（一审复核）"
+  },
+  "overlap": {
+   "verdict": "core",
+   "reason": "重叠描述常用"
+  },
+  "milestone": {
+   "verdict": "noncore",
+   "reason": "管理项目词"
+  },
+  "blueprint": {
+   "verdict": "noncore",
+   "reason": "具体比喻词"
+  },
+  "tipping point": {
+   "verdict": "noncore",
+   "reason": "流行概念话题词"
+  },
+  "explicate": {
+   "verdict": "core",
+   "reason": "低频正式词 ｜册四十一轮严格学术核心口径晋升入核"
+  },
+  "enumerate": {
+   "verdict": "core",
+   "reason": "正式列举常用"
+  },
+  "discern": {
+   "verdict": "noncore",
+   "reason": "辨察中低频"
+  },
+  "elicit": {
+   "verdict": "noncore",
+   "reason": "问卷方法窄词"
+  },
+  "illuminate": {
+   "verdict": "noncore",
+   "reason": "偏文学阐释"
+  },
+  "preclude": {
+   "verdict": "noncore",
+   "reason": "低频正式词"
+  },
+  "surmount": {
+   "verdict": "noncore",
+   "reason": "低频文学词"
+  },
+  "undertake": {
+   "verdict": "noncore",
+   "reason": "首轮 keep（研究动作（undertake a study））；二审 retain（II-M undertake a study 研究动作，日常义并存）；属主口径裁定降出（用户直令 45-50% 带、仅 H 档计入 2026-11-16）"
+  },
+  "necessitate": {
+   "verdict": "noncore",
+   "reason": "正式必要动词 ｜册四十一轮严格学术核心口径降出（一审复核）"
+  },
+  "alleviate": {
+   "verdict": "noncore",
+   "reason": "贫困症状缓解常用 ｜册四十一轮严格学术核心口径降出（一审复核）"
+  },
+  "deviate": {
+   "verdict": "core",
+   "reason": "偏离描述常用"
+  },
+  "consolidate": {
+   "verdict": "core",
+   "reason": "巩固整合常用"
+  },
+  "conceptualization": {
+   "verdict": "noncore",
+   "reason": "窄方法名词"
+  },
+  "quantification": {
+   "verdict": "noncore",
+   "reason": "量化名词中低频"
+  },
+  "preregistration": {
+   "verdict": "noncore",
+   "reason": "开放科学窄词"
+  },
+  "disclosure": {
+   "verdict": "noncore",
+   "reason": "财务伦理域词"
+  },
+  "confidentiality": {
+   "verdict": "noncore",
+   "reason": "伦理程序专词"
+  },
+  "plagiarism": {
+   "verdict": "noncore",
+   "reason": "诚信话题词"
+  },
+  "register": {
+   "verdict": "core",
+   "reason": "本文义语言学专 ｜册四十一轮严格学术核心口径晋升入核"
+  },
+  "genre": {
+   "verdict": "noncore",
+   "reason": "人文体裁专词"
+  },
+  "counterargument": {
+   "verdict": "noncore",
+   "reason": "首轮 keep（论证结构词（反驳/让步骨架））；二审 retain（II-M 论证结构词（反驳/让步））；属主口径裁定降出（用户直令 45-50% 带、仅 H 档计入 2026-11-16）"
+  },
+  "cohesion": {
+   "verdict": "noncore",
+   "reason": "本文义语言学专"
+  },
+  "wording": {
+   "verdict": "noncore",
+   "reason": "通用学术载荷低"
+  },
+  "triangulation": {
+   "verdict": "noncore",
+   "reason": "窄方法术语"
+  },
+  "conceptual": {
+   "verdict": "core",
+   "reason": "概念框架高频"
+  },
+  "multidisciplinary": {
+   "verdict": "noncore",
+   "reason": "跨学科语境常见 ｜册四十一轮严格学术核心口径降出（一审复核）"
+  },
+  "thematic": {
+   "verdict": "noncore",
+   "reason": "主题分析常用 ｜册四十一轮严格学术核心口径降出（一审复核）"
+  },
+  "rhetorical": {
+   "verdict": "noncore",
+   "reason": "人文修辞域词"
+  },
+  "exploratory": {
+   "verdict": "noncore",
+   "reason": "首轮 keep（AWL补命中 exploratory study 研究类型骨架词）；二审 retain（II-M exploratory study 体裁搭配实而频率中等）；属主口径裁定降出（用户直令 45-50% 带、仅 H 档计入 2026-11-16）"
+  },
+  "influential": {
+   "verdict": "noncore",
+   "reason": "影响表态高频 ｜册四十一轮严格学术核心口径降出（一审复核）"
+  },
+  "require": {
+   "verdict": "core",
+   "reason": "通用高频动词"
+  },
+  "confirm": {
+   "verdict": "core",
+   "reason": "论证高频动词"
+  },
+  "assert": {
+   "verdict": "core",
+   "reason": "断言主张高频"
+  },
+  "emphasize": {
+   "verdict": "core",
+   "reason": "强调高频动词"
+  },
+  "underlie": {
+   "verdict": "core",
+   "reason": "机制解释高频"
+  },
+  "constrain": {
+   "verdict": "noncore",
+   "reason": "限制制约常用 ｜册四十一轮严格学术核心口径降出（一审复核）"
+  },
+  "ground": {
+   "verdict": "noncore",
+   "reason": "首轮 keep（be grounded in=理论依据骨架搭配（grounded theory））；二审 retain（II-M be grounded in 理论依据搭配）；属主口径裁定降出（用户直令 45-50% 带、仅 H 档计入 2026-11-16）"
+  },
+  "domain": {
+   "verdict": "core",
+   "reason": "领域语境高频"
+  },
+  "shift": {
+   "verdict": "core",
+   "reason": "范式转变高频"
+  },
+  "notion": {
+   "verdict": "core",
+   "reason": "概念观念常用"
+  },
+  "agenda": {
+   "verdict": "noncore",
+   "reason": "研究议程高频 ｜册四十一轮严格学术核心口径降出（一审复核）"
+  },
+  "causality": {
+   "verdict": "core",
+   "reason": "因果表述常用"
+  },
+  "mortality": {
+   "verdict": "noncore",
+   "reason": "流行病域话题词"
+  },
+  "credibility": {
+   "verdict": "noncore",
+   "reason": "首轮 keep（证据评估词；credibility of findings 论证常用）；二审 retain（II-M 证据评估词）；属主口径裁定降出（用户直令 45-50% 带、仅 H 档计入 2026-11-16）"
+  },
+  "fieldwork": {
+   "verdict": "noncore",
+   "reason": "质性方法窄词"
+  },
+  "case study": {
+   "verdict": "core",
+   "reason": "个案研究高频"
+  },
+  "literature review": {
+   "verdict": "core",
+   "reason": "文献综述极高频"
+  },
+  "grounded theory": {
+   "verdict": "noncore",
+   "reason": "方法专名"
+  },
+  "exhaustive": {
+   "verdict": "core",
+   "reason": "详尽综述常用"
+  },
+  "broad": {
+   "verdict": "noncore",
+   "reason": "广义高频通用词 ｜册四十一轮严格学术核心口径降出（一审复核）"
+  },
+  "verbatim": {
+   "verdict": "noncore",
+   "reason": "转录专用低频"
+  },
+  "in light of": {
+   "verdict": "core",
+   "reason": "指定连接语块"
+  },
+  "on the basis of": {
+   "verdict": "core",
+   "reason": "指定连接语块"
+  },
+  "by means of": {
+   "verdict": "core",
+   "reason": "指定连接语块"
+  },
+  "as such": {
+   "verdict": "core",
+   "reason": "正式连接高频"
+  },
+  "per se": {
+   "verdict": "core",
+   "reason": "拉丁虚词低频 ｜册四十一轮严格学术核心口径晋升入核"
+  },
+  "with regard to": {
+   "verdict": "core",
+   "reason": "指定连接语块"
+  },
+  "inter alia": {
+   "verdict": "core",
+   "reason": "拉丁虚词低频 ｜册四十一轮严格学术核心口径晋升入核"
+  },
+  "vice versa": {
+   "verdict": "core",
+   "reason": "对转短语高频"
+  },
+  "acknowledge": {
+   "verdict": "core",
+   "reason": "承认致谢高频"
+  },
+  "assemble": {
+   "verdict": "core",
+   "reason": "汇集数据常用"
+  },
+  "assist": {
+   "verdict": "core",
+   "reason": "协助通用高频"
+  },
+  "associate": {
+   "verdict": "core",
+   "reason": "关联表达极高频"
+  },
+  "communicate": {
+   "verdict": "core",
+   "reason": "成果交流高频"
+  },
+  "compile": {
+   "verdict": "core",
+   "reason": "汇编文献常用"
+  },
+  "consume": {
+   "verdict": "core",
+   "reason": "资源消耗常用"
+  },
+  "cooperate": {
+   "verdict": "core",
+   "reason": "合作通用高频"
+  },
+  "create": {
+   "verdict": "noncore",
+   "reason": "超高频通用词 ｜册四十一轮严格学术核心口径降出（一审复核）"
+  },
+  "distort": {
+   "verdict": "core",
+   "reason": "歪曲偏误常用"
+  },
+  "expand": {
+   "verdict": "core",
+   "reason": "扩展详述常用"
+  },
+  "participate": {
+   "verdict": "core",
+   "reason": "参与研究高频"
+  },
+  "prescribe": {
+   "verdict": "core",
+   "reason": "医学规定常用"
+  },
+  "secure": {
+   "verdict": "core",
+   "reason": "获取资助常用"
+  },
+  "association": {
+   "verdict": "core",
+   "reason": "关联研究高频"
+  },
+  "communication": {
+   "verdict": "core",
+   "reason": "交流通用高频"
+  },
+  "community": {
+   "verdict": "core",
+   "reason": "研究界高频"
+  },
+  "author": {
+   "verdict": "core",
+   "reason": "作者语境高频"
+  },
+  "conference": {
+   "verdict": "core",
+   "reason": "会议论文常用"
+  },
+  "department": {
+   "verdict": "noncore",
+   "reason": "机构词学术载荷低"
+  },
+  "economy": {
+   "verdict": "core",
+   "reason": "经济语境高频"
+  },
+  "emotion": {
+   "verdict": "noncore",
+   "reason": "心理行为高频 ｜册四十一轮严格学术核心口径降出（一审复核）"
+  },
+  "layer": {
+   "verdict": "core",
+   "reason": "层次比喻常用"
+  },
+  "output": {
+   "verdict": "core",
+   "reason": "产出成果高频"
+  },
+  "project": {
+   "verdict": "core",
+   "reason": "研究项目超高频"
+  },
+  "region": {
+   "verdict": "core",
+   "reason": "区域部位高频"
+  },
+  "revenue": {
+   "verdict": "noncore",
+   "reason": "财务域词"
+  },
+  "reward": {
+   "verdict": "core",
+   "reason": "点名学术功能高频"
+  },
+  "sector": {
+   "verdict": "core",
+   "reason": "公私部门高频"
+  },
+  "site": {
+   "verdict": "core",
+   "reason": "研究现场常用"
+  },
+  "status": {
+   "verdict": "core",
+   "reason": "地位现状高频"
+  },
+  "symbol": {
+   "verdict": "core",
+   "reason": "符号通用高频"
+  },
+  "theme": {
+   "verdict": "core",
+   "reason": "主题高频"
+  },
+  "topic": {
+   "verdict": "core",
+   "reason": "话题高频"
+  },
+  "volume": {
+   "verdict": "core",
+   "reason": "量卷册高频"
+  },
+  "chemical": {
+   "verdict": "noncore",
+   "reason": "化学学科描述词"
+  },
+  "digital": {
+   "verdict": "noncore",
+   "reason": "当代跨域高频 ｜册四十一轮严格学术核心口径降出（一审复核）"
+  },
+  "dynamic": {
+   "verdict": "core",
+   "reason": "动态系统常用"
+  },
+  "molecular": {
+   "verdict": "noncore",
+   "reason": "生化学科描述词"
+  },
+  "lead to": {
+   "verdict": "core",
+   "reason": "因果极高频"
+  },
+  "result in": {
+   "verdict": "core",
+   "reason": "因果极高频"
+  },
+  "result from": {
+   "verdict": "core",
+   "reason": "归因极高频"
+  },
+  "give rise to": {
+   "verdict": "core",
+   "reason": "因果高频语块"
+  },
+  "carry out": {
+   "verdict": "core",
+   "reason": "开展研究极高频"
+  },
+  "take into account": {
+   "verdict": "core",
+   "reason": "考量高频语块"
+  },
+  "shed light on": {
+   "verdict": "noncore",
+   "reason": "阐明常用语块 ｜册四十一轮严格学术核心口径降出（一审复核）"
+  },
+  "in practice": {
+   "verdict": "core",
+   "reason": "实践对照高频"
+  },
+  "in principle": {
+   "verdict": "core",
+   "reason": "原则对照高频"
+  },
+  "on average": {
+   "verdict": "core",
+   "reason": "统计表述极高频"
+  },
+  "in turn": {
+   "verdict": "noncore",
+   "reason": "首轮 keep（递转因果语块（X, in turn, affects Y）高频功能）；二审 retain（II-M 递转因果语块 X, in turn, Y）；属主口径裁定降出（用户直令 45-50% 带、仅 H 档计入 2026-11-16）"
+  },
+  "to some extent": {
+   "verdict": "noncore",
+   "reason": "首轮 keep（程度 hedging 语块，论证高频）；二审 retain（II-M 程度 hedge 语块）；属主口径裁定降出（用户直令 45-50% 带、仅 H 档计入 2026-11-16）"
+  },
+  "thereafter": {
+   "verdict": "core",
+   "reason": "正式时间连接常用"
+  },
+  "in that": {
+   "verdict": "noncore",
+   "reason": "低频正式连接"
+  },
+  "in addition to": {
+   "verdict": "core",
+   "reason": "指定连接语块"
+  },
+  "such as": {
+   "verdict": "core",
+   "reason": "指定连接语块"
+  },
+  "according to": {
+   "verdict": "core",
+   "reason": "指定连接语块"
+  },
+  "instead of": {
+   "verdict": "core",
+   "reason": "指定连接语块"
+  },
+  "as a result of": {
+   "verdict": "core",
+   "reason": "指定连接语块"
+  },
+  "apart from": {
+   "verdict": "core",
+   "reason": "指定连接语块"
+  },
+  "prior to": {
+   "verdict": "core",
+   "reason": "指定连接语块"
+  },
+  "relative to": {
+   "verdict": "core",
+   "reason": "指定连接语块"
+  },
+  "on the one hand": {
+   "verdict": "core",
+   "reason": "指定连接语块"
+  },
+  "in contrast to": {
+   "verdict": "core",
+   "reason": "指定连接语块"
+  },
+  "affect": {
+   "verdict": "core",
+   "reason": "影响极高频"
+  },
+  "adapt": {
+   "verdict": "core",
+   "reason": "适应改编常用"
+  },
+  "adjust": {
+   "verdict": "core",
+   "reason": "调参适应常用"
+  },
+  "administration": {
+   "verdict": "noncore",
+   "reason": "行政医疗域词"
+  },
+  "benefit": {
+   "verdict": "core",
+   "reason": "利益好处高频"
+  },
+  "commit": {
+   "verdict": "core",
+   "reason": "投入承诺常用"
+  },
+  "concentrate": {
+   "verdict": "core",
+   "reason": "集中专注高频"
+  },
+  "convert": {
+   "verdict": "noncore",
+   "reason": "学术搭配中低频"
+  },
+  "detect": {
+   "verdict": "core",
+   "reason": "检测高频"
+  },
+  "fund": {
+   "verdict": "core",
+   "reason": "资助高频"
+  },
+  "incentive": {
+   "verdict": "core",
+   "reason": "经济行为常用"
+  },
+  "inhibit": {
+   "verdict": "core",
+   "reason": "抑制机制常用"
+  },
+  "initiate": {
+   "verdict": "core",
+   "reason": "启动试验常用"
+  },
+  "motivate": {
+   "verdict": "core",
+   "reason": "动机驱使高频"
+  },
+  "persist": {
+   "verdict": "noncore",
+   "reason": "持续更常用continue"
+  },
+  "pose": {
+   "verdict": "noncore",
+   "reason": "pose挑战高频搭配 ｜册四十一轮严格学术核心口径降出（一审复核）"
+  },
+  "publish": {
+   "verdict": "core",
+   "reason": "发表高频"
+  },
+  "pursue": {
+   "verdict": "core",
+   "reason": "研究追求常用"
+  },
+  "reject": {
+   "verdict": "core",
+   "reason": "拒绝假设高频"
+  },
+  "resource": {
+   "verdict": "core",
+   "reason": "资源超高频"
+  },
+  "select": {
+   "verdict": "core",
+   "reason": "选择样本高频"
+  },
+  "submit": {
+   "verdict": "noncore",
+   "reason": "首轮 keep（研究动作/呈递论证动词（submit evidence））；二审 retain（II-M submit a manuscript 研究动作）；属主口径裁定降出（用户直令 45-50% 带、仅 H 档计入 2026-11-16）"
+  },
+  "suspend": {
+   "verdict": "core",
+   "reason": "暂停中止常用"
+  },
+  "transfer": {
+   "verdict": "core",
+   "reason": "转移迁移高频"
+  },
+  "violate": {
+   "verdict": "core",
+   "reason": "违背规范假设常用"
+  },
+  "withdraw": {
+   "verdict": "core",
+   "reason": "撤回退出方法学常用"
+  },
+  "accumulate": {
+   "verdict": "core",
+   "reason": "AWL族,证据积累高频"
+  },
+  "cite": {
+   "verdict": "core",
+   "reason": "引用论证骨架动词"
+  },
+  "dominate": {
+   "verdict": "noncore",
+   "reason": "首轮 keep（AWL补命中；dominant role 高频）；二审 retain（II-M dominant role 高频（勉强线以上、日常可替））；属主口径裁定降出（用户直令 45-50% 带、仅 H 档计入 2026-11-16）"
+  },
+  "exclude": {
+   "verdict": "core",
+   "reason": "AWL族,排除/筛选高频"
+  },
+  "interact": {
+   "verdict": "core",
+   "reason": "AWL族,互动研究高频"
+  },
+  "fluctuate": {
+   "verdict": "noncore",
+   "reason": "波动描述,量化研究常用 ｜册四十一轮严格学术核心口径降出（一审复核）"
+  },
+  "diminish": {
+   "verdict": "core",
+   "reason": "减弱论证常用"
+  },
+  "display": {
+   "verdict": "core",
+   "reason": "数据呈现高频动词"
+  },
+  "export": {
+   "verdict": "noncore",
+   "reason": "贸易话题词,学术载荷低"
+  },
+  "finance": {
+   "verdict": "core",
+   "reason": "学科与商业通用名词"
+  },
+  "format": {
+   "verdict": "core",
+   "reason": "数据/文本格式通用词"
+  },
+  "inspect": {
+   "verdict": "core",
+   "reason": "审查检查高频动词"
+  },
+  "legacy": {
+   "verdict": "core",
+   "reason": "既有/遗留,文献综述常用"
+  },
+  "legal": {
+   "verdict": "core",
+   "reason": "法律框架跨学科常用"
+  },
+  "parallel": {
+   "verdict": "core",
+   "reason": "类比论证 draw a parallel"
+  },
+  "passive": {
+   "verdict": "core",
+   "reason": "被动语态/被动收集高频"
+  },
+  "periodic": {
+   "verdict": "core",
+   "reason": "period 族,周期描述常用"
+  },
+  "reverse": {
+   "verdict": "core",
+   "reason": "逆转趋势高频动词"
+  },
+  "schedule": {
+   "verdict": "noncore",
+   "reason": "研究安排通用高频名词 ｜册四十一轮严格学术核心口径降出（一审复核）"
+  },
+  "track": {
+   "verdict": "noncore",
+   "reason": "追踪变化通用高频动词 ｜册四十一轮严格学术核心口径降出（一审复核）"
+  },
+  "transmit": {
+   "verdict": "core",
+   "reason": "传播/传送,医学工程高频"
+  },
+  "contract": {
+   "verdict": "core",
+   "reason": "合同,法学商业通用名词"
+  },
+  "deteriorate": {
+   "verdict": "noncore",
+   "reason": "条件/健康恶化常用 ｜册四十一轮严格学术核心口径降出（一审复核）"
+  },
+  "complicate": {
+   "verdict": "core",
+   "reason": "使复杂化论证常用"
+  },
+  "diffuse": {
+   "verdict": "core",
+   "reason": "AWL 族双命中；社科 innovation diffusion 与理化 gases diffuse 两主用法皆学术高频，且本词条 senses 括注已自带 innovations diffused across disciplines 例——原判「语域偏窄」与词条自身声明矛盾，54e830 判例复核改回核"
+  },
+  "especially": {
+   "verdict": "core",
+   "reason": "高频强调副词"
+  },
+  "fundamentally": {
+   "verdict": "core",
+   "reason": "论证骨架词，论点层面"
+  },
+  "crucially": {
+   "verdict": "core",
+   "reason": "论证骨架词"
+  },
+  "importantly": {
+   "verdict": "core",
+   "reason": "骨架副词，点名论点权重"
+  },
+  "highly": {
+   "verdict": "core",
+   "reason": "程度副词学术搭配高频"
+  },
+  "thoroughly": {
+   "verdict": "core",
+   "reason": "方法程度副词学术搭配高频"
+  },
+  "extensively": {
+   "verdict": "core",
+   "reason": "研究范围副词学术高频"
+  },
+  "systematically": {
+   "verdict": "core",
+   "reason": "方法论副词学术骨架"
+  },
+  "rigorously": {
+   "verdict": "core",
+   "reason": "方法论副词学术骨架"
+  },
+  "accurately": {
+   "verdict": "core",
+   "reason": "方法报告副词学术骨架"
+  },
+  "efficiently": {
+   "verdict": "core",
+   "reason": "方法报告副词学术骨架"
+  },
+  "reliably": {
+   "verdict": "core",
+   "reason": "方法报告副词学术骨架"
+  },
+  "genuinely": {
+   "verdict": "core",
+   "reason": "真实性限定副词学术高频"
+  },
+  "independently": {
+   "verdict": "core",
+   "reason": "研究独立性副词学术高频"
+  },
+  "universally": {
+   "verdict": "core",
+   "reason": "全称限定副词学术高频"
+  },
+  "globally": {
+   "verdict": "core",
+   "reason": "全球尺度副词学术高频"
+  },
+  "politically": {
+   "verdict": "core",
+   "reason": "维度副词学术高频"
+  },
+  "socially": {
+   "verdict": "core",
+   "reason": "维度副词学术高频"
+  },
+  "historically": {
+   "verdict": "core",
+   "reason": "历史维度副词学术高频"
+  },
+  "culturally": {
+   "verdict": "core",
+   "reason": "文化维度副词学术高频"
+  },
+  "technically": {
+   "verdict": "core",
+   "reason": "维度副词学术高频"
+  },
+  "theoretically": {
+   "verdict": "core",
+   "reason": "理论层面副词学术高频"
+  },
+  "mathematically": {
+   "verdict": "core",
+   "reason": "数学层面副词学术高频"
+  },
+  "logically": {
+   "verdict": "core",
+   "reason": "逻辑层面副词学术高频"
+  },
+  "economically": {
+   "verdict": "core",
+   "reason": "维度副词学术高频"
+  },
+  "critically": {
+   "verdict": "core",
+   "reason": "批判性副词学术高频"
+  },
+  "previously": {
+   "verdict": "core",
+   "reason": "AWL词族"
+  },
+  "continuously": {
+   "verdict": "core",
+   "reason": "持续性副词学术高频"
+  },
+  "intermittently": {
+   "verdict": "core",
+   "reason": "间断性副词学术高频"
+  },
+  "intentionally": {
+   "verdict": "core",
+   "reason": "意图副词学术高频"
+  },
+  "voluntarily": {
+   "verdict": "core",
+   "reason": "受试者特征副词学术高频"
+  },
+  "spontaneously": {
+   "verdict": "core",
+   "reason": "行为特征副词学术高频"
+  },
+  "indefinitely": {
+   "verdict": "core",
+   "reason": "时间范围副词学术高频"
+  },
+  "temporarily": {
+   "verdict": "core",
+   "reason": "时间范围副词学术高频"
+  },
+  "as well": {
+   "verdict": "core",
+   "reason": "累加连接语块"
+  },
+  "as well as": {
+   "verdict": "core",
+   "reason": "累加连接语块高频"
+  },
+  "as far as": {
+   "verdict": "core",
+   "reason": "限定连接语块，学术常用"
+  },
+  "in order that": {
+   "verdict": "core",
+   "reason": "正式目的连词，学术书面高频"
+  },
+  "lest": {
+   "verdict": "core",
+   "reason": "正式目的连词，学术书面高频"
+  },
+  "scarcely": {
+   "verdict": "noncore",
+   "reason": "通用高频频率副词"
+  },
+  "hardly": {
+   "verdict": "noncore",
+   "reason": "通用高频频率副词"
+  },
+  "seldom": {
+   "verdict": "noncore",
+   "reason": "通用高频频率副词"
+  },
+  "chiefly": {
+   "verdict": "noncore",
+   "reason": "通用高频程度副词"
+  },
+  "marginally": {
+   "verdict": "noncore",
+   "reason": "通用高频程度副词"
+  },
+  "slightly": {
+   "verdict": "noncore",
+   "reason": "通用高频程度副词"
+  },
+  "vastly": {
+   "verdict": "noncore",
+   "reason": "通用高频程度副词"
+  },
+  "infinitely": {
+   "verdict": "noncore",
+   "reason": "通用高频程度副词"
+  },
+  "equally": {
+   "verdict": "noncore",
+   "reason": "通用高频程度副词"
+  },
+  "uniquely": {
+   "verdict": "noncore",
+   "reason": "通用高频程度副词"
+  },
+  "nearly": {
+   "verdict": "noncore",
+   "reason": "通用高频程度副词"
+  },
+  "almost": {
+   "verdict": "noncore",
+   "reason": "通用高频程度副词"
+  },
+  "fully": {
+   "verdict": "noncore",
+   "reason": "通用高频程度副词"
+  },
+  "entirely": {
+   "verdict": "noncore",
+   "reason": "通用高频程度副词"
+  },
+  "completely": {
+   "verdict": "noncore",
+   "reason": "通用高频程度副词"
+  },
+  "totally": {
+   "verdict": "noncore",
+   "reason": "通用高频程度副词"
+  },
+  "partially": {
+   "verdict": "noncore",
+   "reason": "通用高频程度副词"
+  },
+  "minimally": {
+   "verdict": "noncore",
+   "reason": "通用高频程度副词"
+  },
+  "broadly": {
+   "verdict": "noncore",
+   "reason": "概括副词，与 generally 同档"
+  },
+  "successfully": {
+   "verdict": "noncore",
+   "reason": "通用高频结果副词"
+  },
+  "immediately": {
+   "verdict": "noncore",
+   "reason": "通用高频时间副词"
+  },
+  "already": {
+   "verdict": "noncore",
+   "reason": "通用高频时间副词"
+  },
+  "suddenly": {
+   "verdict": "noncore",
+   "reason": "通用高频时间副词"
+  },
+  "slowly": {
+   "verdict": "noncore",
+   "reason": "通用高频时间副词"
+  },
+  "beforehand": {
+   "verdict": "noncore",
+   "reason": "通用高频时间副词"
+  },
+  "afterwards": {
+   "verdict": "noncore",
+   "reason": "通用高频时间副词"
+  },
+  "once": {
+   "verdict": "noncore",
+   "reason": "通用高频时间副词"
+  },
+  "altogether": {
+   "verdict": "noncore",
+   "reason": "通用高频程度副词"
+  },
+  "certainly": {
+   "verdict": "noncore",
+   "reason": "通用高频确信副词"
+  },
+  "definitely": {
+   "verdict": "noncore",
+   "reason": "通用高频确信副词"
+  },
+  "even": {
+   "verdict": "noncore",
+   "reason": "通用高频程度副词"
+  },
+  "rather": {
+   "verdict": "noncore",
+   "reason": "通用高频程度副词"
+  },
+  "finally": {
+   "verdict": "noncore",
+   "reason": "篇章收束标记"
+  },
+  "at least": {
+   "verdict": "noncore",
+   "reason": "数量限定语块，通用"
+  },
+  "at most": {
+   "verdict": "noncore",
+   "reason": "数量限定语块，通用"
+  },
+  "on the contrary": {
+   "verdict": "noncore",
+   "reason": "对比语块，正对为 by contrast/in contrast"
+  },
+  "above all": {
+   "verdict": "noncore",
+   "reason": "强调语块，通用"
+  },
+  "after all": {
+   "verdict": "noncore",
+   "reason": "收束语块，通用"
+  },
+  "if": {
+   "verdict": "noncore",
+   "reason": "通用高频条件连词，书面正对为 provided that/unless"
+  },
+  "than": {
+   "verdict": "noncore",
+   "reason": "通用高频比较连词"
+  },
+  "as": {
+   "verdict": "noncore",
+   "reason": "通用高频连接词"
+  },
+  "then": {
+   "verdict": "noncore",
+   "reason": "通用高频连接副词"
+  },
+  "when": {
+   "verdict": "noncore",
+   "reason": "通用高频时间连词"
+  },
+  "whenever": {
+   "verdict": "noncore",
+   "reason": "通用高频时间连词"
+  },
+  "wherever": {
+   "verdict": "noncore",
+   "reason": "通用高频地点连词"
+  },
+  "whichever": {
+   "verdict": "noncore",
+   "reason": "通用高频选择连词"
+  },
+  "whatever": {
+   "verdict": "noncore",
+   "reason": "通用高频让步连词"
+  },
+  "whoever": {
+   "verdict": "noncore",
+   "reason": "通用高频让步连词"
+  },
+  "nor": {
+   "verdict": "noncore",
+   "reason": "通用高频并列连词"
+  },
+  "neither": {
+   "verdict": "noncore",
+   "reason": "通用高频并列连词"
+  },
+  "as if": {
+   "verdict": "noncore",
+   "reason": "通用方式从句连接"
+  },
+  "no matter": {
+   "verdict": "noncore",
+   "reason": "通用让步语块，书面正对为 regardless of"
+  },
+  "even so": {
+   "verdict": "noncore",
+   "reason": "通用让步语块"
+  },
+  "in case": {
+   "verdict": "noncore",
+   "reason": "目的语块，日常语域"
+  },
+  "now that": {
+   "verdict": "noncore",
+   "reason": "通用时间连词"
+  },
+  "as soon as": {
+   "verdict": "noncore",
+   "reason": "通用时间连接语块"
+  },
+  "supposing": {
+   "verdict": "noncore",
+   "reason": "假设连词，日常语域"
+  },
+  "assuming": {
+   "verdict": "noncore",
+   "reason": "假设连词，日常语域"
+  },
+  "adopt": {
+   "verdict": "core",
+   "reason": "AWL词族"
+  },
+  "administer": {
+   "verdict": "core",
+   "reason": "AWL词族"
+  },
+  "advise": {
+   "verdict": "noncore",
+   "reason": "通用建议动词"
+  },
+  "affiliate": {
+   "verdict": "noncore",
+   "reason": "通用隶属动词"
+  },
+  "anticipate": {
+   "verdict": "core",
+   "reason": "论证推进动词（预期）"
+  },
+  "authenticate": {
+   "verdict": "noncore",
+   "reason": "技术领域动词"
+  },
+  "capture": {
+   "verdict": "core",
+   "reason": "论证推进动词（捕捉现象）"
+  },
+  "classify": {
+   "verdict": "core",
+   "reason": "分析动作动词（分类）"
+  },
+  "conceive": {
+   "verdict": "core",
+   "reason": "AWL词族"
+  },
+  "concur": {
+   "verdict": "core",
+   "reason": "论证一致性动词"
+  },
+  "conform": {
+   "verdict": "core",
+   "reason": "AWL词族"
+  },
+  "consist": {
+   "verdict": "core",
+   "reason": "AWL词族"
+  },
+  "convey": {
+   "verdict": "core",
+   "reason": "AWL词族"
+  },
+  "cultivate": {
+   "verdict": "noncore",
+   "reason": "通用培养动词"
+  },
+  "dedicate": {
+   "verdict": "core",
+   "reason": "研究投入动词"
+  },
+  "depict": {
+   "verdict": "core",
+   "reason": "论证呈现动词（刻画）"
+  },
+  "displace": {
+   "verdict": "core",
+   "reason": "AWL词族"
+  },
+  "emerge": {
+   "verdict": "core",
+   "reason": "论证推进动词（结论浮现）"
+  },
+  "intensify": {
+   "verdict": "core",
+   "reason": "论证强化动词"
+  },
+  "incur": {
+   "verdict": "noncore",
+   "reason": "通用学术书面词，学术不承载论证功能"
+  },
+  "portray": {
+   "verdict": "core",
+   "reason": "AWL词族"
+  },
+  "stipulate": {
+   "verdict": "core",
+   "reason": "论证边界动词（规定条件）"
+  },
+  "stress": {
+   "verdict": "core",
+   "reason": "AWL词族"
+  },
+  "weaken": {
+   "verdict": "core",
+   "reason": "论证削弱动词"
+  },
+  "ambiguity": {
+   "verdict": "core",
+   "reason": "构念判读核心名词"
+  },
+  "component": {
+   "verdict": "core",
+   "reason": "AWL词族"
+  },
+  "consequence": {
+   "verdict": "core",
+   "reason": "AWL词族"
+  },
+  "construction": {
+   "verdict": "noncore",
+   "reason": "通用建构名词"
+  },
+  "consumption": {
+   "verdict": "noncore",
+   "reason": "通用消耗名词"
+  },
+  "cooperation": {
+   "verdict": "noncore",
+   "reason": "通用合作名词"
+  },
+  "controversy": {
+   "verdict": "core",
+   "reason": "AWL词族"
+  },
+  "density": {
+   "verdict": "noncore",
+   "reason": "通用密度名词"
+  },
+  "depth": {
+   "verdict": "noncore",
+   "reason": "通用深度名词"
+  },
+  "detection": {
+   "verdict": "core",
+   "reason": "方法检出核心名词"
+  },
+  "duration": {
+   "verdict": "core",
+   "reason": "AWL词族"
+  },
+  "ecology": {
+   "verdict": "noncore",
+   "reason": "生态学领域名词"
+  },
+  "epidemiology": {
+   "verdict": "noncore",
+   "reason": "流行病学领域名词"
+  },
+  "equilibrium": {
+   "verdict": "core",
+   "reason": "AWL词族"
+  },
+  "equivalence": {
+   "verdict": "noncore",
+   "reason": "通用学术书面词，学术不承载论证功能"
+  },
+  "essence": {
+   "verdict": "noncore",
+   "reason": "通用学术书面词，学术不承载论证功能"
+  },
+  "exclusion": {
+   "verdict": "core",
+   "reason": "样本规则核心名词"
+  },
+  "expectation": {
+   "verdict": "core",
+   "reason": "研究假设核心名词"
+  },
+  "expenditure": {
+   "verdict": "noncore",
+   "reason": "通用支出名词"
+  },
+  "extension": {
+   "verdict": "noncore",
+   "reason": "通用延伸名词"
+  },
+  "facility": {
+   "verdict": "core",
+   "reason": "AWL词族"
+  },
+  "feedback": {
+   "verdict": "core",
+   "reason": "AWL词族"
+  },
+  "friction": {
+   "verdict": "noncore",
+   "reason": "通用摩擦名词"
+  },
+  "generation": {
+   "verdict": "core",
+   "reason": "AWL词族"
+  },
+  "hierarchy": {
+   "verdict": "core",
+   "reason": "AWL词族"
+  },
+  "identity": {
+   "verdict": "core",
+   "reason": "构念同一性核心名词"
+  },
+  "index": {
+   "verdict": "core",
+   "reason": "AWL词族"
+  },
+  "induction": {
+   "verdict": "core",
+   "reason": "研究推理核心名词"
+  },
+  "initiative": {
+   "verdict": "noncore",
+   "reason": "通用主动性名词"
+  },
+  "inspection": {
+   "verdict": "noncore",
+   "reason": "通用检查名词"
+  },
+  "institution": {
+   "verdict": "core",
+   "reason": "AWL词族"
+  },
+  "integration": {
+   "verdict": "core",
+   "reason": "分析整合核心名词"
+  },
+  "intensity": {
+   "verdict": "core",
+   "reason": "AWL词族"
+  },
+  "interaction": {
+   "verdict": "core",
+   "reason": "分析对象核心名词"
+  },
+  "latency": {
+   "verdict": "noncore",
+   "reason": "技术领域名词"
+  },
+  "manifestation": {
+   "verdict": "noncore",
+   "reason": "通用表现名词"
+  },
+  "maturity": {
+   "verdict": "noncore",
+   "reason": "通用成熟度名词"
+  },
+  "modification": {
+   "verdict": "noncore",
+   "reason": "通用学术书面词，学术不承载论证功能"
+  },
+  "momentum": {
+   "verdict": "core",
+   "reason": "AWL词族"
+  },
+  "motivation": {
+   "verdict": "noncore",
+   "reason": "通用动机名词"
+  },
+  "necessity": {
+   "verdict": "core",
+   "reason": "论证要件核心名词"
+  },
+  "neutrality": {
+   "verdict": "noncore",
+   "reason": "通用中立名词"
+  },
+  "obligation": {
+   "verdict": "core",
+   "reason": "AWL词族"
+  },
+  "orientation": {
+   "verdict": "noncore",
+   "reason": "通用导向名词"
+  },
+  "participation": {
+   "verdict": "core",
+   "reason": "研究参与核心名词"
+  },
+  "partition": {
+   "verdict": "noncore",
+   "reason": "通用划分名词"
+  },
+  "partnership": {
+   "verdict": "noncore",
+   "reason": "通用合作类名词"
+  },
+  "persistence": {
+   "verdict": "core",
+   "reason": "研究持续性核心名词"
+  },
+  "practitioner": {
+   "verdict": "noncore",
+   "reason": "通用从业者名词"
+  },
+  "priority": {
+   "verdict": "core",
+   "reason": "研究议程核心名词"
+  },
+  "productivity": {
+   "verdict": "core",
+   "reason": "研究产出核心名词"
+  },
+  "proficiency": {
+   "verdict": "noncore",
+   "reason": "通用能力水平名词"
+  },
+  "profile": {
+   "verdict": "noncore",
+   "reason": "通用概况名词"
+  },
+  "projection": {
+   "verdict": "noncore",
+   "reason": "通用预测名词"
+  },
+  "promotion": {
+   "verdict": "core",
+   "reason": "AWL词族"
+  },
+  "provision": {
+   "verdict": "noncore",
+   "reason": "通用供给名词"
+  },
+  "qualification": {
+   "verdict": "noncore",
+   "reason": "通用资格名词"
+  },
+  "quota": {
+   "verdict": "noncore",
+   "reason": "通用配额名词"
+  },
+  "realism": {
+   "verdict": "noncore",
+   "reason": "通用立场名词"
+  },
+  "reciprocity": {
+   "verdict": "noncore",
+   "reason": "通用互惠名词"
+  },
+  "recommendation": {
+   "verdict": "noncore",
+   "reason": "通用建议类名词"
+  },
+  "recurrence": {
+   "verdict": "noncore",
+   "reason": "通用重现名词"
+  },
+  "reduction": {
+   "verdict": "core",
+   "reason": "结果变量核心名词"
+  },
+  "refinement": {
+   "verdict": "core",
+   "reason": "方法改进核心名词"
+  },
+  "reinforcement": {
+   "verdict": "noncore",
+   "reason": "通用强化名词"
+  },
+  "remedy": {
+   "verdict": "noncore",
+   "reason": "通用补救名词"
+  },
+  "reputation": {
+   "verdict": "noncore",
+   "reason": "通用声誉名词"
+  },
+  "reservation": {
+   "verdict": "noncore",
+   "reason": "通用保留名词"
+  },
+  "restriction": {
+   "verdict": "noncore",
+   "reason": "通用限制名词"
+  },
+  "retrieval": {
+   "verdict": "noncore",
+   "reason": "通用检索名词"
+  },
+  "revision": {
+   "verdict": "noncore",
+   "reason": "通用修订名词"
+  },
+  "rigor": {
+   "verdict": "noncore",
+   "reason": "通用严谨性名词"
+  },
+  "selection": {
+   "verdict": "core",
+   "reason": "样本选择核心名词"
+  },
+  "separation": {
+   "verdict": "core",
+   "reason": "分析区分核心名词"
+  },
+  "severity": {
+   "verdict": "noncore",
+   "reason": "通用程度名词"
+  },
+  "simulation": {
+   "verdict": "core",
+   "reason": "方法模拟核心名词"
+  },
+  "specification": {
+   "verdict": "core",
+   "reason": "分析设定核心名词"
+  },
+  "stability": {
+   "verdict": "core",
+   "reason": "结果稳健性核心名词"
+  },
+  "sufficiency": {
+   "verdict": "noncore",
+   "reason": "通用充分性名词"
+  },
+  "supervision": {
+   "verdict": "noncore",
+   "reason": "通用监督名词"
+  },
+  "supplement": {
+   "verdict": "core",
+   "reason": "AWL词族"
+  },
+  "survival": {
+   "verdict": "noncore",
+   "reason": "通用生存名词"
+  },
+  "tactic": {
+   "verdict": "noncore",
+   "reason": "通用策略名词"
+  },
+  "technology": {
+   "verdict": "core",
+   "reason": "AWL词族"
+  },
+  "tendency": {
+   "verdict": "noncore",
+   "reason": "通用倾向名词"
+  },
+  "terminology": {
+   "verdict": "noncore",
+   "reason": "通用术语名词"
+  },
+  "tolerance": {
+   "verdict": "noncore",
+   "reason": "通用容忍名词"
+  },
+  "transformation": {
+   "verdict": "noncore",
+   "reason": "通用转型名词"
+  },
+  "transmission": {
+   "verdict": "noncore",
+   "reason": "通用传递名词"
+  },
+  "typology": {
+   "verdict": "noncore",
+   "reason": "类型学专门名词"
+  },
+  "utilization": {
+   "verdict": "noncore",
+   "reason": "通用利用名词"
+  },
+  "variability": {
+   "verdict": "noncore",
+   "reason": "通用变异名词"
+  },
+  "variation": {
+   "verdict": "noncore",
+   "reason": "通用变异名词"
+  },
+  "viability": {
+   "verdict": "noncore",
+   "reason": "通用可行性名词"
+  },
+  "vitality": {
+   "verdict": "noncore",
+   "reason": "通用活力名词"
+  },
+  "volatility": {
+   "verdict": "noncore",
+   "reason": "通用波动性名词"
+  },
+  "welfare": {
+   "verdict": "core",
+   "reason": "AWL词族"
+  },
+  "accessible": {
+   "verdict": "noncore",
+   "reason": "通用可达性限定"
+  },
+  "accountable": {
+   "verdict": "core",
+   "reason": "学术问责口径限定"
+  },
+  "apparent": {
+   "verdict": "noncore",
+   "reason": "通用明显性限定"
+  },
+  "authentic": {
+   "verdict": "noncore",
+   "reason": "通用真实性限定"
+  },
+  "autonomous": {
+   "verdict": "core",
+   "reason": "研究自主性限定"
+  },
+  "beneficial": {
+   "verdict": "noncore",
+   "reason": "通用褒义限定"
+  },
+  "categorical": {
+   "verdict": "core",
+   "reason": "数据类型限定（分类变量）"
+  },
+  "characteristic": {
+   "verdict": "noncore",
+   "reason": "通用特征限定"
+  },
+  "collective": {
+   "verdict": "noncore",
+   "reason": "通用集合限定"
+  },
+  "conditional": {
+   "verdict": "core",
+   "reason": "条件性限定"
+  },
+  "deliberate": {
+   "verdict": "core",
+   "reason": "AWL词族"
+  },
+  "ethical": {
+   "verdict": "core",
+   "reason": "AWL词族"
+  },
+  "finite": {
+   "verdict": "noncore",
+   "reason": "数学域限定"
+  },
+  "formal": {
+   "verdict": "core",
+   "reason": "AWL词族"
+  },
+  "hypothetical": {
+   "verdict": "noncore",
+   "reason": "通用假设限定"
+  },
+  "identical": {
+   "verdict": "core",
+   "reason": "AWL词族"
+  },
+  "innovative": {
+   "verdict": "noncore",
+   "reason": "通用创新限定"
+  },
+  "interdependent": {
+   "verdict": "core",
+   "reason": "构念关系限定"
+  },
+  "logical": {
+   "verdict": "core",
+   "reason": "推理结构限定"
+  },
+  "measurable": {
+   "verdict": "core",
+   "reason": "可测量性限定"
+  },
+  "misleading": {
+   "verdict": "core",
+   "reason": "解释效度限定"
+  },
+  "neutral": {
+   "verdict": "core",
+   "reason": "AWL词族"
+  },
+  "observable": {
+   "verdict": "core",
+   "reason": "可观测性限定"
+  },
+  "paradoxical": {
+   "verdict": "core",
+   "reason": "反常结果限定"
+  },
+  "productive": {
+   "verdict": "noncore",
+   "reason": "通用多产限定"
+  },
+  "questionable": {
+   "verdict": "noncore",
+   "reason": "通用可疑限定"
+  },
+  "rational": {
+   "verdict": "core",
+   "reason": "AWL词族"
+  },
+  "realistic": {
+   "verdict": "noncore",
+   "reason": "通用现实限定"
+  },
+  "recurrent": {
+   "verdict": "noncore",
+   "reason": "通用重复限定"
+  },
+  "reputable": {
+   "verdict": "noncore",
+   "reason": "通用声望限定"
+  },
+  "scientific": {
+   "verdict": "core",
+   "reason": "科学性限定"
+  },
+  "structural": {
+   "verdict": "core",
+   "reason": "结构性限定"
+  },
+  "technological": {
+   "verdict": "core",
+   "reason": "技术维度限定"
+  },
+  "vulnerable": {
+   "verdict": "core",
+   "reason": "脆弱性限定"
+  },
+  "and": {
+   "verdict": "noncore",
+   "reason": "基础并列连词，不承载论证功能"
+  },
+  "or": {
+   "verdict": "noncore",
+   "reason": "基础选择连词，不承载论证功能"
+  },
+  "as though": {
+   "verdict": "core",
+   "reason": "方式连接词，论证让步于假设"
+  },
+  "other than": {
+   "verdict": "core",
+   "reason": "排除对比语块，论证设限"
+  },
+  "given": {
+   "verdict": "core",
+   "reason": "前提限定语块，学术论证高频"
+  },
+  "even when": {
+   "verdict": "core",
+   "reason": "让步连接语块，论证设限"
+  },
+  "so long as": {
+   "verdict": "core",
+   "reason": "条件连接语块，论证设限"
+  },
+  "to the extent that": {
+   "verdict": "core",
+   "reason": "程度限定连接语块"
+  },
+  "in the sense that": {
+   "verdict": "core",
+   "reason": "意义限定连接语块"
+  },
+  "on the assumption that": {
+   "verdict": "core",
+   "reason": "前提连接语块，论证设限"
+  },
+  "in the event that": {
+   "verdict": "core",
+   "reason": "条件连接语块，正式论证语域"
+  },
+  "except that": {
+   "verdict": "noncore",
+   "reason": "排除从句连接，书面频率低"
+  },
+  "on condition that": {
+   "verdict": "core",
+   "reason": "条件连接语块，论证设限"
+  },
+  "not only": {
+   "verdict": "core",
+   "reason": "递进连接词，与 but also 呼应"
+  },
+  "in any case": {
+   "verdict": "noncore",
+   "reason": "收束标记，通用"
+  },
+  "by the same token": {
+   "verdict": "core",
+   "reason": "递进连接标记"
+  },
+  "that said": {
+   "verdict": "core",
+   "reason": "转折让步标记"
+  },
+  "on the whole": {
+   "verdict": "noncore",
+   "reason": "概括标记，通用"
+  },
+  "with this in mind": {
+   "verdict": "noncore",
+   "reason": "提示短语，通用"
+  },
+  "by analogy": {
+   "verdict": "core",
+   "reason": "论证方法标记"
+  },
+  "as a case in point": {
+   "verdict": "core",
+   "reason": "举例论证标记"
+  },
+  "of note": {
+   "verdict": "noncore",
+   "reason": "提示短语，通用"
+  },
+  "in the meantime": {
+   "verdict": "noncore",
+   "reason": "时间副词短语，通用"
+  },
+  "by chance": {
+   "verdict": "noncore",
+   "reason": "偶然副词短语，通用"
+  },
+  "in order to": {
+   "verdict": "noncore",
+   "reason": "介词性固定语块（NO_POS）"
+  },
+  "in spite of": {
+   "verdict": "noncore",
+   "reason": "介词性固定语块（NO_POS）"
+  },
+  "on behalf of": {
+   "verdict": "noncore",
+   "reason": "介词性固定语块（NO_POS）"
+  },
+  "for the sake of": {
+   "verdict": "noncore",
+   "reason": "介词性固定语块（NO_POS）"
+  },
+  "at the expense of": {
+   "verdict": "noncore",
+   "reason": "介词性固定语块（NO_POS）"
+  },
+  "in lieu of": {
+   "verdict": "noncore",
+   "reason": "介词性固定语块（NO_POS）"
+  },
+  "by virtue of": {
+   "verdict": "noncore",
+   "reason": "介词性固定语块（NO_POS）"
+  },
+  "where": {
+   "verdict": "core",
+   "reason": "关联限定连接词，学术高频"
+  },
+  "both": {
+   "verdict": "noncore",
+   "reason": "基础关联连词，不承载论证功能"
+  },
+  "presuming": {
+   "verdict": "noncore",
+   "reason": "假设连词，书面频率低"
+  },
+  "where applicable": {
+   "verdict": "core",
+   "reason": "酌情限定语块，学术语域专属"
+  },
+  "if applicable": {
+   "verdict": "noncore",
+   "reason": "酌情限定语块，通用"
+  },
+  "where possible": {
+   "verdict": "core",
+   "reason": "酌情限定语块，学术语域专属"
+  },
+  "where necessary": {
+   "verdict": "noncore",
+   "reason": "酌情限定语块，通用"
+  },
+  "if necessary": {
+   "verdict": "noncore",
+   "reason": "酌情限定语块，通用"
+  },
+  "as appropriate": {
+   "verdict": "core",
+   "reason": "酌情限定语块，学术语域专属"
+  },
+  "more precisely": {
+   "verdict": "core",
+   "reason": "精确化限定标记"
+  },
+  "more specifically": {
+   "verdict": "core",
+   "reason": "精确化限定标记"
+  },
+  "to be precise": {
+   "verdict": "core",
+   "reason": "精确化限定标记"
+  },
+  "to be sure": {
+   "verdict": "core",
+   "reason": "承认性缓称标记"
+  },
+  "first of all": {
+   "verdict": "noncore",
+   "reason": "论述展开短语，通用"
+  },
+  "to begin with": {
+   "verdict": "noncore",
+   "reason": "论述展开短语，通用"
+  },
+  "firstly": {
+   "verdict": "core",
+   "reason": "论证枚举标记"
+  },
+  "secondly": {
+   "verdict": "core",
+   "reason": "论证枚举标记"
+  },
+  "thirdly": {
+   "verdict": "core",
+   "reason": "论证枚举标记"
+  },
+  "lastly": {
+   "verdict": "core",
+   "reason": "论证枚举标记"
+  },
+  "in sum": {
+   "verdict": "noncore",
+   "reason": "收束标记，通用"
+  },
+  "in all": {
+   "verdict": "noncore",
+   "reason": "总体/总量限定短语，通用"
+  },
+  "as a whole": {
+   "verdict": "noncore",
+   "reason": "总体限定短语，通用"
+  },
+  "by and large": {
+   "verdict": "noncore",
+   "reason": "概括限定短语，通用"
+  },
+  "to a certain extent": {
+   "verdict": "noncore",
+   "reason": "程度限定短语，通用"
+  },
+  "if anything": {
+   "verdict": "noncore",
+   "reason": "让步修正短语，通用"
+  },
+  "by definition": {
+   "verdict": "core",
+   "reason": "界定性限定标记"
+  },
+  "in essence": {
+   "verdict": "core",
+   "reason": "本质限定标记"
+  },
+  "in effect": {
+   "verdict": "core",
+   "reason": "实质等同限定标记"
+  },
+  "that is to say": {
+   "verdict": "core",
+   "reason": "释义引出标记"
+  },
+  "so as to": {
+   "verdict": "noncore",
+   "reason": "介词性固定语块（NO_POS）"
+  },
+  "with the exception of": {
+   "verdict": "noncore",
+   "reason": "介词性固定语块（NO_POS）"
+  },
+  "subject to": {
+   "verdict": "noncore",
+   "reason": "介词性固定语块（NO_POS）"
+  },
+  "on account of": {
+   "verdict": "noncore",
+   "reason": "介词性固定语块（NO_POS）"
+  },
+  "by reason of": {
+   "verdict": "noncore",
+   "reason": "介词性固定语块（NO_POS）"
+  },
+  "in favor of": {
+   "verdict": "noncore",
+   "reason": "介词性固定语块（NO_POS）"
+  },
+  "by reference to": {
+   "verdict": "noncore",
+   "reason": "介词性固定语块（NO_POS）"
+  },
+  "with reference to": {
+   "verdict": "noncore",
+   "reason": "介词性固定语块（NO_POS）"
+  },
+  "in the wake of": {
+   "verdict": "noncore",
+   "reason": "介词性固定语块（NO_POS）"
+  },
+  "before": {
+   "verdict": "noncore",
+   "reason": "日常时间连词，通用"
+  },
+  "after": {
+   "verdict": "noncore",
+   "reason": "日常时间连词，通用"
+  },
+  "till": {
+   "verdict": "noncore",
+   "reason": "日常时间连词，通用"
+  },
+  "barring": {
+   "verdict": "noncore",
+   "reason": "日常排除语块，通用"
+  },
+  "still": {
+   "verdict": "noncore",
+   "reason": "日常连接副词，通用"
+  },
+  "well": {
+   "verdict": "noncore",
+   "reason": "日常连接副词，通用"
+  },
+  "anyway": {
+   "verdict": "noncore",
+   "reason": "日常连接副词，通用"
+  },
+  "of course": {
+   "verdict": "noncore",
+   "reason": "日常连接副词，通用"
+  },
+  "at any rate": {
+   "verdict": "noncore",
+   "reason": "日常收束短语，通用"
+  },
+  "in any event": {
+   "verdict": "noncore",
+   "reason": "日常收束短语，通用"
+  },
+  "on balance": {
+   "verdict": "noncore",
+   "reason": "日常概括短语，通用"
+  },
+  "all in all": {
+   "verdict": "noncore",
+   "reason": "日常概括短语，通用"
+  },
+  "in the first place": {
+   "verdict": "noncore",
+   "reason": "论述展开短语，通用"
+  },
+  "at last": {
+   "verdict": "noncore",
+   "reason": "日常时间连接词，通用"
+  },
+  "in the end": {
+   "verdict": "noncore",
+   "reason": "日常时间连接词，通用"
+  },
+  "in the long run": {
+   "verdict": "noncore",
+   "reason": "日常时间连接词，通用"
+  },
+  "sooner or later": {
+   "verdict": "noncore",
+   "reason": "日常时间连接词，通用"
+  },
+  "in the main": {
+   "verdict": "noncore",
+   "reason": "日常概括短语，通用"
+  },
+  "for the most part": {
+   "verdict": "noncore",
+   "reason": "日常概括短语，通用"
+  },
+  "by the way": {
+   "verdict": "noncore",
+   "reason": "日常插话短语，通用"
+  },
+  "by all means": {
+   "verdict": "noncore",
+   "reason": "日常请求短语，通用"
+  },
+  "in which case": {
+   "verdict": "noncore",
+   "reason": "日常条件连接词，通用"
+  },
+  "in that case": {
+   "verdict": "noncore",
+   "reason": "日常条件连接词，通用"
+  },
+  "that being so": {
+   "verdict": "core",
+   "reason": "让步转折标记"
+  },
+  "all the same": {
+   "verdict": "core",
+   "reason": "让步转折标记"
+  },
+  "considering that": {
+   "verdict": "core",
+   "reason": "前提连接词，引导原因从句"
+  },
+  "admittedly": {
+   "verdict": "core",
+   "reason": "承认性让步标记"
+  },
+  "in so doing": {
+   "verdict": "noncore",
+   "reason": "日常指代短语，通用"
+  },
+  "thanks to": {
+   "verdict": "noncore",
+   "reason": "介词性固定语块（NO_POS）"
+  },
+  "because of": {
+   "verdict": "noncore",
+   "reason": "介词性固定语块（NO_POS）"
+  },
+  "for fear that": {
+   "verdict": "noncore",
+   "reason": "恐慎目的连词，书面频率低"
+  },
+  "to the end that": {
+   "verdict": "noncore",
+   "reason": "目的连词，书面频率低"
+  },
+  "with a view to": {
+   "verdict": "noncore",
+   "reason": "介词性固定语块（NO_POS）"
+  },
+  "with the aim of": {
+   "verdict": "noncore",
+   "reason": "介词性固定语块（NO_POS）"
+  },
+  "anyhow": {
+   "verdict": "noncore",
+   "reason": "日常连接副词，通用"
+  },
+  "needless to say": {
+   "verdict": "core",
+   "reason": "不言而喻标记，论证高频"
+  },
+  "it goes without saying": {
+   "verdict": "noncore",
+   "reason": "日常不言而喻标记，通用"
+  },
+  "to put it another way": {
+   "verdict": "noncore",
+   "reason": "日常改述标记，通用"
+  },
+  "put differently": {
+   "verdict": "noncore",
+   "reason": "日常改述标记，通用"
+  },
+  "in simple terms": {
+   "verdict": "noncore",
+   "reason": "日常通俗化标记，通用"
+  },
+  "as follows": {
+   "verdict": "noncore",
+   "reason": "日常引出标记，通用"
+  },
+  "first and foremost": {
+   "verdict": "noncore",
+   "reason": "论述展开短语，通用"
+  },
+  "last but not least": {
+   "verdict": "noncore",
+   "reason": "论述展开短语，通用"
+  },
+  "at the same time": {
+   "verdict": "noncore",
+   "reason": "日常时间/转折短语，通用"
+  },
+  "for that matter": {
+   "verdict": "noncore",
+   "reason": "日常插话短语，通用"
+  },
+  "on that note": {
+   "verdict": "noncore",
+   "reason": "日常插话短语，通用"
+  },
+  "to that end": {
+   "verdict": "core",
+   "reason": "目的论证语块，学术书面高频"
+  },
+  "in this vein": {
+   "verdict": "noncore",
+   "reason": "日常思路延续短语，通用"
+  },
+  "all things considered": {
+   "verdict": "noncore",
+   "reason": "日常权衡短语，通用"
+  },
+  "in no small measure": {
+   "verdict": "noncore",
+   "reason": "日常程度强调短语，通用"
+  },
+  "at any cost": {
+   "verdict": "noncore",
+   "reason": "日常固定短语，通用"
+  },
+  "as it stands": {
+   "verdict": "noncore",
+   "reason": "日常状态短语，通用"
+  },
+  "for the time being": {
+   "verdict": "noncore",
+   "reason": "日常时间短语，通用"
+  },
+  "in the interim": {
+   "verdict": "noncore",
+   "reason": "日常时间短语，通用"
+  },
+  "from now on": {
+   "verdict": "noncore",
+   "reason": "日常时间短语，通用"
+  },
+  "in no way": {
+   "verdict": "noncore",
+   "reason": "日常否定短语，通用"
+  },
+  "to no avail": {
+   "verdict": "noncore",
+   "reason": "日常固定短语，通用"
+  },
+  "at the outset": {
+   "verdict": "noncore",
+   "reason": "日常时间短语，通用"
+  },
+  "in the context of": {
+   "verdict": "core",
+   "reason": "语境限定语块，连接语块同族"
+  },
+  "in relation to": {
+   "verdict": "core",
+   "reason": "关系限定语块，连接语块同族"
+  },
+  "in connection with": {
+   "verdict": "noncore",
+   "reason": "介词性固定语块（NO_POS）"
+  },
+  "as regards": {
+   "verdict": "noncore",
+   "reason": "篇章状语，通用"
+  },
+  "aside from": {
+   "verdict": "noncore",
+   "reason": "介词性固定语块（NO_POS）"
+  },
+  "in place of": {
+   "verdict": "noncore",
+   "reason": "介词性固定语块（NO_POS）"
+  },
+  "for the purpose of": {
+   "verdict": "noncore",
+   "reason": "介词性固定语块（NO_POS）"
+  },
+  "for the purposes of": {
+   "verdict": "core",
+   "reason": "限定语块，连接语块同族"
+  },
+  "in pursuit of": {
+   "verdict": "noncore",
+   "reason": "介词性固定语块（NO_POS）"
+  },
+  "in the absence of": {
+   "verdict": "noncore",
+   "reason": "介词性固定语块（NO_POS）"
+  },
+  "journal": {
+   "verdict": "core",
+   "reason": "AWL 词头 JOURNAL 族,学术出版高频"
+  },
+  "curriculum": {
+   "verdict": "core",
+   "reason": "AWL 词头 CURRICULUM 族,教育研究高频"
+  },
+  "catalyst": {
+   "verdict": "core",
+   "reason": "AWL 词头 CATALYST 族,化学与比喻用法"
+  },
+  "concede": {
+   "verdict": "core",
+   "reason": "AWL 词头 CONCEDE 族,让步论证报告动词"
+  },
+  "deficit": {
+   "verdict": "core",
+   "reason": "AWL 词头 DEFICIT 族,经济与政策高频"
+  },
+  "faculty": {
+   "verdict": "core",
+   "reason": "AWL 词头 FACULTY 族,高教语境高频"
+  },
+  "inevitable": {
+   "verdict": "core",
+   "reason": "AWL 词头 INEVITABLE 族,论证限定高频"
+  },
+  "inflation": {
+   "verdict": "core",
+   "reason": "AWL 词头 INFLATE 族,经济政策高频"
+  },
+  "protein": {
+   "verdict": "core",
+   "reason": "AWL 词头 PROTEIN 族,生命科学高频"
+  },
+  "subsidy": {
+   "verdict": "core",
+   "reason": "AWL 词头 SUBSIDY 族,政策研究高频"
+  },
+  "surplus": {
+   "verdict": "core",
+   "reason": "AWL 词头 SURPLUS 族,经济学术高频"
+  },
+  "thesis": {
+   "verdict": "core",
+   "reason": "AWL 词头 THESIS 族,论文写作高频"
+  },
+  "confidence interval": {
+   "verdict": "core",
+   "reason": "统计报告语块,随 AWL INTERVAL 族入核"
+  },
+  "cognitive": {
+   "verdict": "core",
+   "reason": "学术骨架命中,认知科学高频"
+  },
+  "connotation": {
+   "verdict": "core",
+   "reason": "学术骨架命中,语义讨论高频"
+  },
+  "ideology": {
+   "verdict": "core",
+   "reason": "学术骨架命中,社科核心词"
+  },
+  "vague": {
+   "verdict": "core",
+   "reason": "学术骨架命中,批评限定高频"
+  },
+  "contend": {
+   "verdict": "core",
+   "reason": "报告动词组(contend that 学术引述高频)"
+  },
+  "affirm": {
+   "verdict": "core",
+   "reason": "报告动词组(确认肯定,立场表达高频)"
+  },
+  "rebut": {
+   "verdict": "noncore",
+   "reason": "法律辩论语域,学术文本较低频"
+  },
+  "allege": {
+   "verdict": "noncore",
+   "reason": "新闻/法律语域为主,学术较低频"
+  },
+  "purport": {
+   "verdict": "noncore",
+   "reason": "低频立场动词,学术边缘"
+  },
+  "signify": {
+   "verdict": "noncore",
+   "reason": "通用符号化动词,频率中等"
+  },
+  "presuppose": {
+   "verdict": "noncore",
+   "reason": "哲学语域专用"
+  },
+  "accelerate": {
+   "verdict": "noncore",
+   "reason": "通用变化动词"
+  },
+  "exacerbate": {
+   "verdict": "noncore",
+   "reason": "通用恶化动词,频率中等"
+  },
+  "aggravate": {
+   "verdict": "noncore",
+   "reason": "通用恶化动词"
+  },
+  "escalate": {
+   "verdict": "noncore",
+   "reason": "新闻语域为主"
+  },
+  "stagnate": {
+   "verdict": "noncore",
+   "reason": "经济语域动词"
+  },
+  "oscillate": {
+   "verdict": "noncore",
+   "reason": "物理/工程域限定"
+  },
+  "plummet": {
+   "verdict": "noncore",
+   "reason": "新闻语域为主"
+  },
+  "soar": {
+   "verdict": "noncore",
+   "reason": "新闻语域为主"
+  },
+  "dwindle": {
+   "verdict": "noncore",
+   "reason": "通用减少动词"
+  },
+  "abate": {
+   "verdict": "noncore",
+   "reason": "法律/文学语域,学术较低频"
+  },
+  "prolong": {
+   "verdict": "noncore",
+   "reason": "通用时间动词"
+  },
+  "spiral": {
+   "verdict": "noncore",
+   "reason": "通用动态动词"
+  },
+  "irreversible": {
+   "verdict": "noncore",
+   "reason": "通用限定形容词,无机械命中"
+  },
+  "obscure": {
+   "verdict": "noncore",
+   "reason": "通用模糊限定"
+  },
+  "opaque": {
+   "verdict": "noncore",
+   "reason": "通用不透明限定"
+  },
+  "superficial": {
+   "verdict": "noncore",
+   "reason": "通用批评限定"
+  },
+  "erroneous": {
+   "verdict": "noncore",
+   "reason": "通用纠错限定"
+  },
+  "flawed": {
+   "verdict": "noncore",
+   "reason": "通用批评限定"
+  },
+  "unfounded": {
+   "verdict": "noncore",
+   "reason": "通用批评限定"
+  },
+  "unwarranted": {
+   "verdict": "noncore",
+   "reason": "通用批评限定"
+  },
+  "tenuous": {
+   "verdict": "noncore",
+   "reason": "文学化批评限定,频率中等"
+  },
+  "cogent": {
+   "verdict": "noncore",
+   "reason": "修辞学低频"
+  },
+  "dubious": {
+   "verdict": "noncore",
+   "reason": "通用怀疑限定"
+  },
+  "anecdotal": {
+   "verdict": "noncore",
+   "reason": "方法论限定,但频率中等"
+  },
+  "decisive": {
+   "verdict": "noncore",
+   "reason": "通用决定性限定"
+  },
+  "fallacy": {
+   "verdict": "noncore",
+   "reason": "逻辑学域限定"
+  },
+  "ramification": {
+   "verdict": "noncore",
+   "reason": "低频后果名词"
+  },
+  "repercussion": {
+   "verdict": "noncore",
+   "reason": "新闻/政治语域为主"
+  },
+  "aftermath": {
+   "verdict": "noncore",
+   "reason": "新闻语域为主"
+  },
+  "corollary": {
+   "verdict": "noncore",
+   "reason": "数学域限定"
+  },
+  "precursor": {
+   "verdict": "noncore",
+   "reason": "化学/医学域限定"
+  },
+  "antecedent": {
+   "verdict": "noncore",
+   "reason": "语法/哲学域限定"
+  },
+  "drawback": {
+   "verdict": "noncore",
+   "reason": "通用缺点名词"
+  },
+  "pitfall": {
+   "verdict": "noncore",
+   "reason": "通用误区名词"
+  },
+  "shortcoming": {
+   "verdict": "noncore",
+   "reason": "通用缺点名词"
+  },
+  "setback": {
+   "verdict": "noncore",
+   "reason": "新闻语域为主"
+  },
+  "hurdle": {
+   "verdict": "noncore",
+   "reason": "新闻语域为主"
+  },
+  "impediment": {
+   "verdict": "noncore",
+   "reason": "低频障碍名词"
+  },
+  "liability": {
+   "verdict": "noncore",
+   "reason": "法律/会计域限定"
+  },
+  "hindsight": {
+   "verdict": "noncore",
+   "reason": "通用反思名词"
+  },
+  "foresight": {
+   "verdict": "noncore",
+   "reason": "通用规划名词"
+  },
+  "breadth": {
+   "verdict": "noncore",
+   "reason": "通用范围名词"
+  },
+  "manuscript": {
+   "verdict": "noncore",
+   "reason": "学术出版语境,但学科负载低"
+  },
+  "appendix": {
+   "verdict": "noncore",
+   "reason": "论文结构词,工具性名词"
+  },
+  "footnote": {
+   "verdict": "noncore",
+   "reason": "论文结构词,工具性名词"
+  },
+  "bibliography": {
+   "verdict": "noncore",
+   "reason": "论文结构词,工具性名词"
+  },
+  "symposium": {
+   "verdict": "noncore",
+   "reason": "学术活动名词,低频"
+  },
+  "proceedings": {
+   "verdict": "noncore",
+   "reason": "出版语境名词,工具性"
+  },
+  "syllabus": {
+   "verdict": "noncore",
+   "reason": "教学工具词"
+  },
+  "pedagogy": {
+   "verdict": "noncore",
+   "reason": "教育学域限定"
+  },
+  "mentor": {
+   "verdict": "noncore",
+   "reason": "高教语境词,频率中等"
+  },
+  "doctoral": {
+   "verdict": "noncore",
+   "reason": "高教语境限定词"
+  },
+  "hegemony": {
+   "verdict": "noncore",
+   "reason": "批判理论专用"
+  },
+  "bureaucracy": {
+   "verdict": "noncore",
+   "reason": "政治学域名词"
+  },
+  "marginalize": {
+   "verdict": "noncore",
+   "reason": "社科批判语域"
+  },
+  "stigmatize": {
+   "verdict": "noncore",
+   "reason": "社科批判语域"
+  },
+  "urbanization": {
+   "verdict": "noncore",
+   "reason": "城市研究域名词"
+  },
+  "globalization": {
+   "verdict": "noncore",
+   "reason": "社科域名词"
+  },
+  "citizenship": {
+   "verdict": "noncore",
+   "reason": "政治学域名词"
+  },
+  "electorate": {
+   "verdict": "noncore",
+   "reason": "政治学域名词"
+  },
+  "referendum": {
+   "verdict": "noncore",
+   "reason": "政治学域名词"
+  },
+  "treaty": {
+   "verdict": "noncore",
+   "reason": "国际法域名词"
+  },
+  "ratify": {
+   "verdict": "noncore",
+   "reason": "法律语域动词"
+  },
+  "statute": {
+   "verdict": "noncore",
+   "reason": "法律域名词"
+  },
+  "jurisdiction": {
+   "verdict": "noncore",
+   "reason": "法律域名词"
+  },
+  "litigation": {
+   "verdict": "noncore",
+   "reason": "法律域名词"
+  },
+  "tariff": {
+   "verdict": "noncore",
+   "reason": "经济政策域名词"
+  },
+  "monetary": {
+   "verdict": "noncore",
+   "reason": "经济语域限定"
+  },
+  "fiscal": {
+   "verdict": "noncore",
+   "reason": "财政语域限定"
+  },
+  "monopoly": {
+   "verdict": "noncore",
+   "reason": "经济学域名词"
+  },
+  "neural": {
+   "verdict": "noncore",
+   "reason": "神经科学域限定"
+  },
+  "neuron": {
+   "verdict": "noncore",
+   "reason": "神经科学域名词"
+  },
+  "polymer": {
+   "verdict": "noncore",
+   "reason": "材料科学域名词"
+  },
+  "enzyme": {
+   "verdict": "noncore",
+   "reason": "生物化学域名词"
+  },
+  "genome": {
+   "verdict": "noncore",
+   "reason": "基因组学域名词"
+  },
+  "metabolism": {
+   "verdict": "noncore",
+   "reason": "生物医学域名词"
+  },
+  "toxic": {
+   "verdict": "noncore",
+   "reason": "通用危险限定"
+  },
+  "emission": {
+   "verdict": "noncore",
+   "reason": "环境科学域名词"
+  },
+  "climate": {
+   "verdict": "noncore",
+   "reason": "通用气候名词,领域负载低"
+  },
+  "renewable": {
+   "verdict": "noncore",
+   "reason": "能源语域限定"
+  },
+  "semiconductor": {
+   "verdict": "noncore",
+   "reason": "电子工程域名词"
+  },
+  "database": {
+   "verdict": "noncore",
+   "reason": "计算机工具词"
+  },
+  "bandwidth": {
+   "verdict": "noncore",
+   "reason": "通信工程域名词"
+  },
+  "clinical": {
+   "verdict": "noncore",
+   "reason": "医学域限定"
+  },
+  "diagnosis": {
+   "verdict": "noncore",
+   "reason": "医学域名词"
+  },
+  "epidemic": {
+   "verdict": "noncore",
+   "reason": "流行病学域名词"
+  },
+  "pandemic": {
+   "verdict": "noncore",
+   "reason": "流行病学域名词"
+  },
+  "outbreak": {
+   "verdict": "noncore",
+   "reason": "流行病学域名词"
+  },
+  "standard deviation": {
+   "verdict": "noncore",
+   "reason": "统计术语,随工具性名词降出"
+  },
+  "chronic": {
+   "verdict": "noncore",
+   "reason": "医学域限定"
+  },
+  "acute": {
+   "verdict": "noncore",
+   "reason": "医学域限定"
+  },
+  "episodic": {
+   "verdict": "noncore",
+   "reason": "叙事/医学域限定"
+  },
+  "sustained": {
+   "verdict": "noncore",
+   "reason": "通用持续限定,分词形容词"
+  },
+  "intermittent": {
+   "verdict": "noncore",
+   "reason": "通用间歇限定"
+  },
+  "symptom": {
+   "verdict": "noncore",
+   "reason": "医学域名词"
+  },
+  "syndrome": {
+   "verdict": "noncore",
+   "reason": "医学域名词"
+  },
+  "therapy": {
+   "verdict": "noncore",
+   "reason": "医学域名词"
+  },
+  "with the result that": {
+   "verdict": "core",
+   "reason": "结果论证语块，学术书面高频（so that 结果义同族）"
+  },
+  "on the grounds that": {
+   "verdict": "core",
+   "reason": "理由论证语块（依据限定，学术论证高频）"
+  },
+  "to the degree that": {
+   "verdict": "core",
+   "reason": "程度限定语块，与 to the extent that（已核）同族"
+  },
+  "regardless of whether": {
+   "verdict": "core",
+   "reason": "让步限定语块，排除干扰变量时高频"
+  },
+  "in consequence": {
+   "verdict": "core",
+   "reason": "因果论证标记（as a result 正式变体）"
+  },
+  "thus far": {
+   "verdict": "core",
+   "reason": "研究现状限定（hitherto/thereafter 同族，学术描述高频）"
+  },
+  "to date": {
+   "verdict": "core",
+   "reason": "研究现状限定（the largest study to date，学术描述高频）"
+  },
+  "by comparison": {
+   "verdict": "core",
+   "reason": "对比论证标记（by contrast 同族）"
+  },
+  "most importantly": {
+   "verdict": "core",
+   "reason": "论证权重标记（importantly 已核同族）"
+  },
+  "at best": {
+   "verdict": "core",
+   "reason": "限定让步语块（学术评价高频）"
+  },
+  "at worst": {
+   "verdict": "core",
+   "reason": "限定让步语块（与 at best 成对）"
+  },
+  "as opposed to": {
+   "verdict": "core",
+   "reason": "对比限定语块，与 compared with（已核）同族"
+  },
+  "the former": {
+   "verdict": "core",
+   "reason": "回指衔接语块（the former…the latter…，学术散文高频）"
+  },
+  "the latter": {
+   "verdict": "core",
+   "reason": "回指衔接语块（同上，成对）"
+  },
+  "no doubt": {
+   "verdict": "core",
+   "reason": "确定性缓称标记（arguably/presumably 同组）"
+  },
+  "providing": {
+   "verdict": "noncore",
+   "reason": "条件连词变体（provided that 主判已核）"
+  },
+  "considering": {
+   "verdict": "noncore",
+   "reason": "前提介词性语块（例句 2/3 为 Considering＋NP；considering that 承担从句职能；与 given 同判）"
+  },
+  "just as": {
+   "verdict": "noncore",
+   "reason": "方式/时间比较连词，通用"
+  },
+  "even as": {
+   "verdict": "noncore",
+   "reason": "时间让步连词，通用"
+  },
+  "much as": {
+   "verdict": "noncore",
+   "reason": "让步连词，书面但低频"
+  },
+  "such that": {
+   "verdict": "noncore",
+   "reason": "结果连词，通用"
+  },
+  "so far as": {
+   "verdict": "noncore",
+   "reason": "范围限定连词变体（as far as 主判已核）"
+  },
+  "as much as": {
+   "verdict": "noncore",
+   "reason": "让步比较连词，通用"
+  },
+  "to the point that": {
+   "verdict": "noncore",
+   "reason": "程度连词，通用"
+  },
+  "by the time": {
+   "verdict": "noncore",
+   "reason": "时间连词，通用基础"
+  },
+  "every time": {
+   "verdict": "noncore",
+   "reason": "时间连词，日常基础"
+  },
+  "each time": {
+   "verdict": "noncore",
+   "reason": "时间连词，日常基础"
+  },
+  "the moment": {
+   "verdict": "noncore",
+   "reason": "时间连词，日常基础"
+  },
+  "the minute": {
+   "verdict": "noncore",
+   "reason": "时间连词，口语化"
+  },
+  "the instant": {
+   "verdict": "noncore",
+   "reason": "时间连词，低频"
+  },
+  "the way": {
+   "verdict": "noncore",
+   "reason": "方式连词，口语化"
+  },
+  "if only": {
+   "verdict": "noncore",
+   "reason": "虚拟感叹/条件，通用"
+  },
+  "only if": {
+   "verdict": "noncore",
+   "reason": "强调条件，通用"
+  },
+  "also": {
+   "verdict": "noncore",
+   "reason": "口语基础连接副词，显式排除口径（判据排除清单点名）"
+  },
+  "too": {
+   "verdict": "noncore",
+   "reason": "基础程度/附加副词，通用"
+  },
+  "instead": {
+   "verdict": "noncore",
+   "reason": "基础转折副词，通用"
+  },
+  "only": {
+   "verdict": "noncore",
+   "reason": "基础限定副词，通用"
+  },
+  "just": {
+   "verdict": "noncore",
+   "reason": "基础限定副词，通用"
+  },
+  "later": {
+   "verdict": "noncore",
+   "reason": "基础时间副词，通用"
+  },
+  "first": {
+   "verdict": "noncore",
+   "reason": "基础序次副词（firstly/first of all 已核主判）"
+  },
+  "next": {
+   "verdict": "noncore",
+   "reason": "基础序次副词，通用"
+  },
+  "last": {
+   "verdict": "noncore",
+   "reason": "基础序次副词（lastly 已核主判）"
+  },
+  "soon": {
+   "verdict": "noncore",
+   "reason": "基础时间副词，通用"
+  },
+  "always": {
+   "verdict": "noncore",
+   "reason": "基础频率副词，通用"
+  },
+  "nowadays": {
+   "verdict": "noncore",
+   "reason": "日常时间副词，通用"
+  },
+  "afterward": {
+   "verdict": "noncore",
+   "reason": "基础时间副词（afterwards 已在）"
+  },
+  "directly": {
+   "verdict": "noncore",
+   "reason": "方式副词为主，通用"
+  },
+  "naturally": {
+   "verdict": "noncore",
+   "reason": "日常缓称副词，通用"
+  },
+  "so far": {
+   "verdict": "noncore",
+   "reason": "时间进展标记，通用（thus far 承正式语域入核）"
+  },
+  "as yet": {
+   "verdict": "noncore",
+   "reason": "书面缓称，中频"
+  },
+  "for one thing": {
+   "verdict": "noncore",
+   "reason": "日常论证展开语块，通用"
+  },
+  "either way": {
+   "verdict": "noncore",
+   "reason": "日常收束语块，通用"
+  },
+  "as a matter of fact": {
+   "verdict": "noncore",
+   "reason": "日常强调语块，通用"
+  },
+  "incidentally": {
+   "verdict": "noncore",
+   "reason": "日常插话语块，通用"
+  },
+  "or rather": {
+   "verdict": "noncore",
+   "reason": "日常自我修正语块，通用"
+  },
+  "to be fair": {
+   "verdict": "noncore",
+   "reason": "日常让步语块，通用"
+  },
+  "better still": {
+   "verdict": "noncore",
+   "reason": "日常递进语块，通用"
+  },
+  "worse still": {
+   "verdict": "noncore",
+   "reason": "日常递进语块，通用"
+  },
+  "in this regard": {
+   "verdict": "noncore",
+   "reason": "回指衔接语块，通用（in this respect 成对同档）"
+  },
+  "in this respect": {
+   "verdict": "noncore",
+   "reason": "回指衔接语块，通用（in this regard 成对同档）"
+  },
+  "by extension": {
+   "verdict": "noncore",
+   "reason": "引申衔接语块，中频"
+  },
+  "having said that": {
+   "verdict": "noncore",
+   "reason": "日常让步转折语块，通用"
+  },
+  "even then": {
+   "verdict": "noncore",
+   "reason": "日常让步语块，通用"
+  },
+  "let alone": {
+   "verdict": "noncore",
+   "reason": "递进否定语块，通用（not to mention 同档）"
+  },
+  "and so on": {
+   "verdict": "noncore",
+   "reason": "列举收尾语块，通用"
+  },
+  "and so forth": {
+   "verdict": "noncore",
+   "reason": "列举收尾语块，通用"
+  },
+  "as for": {
+   "verdict": "noncore",
+   "reason": "介词性话题转换语块（NO_POS）"
+  },
+  "as to": {
+   "verdict": "noncore",
+   "reason": "介词性限定语块（NO_POS）"
+  },
+  "during": {
+   "verdict": "noncore",
+   "reason": "基础介词（NO_POS）"
+  },
+  "following": {
+   "verdict": "noncore",
+   "reason": "介词性时间语块（NO_POS）"
+  },
+  "like": {
+   "verdict": "noncore",
+   "reason": "基础介词（NO_POS）"
+  },
+  "interestingly": {
+   "verdict": "core",
+   "reason": "学术论证功能词，限定与评价承载论证功能"
+  },
+  "surprisingly": {
+   "verdict": "noncore",
+   "reason": "学术论证功能词，限定与评价承载论证功能"
+  },
+  "remarkably": {
+   "verdict": "noncore",
+   "reason": "学术论证功能词，限定与评价承载论证功能"
+  },
+  "strikingly": {
+   "verdict": "noncore",
+   "reason": "学术论证功能词，限定与评价承载论证功能"
+  },
+  "tellingly": {
+   "verdict": "core",
+   "reason": "学术论证功能词，限定与评价承载论证功能"
+  },
+  "curiously": {
+   "verdict": "noncore",
+   "reason": "学术论证功能词，限定与评价承载论证功能"
+  },
+  "wherein": {
+   "verdict": "core",
+   "reason": "正式书面限定副词，学术书面高频"
+  },
+  "thereof": {
+   "verdict": "noncore",
+   "reason": "正式书面限定副词，学术书面高频"
+  },
+  "confer": {
+   "verdict": "core",
+   "reason": "学术论述常用动词"
+  },
+  "afford": {
+   "verdict": "noncore",
+   "reason": "学术论述常用动词"
+  },
+  "circumvent": {
+   "verdict": "noncore",
+   "reason": "学术论述常用动词"
+  },
+  "curtail": {
+   "verdict": "noncore",
+   "reason": "政策论述常用动词"
+  },
+  "curb": {
+   "verdict": "noncore",
+   "reason": "政策论述常用动词"
+  },
+  "thwart": {
+   "verdict": "noncore",
+   "reason": "学术论述常用动词"
+  },
+  "hamper": {
+   "verdict": "noncore",
+   "reason": "学术论述常用动词"
+  },
+  "halt": {
+   "verdict": "noncore",
+   "reason": "学术论述常用动词"
+  },
+  "erode": {
+   "verdict": "noncore",
+   "reason": "趋势论述常用动词"
+  },
+  "corrode": {
+   "verdict": "noncore",
+   "reason": "趋势论述常用动词"
+  },
+  "accrue": {
+   "verdict": "noncore",
+   "reason": "趋势论述常用动词"
+  },
+  "uphold": {
+   "verdict": "noncore",
+   "reason": "学术论述常用动词"
+  },
+  "permeate": {
+   "verdict": "noncore",
+   "reason": "学术论述常用动词"
+  },
+  "pervade": {
+   "verdict": "noncore",
+   "reason": "学术论述常用动词"
+  },
+  "subsume": {
+   "verdict": "noncore",
+   "reason": "学术论述常用动词"
+  },
+  "demarcate": {
+   "verdict": "noncore",
+   "reason": "学术论述常用动词"
+  },
+  "preempt": {
+   "verdict": "noncore",
+   "reason": "学术论述常用动词"
+  },
+  "facet": {
+   "verdict": "noncore",
+   "reason": "学术论述常用名词"
+  },
+  "hindrance": {
+   "verdict": "noncore",
+   "reason": "学术论述常用名词"
+  },
+  "boon": {
+   "verdict": "noncore",
+   "reason": "学术论述常用名词"
+  },
+  "property": {
+   "verdict": "core",
+   "reason": "学术骨架词命中，学术论证高频"
+  },
+  "landscape": {
+   "verdict": "noncore",
+   "reason": "学术论述常用名词"
+  },
+  "terrain": {
+   "verdict": "noncore",
+   "reason": "学术论述常用名词"
+  },
+  "strand": {
+   "verdict": "noncore",
+   "reason": "学术论述常用名词"
+  },
+  "thread": {
+   "verdict": "noncore",
+   "reason": "学术论述常用名词"
+  },
+  "asymmetry": {
+   "verdict": "noncore",
+   "reason": "学术论述常用名词"
+  },
+  "homogeneity": {
+   "verdict": "noncore",
+   "reason": "学术论述常用名词"
+  },
+  "symmetry": {
+   "verdict": "core",
+   "reason": "学术论述常用名词"
+  },
+  "mismatch": {
+   "verdict": "noncore",
+   "reason": "学术论述常用名词"
+  },
+  "inconsistency": {
+   "verdict": "noncore",
+   "reason": "学术论述常用名词"
+  },
+  "submission": {
+   "verdict": "core",
+   "reason": "学术出版流程名词"
+  },
+  "rebuttal": {
+   "verdict": "core",
+   "reason": "学术出版流程名词"
+  },
+  "preprint": {
+   "verdict": "core",
+   "reason": "学术出版流程名词"
+  },
+  "erratum": {
+   "verdict": "core",
+   "reason": "学术出版流程名词"
+  },
+  "corrigendum": {
+   "verdict": "core",
+   "reason": "学术出版流程名词"
+  },
+  "abrupt": {
+   "verdict": "noncore",
+   "reason": "趋势描述形容词，通用"
+  },
+  "abruptly": {
+   "verdict": "noncore",
+   "reason": "趋势描述副词，通用"
+  },
+  "gradual": {
+   "verdict": "noncore",
+   "reason": "趋势描述形容词，通用"
+  },
+  "swift": {
+   "verdict": "noncore",
+   "reason": "趋势描述形容词，通用"
+  },
+  "swiftly": {
+   "verdict": "noncore",
+   "reason": "趋势描述副词，通用"
+  },
+  "steep": {
+   "verdict": "noncore",
+   "reason": "趋势描述形容词，通用"
+  },
+  "steeply": {
+   "verdict": "noncore",
+   "reason": "趋势描述副词，通用"
+  },
+  "smooth": {
+   "verdict": "noncore",
+   "reason": "趋势描述形容词，通用"
+  },
+  "smoothly": {
+   "verdict": "noncore",
+   "reason": "趋势描述副词，通用"
+  },
+  "marked": {
+   "verdict": "noncore",
+   "reason": "趋势描述形容词，通用"
+  },
+  "persistent": {
+   "verdict": "noncore",
+   "reason": "趋势描述形容词，通用"
+  },
+  "fleeting": {
+   "verdict": "noncore",
+   "reason": "趋势描述形容词，通用"
+  },
+  "enduring": {
+   "verdict": "core",
+   "reason": "趋势描述形容词，通用"
+  },
+  "lasting": {
+   "verdict": "noncore",
+   "reason": "趋势描述形容词，通用"
+  },
+  "invariant": {
+   "verdict": "noncore",
+   "reason": "量与性质描述形容词，窄域"
+  },
+  "argue": {
+   "verdict": "core",
+   "reason": "报告动词组（that-引述高频），学术论证核心"
+  },
+  "appraise": {
+   "verdict": "core",
+   "reason": "评价动词，与 appraisal 同族"
+  },
+  "appraisal": {
+   "verdict": "noncore",
+   "reason": "评价性名词，文献评述高频"
+  },
+  "reiterate": {
+   "verdict": "core",
+   "reason": "讨论与结论段常用论证动词"
+  },
+  "restate": {
+   "verdict": "core",
+   "reason": "论证结构动词，引言与结论高频"
+  },
+  "reconsider": {
+   "verdict": "core",
+   "reason": "论证动作动词，讨论段高频"
+  },
+  "situate": {
+   "verdict": "core",
+   "reason": "定位性陈述动词，引言高频"
+  },
+  "delimit": {
+   "verdict": "core",
+   "reason": "界定研究边界的标准动词"
+  },
+  "reconstruct": {
+   "verdict": "core",
+   "reason": "过程与机制论文常用动词"
+  },
+  "overstate": {
+   "verdict": "core",
+   "reason": "学术谦抑表达常用动词"
+  },
+  "bolster": {
+   "verdict": "core",
+   "reason": "论证支撑动词"
+  },
+  "reframe": {
+   "verdict": "core",
+   "reason": "框架调整动词，理论贡献段高频"
+  },
+  "rethink": {
+   "verdict": "core",
+   "reason": "理论贡献段常用动词"
+  },
+  "interrogate": {
+   "verdict": "core",
+   "reason": "方法论批评与质性研究常用动词"
+  },
+  "objection": {
+   "verdict": "core",
+   "reason": "AWL 词族命中，学术核心"
+  },
+  "counterexample": {
+   "verdict": "noncore",
+   "reason": "反驳型论证的标准元件"
+  },
+  "misconception": {
+   "verdict": "noncore",
+   "reason": "教育研究与理论纠偏段高频"
+  },
+  "burden": {
+   "verdict": "noncore",
+   "reason": "证据强度论述标准名词"
+  },
+  "concordance": {
+   "verdict": "noncore",
+   "reason": "一致性分析名词"
+  },
+  "modality": {
+   "verdict": "noncore",
+   "reason": "质性与传播研究固定名词"
+  },
+  "sound": {
+   "verdict": "core",
+   "reason": "学术骨架词命中，学术论证高频"
+  },
+  "credible": {
+   "verdict": "core",
+   "reason": "评价证据可信度的核心形容词"
+  },
+  "convincing": {
+   "verdict": "core",
+   "reason": "评价论证力度的常用形容词"
+  },
+  "germane": {
+   "verdict": "core",
+   "reason": "评价证据与论题相关性的精确用词"
+  },
+  "epistemological": {
+   "verdict": "core",
+   "reason": "理论型论文讨论段高频限定词"
+  },
+  "ontological": {
+   "verdict": "core",
+   "reason": "理论定位高频限定词"
+  },
+  "axiomatic": {
+   "verdict": "core",
+   "reason": "形式化论证基础描述词"
+  },
+  "abductive": {
+   "verdict": "core",
+   "reason": "与 deductive/inductive 构成推理三分"
+  },
+  "descriptive": {
+   "verdict": "core",
+   "reason": "描述性研究与因果推断的基本术语"
+  },
+  "prescriptive": {
+   "verdict": "core",
+   "reason": "与 descriptive 对举，方法论定位高频"
+  },
+  "incisive": {
+   "verdict": "core",
+   "reason": "评价评论深度的标准学术词"
+  },
+  "penetrating": {
+   "verdict": "core",
+   "reason": "评价分析深度的常用词"
+  },
+  "scholarly": {
+   "verdict": "core",
+   "reason": "学术语域修饰语的高频词（修饰 debate/literature/tradition）"
+  },
+  "judicious": {
+   "verdict": "core",
+   "reason": "评价文献取舍的常用正式词"
+  },
+  "prudent": {
+   "verdict": "core",
+   "reason": "应用型论文评价建议稳妥性高频词"
+  },
+  "astute": {
+   "verdict": "core",
+   "reason": "评价研究判断力的褒义学术词"
+  },
+  "apt": {
+   "verdict": "core",
+   "reason": "评价术语贴切的简洁常用词"
+  },
+  "appreciable": {
+   "verdict": "core",
+   "reason": "量化结果陈述区分可观测与可感知程度"
+  },
+  "landmark": {
+   "verdict": "core",
+   "reason": "文献综述评价原创性高频词"
+  },
+  "invariably": {
+   "verdict": "core",
+   "reason": "确定性副词族中空缺的一格"
+  },
+  "narrow": {
+   "verdict": "core",
+   "reason": "学术骨架词命中，学术论证高频"
+  },
+  "inconsistent": {
+   "verdict": "core",
+   "reason": "描述结果或理论冲突的常用形容词"
+  },
+  "conflict": {
+   "verdict": "core",
+   "reason": "AWL 词族命中，学术核心"
+  },
+  "conflicting": {
+   "verdict": "core",
+   "reason": "AWL 词族命中，学术核心"
+  },
+  "contested": {
+   "verdict": "core",
+   "reason": "AWL 词族命中，学术核心"
+  },
+  "disputed": {
+   "verdict": "core",
+   "reason": "评价他人结论的高频形容词"
+  },
+  "contentious": {
+   "verdict": "core",
+   "reason": "争议性判断词"
+  },
+  "inconclusive": {
+   "verdict": "core",
+   "reason": "元分析最常见的结论性限定语之一"
+  },
+  "indirect": {
+   "verdict": "core",
+   "reason": "因果推断论文的标准限定词"
+  },
+  "unbiased": {
+   "verdict": "core",
+   "reason": "统计学描述估计量性质的标准形容词"
+  },
+  "nontrivial": {
+   "verdict": "core",
+   "reason": "效应与挑战程度的常用限定词"
+  },
+  "desirable": {
+   "verdict": "core",
+   "reason": "评价设计特性与结论价值常用词"
+  },
+  "secondary": {
+   "verdict": "core",
+   "reason": "学术骨架词命中，学术论证高频"
+  },
+  "unambiguous": {
+   "verdict": "core",
+   "reason": "作者对结果清晰性的自我评价常用词"
+  },
+  "insufficient": {
+   "verdict": "core",
+   "reason": "样本量与证据力度论证的标准判断词"
+  },
+  "multiple": {
+   "verdict": "core",
+   "reason": "统计方法与设计描述的超高频词"
+  },
+  "study": {
+   "verdict": "core",
+   "reason": "学术骨架词命中，学术论证高频"
+  },
+  "paper": {
+   "verdict": "noncore",
+   "reason": "英文学术语域自称与指称论文的第一高频词"
+  },
+  "discussion": {
+   "verdict": "core",
+   "reason": "学术骨架词命中，学术论证高频"
+  },
+  "review": {
+   "verdict": "core",
+   "reason": "AWL 词族命中，学术核心"
+  },
+  "practice": {
+   "verdict": "core",
+   "reason": "学术骨架词命中，学术论证高频"
+  },
+  "statistics": {
+   "verdict": "core",
+   "reason": "AWL 词族命中，学术核心"
+  },
+  "input": {
+   "verdict": "core",
+   "reason": "AWL 词族命中，学术核心"
+  },
+  "task": {
+   "verdict": "core",
+   "reason": "学术骨架词命中，学术论证高频"
+  },
+  "standpoint": {
+   "verdict": "core",
+   "reason": "方法论与理论论文的框架词"
+  },
+  "lens": {
+   "verdict": "noncore",
+   "reason": "跨学科论文的固定喻用框架"
+  },
+  "barrier": {
+   "verdict": "noncore",
+   "reason": "采纳意愿与技术转移研究高频构式"
+  },
+  "continuum": {
+   "verdict": "noncore",
+   "reason": "社会科学分类论述常用词"
+  },
+  "utility": {
+   "verdict": "core",
+   "reason": "AWL 词族命中，学术核心"
+  },
+  "match": {
+   "verdict": "noncore",
+   "reason": "配对设计是控制混杂的通用手段"
+  },
+  "nonresponse": {
+   "verdict": "core",
+   "reason": "抽样调查最主要的选择偏倚来源之一"
+  },
+  "census": {
+   "verdict": "core",
+   "reason": "与抽样调查相对的全覆盖数据来源"
+  },
+  "pilot": {
+   "verdict": "noncore",
+   "reason": "预试验用于检验可行性与估算样本量"
+  },
+  "quasi-experimental": {
+   "verdict": "core",
+   "reason": "无法随机分配时最常用的替代设计名"
+  },
+  "CONSORT": {
+   "verdict": "core",
+   "reason": "RCT 投稿的事实标准报告清单"
+  },
+  "STROBE": {
+   "verdict": "core",
+   "reason": "观察性研究论文的通用报告清单"
+  },
+  "standard error": {
+   "verdict": "core",
+   "reason": "与标准差、置信区间并列的三大报告量"
+  },
+  "covariance": {
+   "verdict": "core",
+   "reason": "相关分析、多元回归的基本量"
+  },
+  "heteroskedasticity": {
+   "verdict": "core",
+   "reason": "OLS 假设检验与稳健标准误的核心诊断项"
+  },
+  "autocorrelation": {
+   "verdict": "core",
+   "reason": "时间序列与面板数据推断的前提条件"
+  },
+  "missing data": {
+   "verdict": "core",
+   "reason": "缺失机制决定可用插补方法"
+  },
+  "bootstrap": {
+   "verdict": "core",
+   "reason": "小样本下置信区间的标准做法"
+  },
+  "permutation": {
+   "verdict": "core",
+   "reason": "无分布检验方法"
+  },
+  "degrees of freedom": {
+   "verdict": "core",
+   "reason": "几乎每个方差分析与回归结果都要报告"
+  },
+  "chi-square": {
+   "verdict": "core",
+   "reason": "列联表分析最常用的检验"
+  },
+  "Monte Carlo": {
+   "verdict": "core",
+   "reason": "复杂分布下推断与贝叶斯后验近似的标准手段"
+  },
+  "median": {
+   "verdict": "core",
+   "reason": "描述统计的基本集中趋势量"
+  },
+  "quartile": {
+   "verdict": "core",
+   "reason": "分布描述与箱线图报告的常规统计量"
+  },
+  "percentile": {
+   "verdict": "core",
+   "reason": "参照值与评分分布分析的常用统计量"
+  },
+  "recall": {
+   "verdict": "noncore",
+   "reason": "分类与信息检索评价的核心指标"
+  },
+  "confusion matrix": {
+   "verdict": "noncore",
+   "reason": "分类器性能报告的默认呈现形式"
+  },
+  "ground truth": {
+   "verdict": "noncore",
+   "reason": "评价预测正确性的参照答案"
+  },
+  "overfitting": {
+   "verdict": "core",
+   "reason": "模型泛化讨论中的核心问题"
+  },
+  "regularization": {
+   "verdict": "core",
+   "reason": "惩罚项方法的统称"
+  },
+  "annotation": {
+   "verdict": "core",
+   "reason": "NLP 语料建设与质性编码的核心活动"
+  },
+  "coding": {
+   "verdict": "core",
+   "reason": "质性分析的骨架步骤"
+  },
+  "transcription": {
+   "verdict": "core",
+   "reason": "访谈与录音材料处理的第一步"
+  },
+  "member checking": {
+   "verdict": "core",
+   "reason": "质性研究可信度最常被提及的检验手段"
+  },
+  "audit trail": {
+   "verdict": "core",
+   "reason": "质性编码与伦理审查要求的过程可追溯性证据"
+  },
+  "purposive": {
+   "verdict": "core",
+   "reason": "质性研究最主要的抽样策略"
+  },
+  "ethnography": {
+   "verdict": "core",
+   "reason": "质性方法的三大支柱之一"
+  },
+  "latent": {
+   "verdict": "core",
+   "reason": "学术骨架词命中，学术论证高频"
+  },
+  "screening": {
+   "verdict": "core",
+   "reason": "系统综述与临床试验流程图的固定环节"
+  },
+  "surveillance": {
+   "verdict": "core",
+   "reason": "流行病学与公共卫生的独立方法族"
+  },
+  "scoping review": {
+   "verdict": "core",
+   "reason": "近十年快速扩张的证据综述类型"
+  },
+  "peer review": {
+   "verdict": "core",
+   "reason": "出版流程核心概念"
+  },
+  "conflict of interest": {
+   "verdict": "core",
+   "reason": "期刊投稿必填声明项"
+  },
+  "open access": {
+   "verdict": "core",
+   "reason": "出版与文献计量论文的固定名词"
+  },
+  "grant": {
+   "verdict": "core",
+   "reason": "学术骨架词命中，学术论证高频"
+  },
+  "platform": {
+   "verdict": "core",
+   "reason": "数字化学科论文的必答题词"
+  },
+  "architecture": {
+   "verdict": "core",
+   "reason": "系统与软件类论文的固定术语"
+  },
+  "repository": {
+   "verdict": "core",
+   "reason": "开放数据与文献共享语境下的高频机构名"
+  },
+  "interoperability": {
+   "verdict": "core",
+   "reason": "跨系统数据打通议题的核心术语"
+  },
+  "metadata": {
+   "verdict": "core",
+   "reason": "数据集与馆藏描述的基础词"
+  },
+  "ontology": {
+   "verdict": "core",
+   "reason": "信息学与知识组织论文的核心术语"
+  },
+  "privacy": {
+   "verdict": "core",
+   "reason": "AWL 词族命中，学术核心"
+  },
+  "cybersecurity": {
+   "verdict": "core",
+   "reason": "系统与信息类论文的通用风险类别词"
+  },
+  "intellectual property": {
+   "verdict": "core",
+   "reason": "AWL 词族命中，学术核心"
+  },
+  "copyright": {
+   "verdict": "noncore",
+   "reason": "出版伦理与开放获取声明段落的高频词"
+  },
+  "open science": {
+   "verdict": "core",
+   "reason": "近年跨所有学科的顶层政策概念"
+  },
+  "open data": {
+   "verdict": "core",
+   "reason": "与开放科学配套出现的高频政策术语"
+  },
+  "climate change": {
+   "verdict": "core",
+   "reason": "跨自然科学的公共议题术语"
+  },
+  "land use": {
+   "verdict": "noncore",
+   "reason": "城市、地理、农业与生态论文的通用研究对象名"
+  },
+  "public health": {
+   "verdict": "core",
+   "reason": "AWL 词族命中，学术核心"
+  },
+  "health inequality": {
+   "verdict": "core",
+   "reason": "公共卫生与社会政策的常设议题"
+  },
+  "life expectancy": {
+   "verdict": "core",
+   "reason": "人口学与卫生经济学共同使用的核心指标名"
+  },
+  "mental health": {
+   "verdict": "core",
+   "reason": "AWL 词族命中，学术核心"
+  },
+  "risk factor": {
+   "verdict": "core",
+   "reason": "流行病学与临床研究的通用术语"
+  },
+  "randomized controlled trial": {
+   "verdict": "core",
+   "reason": "健康与行为科学中最核心的证据类型名"
+  },
+  "numeracy": {
+   "verdict": "core",
+   "reason": "教育学与公共政策话语中的核心素养概念"
+  },
+  "instruction": {
+   "verdict": "core",
+   "reason": "AWL 词族命中，学术核心"
+  },
+  "scholarship": {
+   "verdict": "core",
+   "reason": "综述与贡献陈述段的高频名词"
+  },
+  "enrollment": {
+   "verdict": "core",
+   "reason": "临床试验与教育统计的流程指标词"
+  },
+  "engagement": {
+   "verdict": "core",
+   "reason": "教育、健康传播与平台治理共用的结果变量词"
+  },
+  "behavior": {
+   "verdict": "core",
+   "reason": "学术骨架词命中，学术论证高频"
+  },
+  "taxation": {
+   "verdict": "noncore",
+   "reason": "财政与公共经济论文的固定制度名词"
+  },
+  "cost-effectiveness": {
+   "verdict": "core",
+   "reason": "卫生技术评估与公共项目评价的标准指标名"
+  },
+  "disincentive": {
+   "verdict": "noncore",
+   "reason": "与 incentive 对举的激励设计术语"
+  },
+  "audit": {
+   "verdict": "core",
+   "reason": "从财务审计到数据核查与机构问责，审计类评价多学科通用"
+  },
+  "supply chain": {
+   "verdict": "core",
+   "reason": "运营、贸易、环境与公共卫生论文的共用概念词"
+  },
+  "entrepreneurship": {
+   "verdict": "noncore",
+   "reason": "创新与区域经济研究的核心主题词"
+  },
+  "unemployment": {
+   "verdict": "noncore",
+   "reason": "经济与劳动研究的核心指标"
+  },
+  "workforce": {
+   "verdict": "core",
+   "reason": "学术骨架词命中，学术论证高频"
+  },
+  "inequality": {
+   "verdict": "core",
+   "reason": "学术骨架词命中，学术论证高频"
+  },
+  "artificial intelligence": {
+   "verdict": "core",
+   "reason": "当代跨学科论文的头号通用领域词"
+  },
+  "machine learning": {
+   "verdict": "core",
+   "reason": "所有应用学科引用方法的通用标签词"
+  },
+  "fairness": {
+   "verdict": "core",
+   "reason": "算法治理与公共服务分配研究的高频评价维度词"
+  },
+  "framing": {
+   "verdict": "core",
+   "reason": "框架分析是传播、气候与政策研究的标准方法名"
+  },
+  "misinformation": {
+   "verdict": "core",
+   "reason": "信息环境研究的通用术语"
+  },
+  "disinformation": {
+   "verdict": "core",
+   "reason": "与 misinformation 并列区分意图"
+  },
+  "statistical significance": {
+   "verdict": "core",
+   "reason": "结果章的通用判定语"
+  },
+  "systematic review": {
+   "verdict": "core",
+   "reason": "AWL 词族命中，学术核心"
+  },
+  "mixed methods": {
+   "verdict": "core",
+   "reason": "方法章声明研究设计范式的固定名"
+  },
+  "gender": {
+   "verdict": "core",
+   "reason": "AWL 词族命中，学术核心"
+  },
+  "ethnicity": {
+   "verdict": "core",
+   "reason": "AWL 词族命中，学术核心"
+  }
+ }
+}

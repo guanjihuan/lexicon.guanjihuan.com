@@ -1,0 +1,1706 @@
+[
+ {
+  "word": "interestingly",
+  "pos": "副词",
+  "sub": null,
+  "gloss": "有趣的是；耐人寻味地（结果评论标记）",
+  "core": true,
+  "reason": "学术论证功能词，限定与评价承载论证功能"
+ },
+ {
+  "word": "surprisingly",
+  "pos": "副词",
+  "sub": null,
+  "gloss": "出乎意料地；意外地（反预期标记）",
+  "core": false,
+  "reason": "学术论证功能词，限定与评价承载论证功能"
+ },
+ {
+  "word": "remarkably",
+  "pos": "副词",
+  "sub": null,
+  "gloss": "显著地；异常地（程度评论标记）",
+  "core": false,
+  "reason": "学术论证功能词，限定与评价承载论证功能"
+ },
+ {
+  "word": "strikingly",
+  "pos": "副词",
+  "sub": null,
+  "gloss": "醒目地；惊人地（差异评论，strikingly different）",
+  "core": false,
+  "reason": "学术论证功能词，限定与评价承载论证功能"
+ },
+ {
+  "word": "tellingly",
+  "pos": "副词",
+  "sub": null,
+  "gloss": "说明问题地；有力地（tellingly, … 证据评论）",
+  "core": true,
+  "reason": "学术论证功能词，限定与评价承载论证功能"
+ },
+ {
+  "word": "curiously",
+  "pos": "副词",
+  "sub": null,
+  "gloss": "奇怪的是（curiously enough 反预期标记）",
+  "core": false,
+  "reason": "学术论证功能词，限定与评价承载论证功能"
+ },
+ {
+  "word": "wherein",
+  "pos": "副词",
+  "sub": null,
+  "gloss": "在其中；在…方面（正式书面，a situation wherein…）",
+  "core": true,
+  "reason": "正式书面限定副词，学术书面高频"
+ },
+ {
+  "word": "thereof",
+  "pos": "副词",
+  "sub": null,
+  "gloss": "由此；其（法律/正式书面，the result thereof）",
+  "core": false,
+  "reason": "正式书面限定副词，学术书面高频"
+ },
+ {
+  "word": "confer",
+  "pos": "动词",
+  "sub": null,
+  "gloss": "授予；带来（confer an advantage；confer with 协商）",
+  "core": true,
+  "reason": "学术论述常用动词"
+ },
+ {
+  "word": "afford",
+  "pos": "动词",
+  "sub": null,
+  "gloss": "提供；给予（afford an opportunity；买得起）",
+  "core": false,
+  "reason": "学术论述常用动词"
+ },
+ {
+  "word": "circumvent",
+  "pos": "动词",
+  "sub": null,
+  "gloss": "规避；绕过（circumvent the limitation）",
+  "core": false,
+  "reason": "学术论述常用动词"
+ },
+ {
+  "word": "curtail",
+  "pos": "动词",
+  "sub": null,
+  "gloss": "削减；限制（curtail spending / freedom）",
+  "core": false,
+  "reason": "政策论述常用动词"
+ },
+ {
+  "word": "curb",
+  "pos": "动词",
+  "sub": null,
+  "gloss": "抑制；约束（curb inflation / emissions）",
+  "core": false,
+  "reason": "政策论述常用动词"
+ },
+ {
+  "word": "thwart",
+  "pos": "动词",
+  "sub": null,
+  "gloss": "阻挠；使受挫（thwart the attempt）",
+  "core": false,
+  "reason": "学术论述常用动词"
+ },
+ {
+  "word": "hamper",
+  "pos": "动词",
+  "sub": null,
+  "gloss": "妨碍；阻碍（hamper progress）",
+  "core": false,
+  "reason": "学术论述常用动词"
+ },
+ {
+  "word": "halt",
+  "pos": "动词",
+  "sub": null,
+  "gloss": "使停止；终止（bring to a halt；calls to halt）",
+  "core": false,
+  "reason": "学术论述常用动词"
+ },
+ {
+  "word": "erode",
+  "pos": "动词",
+  "sub": null,
+  "gloss": "侵蚀；逐步削弱（erode confidence / margins）",
+  "core": false,
+  "reason": "趋势论述常用动词"
+ },
+ {
+  "word": "corrode",
+  "pos": "动词",
+  "sub": null,
+  "gloss": "腐蚀；（比喻）损害（corrode trust）",
+  "core": false,
+  "reason": "趋势论述常用动词"
+ },
+ {
+  "word": "accrue",
+  "pos": "动词",
+  "sub": null,
+  "gloss": "积累；产生（benefits accrue to…）",
+  "core": false,
+  "reason": "趋势论述常用动词"
+ },
+ {
+  "word": "uphold",
+  "pos": "动词",
+  "sub": null,
+  "gloss": "维持（原判）；支持；维护（uphold the decision / standards）",
+  "core": false,
+  "reason": "学术论述常用动词"
+ },
+ {
+  "word": "permeate",
+  "pos": "动词",
+  "sub": null,
+  "gloss": "渗透；弥漫（permeate every aspect of…）",
+  "core": false,
+  "reason": "学术论述常用动词"
+ },
+ {
+  "word": "pervade",
+  "pos": "动词",
+  "sub": null,
+  "gloss": "遍及；充斥（pervade the literature）",
+  "core": false,
+  "reason": "学术论述常用动词"
+ },
+ {
+  "word": "subsume",
+  "pos": "动词",
+  "sub": null,
+  "gloss": "纳入；归入（be subsumed under a category）",
+  "core": false,
+  "reason": "学术论述常用动词"
+ },
+ {
+  "word": "demarcate",
+  "pos": "动词",
+  "sub": null,
+  "gloss": "划界；区分（demarcate the boundary between…）",
+  "core": false,
+  "reason": "学术论述常用动词"
+ },
+ {
+  "word": "preempt",
+  "pos": "动词",
+  "sub": null,
+  "gloss": "预先制止；先发制人（preempt criticism）",
+  "core": false,
+  "reason": "学术论述常用动词"
+ },
+ {
+  "word": "facet",
+  "pos": "名词",
+  "sub": null,
+  "gloss": "方面；侧面（every facet of the problem）",
+  "core": false,
+  "reason": "学术论述常用名词"
+ },
+ {
+  "word": "hindrance",
+  "pos": "名词",
+  "sub": null,
+  "gloss": "妨碍；阻碍（a hindrance to progress）",
+  "core": false,
+  "reason": "学术论述常用名词"
+ },
+ {
+  "word": "boon",
+  "pos": "名词",
+  "sub": null,
+  "gloss": "裨益；福音（a boon to researchers）",
+  "core": false,
+  "reason": "学术论述常用名词"
+ },
+ {
+  "word": "property",
+  "pos": "名词",
+  "sub": null,
+  "gloss": "性质；属性（physical properties）；财产",
+  "core": true,
+  "reason": "学术骨架词命中，学术论证高频"
+ },
+ {
+  "word": "landscape",
+  "pos": "名词",
+  "sub": null,
+  "gloss": "图景；格局（the research/policy landscape）；风景",
+  "core": false,
+  "reason": "学术论述常用名词"
+ },
+ {
+  "word": "terrain",
+  "pos": "名词",
+  "sub": null,
+  "gloss": "地形；（比喻）领域（familiar terrain）",
+  "core": false,
+  "reason": "学术论述常用名词"
+ },
+ {
+  "word": "strand",
+  "pos": "名词",
+  "sub": null,
+  "gloss": "（思路、论证的）一条线索（a strand of argument）；股、缕",
+  "core": false,
+  "reason": "学术论述常用名词"
+ },
+ {
+  "word": "thread",
+  "pos": "名词",
+  "sub": null,
+  "gloss": "线索；脉络（the thread of the argument）；线",
+  "core": false,
+  "reason": "学术论述常用名词"
+ },
+ {
+  "word": "asymmetry",
+  "pos": "名词",
+  "sub": null,
+  "gloss": "不对称（information asymmetry 信息不对称）",
+  "core": false,
+  "reason": "学术论述常用名词"
+ },
+ {
+  "word": "homogeneity",
+  "pos": "名词",
+  "sub": null,
+  "gloss": "同质性（test for homogeneity）",
+  "core": false,
+  "reason": "学术论述常用名词"
+ },
+ {
+  "word": "symmetry",
+  "pos": "名词",
+  "sub": null,
+  "gloss": "对称（性）（symmetry breaking 对称破缺）；匀称",
+  "core": true,
+  "reason": "学术论述常用名词"
+ },
+ {
+  "word": "mismatch",
+  "pos": "名词",
+  "sub": null,
+  "gloss": "错配；不匹配（skill mismatch）",
+  "core": false,
+  "reason": "学术论述常用名词"
+ },
+ {
+  "word": "inconsistency",
+  "pos": "名词",
+  "sub": null,
+  "gloss": "不一致；矛盾（internal inconsistency）",
+  "core": false,
+  "reason": "学术论述常用名词"
+ },
+ {
+  "word": "submission",
+  "pos": "名词",
+  "sub": null,
+  "gloss": "提交；投稿（manuscript submission；revisions on resubmission）",
+  "core": true,
+  "reason": "学术出版流程名词"
+ },
+ {
+  "word": "rebuttal",
+  "pos": "名词",
+  "sub": null,
+  "gloss": "反驳；答辩（peer-review rebuttal letter）",
+  "core": true,
+  "reason": "学术出版流程名词"
+ },
+ {
+  "word": "preprint",
+  "pos": "名词",
+  "sub": null,
+  "gloss": "预印本（post a preprint on arXiv）",
+  "core": true,
+  "reason": "学术出版流程名词"
+ },
+ {
+  "word": "erratum",
+  "pos": "名词",
+  "sub": null,
+  "gloss": "（出版物）勘误（复数 errata）",
+  "core": true,
+  "reason": "学术出版流程名词"
+ },
+ {
+  "word": "corrigendum",
+  "pos": "名词",
+  "sub": null,
+  "gloss": "（作者更正启事）勘误表（复数 corrigenda）",
+  "core": true,
+  "reason": "学术出版流程名词"
+ },
+ {
+  "word": "abrupt",
+  "pos": "形容词",
+  "sub": "中性的",
+  "gloss": "突然的；陡然的（an abrupt change/transition）",
+  "core": false,
+  "reason": "趋势描述形容词，通用"
+ },
+ {
+  "word": "abruptly",
+  "pos": "副词",
+  "sub": null,
+  "gloss": "突然地；陡然地（fall abruptly）",
+  "core": false,
+  "reason": "趋势描述副词，通用"
+ },
+ {
+  "word": "gradual",
+  "pos": "形容词",
+  "sub": "中性的",
+  "gloss": "逐渐的；渐进的（a gradual decline）",
+  "core": false,
+  "reason": "趋势描述形容词，通用"
+ },
+ {
+  "word": "swift",
+  "pos": "形容词",
+  "sub": "中性的",
+  "gloss": "迅速的；敏捷的（a swift recovery）",
+  "core": false,
+  "reason": "趋势描述形容词，通用"
+ },
+ {
+  "word": "swiftly",
+  "pos": "副词",
+  "sub": null,
+  "gloss": "迅速地（respond swiftly）",
+  "core": false,
+  "reason": "趋势描述副词，通用"
+ },
+ {
+  "word": "steep",
+  "pos": "形容词",
+  "sub": "中性的",
+  "gloss": "陡的；（比喻）急剧的（a steep rise）；苛刻的（a steep price）",
+  "core": false,
+  "reason": "趋势描述形容词，通用"
+ },
+ {
+  "word": "steeply",
+  "pos": "副词",
+  "sub": null,
+  "gloss": "陡峭地；急剧地（decline steeply）",
+  "core": false,
+  "reason": "趋势描述副词，通用"
+ },
+ {
+  "word": "smooth",
+  "pos": "形容词",
+  "sub": "中性的",
+  "gloss": "平滑的；顺利的（a smooth transition）",
+  "core": false,
+  "reason": "趋势描述形容词，通用"
+ },
+ {
+  "word": "smoothly",
+  "pos": "副词",
+  "sub": null,
+  "gloss": "平滑地；顺利地（proceed smoothly）",
+  "core": false,
+  "reason": "趋势描述副词，通用"
+ },
+ {
+  "word": "marked",
+  "pos": "形容词",
+  "sub": "中性的",
+  "gloss": "显著的；明显的（a marked improvement）",
+  "core": false,
+  "reason": "趋势描述形容词，通用"
+ },
+ {
+  "word": "persistent",
+  "pos": "形容词",
+  "sub": "中性的",
+  "gloss": "持续存在的；顽固的（persistent inequality）",
+  "core": false,
+  "reason": "趋势描述形容词，通用"
+ },
+ {
+  "word": "fleeting",
+  "pos": "形容词",
+  "sub": "中性的",
+  "gloss": "转瞬即逝的（a fleeting glimpse）",
+  "core": false,
+  "reason": "趋势描述形容词，通用"
+ },
+ {
+  "word": "enduring",
+  "pos": "形容词",
+  "sub": "中性的",
+  "gloss": "持久的；经久不衰的（enduring influence）",
+  "core": true,
+  "reason": "趋势描述形容词，通用"
+ },
+ {
+  "word": "lasting",
+  "pos": "形容词",
+  "sub": "中性的",
+  "gloss": "持久的；长久的（a lasting impact）",
+  "core": false,
+  "reason": "趋势描述形容词，通用"
+ },
+ {
+  "word": "invariant",
+  "pos": "形容词",
+  "sub": "中性的",
+  "gloss": "不变的（量、性质）（scale-invariant；an invariant of the transformation）",
+  "core": false,
+  "reason": "量与性质描述形容词，窄域"
+ },
+ {
+  "word": "argue",
+  "pos": "动词",
+  "sub": null,
+  "gloss": "主张，论证说（argue that… 主张…；argue for/against 支持/反对）",
+  "core": true,
+  "reason": "报告动词组（that-引述高频），学术论证核心"
+ },
+ {
+  "word": "appraise",
+  "pos": "动词",
+  "sub": null,
+  "gloss": "评价；评估（appraise the evidence / appraise the significance of…）",
+  "core": true,
+  "reason": "评价动词，与 appraisal 同族"
+ },
+ {
+  "word": "appraisal",
+  "pos": "名词",
+  "sub": null,
+  "gloss": "评估；评价；鉴定（a critical appraisal of the method）",
+  "core": false,
+  "reason": "评价性名词，文献评述高频"
+ },
+ {
+  "word": "reiterate",
+  "pos": "动词",
+  "sub": null,
+  "gloss": "重申；反复说明（reiterate the importance of…）",
+  "core": true,
+  "reason": "讨论与结论段常用论证动词"
+ },
+ {
+  "word": "restate",
+  "pos": "动词",
+  "sub": null,
+  "gloss": "重述；重新表述（restate the hypothesis / restate the question）",
+  "core": true,
+  "reason": "论证结构动词，引言与结论高频"
+ },
+ {
+  "word": "reconsider",
+  "pos": "动词",
+  "sub": null,
+  "gloss": "重新考虑；重新审视（reconsider the design / reconsider our interpretation）",
+  "core": true,
+  "reason": "论证动作动词，讨论段高频"
+ },
+ {
+  "word": "situate",
+  "pos": "动词",
+  "sub": null,
+  "gloss": "把…置于（背景/框架）中（situate the study within…）",
+  "core": true,
+  "reason": "定位性陈述动词，引言高频"
+ },
+ {
+  "word": "delimit",
+  "pos": "动词",
+  "sub": null,
+  "gloss": "划定界限；界定范围（delimit the scope / delimit the research question）",
+  "core": true,
+  "reason": "界定研究边界的标准动词"
+ },
+ {
+  "word": "reconstruct",
+  "pos": "动词",
+  "sub": null,
+  "gloss": "重建；还原（reconstruct the process / reconstruct the history）",
+  "core": true,
+  "reason": "过程与机制论文常用动词"
+ },
+ {
+  "word": "overstate",
+  "pos": "动词",
+  "sub": null,
+  "gloss": "夸大；言过其实（overstate the findings / overstate the implications）",
+  "core": true,
+  "reason": "学术谦抑表达常用动词"
+ },
+ {
+  "word": "bolster",
+  "pos": "动词",
+  "sub": null,
+  "gloss": "支持；增强（bolster the argument / bolster the case）",
+  "core": true,
+  "reason": "论证支撑动词"
+ },
+ {
+  "word": "reframe",
+  "pos": "动词",
+  "sub": null,
+  "gloss": "重新表述；重构框架（reframe the question / reframe the analysis）",
+  "core": true,
+  "reason": "框架调整动词，理论贡献段高频"
+ },
+ {
+  "word": "rethink",
+  "pos": "动词",
+  "sub": null,
+  "gloss": "重新思考；重构思路（rethink the unit of analysis）",
+  "core": true,
+  "reason": "理论贡献段常用动词"
+ },
+ {
+  "word": "interrogate",
+  "pos": "动词",
+  "sub": null,
+  "gloss": "追问；细查（interrogate the data / interrogate an assumption）",
+  "core": true,
+  "reason": "方法论批评与质性研究常用动词"
+ },
+ {
+  "word": "objection",
+  "pos": "名词",
+  "sub": null,
+  "gloss": "反对意见；异议（raise objections to / a valid objection）",
+  "core": true,
+  "reason": "AWL 词族命中，学术核心"
+ },
+ {
+  "word": "counterexample",
+  "pos": "名词",
+  "sub": null,
+  "gloss": "反例（a counterexample to the claim）",
+  "core": false,
+  "reason": "反驳型论证的标准元件"
+ },
+ {
+  "word": "misconception",
+  "pos": "名词",
+  "sub": null,
+  "gloss": "误解；错误观念（students' misconceptions）",
+  "core": false,
+  "reason": "教育研究与理论纠偏段高频"
+ },
+ {
+  "word": "burden",
+  "pos": "名词",
+  "sub": null,
+  "gloss": "负担；举证责任（the burden of proof / the burden of explanation）",
+  "core": false,
+  "reason": "证据强度论述标准名词"
+ },
+ {
+  "word": "concordance",
+  "pos": "名词",
+  "sub": null,
+  "gloss": "一致；符合（concordance correlation；语料索引）",
+  "core": false,
+  "reason": "一致性分析名词"
+ },
+ {
+  "word": "modality",
+  "pos": "名词",
+  "sub": null,
+  "gloss": "方式；模态；表现形式（modalities of governance）",
+  "core": false,
+  "reason": "质性与传播研究固定名词"
+ },
+ {
+  "word": "sound",
+  "pos": "形容词",
+  "sub": "中性的",
+  "gloss": "可靠的；严谨的（sound reasoning；methodologically sound）",
+  "core": true,
+  "reason": "学术骨架词命中，学术论证高频"
+ },
+ {
+  "word": "credible",
+  "pos": "形容词",
+  "sub": "中性的",
+  "gloss": "可信的；有信誉的（credible evidence / credible mechanism）",
+  "core": true,
+  "reason": "评价证据可信度的核心形容词"
+ },
+ {
+  "word": "convincing",
+  "pos": "形容词",
+  "sub": "中性的",
+  "gloss": "有说服力的；令人信服的（convincing evidence / a convincing argument）",
+  "core": true,
+  "reason": "评价论证力度的常用形容词"
+ },
+ {
+  "word": "germane",
+  "pos": "形容词",
+  "sub": "中性的",
+  "gloss": "切题的；贴切的（germane to the question）",
+  "core": true,
+  "reason": "评价证据与论题相关性的精确用词"
+ },
+ {
+  "word": "epistemological",
+  "pos": "形容词",
+  "sub": "中性的",
+  "gloss": "认识论的；知识论的（epistemological grounding）",
+  "core": true,
+  "reason": "理论型论文讨论段高频限定词"
+ },
+ {
+  "word": "ontological",
+  "pos": "形容词",
+  "sub": "中性的",
+  "gloss": "本体论的；存在论的（ontological commitments）",
+  "core": true,
+  "reason": "理论定位高频限定词"
+ },
+ {
+  "word": "axiomatic",
+  "pos": "形容词",
+  "sub": "中性的",
+  "gloss": "公理的；基于公理的（an axiomatic foundation）",
+  "core": true,
+  "reason": "形式化论证基础描述词"
+ },
+ {
+  "word": "abductive",
+  "pos": "形容词",
+  "sub": "中性的",
+  "gloss": "溯因的；最佳解释推论的（abductive inference）",
+  "core": true,
+  "reason": "与 deductive/inductive 构成推理三分"
+ },
+ {
+  "word": "descriptive",
+  "pos": "形容词",
+  "sub": "中性的",
+  "gloss": "描述性的；描述统计的（descriptive statistics）",
+  "core": true,
+  "reason": "描述性研究与因果推断的基本术语"
+ },
+ {
+  "word": "prescriptive",
+  "pos": "形容词",
+  "sub": "中性的",
+  "gloss": "规定性的；规范的（a prescriptive claim）",
+  "core": true,
+  "reason": "与 descriptive 对举，方法论定位高频"
+ },
+ {
+  "word": "incisive",
+  "pos": "形容词",
+  "sub": "中性的",
+  "gloss": "尖锐的；切入要害的（an incisive critique）",
+  "core": true,
+  "reason": "评价评论深度的标准学术词"
+ },
+ {
+  "word": "penetrating",
+  "pos": "形容词",
+  "sub": "中性的",
+  "gloss": "有洞察力的；透彻的（a penetrating analysis）",
+  "core": true,
+  "reason": "评价分析深度的常用词"
+ },
+ {
+  "word": "scholarly",
+  "pos": "形容词",
+  "sub": "中性的",
+  "gloss": "学术的；学术性的（scholarly debate / scholarly tradition）",
+  "core": true,
+  "reason": "修饰学术语域名词的高频词"
+ },
+ {
+  "word": "judicious",
+  "pos": "形容词",
+  "sub": "中性的",
+  "gloss": "明智的；审慎的（a judicious use of sources）",
+  "core": true,
+  "reason": "评价文献取舍的常用正式词"
+ },
+ {
+  "word": "prudent",
+  "pos": "形容词",
+  "sub": "中性的",
+  "gloss": "谨慎的；审慎的（prudent policy recommendations）",
+  "core": true,
+  "reason": "应用型论文评价建议稳妥性高频词"
+ },
+ {
+  "word": "astute",
+  "pos": "形容词",
+  "sub": "中性的",
+  "gloss": "精明的；敏锐的（an astute reading of the evidence）",
+  "core": true,
+  "reason": "评价研究判断力的褒义学术词"
+ },
+ {
+  "word": "apt",
+  "pos": "形容词",
+  "sub": "中性的",
+  "gloss": "恰当的；切题的（an apt description / an apt term）",
+  "core": true,
+  "reason": "评价术语贴切的简洁常用词"
+ },
+ {
+  "word": "appreciable",
+  "pos": "形容词",
+  "sub": "中性的",
+  "gloss": "相当大的；可观的（an appreciable effect）",
+  "core": true,
+  "reason": "量化结果陈述区分可观测与可感知程度"
+ },
+ {
+  "word": "landmark",
+  "pos": "形容词",
+  "sub": "中性的",
+  "gloss": "里程碑式的；划时代的（a landmark study / a landmark discovery）",
+  "core": true,
+  "reason": "文献综述评价原创性高频词"
+ },
+ {
+  "word": "invariably",
+  "pos": "副词",
+  "sub": null,
+  "gloss": "总是；始终如一地（invariably follows from…）",
+  "core": true,
+  "reason": "确定性副词族中空缺的一格"
+ },
+ {
+  "word": "narrow",
+  "pos": "形容词",
+  "sub": "中性的",
+  "gloss": "狭窄的；局限的（a narrow scope / a narrow focus）",
+  "core": true,
+  "reason": "学术骨架词命中，学术论证高频"
+ },
+ {
+  "word": "inconsistent",
+  "pos": "形容词",
+  "sub": "中性的",
+  "gloss": "不一致的；自相矛盾的（inconsistent with prior findings）",
+  "core": true,
+  "reason": "描述结果或理论冲突的常用形容词"
+ },
+ {
+  "word": "conflict",
+  "pos": "名词",
+  "sub": null,
+  "gloss": "冲突；抵触（a conflict between theory and evidence）",
+  "core": true,
+  "reason": "AWL 词族命中，学术核心"
+ },
+ {
+  "word": "conflicting",
+  "pos": "形容词",
+  "sub": "中性的",
+  "gloss": "相互冲突的；抵触的（conflicting evidence）",
+  "core": true,
+  "reason": "AWL 词族命中，学术核心"
+ },
+ {
+  "word": "contested",
+  "pos": "形容词",
+  "sub": "中性的",
+  "gloss": "有争议的；被争夺的（a contested concept）",
+  "core": true,
+  "reason": "AWL 词族命中，学术核心"
+ },
+ {
+  "word": "disputed",
+  "pos": "形容词",
+  "sub": "中性的",
+  "gloss": "有争议的；受到质疑的（disputed findings）",
+  "core": true,
+  "reason": "评价他人结论的高频形容词"
+ },
+ {
+  "word": "contentious",
+  "pos": "形容词",
+  "sub": "中性的",
+  "gloss": "有争议的；易引起争执的（a contentious issue）",
+  "core": true,
+  "reason": "争议性判断词"
+ },
+ {
+  "word": "inconclusive",
+  "pos": "形容词",
+  "sub": "中性的",
+  "gloss": "不确定的；无定论的（inconclusive results）",
+  "core": true,
+  "reason": "元分析最常见的结论性限定语之一"
+ },
+ {
+  "word": "indirect",
+  "pos": "形容词",
+  "sub": "中性的",
+  "gloss": "间接的（an indirect effect / indirect evidence）",
+  "core": true,
+  "reason": "因果推断论文的标准限定词"
+ },
+ {
+  "word": "unbiased",
+  "pos": "形容词",
+  "sub": "中性的",
+  "gloss": "无偏的（an unbiased estimator）",
+  "core": true,
+  "reason": "统计学描述估计量性质的标准形容词"
+ },
+ {
+  "word": "nontrivial",
+  "pos": "形容词",
+  "sub": "中性的",
+  "gloss": "不平凡的；显著的（a nontrivial effect）",
+  "core": true,
+  "reason": "效应与挑战程度的常用限定词"
+ },
+ {
+  "word": "desirable",
+  "pos": "形容词",
+  "sub": "中性的",
+  "gloss": "可取的；合乎需要的（a desirable property）",
+  "core": true,
+  "reason": "评价设计特性与结论价值常用词"
+ },
+ {
+  "word": "secondary",
+  "pos": "形容词",
+  "sub": "中性的",
+  "gloss": "次要的；辅助的（a secondary outcome）",
+  "core": true,
+  "reason": "学术骨架词命中，学术论证高频"
+ },
+ {
+  "word": "unambiguous",
+  "pos": "形容词",
+  "sub": "中性的",
+  "gloss": "明确的；不含糊的（unambiguous evidence）",
+  "core": true,
+  "reason": "作者对结果清晰性的自我评价常用词"
+ },
+ {
+  "word": "insufficient",
+  "pos": "形容词",
+  "sub": "中性的",
+  "gloss": "不足的；不充分的（insufficient evidence / insufficient power）",
+  "core": true,
+  "reason": "样本量与证据力度论证的标准判断词"
+ },
+ {
+  "word": "multiple",
+  "pos": "形容词",
+  "sub": "中性的",
+  "gloss": "多个的；多重的（multiple regression / multiple comparisons）",
+  "core": true,
+  "reason": "统计方法与设计描述的超高频词"
+ },
+ {
+  "word": "study",
+  "pos": "名词",
+  "sub": null,
+  "gloss": "研究；研究论文（a longitudinal study；the study reports）",
+  "core": true,
+  "reason": "学术骨架词命中，学术论证高频"
+ },
+ {
+  "word": "paper",
+  "pos": "名词",
+  "sub": null,
+  "gloss": "论文；（学术）文章",
+  "core": false,
+  "reason": "英文学术语域自称与指称论文的第一高频词"
+ },
+ {
+  "word": "discussion",
+  "pos": "名词",
+  "sub": null,
+  "gloss": "讨论；（论文的）讨论部分",
+  "core": true,
+  "reason": "学术骨架词命中，学术论证高频"
+ },
+ {
+  "word": "review",
+  "pos": "名词",
+  "sub": null,
+  "gloss": "综述；评述；评审（a systematic review；peer review）；作动词：综述，评述（review the literature）",
+  "core": true,
+  "reason": "AWL 词族命中，学术核心"
+ },
+ {
+  "word": "practice",
+  "pos": "名词",
+  "sub": null,
+  "gloss": "实践；惯例（best practice；clinical practice）；作动词：练习，执业（practise what one preaches）",
+  "core": true,
+  "reason": "学术骨架词命中，学术论证高频"
+ },
+ {
+  "word": "statistics",
+  "pos": "名词",
+  "sub": null,
+  "gloss": "统计学；统计数据（the statistics reported here）",
+  "core": true,
+  "reason": "AWL 词族命中，学术核心"
+ },
+ {
+  "word": "input",
+  "pos": "名词",
+  "sub": null,
+  "gloss": "输入；投入（model inputs；policy inputs）",
+  "core": true,
+  "reason": "AWL 词族命中，学术核心"
+ },
+ {
+  "word": "task",
+  "pos": "名词",
+  "sub": null,
+  "gloss": "任务；研究任务（the task was to…）",
+  "core": true,
+  "reason": "学术骨架词命中，学术论证高频"
+ },
+ {
+  "word": "standpoint",
+  "pos": "名词",
+  "sub": null,
+  "gloss": "立场；观点（尤指分析或解释的出发点）",
+  "core": true,
+  "reason": "方法论与理论论文的框架词"
+ },
+ {
+  "word": "lens",
+  "pos": "名词",
+  "sub": null,
+  "gloss": "透镜；视角（through the lens of）",
+  "core": false,
+  "reason": "跨学科论文的固定喻用框架"
+ },
+ {
+  "word": "barrier",
+  "pos": "名词",
+  "sub": null,
+  "gloss": "障碍；壁垒（barriers to adoption）",
+  "core": false,
+  "reason": "采纳意愿与技术转移研究高频构式"
+ },
+ {
+  "word": "continuum",
+  "pos": "名词",
+  "sub": null,
+  "gloss": "连续体；连续谱（a continuum of care）",
+  "core": false,
+  "reason": "社会科学分类论述常用词"
+ },
+ {
+  "word": "utility",
+  "pos": "名词",
+  "sub": null,
+  "gloss": "效用；效用（论）（utility function）",
+  "core": true,
+  "reason": "AWL 词族命中，学术核心"
+ },
+ {
+  "word": "match",
+  "pos": "动词",
+  "sub": null,
+  "gloss": "配对，使（两组）在可观测特征上可比（matched design 配对设计）",
+  "core": false,
+  "reason": "配对设计是控制混杂的通用手段"
+ },
+ {
+  "word": "nonresponse",
+  "pos": "名词",
+  "sub": null,
+  "gloss": "无应答；未回应（nonresponse rate 无应答率）",
+  "core": true,
+  "reason": "抽样调查最主要的选择偏倚来源之一"
+ },
+ {
+  "word": "census",
+  "pos": "名词",
+  "sub": null,
+  "gloss": "普查；全样本调查（census data 普查数据）",
+  "core": true,
+  "reason": "与抽样调查相对的全覆盖数据来源"
+ },
+ {
+  "word": "pilot",
+  "pos": "名词",
+  "sub": null,
+  "gloss": "试点；预试验（a pilot study 预试验研究）",
+  "core": false,
+  "reason": "预试验用于检验可行性与估算样本量"
+ },
+ {
+  "word": "quasi-experimental",
+  "pos": "形容词",
+  "sub": "中性的",
+  "gloss": "准实验的（a quasi-experimental design）",
+  "core": true,
+  "reason": "无法随机分配时最常用的替代设计名"
+ },
+ {
+  "word": "CONSORT",
+  "pos": "名词",
+  "sub": null,
+  "gloss": "CONSORT 声明（随机对照试验报告规范）",
+  "core": true,
+  "reason": "RCT 投稿的事实标准报告清单"
+ },
+ {
+  "word": "STROBE",
+  "pos": "名词",
+  "sub": null,
+  "gloss": "STROBE 声明（观察性研究报告规范）",
+  "core": true,
+  "reason": "观察性研究论文的通用报告清单"
+ },
+ {
+  "word": "standard error",
+  "pos": "名词",
+  "sub": null,
+  "gloss": "标准误",
+  "core": true,
+  "reason": "与标准差、置信区间并列的三大报告量"
+ },
+ {
+  "word": "covariance",
+  "pos": "名词",
+  "sub": null,
+  "gloss": "协方差",
+  "core": true,
+  "reason": "相关分析、多元回归的基本量"
+ },
+ {
+  "word": "heteroskedasticity",
+  "pos": "名词",
+  "sub": null,
+  "gloss": "异方差性；异方差",
+  "core": true,
+  "reason": "OLS 假设检验与稳健标准误的核心诊断项"
+ },
+ {
+  "word": "autocorrelation",
+  "pos": "名词",
+  "sub": null,
+  "gloss": "自相关",
+  "core": true,
+  "reason": "时间序列与面板数据推断的前提条件"
+ },
+ {
+  "word": "missing data",
+  "pos": "名词",
+  "sub": null,
+  "gloss": "数据缺失；缺失值",
+  "core": true,
+  "reason": "缺失机制决定可用插补方法"
+ },
+ {
+  "word": "bootstrap",
+  "pos": "动词",
+  "sub": null,
+  "gloss": "以自助法重抽样（估计）",
+  "core": true,
+  "reason": "小样本下置信区间的标准做法"
+ },
+ {
+  "word": "permutation",
+  "pos": "名词",
+  "sub": null,
+  "gloss": "置换；置换检验（a permutation test）",
+  "core": true,
+  "reason": "无分布检验方法"
+ },
+ {
+  "word": "degrees of freedom",
+  "pos": "名词",
+  "sub": null,
+  "gloss": "自由度",
+  "core": true,
+  "reason": "几乎每个方差分析与回归结果都要报告"
+ },
+ {
+  "word": "chi-square",
+  "pos": "名词",
+  "sub": null,
+  "gloss": "卡方；卡方检验（χ²）",
+  "core": true,
+  "reason": "列联表分析最常用的检验"
+ },
+ {
+  "word": "Monte Carlo",
+  "pos": "名词",
+  "sub": null,
+  "gloss": "蒙特卡洛（模拟方法）",
+  "core": true,
+  "reason": "复杂分布下推断与贝叶斯后验近似的标准手段"
+ },
+ {
+  "word": "median",
+  "pos": "名词",
+  "sub": null,
+  "gloss": "中位数",
+  "core": true,
+  "reason": "描述统计的基本集中趋势量"
+ },
+ {
+  "word": "quartile",
+  "pos": "名词",
+  "sub": null,
+  "gloss": "四分位数",
+  "core": true,
+  "reason": "分布描述与箱线图报告的常规统计量"
+ },
+ {
+  "word": "percentile",
+  "pos": "名词",
+  "sub": null,
+  "gloss": "百分位数",
+  "core": true,
+  "reason": "参照值与评分分布分析的常用统计量"
+ },
+ {
+  "word": "recall",
+  "pos": "名词",
+  "sub": null,
+  "gloss": "召回率；查全率",
+  "core": false,
+  "reason": "分类与信息检索评价的核心指标"
+ },
+ {
+  "word": "confusion matrix",
+  "pos": "名词",
+  "sub": null,
+  "gloss": "混淆矩阵",
+  "core": false,
+  "reason": "分类器性能报告的默认呈现形式"
+ },
+ {
+  "word": "ground truth",
+  "pos": "名词",
+  "sub": null,
+  "gloss": "真值；真值标注",
+  "core": false,
+  "reason": "评价预测正确性的参照答案"
+ },
+ {
+  "word": "overfitting",
+  "pos": "名词",
+  "sub": null,
+  "gloss": "过拟合",
+  "core": true,
+  "reason": "模型泛化讨论中的核心问题"
+ },
+ {
+  "word": "regularization",
+  "pos": "名词",
+  "sub": null,
+  "gloss": "正则化；规则化",
+  "core": true,
+  "reason": "惩罚项方法的统称"
+ },
+ {
+  "word": "annotation",
+  "pos": "名词",
+  "sub": null,
+  "gloss": "标注；注释",
+  "core": true,
+  "reason": "NLP 语料建设与质性编码的核心活动"
+ },
+ {
+  "word": "coding",
+  "pos": "名词",
+  "sub": null,
+  "gloss": "编码（质性研究中的编码过程）",
+  "core": true,
+  "reason": "质性分析的骨架步骤"
+ },
+ {
+  "word": "transcription",
+  "pos": "名词",
+  "sub": null,
+  "gloss": "转录；文字转写",
+  "core": true,
+  "reason": "访谈与录音材料处理的第一步"
+ },
+ {
+  "word": "member checking",
+  "pos": "名词",
+  "sub": null,
+  "gloss": "成员核验（让受访者核对分析结果）",
+  "core": true,
+  "reason": "质性研究可信度最常被提及的检验手段"
+ },
+ {
+  "word": "audit trail",
+  "pos": "名词",
+  "sub": null,
+  "gloss": "审计轨迹；决策留痕记录",
+  "core": true,
+  "reason": "质性编码与伦理审查要求的过程可追溯性证据"
+ },
+ {
+  "word": "purposive",
+  "pos": "形容词",
+  "sub": "中性的",
+  "gloss": "目的性（抽样的）（purposive sampling 目的性抽样）",
+  "core": true,
+  "reason": "质性研究最主要的抽样策略"
+ },
+ {
+  "word": "ethnography",
+  "pos": "名词",
+  "sub": null,
+  "gloss": "民族志（研究方法）",
+  "core": true,
+  "reason": "质性方法的三大支柱之一"
+ },
+ {
+  "word": "latent",
+  "pos": "形容词",
+  "sub": "中性的",
+  "gloss": "潜在的；潜伏的（a latent variable 潜在变量）",
+  "core": true,
+  "reason": "学术骨架词命中，学术论证高频"
+ },
+ {
+  "word": "screening",
+  "pos": "名词",
+  "sub": null,
+  "gloss": "筛查；筛选（受试者或文献筛选）",
+  "core": true,
+  "reason": "系统综述与临床试验流程图的固定环节"
+ },
+ {
+  "word": "surveillance",
+  "pos": "名词",
+  "sub": null,
+  "gloss": "监测；疾病监测（surveillance data）",
+  "core": true,
+  "reason": "流行病学与公共卫生的独立方法族"
+ },
+ {
+  "word": "scoping review",
+  "pos": "名词",
+  "sub": null,
+  "gloss": "范围综述",
+  "core": true,
+  "reason": "近十年快速扩张的证据综述类型"
+ },
+ {
+  "word": "peer review",
+  "pos": "名词",
+  "sub": null,
+  "gloss": "同行评议；同行评审",
+  "core": true,
+  "reason": "出版流程核心概念"
+ },
+ {
+  "word": "conflict of interest",
+  "pos": "名词",
+  "sub": null,
+  "gloss": "利益冲突",
+  "core": true,
+  "reason": "期刊投稿必填声明项"
+ },
+ {
+  "word": "open access",
+  "pos": "名词",
+  "sub": null,
+  "gloss": "开放获取（开放存取）",
+  "core": true,
+  "reason": "出版与文献计量论文的固定名词"
+ },
+ {
+  "word": "grant",
+  "pos": "名词",
+  "sub": null,
+  "gloss": "资助；课题经费（a grant proposal 基金申请书）",
+  "core": true,
+  "reason": "学术骨架词命中，学术论证高频"
+ },
+ {
+  "word": "platform",
+  "pos": "名词",
+  "sub": null,
+  "gloss": "平台；（计算/传播/研究）承载数据与服务的底层平台",
+  "core": true,
+  "reason": "数字化学科论文的必答题词"
+ },
+ {
+  "word": "architecture",
+  "pos": "名词",
+  "sub": null,
+  "gloss": "体系结构；架构",
+  "core": true,
+  "reason": "系统与软件类论文的固定术语"
+ },
+ {
+  "word": "repository",
+  "pos": "名词",
+  "sub": null,
+  "gloss": "存储库；资料库；数据仓储",
+  "core": true,
+  "reason": "开放数据与文献共享语境下的高频机构名"
+ },
+ {
+  "word": "interoperability",
+  "pos": "名词",
+  "sub": null,
+  "gloss": "互操作性",
+  "core": true,
+  "reason": "跨系统数据打通议题的核心术语"
+ },
+ {
+  "word": "metadata",
+  "pos": "名词",
+  "sub": null,
+  "gloss": "元数据",
+  "core": true,
+  "reason": "数据集与馆藏描述的基础词"
+ },
+ {
+  "word": "ontology",
+  "pos": "名词",
+  "sub": null,
+  "gloss": "本体（知识表示体系）",
+  "core": true,
+  "reason": "信息学与知识组织论文的核心术语"
+ },
+ {
+  "word": "privacy",
+  "pos": "名词",
+  "sub": null,
+  "gloss": "隐私（隐私保护）",
+  "core": true,
+  "reason": "AWL 词族命中，学术核心"
+ },
+ {
+  "word": "cybersecurity",
+  "pos": "名词",
+  "sub": null,
+  "gloss": "网络安全",
+  "core": true,
+  "reason": "系统与信息类论文的通用风险类别词"
+ },
+ {
+  "word": "intellectual property",
+  "pos": "名词",
+  "sub": null,
+  "gloss": "知识产权",
+  "core": true,
+  "reason": "AWL 词族命中，学术核心"
+ },
+ {
+  "word": "copyright",
+  "pos": "名词",
+  "sub": null,
+  "gloss": "版权",
+  "core": false,
+  "reason": "出版伦理与开放获取声明段落的高频词"
+ },
+ {
+  "word": "open science",
+  "pos": "名词",
+  "sub": null,
+  "gloss": "开放科学",
+  "core": true,
+  "reason": "近年跨所有学科的顶层政策概念"
+ },
+ {
+  "word": "open data",
+  "pos": "名词",
+  "sub": null,
+  "gloss": "开放数据",
+  "core": true,
+  "reason": "与开放科学配套出现的高频政策术语"
+ },
+ {
+  "word": "climate change",
+  "pos": "名词",
+  "sub": null,
+  "gloss": "气候变化",
+  "core": true,
+  "reason": "跨自然科学的公共议题术语"
+ },
+ {
+  "word": "land use",
+  "pos": "名词",
+  "sub": null,
+  "gloss": "土地利用",
+  "core": false,
+  "reason": "城市、地理、农业与生态论文的通用研究对象名"
+ },
+ {
+  "word": "public health",
+  "pos": "名词",
+  "sub": null,
+  "gloss": "公共卫生",
+  "core": true,
+  "reason": "AWL 词族命中，学术核心"
+ },
+ {
+  "word": "health inequality",
+  "pos": "名词",
+  "sub": null,
+  "gloss": "健康不平等",
+  "core": true,
+  "reason": "公共卫生与社会政策的常设议题"
+ },
+ {
+  "word": "life expectancy",
+  "pos": "名词",
+  "sub": null,
+  "gloss": "预期寿命",
+  "core": true,
+  "reason": "人口学与卫生经济学共同使用的核心指标名"
+ },
+ {
+  "word": "mental health",
+  "pos": "名词",
+  "sub": null,
+  "gloss": "心理健康",
+  "core": true,
+  "reason": "AWL 词族命中，学术核心"
+ },
+ {
+  "word": "risk factor",
+  "pos": "名词",
+  "sub": null,
+  "gloss": "风险因素",
+  "core": true,
+  "reason": "流行病学与临床研究的通用术语"
+ },
+ {
+  "word": "randomized controlled trial",
+  "pos": "名词",
+  "sub": null,
+  "gloss": "随机对照试验",
+  "core": true,
+  "reason": "健康与行为科学中最核心的证据类型名"
+ },
+ {
+  "word": "numeracy",
+  "pos": "名词",
+  "sub": null,
+  "gloss": "计算能力；数理素养",
+  "core": true,
+  "reason": "教育学与公共政策话语中的核心素养概念"
+ },
+ {
+  "word": "instruction",
+  "pos": "名词",
+  "sub": null,
+  "gloss": "教学；教学活动",
+  "core": true,
+  "reason": "AWL 词族命中，学术核心"
+ },
+ {
+  "word": "scholarship",
+  "pos": "名词",
+  "sub": null,
+  "gloss": "学术研究成果",
+  "core": true,
+  "reason": "综述与贡献陈述段的高频名词"
+ },
+ {
+  "word": "enrollment",
+  "pos": "名词",
+  "sub": null,
+  "gloss": "入组；招募入组；注册入学（enrollment rate）",
+  "core": true,
+  "reason": "临床试验与教育统计的流程指标词"
+ },
+ {
+  "word": "engagement",
+  "pos": "名词",
+  "sub": null,
+  "gloss": "参与度；投入",
+  "core": true,
+  "reason": "教育、健康传播与平台治理共用的结果变量词"
+ },
+ {
+  "word": "behavior",
+  "pos": "名词",
+  "sub": null,
+  "gloss": "行为",
+  "core": true,
+  "reason": "学术骨架词命中，学术论证高频"
+ },
+ {
+  "word": "taxation",
+  "pos": "名词",
+  "sub": null,
+  "gloss": "税收；税制",
+  "core": false,
+  "reason": "财政与公共经济论文的固定制度名词"
+ },
+ {
+  "word": "cost-effectiveness",
+  "pos": "名词",
+  "sub": null,
+  "gloss": "成本效果（成本效益比）",
+  "core": true,
+  "reason": "卫生技术评估与公共项目评价的标准指标名"
+ },
+ {
+  "word": "disincentive",
+  "pos": "名词",
+  "sub": null,
+  "gloss": "抑制因素",
+  "core": false,
+  "reason": "与 incentive 对举的激励设计术语"
+ },
+ {
+  "word": "audit",
+  "pos": "名词",
+  "sub": null,
+  "gloss": "审计；核查",
+  "core": true,
+  "reason": "从财务审计到数据核查与机构问责，审计类评价多学科通用"
+ },
+ {
+  "word": "supply chain",
+  "pos": "名词",
+  "sub": null,
+  "gloss": "供应链",
+  "core": true,
+  "reason": "运营、贸易、环境与公共卫生论文的共用概念词"
+ },
+ {
+  "word": "entrepreneurship",
+  "pos": "名词",
+  "sub": null,
+  "gloss": "创业；企业家精神",
+  "core": false,
+  "reason": "创新与区域经济研究的核心主题词"
+ },
+ {
+  "word": "unemployment",
+  "pos": "名词",
+  "sub": null,
+  "gloss": "失业",
+  "core": false,
+  "reason": "经济与劳动研究的核心指标"
+ },
+ {
+  "word": "workforce",
+  "pos": "名词",
+  "sub": null,
+  "gloss": "劳动力；全体员工",
+  "core": true,
+  "reason": "学术骨架词命中，学术论证高频"
+ },
+ {
+  "word": "inequality",
+  "pos": "名词",
+  "sub": null,
+  "gloss": "不平等",
+  "core": true,
+  "reason": "学术骨架词命中，学术论证高频"
+ },
+ {
+  "word": "artificial intelligence",
+  "pos": "名词",
+  "sub": null,
+  "gloss": "人工智能",
+  "core": true,
+  "reason": "当代跨学科论文的头号通用领域词"
+ },
+ {
+  "word": "machine learning",
+  "pos": "名词",
+  "sub": null,
+  "gloss": "机器学习",
+  "core": true,
+  "reason": "所有应用学科引用方法的通用标签词"
+ },
+ {
+  "word": "fairness",
+  "pos": "名词",
+  "sub": null,
+  "gloss": "公平性",
+  "core": true,
+  "reason": "算法治理与公共服务分配研究的高频评价维度词"
+ },
+ {
+  "word": "framing",
+  "pos": "名词",
+  "sub": null,
+  "gloss": "框架化；框定（叙事/媒体框架）",
+  "core": true,
+  "reason": "框架分析是传播、气候与政策研究的标准方法名"
+ },
+ {
+  "word": "misinformation",
+  "pos": "名词",
+  "sub": null,
+  "gloss": "错误信息",
+  "core": true,
+  "reason": "信息环境研究的通用术语"
+ },
+ {
+  "word": "disinformation",
+  "pos": "名词",
+  "sub": null,
+  "gloss": "虚假信息（蓄意）",
+  "core": true,
+  "reason": "与 misinformation 并列区分意图"
+ },
+ {
+  "word": "statistical significance",
+  "pos": "名词",
+  "sub": null,
+  "gloss": "统计显著性",
+  "core": true,
+  "reason": "结果章的通用判定语"
+ },
+ {
+  "word": "systematic review",
+  "pos": "名词",
+  "sub": null,
+  "gloss": "系统综述",
+  "core": true,
+  "reason": "AWL 词族命中，学术核心"
+ },
+ {
+  "word": "mixed methods",
+  "pos": "名词",
+  "sub": null,
+  "gloss": "混合方法",
+  "core": true,
+  "reason": "方法章声明研究设计范式的固定名"
+ },
+ {
+  "word": "gender",
+  "pos": "名词",
+  "sub": null,
+  "gloss": "性别",
+  "core": true,
+  "reason": "AWL 词族命中，学术核心"
+ },
+ {
+  "word": "ethnicity",
+  "pos": "名词",
+  "sub": null,
+  "gloss": "族裔；民族",
+  "core": true,
+  "reason": "AWL 词族命中，学术核心"
+ }
+]

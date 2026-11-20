@@ -1,0 +1,112 @@
+[
+ {
+  "word": "transcription",
+  "pos": "名词",
+  "gloss": "转录；文字转写"
+ },
+ {
+  "word": "member checking",
+  "pos": "名词",
+  "gloss": "成员核验（让受访者核对分析结果）"
+ },
+ {
+  "word": "audit trail",
+  "pos": "名词",
+  "gloss": "审计轨迹；决策留痕记录"
+ },
+ {
+  "word": "purposive",
+  "pos": "形容词",
+  "gloss": "目的性（抽样的）（purposive sampling 目的性抽样）"
+ },
+ {
+  "word": "ethnography",
+  "pos": "名词",
+  "gloss": "民族志（研究方法）"
+ },
+ {
+  "word": "latent",
+  "pos": "形容词",
+  "gloss": "潜在的；潜伏的（a latent variable 潜在变量）"
+ },
+ {
+  "word": "screening",
+  "pos": "名词",
+  "gloss": "筛查；筛选（受试者或文献筛选）"
+ },
+ {
+  "word": "surveillance",
+  "pos": "名词",
+  "gloss": "监测；疾病监测（surveillance data）"
+ },
+ {
+  "word": "scoping review",
+  "pos": "名词",
+  "gloss": "范围综述"
+ },
+ {
+  "word": "peer review",
+  "pos": "名词",
+  "gloss": "同行评议；同行评审"
+ },
+ {
+  "word": "conflict of interest",
+  "pos": "名词",
+  "gloss": "利益冲突"
+ },
+ {
+  "word": "open access",
+  "pos": "名词",
+  "gloss": "开放获取（开放存取）"
+ },
+ {
+  "word": "grant",
+  "pos": "名词",
+  "gloss": "资助；课题经费（a grant proposal 基金申请书）"
+ },
+ {
+  "word": "platform",
+  "pos": "名词",
+  "gloss": "平台；（计算/传播/研究）承载数据与服务的底层平台"
+ },
+ {
+  "word": "architecture",
+  "pos": "名词",
+  "gloss": "体系结构；架构"
+ },
+ {
+  "word": "repository",
+  "pos": "名词",
+  "gloss": "存储库；资料库；数据仓储"
+ },
+ {
+  "word": "interoperability",
+  "pos": "名词",
+  "gloss": "互操作性"
+ },
+ {
+  "word": "metadata",
+  "pos": "名词",
+  "gloss": "元数据"
+ },
+ {
+  "word": "ontology",
+  "pos": "名词",
+  "gloss": "本体（知识表示体系）"
+ },
+ {
+  "word": "privacy",
+  "pos": "名词",
+  "gloss": "隐私（隐私保护）"
+ },
+ {
+  "word": "cybersecurity",
+  "pos": "名词",
+  "gloss": "网络安全"
+ },
+ {
+  "word": "intellectual property",
+  "pos": "名词",
+  "gloss": "知识产权"
+ }
+]

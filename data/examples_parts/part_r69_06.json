@@ -1,0 +1,310 @@
+{
+  "secondary": [
+    {
+      "en": "Fatigue proved secondary to pain, which was the dominant complaint among patients.",
+      "zh": "在患者中，疼痛是主要主诉，疲劳则被证明居于次要地位。"
+    },
+    {
+      "en": "The protocol treats adherence to the schedule as a secondary objective rather than the main aim.",
+      "zh": "该方案把遵守时间表视为次要目标，而非主要目的。"
+    },
+    {
+      "en": "Economic gains remained secondary to ecological objectives in the evaluation of the scheme.",
+      "zh": "在该方案的评估中，经济收益相对于生态目标而言仍居次要地位。"
+    }
+  ],
+  "unambiguous": [
+    {
+      "en": "The isotope ratios provided unambiguous evidence that the samples shared a common source.",
+      "zh": "同位素比值提供了明确的证据，表明这些样品来源相同。"
+    },
+    {
+      "en": "Reviewers asked for unambiguous wording so that replication of the procedure remains feasible.",
+      "zh": "审稿人要求表述明确不含糊，以便该程序仍可被重复。"
+    },
+    {
+      "en": "Her interpretation rests on unambiguous signals in the archival record rather than on inference.",
+      "zh": "她的解释依据档案记录中明确的信号，而非推断。"
+    }
+  ],
+  "insufficient": [
+    {
+      "en": "The sampling rate was insufficient to detect rare adverse outcomes in the treated group.",
+      "zh": "抽样率不足以在治疗组中检出罕见的不良结局。"
+    },
+    {
+      "en": "Measurement precision was insufficient for stable estimation of the coefficient.",
+      "zh": "测量精度不足以对该系数进行稳定估计。"
+    },
+    {
+      "en": "Two reviewers judged the description of the instrument insufficient for exact replication.",
+      "zh": "两位评审认为该工具的描述不够充分，无法精确重复。"
+    }
+  ],
+  "multiple": [
+    {
+      "en": "Each participant completed multiple trials in randomized order across the session.",
+      "zh": "每位参与者在该次实验中以随机顺序完成了多次试验。"
+    },
+    {
+      "en": "The synthesis used corrections for multiple comparisons to control the family-wise error rate.",
+      "zh": "该综述采用了多重比较校正，以控制族错误率。"
+    },
+    {
+      "en": "Multiple regression with interaction terms clarified the independent effect of each predictor.",
+      "zh": "含交互项的多元回归厘清了各预测变量的独立效应。"
+    }
+  ],
+  "study": [
+    {
+      "en": "Her study challenges the assumption that growth in enrollment is driven by rising population.",
+      "zh": "她的研究质疑了入学增长由人口上升驱动的假设。"
+    },
+    {
+      "en": "The study reports that attrition differed substantially between the two recruitment channels.",
+      "zh": "该研究报告称，两条招募渠道之间的流失情况差异显著。"
+    },
+    {
+      "en": "Because the study drew on archival records, its conclusions remain open to reanalysis.",
+      "zh": "由于该研究取材于档案记录，其结论仍有重新分析的空间。"
+    }
+  ],
+  "paper": [
+    {
+      "en": "The paper was accepted after the authors added a robustness check to the appendix.",
+      "zh": "在作者于附录中补充稳健性检验后，该论文被接收。"
+    },
+    {
+      "en": "Every paper in the volume addresses the relation between labor markets and migration.",
+      "zh": "该文集收录的每篇论文都探讨了劳动力市场与迁移之间的关系。"
+    },
+    {
+      "en": "Her paper has been cited mainly for its methodological appendix rather than its conclusions.",
+      "zh": "她的论文主要因其方法附录而非其结论被引用。"
+    }
+  ],
+  "discussion": [
+    {
+      "en": "The discussion section should acknowledge alternative explanations for the observed pattern.",
+      "zh": "讨论部分应当承认对所观察模式的替代性解释。"
+    },
+    {
+      "en": "The seminar discussion revealed that participants held incompatible definitions of fairness.",
+      "zh": "研讨会上的讨论显示，参与者对公平的定义互不相容。"
+    },
+    {
+      "en": "Her contribution to the discussion of the case remains open to later scrutiny.",
+      "zh": "她对该案例讨论所作的贡献仍有待后人审视。"
+    }
+  ],
+  "review": [
+    {
+      "en": "A systematic review of the trial evidence was carried out under a registered protocol.",
+      "zh": "对试验证据的系统综述是在注册方案下完成的。"
+    },
+    {
+      "en": "The manuscript received a constructive review from three anonymous referees.",
+      "zh": "该稿件收到了三位匿名评审人的中肯评审意见。"
+    },
+    {
+      "en": "We review the competing models and explain why the simpler specification suffices.",
+      "zh": "我们评述了各竞争模型，并说明为何较简单的设定已足够。"
+    }
+  ],
+  "practice": [
+    {
+      "en": "Best practice in this field requires preregistration of the analysis plan.",
+      "zh": "该领域的最佳实践要求预先注册分析计划。"
+    },
+    {
+      "en": "Clinicians abandoned the procedure once it proved inconsistent with routine practice.",
+      "zh": "临床医生一旦发现该程序与常规实践不符便予以放弃。"
+    },
+    {
+      "en": "Trainees practice the procedure under supervision before working unsupervised.",
+      "zh": "受训者在独立操作前，先在监督下练习该流程。"
+    }
+  ],
+  "statistics": [
+    {
+      "en": "The statistics reported in the abstract did not match those in the main tables.",
+      "zh": "摘要中报告的统计数据与正文表格中的并不一致。"
+    },
+    {
+      "en": "She teaches statistics to graduate students in the social sciences.",
+      "zh": "她为社会科学专业的研究生讲授统计学。"
+    },
+    {
+      "en": "The summary statistics obscure the heterogeneity between the two subgroups.",
+      "zh": "这些汇总统计数字掩盖了两个子群之间的异质性。"
+    }
+  ],
+  "input": [
+    {
+      "en": "The model receives input from several sensors mounted along the frame.",
+      "zh": "该模型接收来自安装在机架上的若干传感器的输入。"
+    },
+    {
+      "en": "Policy input from ministries was consolidated before the modeling exercise began.",
+      "zh": "在建模工作开始前，各部委提供的政策意见被统一汇总。"
+    },
+    {
+      "en": "Increasing the input of nitrogen raised yield but also intensified leaching.",
+      "zh": "增加氮肥投入提高了产量，但也加剧了养分淋失。"
+    }
+  ],
+  "task": [
+    {
+      "en": "The task was to determine whether the intervention changed referral behavior.",
+      "zh": "该研究任务是确定干预措施是否改变了转诊行为。"
+    },
+    {
+      "en": "Participants who received training finished the task in less time.",
+      "zh": "接受培训的参与者完成该任务所用的时间更短。"
+    },
+    {
+      "en": "Each task in the battery was piloted with students before the main session.",
+      "zh": "该测验组中的每项任务都在主实验前由学生试做。"
+    }
+  ],
+  "standpoint": [
+    {
+      "en": "From a historical standpoint, the reform belongs to a wider movement of institutional change.",
+      "zh": "从历史角度看，这场改革属于更广泛的制度变迁运动。"
+    },
+    {
+      "en": "The author's standpoint is that classification should follow function rather than form.",
+      "zh": "作者的观点是分类应依据功能而非形式。"
+    },
+    {
+      "en": "Adopting the standpoint of the practitioner clarifies what counts as a meaningful outcome.",
+      "zh": "采用实践者的立场有助于厘清何为有意义的结果。"
+    }
+  ],
+  "lens": [
+    {
+      "en": "Viewed through the lens of labor economics, the reform appears to be a form of income redistribution.",
+      "zh": "从劳动经济学的视角看，这场改革似乎是一种收入再分配。"
+    },
+    {
+      "en": "A wide-angle lens captured the whole observatory in a single frame.",
+      "zh": "一只广角镜头在单帧中拍下了整座天文台。"
+    },
+    {
+      "en": "Historians examine the event through the lens of later developments.",
+      "zh": "历史学家以后来的发展为视角来审视这一事件。"
+    }
+  ],
+  "barrier": [
+    {
+      "en": "Informal financing remains the principal barrier to scaling the intervention.",
+      "zh": "非正式融资仍是扩大该干预规模的根本障碍。"
+    },
+    {
+      "en": "Language certification continues to be a substantial barrier for qualified migrant researchers.",
+      "zh": "语言资格认证对具备资质的移民研究者而言仍是重大障碍。"
+    },
+    {
+      "en": "Low literacy erected an enduring barrier to participation in village assemblies.",
+      "zh": "识字率低下为参与村庄议事会设置了长期障碍。"
+    }
+  ],
+  "continuum": [
+    {
+      "en": "Care for patients with chronic pain spans a continuum from self-management to specialist referral.",
+      "zh": "慢性疼痛患者的照护涵盖从自我管理到专科转诊的连续谱。"
+    },
+    {
+      "en": "The authors argue that addiction severity lies along a continuum rather than in categories.",
+      "zh": "作者认为成瘾严重程度处于连续体上，而非隶属于若干类别。"
+    },
+    {
+      "en": "Anxiety was measured on a continuum from mild worry to severe distress.",
+      "zh": "焦虑程度是在从轻微担忧到严重痛苦的连续谱上测量的。"
+    }
+  ],
+  "utility": [
+    {
+      "en": "The utility function is concave, implying diminishing marginal benefit from additional units.",
+      "zh": "该效用函数是凹的，这意味着追加单位的边际效用递减。"
+    },
+    {
+      "en": "Participants evaluated the utility of each option under the stated time constraints.",
+      "zh": "参与者在给定的时间限制下评估了每种选项的效用。"
+    },
+    {
+      "en": "Utility theory underpins the choice model used in the analysis.",
+      "zh": "效用理论构成了该分析中所用选择模型的基础。"
+    }
+  ],
+  "match": [
+    {
+      "en": "Each treated case was matched with several controls sharing age and clinical severity.",
+      "zh": "每个接受治疗的病例都按年龄和病情严重程度与若干对照进行了匹配。"
+    },
+    {
+      "en": "The design should match the two groups on prior attainment and socioeconomic background.",
+      "zh": "该设计应在既往成绩和社会经济背景上使两组保持可比。"
+    },
+    {
+      "en": "Matching on pretreatment covariates reduced the imbalance between the compared groups.",
+      "zh": "按处理前协变量进行配对减轻了受比较组之间的不平衡。"
+    }
+  ],
+  "nonresponse": [
+    {
+      "en": "Nonresponse was addressed by repeated callbacks on different days of the week.",
+      "zh": "无应答问题通过在一周不同日期反复回访来解决。"
+    },
+    {
+      "en": "A high nonresponse rate among younger households introduced selection bias.",
+      "zh": "年轻家庭中的高无应答率带来了选择偏倚。"
+    },
+    {
+      "en": "Nonresponse analysis showed that the missing units resembled those who replied.",
+      "zh": "无应答分析显示未作答单位与作出应答者特征相似。"
+    }
+  ],
+  "census": [
+    {
+      "en": "Census data for the district were obtained from the national statistics office.",
+      "zh": "该地区的普查数据取自国家统计局。"
+    },
+    {
+      "en": "The team conducted a census of every household rather than drawing a sample.",
+      "zh": "研究团队对每一户人家进行了全面普查，而非抽取样本。"
+    },
+    {
+      "en": "Census records allow the researchers to compare birth cohorts across two decades.",
+      "zh": "普查记录使研究者得以比较跨越二十年的出生队列。"
+    }
+  ],
+  "pilot": [
+    {
+      "en": "A pilot run revealed that the instrument took far longer than expected.",
+      "zh": "预试验显示该工具所耗时间远超预期。"
+    },
+    {
+      "en": "The pilot informed substantial revisions to the consent materials.",
+      "zh": "试点工作促成了知情同意材料的实质性修订。"
+    },
+    {
+      "en": "Two laboratories served as pilot sites for the new protocol.",
+      "zh": "两个实验室充当了新方案的试点场所。"
+    }
+  ],
+  "quasi-experimental": [
+    {
+      "en": "The quasi-experimental design exploited a phased rollout across districts.",
+      "zh": "该准实验设计利用了各地区分阶段推行的条件。"
+    },
+    {
+      "en": "Because assignment was not random, the quasi-experimental analysis relies on adjustment for observed confounders.",
+      "zh": "由于分组并非随机，准实验分析依赖于对已观测混杂因素的调整。"
+    },
+    {
+      "en": "A quasi-experimental comparison of the two schedules is the closest available alternative to a trial.",
+      "zh": "对两种时间安排的准实验比较是现有条件下最接近试验的替代方案。"
+    }
+  ]
+}

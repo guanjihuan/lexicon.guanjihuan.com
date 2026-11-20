@@ -1,0 +1,184 @@
+{
+ "interdependent": [
+  {
+   "en": "The economic and ecological systems of the region are deeply interdependent and cannot be planned separately.",
+   "zh": "该地区的经济系统与生态系统相互依存，无法分开规划。"
+  },
+  {
+   "en": "Small-scale fisheries and coastal livelihoods are interdependent, so governance must span both domains.",
+   "zh": "小规模渔业与沿海生计相互依赖，因此治理必须跨越这两个领域。"
+  },
+  {
+   "en": "Interdependent feedback loops between climate and land use complicate efforts to model long-term outcomes.",
+   "zh": "气候与土地利用之间相互依存的反馈回路，使长期结果的建模更趋复杂。"
+  }
+ ],
+ "logical": [
+  {
+   "en": "A logical argument must distinguish clearly between the premises and the conclusions drawn from them.",
+   "zh": "合乎逻辑的论证必须清楚区分前提与由此得出的结论。"
+  },
+  {
+   "en": "The proposal presents a logical progression from observed data to a testable set of hypotheses.",
+   "zh": "该提案呈现出从观察数据到可检验假设的条理清晰的推进过程。"
+  },
+  {
+   "en": "His objection was logical, yet it rested on an assumption the study never examined.",
+   "zh": "他的反驳在逻辑上成立，却建立在该研究从未考察过的假设之上。"
+  }
+ ],
+ "measurable": [
+  {
+   "en": "Only measurable indicators can support a defensible assessment of policy performance over time.",
+   "zh": "只有可测量的指标才能支撑对政策绩效的可靠评估。"
+  },
+  {
+   "en": "The review insisted that learning outcomes be translated into measurable criteria before evaluation began.",
+   "zh": "评审要求在评估开始之前将学习结果转化为可衡量的标准。"
+  },
+  {
+   "en": "Progress toward the stated goals remained largely unmeasurable because no baseline data had been collected.",
+   "zh": "由于未曾收集基线数据，达成既定目标的进展在很大程度上无法衡量。"
+  }
+ ],
+ "misleading": [
+  {
+   "en": "Selective use of summary statistics can be deeply misleading when the underlying distribution is highly skewed.",
+   "zh": "在底层分布高度偏斜的情况下，选择性使用汇总统计会产生严重误导。"
+  },
+  {
+   "en": "The report warns that isolated quotations are misleading and should not be read as general trends.",
+   "zh": "报告提醒说，孤立的引文具有误导性，不应被解读为普遍趋势。"
+  },
+  {
+   "en": "Such a misleading label persisted in the literature for several years before being challenged.",
+   "zh": "这一具有误导性的标签在文献中延续多年，直到受到学界质疑。"
+  }
+ ],
+ "neutral": [
+  {
+   "en": "The instrument was designed to remain neutral with respect to political affiliation or religious belief.",
+   "zh": "该工具的设计以保持中立为目标，不受政治立场或宗教信仰影响。"
+  },
+  {
+   "en": "Neutral observers documented the voting procedure and confirmed that no irregularities had occurred.",
+   "zh": "中立的观察者记录了投票程序，并确认没有发生违规行为。"
+  },
+  {
+   "en": "A neutral stance allows the analyst to revise the interpretation when the evidence changes.",
+   "zh": "中立的立场使分析者在证据发生变化时仍能修订原有的解释。"
+  }
+ ],
+ "observable": [
+  {
+   "en": "Only observable behavior can be scored reliably across raters in a classroom setting.",
+   "zh": "只有可观察的行为才能在课堂环境中由不同评分者作出可靠评定。"
+  },
+  {
+   "en": "The study separates observable outcomes from the intentions that participants reported afterwards.",
+   "zh": "该研究将可观测的结果与参与者事后报告的意图区分开来。"
+  },
+  {
+   "en": "Changes in the archival record provide observable evidence that the intervention altered local practice.",
+   "zh": "档案记录的变化提供了可观察的证据，表明干预改变了当地实践。"
+  }
+ ],
+ "paradoxical": [
+  {
+   "en": "The paradoxical finding is that greater administrative support was associated with lower reported well-being.",
+   "zh": "看似矛盾的发现是，获得更多行政支持反而与更低的幸福感报告相关。"
+  },
+  {
+   "en": "It is paradoxical that a policy intended to increase choice should reduce it in practice.",
+   "zh": "一项旨在增加选择权的政策在实践中却减少了选择，这本身是悖论性的。"
+  },
+  {
+   "en": "The paradoxical pattern persisted even after the researchers adjusted for the size of the sample.",
+   "zh": "在研究者对样本量作出调整之后，这一反常的模式依然存在。"
+  }
+ ],
+ "productive": [
+  {
+   "en": "Small interdisciplinary grants proved more productive than large single-discipline programs for early career researchers.",
+   "zh": "对职业早期研究者而言，小额跨学科资助比大型单学科项目更有成效。"
+  },
+  {
+   "en": "The committee adopted a productive compromise that protected minority rights without paralyzing decision making.",
+   "zh": "委员会采纳了一个富有成效的折中方案，既保护少数群体的权利，又不至于使决策陷入瘫痪。"
+  },
+  {
+   "en": "Productive collaboration emerged once the data sharing agreement had been signed by all institutions involved.",
+   "zh": "在所有相关机构签署数据共享协议之后，富有成效的合作逐渐形成。"
+  }
+ ],
+ "questionable": [
+  {
+   "en": "The validity of self-reported data from that survey remains questionable because of the sampling procedure.",
+   "zh": "由于抽样程序的问题，该调查自我报告数据的效度仍然值得怀疑。"
+  },
+  {
+   "en": "Several assertions in the review are questionable and are not supported by the cited evidence.",
+   "zh": "该综述中的若干论断是有问题的，并未被所引证据支持。"
+  },
+  {
+   "en": "It is questionable whether the reported effect could be separated from seasonal variation in enrollment.",
+   "zh": "所报告的效应能否与入组人数的季节性变化区分开来，是值得怀疑的。"
+  }
+ ],
+ "rational": [
+  {
+   "en": "A rational policy decision requires evidence about costs as well as benefits.",
+   "zh": "理性的政策决策需要关于成本与收益两方面的证据。"
+  },
+  {
+   "en": "The panel urged a rational allocation of funding toward preventive rather than remedial measures.",
+   "zh": "小组敦促将资金合理地配置到预防性措施而非补救性措施上。"
+  },
+  {
+   "en": "Rational choice models help explain why households underinvest in long-term financial security.",
+   "zh": "理性选择模型有助于解释为何家庭在长期财务保障方面投入不足。"
+  }
+ ],
+ "realistic": [
+  {
+   "en": "The seminar proposed a realistic timetable for reform rather than an unattainable ideal.",
+   "zh": "研讨会提出了切实可行的改革时间表，而不是不切实际的目标。"
+  },
+  {
+   "en": "Realistic estimates of future demand must account for demographic change in the catchment area.",
+   "zh": "对未来需求的现实估计必须考虑服务区域内人口结构的变化。"
+  },
+  {
+   "en": "Teachers regarded the revised curriculum as realistic and therefore worth adopting in the classroom.",
+   "zh": "教师认为修订后的课程切合实际，因而值得在课堂上采用。"
+  }
+ ],
+ "recurrent": [
+  {
+   "en": "Recurrent episodes of drought altered the vegetation cover across the study region over several decades.",
+   "zh": "反复出现的干旱在数十年间改变了研究区域的植被覆盖。"
+  },
+  {
+   "en": "The journal requires authors to disclose recurrent methodological problems in earlier versions of their work.",
+   "zh": "该期刊要求作者披露其早期版本中反复出现的方法学问题。"
+  },
+  {
+   "en": "Recurrent patterns in the data suggest a seasonal component that the original model omitted.",
+   "zh": "数据中反复出现的模式提示，原有模型遗漏了季节性成分。"
+  }
+ ],
+ "reputable": [
+  {
+   "en": "The findings were later confirmed by an independent team at a reputable research institute.",
+   "zh": "这些发现后来由一家信誉良好的研究机构的独立团队证实。"
+  },
+  {
+   "en": "Reputable journals typically require authors to disclose conflicts of interest and data sources.",
+   "zh": "有声望的期刊通常要求作者披露利益冲突与数据来源。"
+  },
+  {
+   "en": "Clients are more willing to trust a reputable supplier when the certification process is transparent.",
+   "zh": "当认证流程公开透明时，客户更愿意信赖有声望的供应商。"
+  }
+ ]
+}

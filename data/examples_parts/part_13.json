@@ -1,0 +1,534 @@
+{
+ "pave": [
+  {
+   "en": "The pilot study paved the way for a large national trial.",
+   "zh": "这项试点研究为全国性的大型试验铺平了道路。"
+  },
+  {
+   "en": "His early research paved the way for later developments in renewable energy.",
+   "zh": "他早期的研究为后来可再生能源的发展铺平了道路。"
+  },
+  {
+   "en": "New asphalt will pave the highway connecting the two industrial parks.",
+   "zh": "新的沥青将铺设连接两个工业园的高速公路。"
+  }
+ ],
+ "expose": [
+  {
+   "en": "The investigation exposed serious errors in the laboratory's earlier data.",
+   "zh": "这项调查暴露了实验室早期数据中的严重错误。"
+  },
+  {
+   "en": "Students should not expose themselves to unsafe chemicals without supervision.",
+   "zh": "学生不应在无人监督的情况下让自己接触不安全的化学品。"
+  },
+  {
+   "en": "The photographs expose the damaging effects of pollution on marine life.",
+   "zh": "这些照片揭示了污染对海洋生物的破坏性影响。"
+  }
+ ],
+ "atmosphere": [
+  {
+   "en": "The warm atmosphere of the seminar encouraged everyone to ask questions.",
+   "zh": "研讨会轻松友好的气氛鼓励大家提问。"
+  },
+  {
+   "en": "Carbon dioxide concentrations in the upper atmosphere continue to rise each year.",
+   "zh": "上层大气中的二氧化碳浓度每年持续上升。"
+  },
+  {
+   "en": "The restaurant tried to create a romantic atmosphere with soft music.",
+   "zh": "这家餐厅试图用柔和的音乐营造浪漫的氛围。"
+  }
+ ],
+ "migrate": [
+  {
+   "en": "Many rural families migrate to coastal cities in search of employment.",
+   "zh": "许多农村家庭为寻找工作迁往沿海城市。"
+  },
+  {
+   "en": "The software allows users to migrate data between older and newer systems.",
+   "zh": "该软件允许用户在旧系统和新系统之间迁移数据。"
+  },
+  {
+   "en": "Wild birds migrate thousands of miles every winter to warmer regions.",
+   "zh": "候鸟每年冬季迁徙数千英里前往温暖地区。"
+  }
+ ],
+ "statistical": [
+  {
+   "en": "Statistical analysis revealed a significant difference between the two groups.",
+   "zh": "统计分析显示两组之间存在显著差异。"
+  },
+  {
+   "en": "The report relies on statistical evidence rather than personal impressions.",
+   "zh": "该报告依赖统计证据而非个人印象。"
+  },
+  {
+   "en": "Statistical tests showed that the observed effect was unlikely to result from chance alone.",
+   "zh": "统计检验表明，观察到的效应不太可能仅由偶然因素造成。"
+  }
+ ],
+ "validity": [
+  {
+   "en": "The reviewers questioned the validity of the experiment's original findings.",
+   "zh": "评审人员质疑该实验最初发现的有效性。"
+  },
+  {
+   "en": "Recent studies have confirmed the validity of this therapeutic approach.",
+   "zh": "近期研究证实了这一治疗方法的有效性。"
+  },
+  {
+   "en": "Without proper documentation, the validity of the contract cannot be established.",
+   "zh": "缺少适当文件，该合同的有效性就无法确立。"
+  }
+ ],
+ "process": [
+  {
+   "en": "The selection process takes approximately six weeks from start to finish.",
+   "zh": "整个选拔过程从开始到结束大约需要六周。"
+  },
+  {
+   "en": "Learning a second language is a gradual process that requires constant practice.",
+   "zh": "学习第二语言是一个需要持续练习的渐进过程。"
+  },
+  {
+   "en": "The committee described each step of the approval process in detail.",
+   "zh": "委员会详细描述了审批过程的每一个步骤。"
+  }
+ ],
+ "substitution": [
+  {
+   "en": "Direct substitution of renewable generation for coal reduced system emissions.",
+   "zh": "以可再生能源发电直接替代燃煤降低了系统排放。"
+  },
+  {
+   "en": "The substitution of email for internal memos changed communication patterns.",
+   "zh": "电子邮件取代内部备忘录改变了沟通方式。"
+  },
+  {
+   "en": "Substitution of cheaper materials affects the durability of the finished product.",
+   "zh": "使用更便宜的材料替代会影响成品的耐久性。"
+  }
+ ],
+ "nonetheless": [
+  {
+   "en": "The data were limited; nonetheless, the results support our hypothesis.",
+   "zh": "数据有限；然而，结果仍支持我们的假设。"
+  },
+  {
+   "en": "The project exceeded its budget; nonetheless, it was completed on schedule.",
+   "zh": "该项目超出了预算；尽管如此，它还是按期完成了。"
+  },
+  {
+   "en": "She found the assignment difficult; nonetheless, she submitted it on time.",
+   "zh": "她觉得这项任务很难；尽管如此，她还是按时提交了。"
+  }
+ ],
+ "reference": [
+  {
+   "en": "The author makes no reference to earlier studies on the subject.",
+   "zh": "该作者完全没有提及此前关于这一主题的研究。"
+  },
+  {
+   "en": "Please use the attached reference when preparing the committee's final report.",
+   "zh": "准备委员会最终报告时，请使用所附的参考资料。"
+  },
+  {
+   "en": "Her remarks were made with reference to last year's controversial review.",
+   "zh": "她的评论是针对去年那篇有争议的评审意见发表的。"
+  }
+ ],
+ "separate": [
+  {
+   "en": "The study treats income and education as separate variables in its model.",
+   "zh": "该研究在模型中把收入和教育视为彼此独立的变量。"
+  },
+  {
+   "en": "Each department maintains a separate budget for its research activities.",
+   "zh": "各部门为研究活动维持着各自的独立预算。"
+  },
+  {
+   "en": "The two committees produced separate reports that reached opposite conclusions.",
+   "zh": "两个委员会分别提交了报告，结论却截然相反。"
+  }
+ ],
+ "coefficient": [
+  {
+   "en": "The regression coefficient for education remained significant after the adjustment.",
+   "zh": "调整后，教育的回归系数仍然显著。"
+  },
+  {
+   "en": "A positive correlation coefficient indicates that the two variables rise together.",
+   "zh": "正相关系数表明两个变量同向变化。"
+  },
+  {
+   "en": "The correlation coefficient for this pair of measures is remarkably high.",
+   "zh": "这一对测量值之间的相关系数非常高。"
+  }
+ ],
+ "remain": [
+  {
+   "en": "Several concerns remain unresolved despite the committee's repeated attempts.",
+   "zh": "尽管委员会多次努力，若干问题仍未解决。"
+  },
+  {
+   "en": "The researcher remained at the university for another decade after graduation.",
+   "zh": "那位研究者毕业后在大学又待了 10 年。"
+  },
+  {
+   "en": "It remains unclear whether the proposed reform will reduce inequality.",
+   "zh": "拟议中的改革能否减少不平等仍不清楚。"
+  }
+ ],
+ "characterize": [
+  {
+   "en": "Rapid growth has characterized the digital economy over the past two decades.",
+   "zh": "过去 20 年的数字经济以快速增长为特征。"
+  },
+  {
+   "en": "What characterizes this method is its ability to handle incomplete data.",
+   "zh": "这一方法的特点是能够处理不完整的数据。"
+  },
+  {
+   "en": "Reviewers characterized the proposal as ambitious but poorly funded.",
+   "zh": "评审人员将该提案形容为雄心勃勃但资金不足。"
+  }
+ ],
+ "broaden": [
+  {
+   "en": "The conference broadened the discussion to include environmental impacts.",
+   "zh": "这次会议将讨论范围拓宽到包括环境影响。"
+  },
+  {
+   "en": "Researchers broadened their sample to include participants from rural areas.",
+   "zh": "研究者扩大了样本范围，将农村地区的参与者纳入其中。"
+  },
+  {
+   "en": "Beyond the narrow gorge the river broadens into a slow, shallow pool.",
+   "zh": "出了狭窄的峡谷，河面变宽，成为一处平缓的水潭。"
+  }
+ ],
+ "ongoing": [
+  {
+   "en": "The ongoing investigation has attracted attention from international regulators.",
+   "zh": "正在进行的调查引起了国际监管机构的关注。"
+  },
+  {
+   "en": "Despite ongoing negotiations, the two sides have not reached an agreement.",
+   "zh": "尽管谈判仍在继续，双方尚未达成协议。"
+  },
+  {
+   "en": "Her ongoing research examines how rural schools implement new curricula.",
+   "zh": "她正在进行的研究考察乡村学校如何实施新课程。"
+  }
+ ],
+ "in accordance with": [
+  {
+   "en": "All experiments were conducted in accordance with the approved safety guidelines.",
+   "zh": "所有实验均按照已批准的安全指南进行。"
+  },
+  {
+   "en": "The company revised its reporting procedures in accordance with new regulations.",
+   "zh": "公司按照新法规修订了报告程序。"
+  },
+  {
+   "en": "Payments must be made in accordance with the terms of the original contract.",
+   "zh": "付款必须依照原始合同的条款进行。"
+  }
+ ],
+ "underlying": [
+  {
+   "en": "The underlying cause of the crisis remains unclear despite extensive research.",
+   "zh": "尽管研究广泛展开，这场危机的深层原因仍不清楚。"
+  },
+  {
+   "en": "We must consider the underlying assumptions before applying this model widely.",
+   "zh": "在广泛应用该模型之前，我们必须考虑其隐含的假设。"
+  },
+  {
+   "en": "An underlying disagreement about methods divided the two research groups.",
+   "zh": "关于方法的深层分歧使两个研究小组意见相左。"
+  }
+ ],
+ "complexity": [
+  {
+   "en": "The complexity of the system makes it hard to predict failures.",
+   "zh": "该系统的复杂性使人难以预测故障。"
+  },
+  {
+   "en": "Students often underestimate the complexity of writing a rigorous thesis.",
+   "zh": "学生常常低估撰写一篇严谨论文的复杂程度。"
+  },
+  {
+   "en": "Advances in computation have helped researchers tackle immense complexity in biology.",
+   "zh": "计算方面的进步帮助研究者应对生物学中巨大的复杂性。"
+  }
+ ],
+ "intense": [
+  {
+   "en": "The intense heat damaged several instruments left in the laboratory.",
+   "zh": "酷热损坏了留在实验室里的几件仪器。"
+  },
+  {
+   "en": "Competition for the grant became so intense that collaboration seemed impossible.",
+   "zh": "对该资助的竞争变得如此激烈，以至于合作似乎不可能。"
+  },
+  {
+   "en": "She focused her intense attention on the problem for several hours.",
+   "zh": "她连续数小时把高度集中的注意力放在这个问题上。"
+  }
+ ],
+ "flexible": [
+  {
+   "en": "A flexible timetable allows students to balance work with study.",
+   "zh": "灵活的课程时间表让学生能够兼顾工作与学习。"
+  },
+  {
+   "en": "The agreement offers flexible terms for institutions with limited resources.",
+   "zh": "该协议为资源有限的机构提供了灵活的条件。"
+  },
+  {
+   "en": "The catheter must stay flexible enough to pass through narrow arteries.",
+   "zh": "导管须保持足够柔韧，才能穿过狭窄的动脉。"
+  }
+ ],
+ "scrutiny": [
+  {
+   "en": "The proposal came under intense scrutiny after the financial irregularities surfaced.",
+   "zh": "财务违规问题曝光后，该提案受到严格审查。"
+  },
+  {
+   "en": "Public scrutiny of the agency's performance has increased considerably this year.",
+   "zh": "公众对该机构表现的审视今年大幅增加。"
+  },
+  {
+   "en": "The design failed close scrutiny by independent safety engineers.",
+   "zh": "该设计未通过独立安全工程师的仔细审查。"
+  }
+ ],
+ "emanate": [
+  {
+   "en": "A sense of confidence emanates from the young research team.",
+   "zh": "一种自信感从这个年轻的研究团队身上散发出来。"
+  },
+  {
+   "en": "The speaker's calm authority emanated from the podium and filled the crowded auditorium.",
+   "zh": "演讲者沉稳的威严从讲台散发出来，弥漫在整个拥挤的礼堂中。"
+  },
+  {
+   "en": "Warm light emanates from the windows of the old library.",
+   "zh": "温暖的光线从老图书馆的窗户中散发出来。"
+  }
+ ],
+ "in conjunction with": [
+  {
+   "en": "The laboratory works in conjunction with hospitals across the region.",
+   "zh": "该实验室与该地区的多家医院合作开展工作。"
+  },
+  {
+   "en": "Automatic detection is used in conjunction with manual review of each case.",
+   "zh": "自动检测与对每个案例的人工审查结合使用。"
+  },
+  {
+   "en": "Machine learning models operate in conjunction with expert statistical analysis.",
+   "zh": "机器学习模型与专家的统计分析共同发挥作用。"
+  }
+ ],
+ "diagnose": [
+  {
+   "en": "Clinicians can now diagnose the condition much earlier using new imaging techniques.",
+   "zh": "借助新的成像技术，临床医生现在能更早地诊断这种疾病。"
+  },
+  {
+   "en": "Engineers diagnosed a faulty valve as the primary cause of the pressure loss.",
+   "zh": "工程师认定阀门故障是压力损失的主要原因。"
+  },
+  {
+   "en": "The test does not yet diagnose the infection reliably in its early stages.",
+   "zh": "该检测目前尚不能在早期阶段可靠地诊断这种感染。"
+  }
+ ],
+ "logic": [
+  {
+   "en": "The argument follows a clear logic that reviewers found convincing.",
+   "zh": "该论证遵循一套清晰的逻辑，评审认为很有说服力。"
+  },
+  {
+   "en": "There is little logic in closing the program before its results are published.",
+   "zh": "在结果公布之前就终止该项目是几乎没有道理的。"
+  },
+  {
+   "en": "Students learn the logic behind each step of the statistical calculation.",
+   "zh": "学生要了解统计计算每一步背后的逻辑。"
+  }
+ ],
+ "regime": [
+  {
+   "en": "The regime collapsed after months of public protests and strikes.",
+   "zh": "在持续数月的公众抗议和罢工之后，该政权垮台了。"
+  },
+  {
+   "en": "Under the new regime, agricultural markets were opened to private buyers.",
+   "zh": "在新体制下，农业市场向私人买家开放。"
+  },
+  {
+   "en": "The tax regime remained unchanged throughout the whole fiscal year.",
+   "zh": "整个财政年度内税收体制保持不变。"
+  }
+ ],
+ "resolve": [
+  {
+   "en": "Diplomats worked through the night to resolve the long-running dispute.",
+   "zh": "外交官们连夜工作，以解决这场旷日持久的争端。"
+  },
+  {
+   "en": "Her firm resolved to publish the full dataset for further analysis.",
+   "zh": "她的公司决心公布完整数据集以供进一步分析。"
+  },
+  {
+   "en": "The committee resolved that the current policy required substantial revision.",
+   "zh": "委员会决定现行政策需要大幅修订。"
+  }
+ ],
+ "vary": [
+  {
+   "en": "Reaction times vary considerably depending on the difficulty of the task.",
+   "zh": "反应时间随任务难度而有相当大的差异。"
+  },
+  {
+   "en": "Teachers should not vary the standards applied to different groups of students.",
+   "zh": "教师不应对不同学生群体采用不同的标准。"
+  },
+  {
+   "en": "Vegetation tends to vary sharply along the ridge as altitude increases.",
+   "zh": "随着海拔升高，沿山脊的植被变化显著。"
+  }
+ ],
+ "respect": [
+  {
+   "en": "Participants were asked to respect the privacy of their colleagues throughout the study.",
+   "zh": "参与者被要求在整个研究期间尊重同事的隐私。"
+  },
+  {
+   "en": "In this respect the two samples are closely comparable.",
+   "zh": "就这方面而言，两个样本高度可比。"
+  },
+  {
+   "en": "Years of careful work made senior researchers respect her methods deeply.",
+   "zh": "多年严谨的工作使资深研究者十分尊重她的方法。"
+  }
+ ],
+ "proximity": [
+  {
+   "en": "The proximity of the laboratory to the hospital shortened sample transport times considerably.",
+   "zh": "实验室靠近医院大大缩短了样本运输时间。"
+  },
+  {
+   "en": "Proximity to public transport raises the value of these apartments considerably.",
+   "zh": "临近公共交通提高了这些公寓的价值。"
+  },
+  {
+   "en": "Researchers examined how geographic proximity shapes competition between universities.",
+   "zh": "研究者考察了地理邻近性如何塑造大学之间的竞争。"
+  }
+ ],
+ "widespread": [
+  {
+   "en": "The discovery led to widespread adoption of the new testing procedure.",
+   "zh": "这一发现促使新的检测程序得到广泛应用。"
+  },
+  {
+   "en": "Widespread criticism forced the agency to revise its reporting standards.",
+   "zh": "广泛的批评迫使该机构修订其报告标准。"
+  },
+  {
+   "en": "Such plants remain widespread throughout the drier regions of the country.",
+   "zh": "这类植物在该国较干旱地区仍然分布广泛。"
+  }
+ ],
+ "dissertation": [
+  {
+   "en": "Her dissertation examines how migration reshaped rural schooling in the twentieth century.",
+   "zh": "她的学位论文研究了移民如何重塑 20 世纪的乡村教育。"
+  },
+  {
+   "en": "The doctoral dissertation was praised for its original archival research.",
+   "zh": "这篇博士论文因其原创的档案研究而受到赞誉。"
+  },
+  {
+   "en": "He is currently finishing his master's dissertation on climate migration policy.",
+   "zh": "他目前正在完成关于气候移民政策的硕士论文。"
+  }
+ ],
+ "cease": [
+  {
+   "en": "Funding for the program will cease at the end of the fiscal year.",
+   "zh": "该项目的资金将在本财政年度结束时终止。"
+  },
+  {
+   "en": "The two sides ceased hostilities after the mediation efforts succeeded.",
+   "zh": "在调解努力取得成功后，双方停止了敌对行动。"
+  },
+  {
+   "en": "Noise complaints ceased once the machinery was relocated to another site.",
+   "zh": "机械被迁至另一处地点后，噪声投诉便停止了。"
+  }
+ ],
+ "premise": [
+  {
+   "en": "The argument rests on the premise that all participants were informed.",
+   "zh": "该论证建立在所有参与者都已知情这一前提之上。"
+  },
+  {
+   "en": "His basic premise is that public institutions should be evaluated on outcomes.",
+   "zh": "他的基本前提是公共机构应以结果来评估。"
+  },
+  {
+   "en": "The study's central premise has been challenged by recent field observations.",
+   "zh": "该研究的核心前提受到了近期田野观察的质疑。"
+  }
+ ],
+ "disperse": [
+  {
+   "en": "Heavy rain dispersed the crowd within minutes of the announcement.",
+   "zh": "公告发布后不到几分钟，人群就被大雨驱散了。"
+  },
+  {
+   "en": "The seeds are dispersed by birds across a wide area.",
+   "zh": "这些种子由鸟类传播到广大区域。"
+  },
+  {
+   "en": "Dust from the excavation dispersed across the courtyard within minutes.",
+   "zh": "基坑扬起的尘土几分钟内便弥漫到整个院子里。"
+  }
+ ],
+ "construct": [
+  {
+   "en": "Engineers constructed a temporary bridge to restore traffic after the flood.",
+   "zh": "工程师建造了一座临时桥梁，以在洪水后恢复交通。"
+  },
+  {
+   "en": "The theory is constructed on decades of field observation and careful measurement.",
+   "zh": "这一理论建立在数十年的田野观察和精密测量之上。"
+  },
+  {
+   "en": "Investigators showed that two entries had been constructed to conceal the shortfall.",
+   "zh": "调查人员查明，两条记录是为掩盖亏空而编造的。"
+  }
+ ],
+ "plateau": [
+  {
+   "en": "Enrollment growth reached a plateau after the first semester of classes.",
+   "zh": "开课第一学期后，招生增长进入平稳期。"
+  },
+  {
+   "en": "The productivity curve shows several plateaus where output stopped rising.",
+   "zh": "生产率曲线显示出若干个产出停止上升的平台期。"
+  },
+  {
+   "en": "Efforts to reduce costs have hit a plateau without new investment.",
+   "zh": "在没有新投资的情况下，降低成本的努力陷入停滞。"
+  }
+ ]
+}

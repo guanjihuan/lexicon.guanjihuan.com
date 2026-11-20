@@ -1,0 +1,170 @@
+{
+  "before": [
+    {
+      "en": "The team withheld its conclusion before the raw data had been verified by two reviewers.",
+      "zh": "在原始数据经两位审阅人核查之前，团队没有公布其结论。"
+    },
+    {
+      "en": "The committee delayed the vote before the full report had cleared the audit office.",
+      "zh": "在报告经审计部门核准之前，委员会推迟了表决。"
+    },
+    {
+      "en": "She revised her account of the experiment before the second set of readings was entered into the log.",
+      "zh": "在第二批读数被录入日志之前，她修改了自己对该实验的描述。"
+    }
+  ],
+  "after": [
+    {
+      "en": "The laboratory released the data only after the instrument had been recalibrated by the technician.",
+      "zh": "只有在校准仪器之后，实验室才对外公布这些数据。"
+    },
+    {
+      "en": "The board approved the budget after the oversight committee had published its quarterly findings.",
+      "zh": "监督委员会公布季度调查结果之后，董事会才批准了预算。"
+    },
+    {
+      "en": "Applicants learned their scores only after the committee finished comparing files across departments.",
+      "zh": "委员会完成各系文件比对之后，申请人才看到自己的分数。"
+    }
+  ],
+  "till": [
+    {
+      "en": "The committee kept the report sealed till the appeal had been heard in full.",
+      "zh": "委员会将报告封存，直至上诉被完整审理。"
+    },
+    {
+      "en": "The agency delayed publication till the independent auditors had confirmed every figure.",
+      "zh": "在独立审计人员核实所有数字之前，该机构推迟了出版。"
+    },
+    {
+      "en": "Her colleagues waited till the supervisor had left the room before they asked questions.",
+      "zh": "同事们一直等到主管离开房间之后才发问。"
+    }
+  ],
+  "barring": [
+    {
+      "en": "Barring unforeseen delays, the trial will report its first findings to the committee.",
+      "zh": "如果没有不可预见的延误，试验将向委员会报告首批结果。"
+    },
+    {
+      "en": "The agency continued the pilot barring any formal objection raised by the local council.",
+      "zh": "在地方议会没有正式提出反对的情况下，该机构继续推进试点。"
+    },
+    {
+      "en": "The sensors recorded stable readings barring occasional interference from nearby construction equipment.",
+      "zh": "除了附近施工设备的偶发干扰，传感器记录到的读数一直稳定。"
+    }
+  ],
+  "still": [
+    {
+      "en": "Still, the central claim of the paper remains reasonably supported by the evidence reported.",
+      "zh": "不过，论文的核心论断仍得到所报告证据的合理支持。"
+    },
+    {
+      "en": "The policy was costly and slow; still, it reduced waiting times across the whole clinic network.",
+      "zh": "该政策成本高且见效慢；不过它缩短了整个诊所网络内的等候时间。"
+    },
+    {
+      "en": "Supporters of the reform were divided; still, the council approved the measure without further amendment.",
+      "zh": "改革的支持者意见分歧；不过委员会仍未经修改便批准了该措施。"
+    }
+  ],
+  "well": [
+    {
+      "en": "Well, the correlation is strong, but it does not by itself establish any causal link.",
+      "zh": "好吧，相关性确实很强，但它本身并不能确立因果联系。"
+    },
+    {
+      "en": "Well, the agency may revise the schedule, though nothing in the report suggests it will.",
+      "zh": "好吧，该机构可以修订时间表，但报告中看不出它会这样做。"
+    },
+    {
+      "en": "Well, it depends on how the sample was drawn and which controls the laboratory used.",
+      "zh": "好吧，这取决于样本如何抽取以及实验室采用了哪些对照。"
+    }
+  ],
+  "anyway": [
+    {
+      "en": "The correlation weakens under alternative controls; anyway, the practical conclusion hardly changes.",
+      "zh": "在采用其他对照方式时相关性会减弱；不过实际结论几乎不变。"
+    },
+    {
+      "en": "The institute has delayed the report; anyway, the funding decision remains separate from that dispute.",
+      "zh": "研究所推迟了报告发布；不过资金决定与那场争议仍然无关。"
+    },
+    {
+      "en": "He raised several objections; anyway, none of them disturbed the central argument of the study.",
+      "zh": "他提出了若干反对意见；不过没有一条动摇该研究的核心论证。"
+    }
+  ],
+  "of course": [
+    {
+      "en": "Of course, the sample was small, so the results should be read with caution.",
+      "zh": "当然，样本量很小，因此结果应当谨慎解读。"
+    },
+    {
+      "en": "The authors were, of course, careful not to claim more than their data allowed.",
+      "zh": "作者当然谨慎小心，不曾宣称超出数据所允许的范围。"
+    },
+    {
+      "en": "It is, of course, possible to disagree, but the shared premises should be stated first.",
+      "zh": "当然可以表示异议，但共同的出发点应当先讲清楚。"
+    }
+  ],
+  "at any rate": [
+    {
+      "en": "The criticism from reviewers was fair; at any rate, the manuscript has been substantially revised.",
+      "zh": "审稿人的批评是公允的；无论如何，稿件已经作了大幅修改。"
+    },
+    {
+      "en": "The board will review the audit next spring; at any rate, the current findings remain valid.",
+      "zh": "董事会将在来年春季复核审计；无论如何，目前的调查结果依然有效。"
+    },
+    {
+      "en": "Her absence was inconvenient; at any rate, the report was submitted on time.",
+      "zh": "她的缺席带来了不便；无论如何，报告还是按时提交了。"
+    }
+  ],
+  "in any event": [
+    {
+      "en": "The pilot data were incomplete; in any event, the committee agreed that a final trial is needed.",
+      "zh": "试点数据并不完整；无论如何，委员会都认为仍需开展一次最终试验。"
+    },
+    {
+      "en": "In any event, whatever the cause of the delay, the committee had resumed its hearings by the autumn.",
+      "zh": "无论如何，不论延迟原因何在，委员会都已在秋季恢复听证。"
+    },
+    {
+      "en": "The two departments disagreed on the criteria; in any event, the director asked for another study.",
+      "zh": "两个部门对评定标准意见不一；无论如何，主任要求再做一项研究。"
+    }
+  ],
+  "on balance": [
+    {
+      "en": "On balance, the evidence favors the simpler explanation, and the additional fieldwork adds little.",
+      "zh": "总的来说，证据支持较为简单的解释，额外的实地调查没有带来多少新意。"
+    },
+    {
+      "en": "On balance, the committee judged the risk to the public to be modest and proportionate.",
+      "zh": "总的来说，委员会认为对公众的风险是适度且相称的。"
+    },
+    {
+      "en": "On balance, the results of the pilot suggest that the revised schedule can be maintained.",
+      "zh": "总的来说，试点结果表明修订后的时间表是可以维持的。"
+    }
+  ],
+  "all in all": [
+    {
+      "en": "All in all, the semester produced a modest gain in writing quality across the whole cohort.",
+      "zh": "总的来说，这个学期使整个队列的写作水平有小幅提升。"
+    },
+    {
+      "en": "All in all, the review found no evidence of misconduct and recommended only minor revisions.",
+      "zh": "总的来说，这次审查没有发现不当行为的证据，只建议作少量修改。"
+    },
+    {
+      "en": "All in all, the trial was worthwhile, though its findings should be treated as preliminary.",
+      "zh": "总的来说，这次试验是有价值的，尽管其结果应视为初步结论。"
+    }
+  ]
+}

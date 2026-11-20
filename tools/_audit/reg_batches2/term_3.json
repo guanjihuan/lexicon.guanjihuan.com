@@ -1,0 +1,872 @@
+[
+ {
+  "word": "ecology",
+  "discipline": "地理/生态学",
+  "reason": "生态指生物与环境相互关系的学科性概念"
+ },
+ {
+  "word": "epidemiology",
+  "discipline": "医学",
+  "reason": "流行病学是研究疾病在人群中分布与决定因素的学科术语"
+ },
+ {
+  "word": "equivalence",
+  "discipline": "数学/逻辑",
+  "reason": "等价指逻辑中可互相替换的命题关系"
+ },
+ {
+  "word": "latency",
+  "discipline": "医学",
+  "reason": "潜伏期指感染后到症状出现的间隔期，是流行病学测量对象"
+ },
+ {
+  "word": "recurrence",
+  "discipline": "医学",
+  "reason": "复发指疾病在初次发作后再次出现的病程概念"
+ },
+ {
+  "word": "reinforcement",
+  "discipline": "心理学",
+  "reason": "强化是行为主义中因行为后果而增加该行为概率的专门概念"
+ },
+ {
+  "word": "simulation",
+  "discipline": "工程/计量学",
+  "reason": "仿真是用模型复现系统运行的专门技术方法"
+ },
+ {
+  "word": "sufficiency",
+  "discipline": "统计学/计量",
+  "reason": "充分性指充分统计量这一统计学专门概念"
+ },
+ {
+  "word": "variability",
+  "discipline": "统计学/计量",
+  "reason": "变异性指个体间测量值的离散程度，是统计学专门指标"
+ },
+ {
+  "word": "volatility",
+  "discipline": "经济学",
+  "reason": "波动性指价格或收益的不稳定程度，是金融计量专门概念"
+ },
+ {
+  "word": "categorical",
+  "discipline": "统计学/计量",
+  "reason": "分类变量是统计学区分定性与连续数据的专门数据类型"
+ },
+ {
+  "word": "finite",
+  "discipline": "数学",
+  "reason": "有限集与有限总体是集合论与抽样理论中的专门概念"
+ },
+ {
+  "word": "recurrent",
+  "discipline": "医学",
+  "reason": "复发性是疾病临床分型中反复发作的专门表述"
+ },
+ {
+  "word": "allege",
+  "discipline": "法律",
+  "reason": "指控是诉讼中未经证实地指控对方行为的法律术语"
+ },
+ {
+  "word": "presuppose",
+  "discipline": "语言学",
+  "reason": "预设是语用学中话语预设背景的专门概念"
+ },
+ {
+  "word": "anecdotal",
+  "discipline": "研究方法",
+  "reason": "轶事性证据是与系统证据相对的方法学证据类别"
+ },
+ {
+  "word": "fallacy",
+  "discipline": "逻辑",
+  "reason": "谬误指形式或实质逻辑推理中的错误模式"
+ },
+ {
+  "word": "connotation",
+  "discipline": "语言学",
+  "reason": "内涵义是与外延相对的语言学语义学专门概念"
+ },
+ {
+  "word": "ramification",
+  "discipline": "法律",
+  "reason": "法律后果的多重影响是法律分析中的专门术语"
+ },
+ {
+  "word": "corollary",
+  "discipline": "数学/逻辑",
+  "reason": "推论是由前提逻辑必然得出的结论，是数理逻辑术语"
+ },
+ {
+  "word": "precursor",
+  "discipline": "化学",
+  "reason": "前体指合成目标物之前的中间化合物，是化学专门概念"
+ },
+ {
+  "word": "antecedent",
+  "discipline": "语言学",
+  "reason": "先行词是语法中与代词或后照应成分相对的概念"
+ },
+ {
+  "word": "liability",
+  "discipline": "法律",
+  "reason": "法律责任与负债是法律与会计中的专门概念"
+ },
+ {
+  "word": "deficit",
+  "discipline": "经济学",
+  "reason": "赤字是财政收支差额为负的专门术语"
+ },
+ {
+  "word": "surplus",
+  "discipline": "经济学",
+  "reason": "盈余是贸易或财政核算中收支差额为正的专门概念"
+ },
+ {
+  "word": "journal",
+  "discipline": "出版规范",
+  "reason": "学术期刊是同行评审发表渠道的出版规范概念"
+ },
+ {
+  "word": "manuscript",
+  "discipline": "出版规范",
+  "reason": "投稿稿是作者递交评审的学术稿件，属出版规范术语"
+ },
+ {
+  "word": "thesis",
+  "discipline": "教育学",
+  "reason": "学位论文是学位制度中要求的研究成果形式"
+ },
+ {
+  "word": "appendix",
+  "discipline": "出版规范",
+  "reason": "论文附录是正文之后的补充材料，属出版规范术语"
+ },
+ {
+  "word": "footnote",
+  "discipline": "出版规范",
+  "reason": "脚注是学术出版中页面底部的注释体例"
+ },
+ {
+  "word": "bibliography",
+  "discipline": "出版规范",
+  "reason": "参考文献目录是学术写作的引用著录规范部件"
+ },
+ {
+  "word": "symposium",
+  "discipline": "出版规范",
+  "reason": "专题研讨会及其论文集是学术会议出版形式"
+ },
+ {
+  "word": "proceedings",
+  "discipline": "出版规范",
+  "reason": "会议论文集是学术会议成果的正式出版形式"
+ },
+ {
+  "word": "curriculum",
+  "discipline": "教育学",
+  "reason": "课程体系是教育学中规定教学内容的专门概念"
+ },
+ {
+  "word": "syllabus",
+  "discipline": "教育学",
+  "reason": "教学大纲是课程实施的标准文件，属教育学术语"
+ },
+ {
+  "word": "pedagogy",
+  "discipline": "教育学",
+  "reason": "教学法是研究教学理论与方法的学科专门术语"
+ },
+ {
+  "word": "faculty",
+  "discipline": "教育学",
+  "reason": "院系/全体教员是高校建制中的专门称呼"
+ },
+ {
+  "word": "doctoral",
+  "discipline": "教育学",
+  "reason": "博士学位阶段及其论文是学位制度中的专门层级概念"
+ },
+ {
+  "word": "ideology",
+  "discipline": "政治学",
+  "reason": "意识形态是政治学中关于系统性政治信念的专门概念"
+ },
+ {
+  "word": "hegemony",
+  "discipline": "政治学",
+  "reason": "霸权指支配性领导地位，是国际关系与文化研究术语"
+ },
+ {
+  "word": "bureaucracy",
+  "discipline": "政治学",
+  "reason": "官僚体制是政治学中理想型科层组织理论概念"
+ },
+ {
+  "word": "stigmatize",
+  "discipline": "社会学",
+  "reason": "污名化是社会医学中给某类身份贴上负面标签的专门概念"
+ },
+ {
+  "word": "urbanization",
+  "discipline": "社会学",
+  "reason": "城市化指人口与产业向城市集中的社会过程术语"
+ },
+ {
+  "word": "globalization",
+  "discipline": "社会学",
+  "reason": "全球化是跨国界经济文化整合的社会学专门概念"
+ },
+ {
+  "word": "citizenship",
+  "discipline": "政治学",
+  "reason": "公民身份是政治学中法律地位与成员资格的概念"
+ },
+ {
+  "word": "electorate",
+  "discipline": "政治学",
+  "reason": "全体选民与选区是选举制度中的专门术语"
+ },
+ {
+  "word": "referendum",
+  "discipline": "政治学",
+  "reason": "公民投票是直接民主制度中由选民表决的机制术语"
+ },
+ {
+  "word": "treaty",
+  "discipline": "法律",
+  "reason": "条约是有约束力的国际法文件，属国际法专门术语"
+ },
+ {
+  "word": "ratify",
+  "discipline": "法律",
+  "reason": "批准国际条约使其生效是国际法上的专门程序术语"
+ },
+ {
+  "word": "statute",
+  "discipline": "法律",
+  "reason": "成文法是议会制定并公布的规范性法律文件"
+ },
+ {
+  "word": "jurisdiction",
+  "discipline": "法律",
+  "reason": "管辖权指法院审理案件的范围与权力，属法律专门术语"
+ },
+ {
+  "word": "litigation",
+  "discipline": "法律",
+  "reason": "诉讼是当事人通过法院解决争议的法律程序术语"
+ },
+ {
+  "word": "tariff",
+  "discipline": "经济学",
+  "reason": "关税是对进出口货物征课的税种，属国际贸易专门术语"
+ },
+ {
+  "word": "subsidy",
+  "discipline": "经济学",
+  "reason": "补贴是政府为矫正市场失灵提供的财政补助工具"
+ },
+ {
+  "word": "inflation",
+  "discipline": "经济学",
+  "reason": "通货膨胀是物价总水平持续上行的宏观经济专门概念"
+ },
+ {
+  "word": "monetary",
+  "discipline": "经济学",
+  "reason": "货币政策中的货币工具属宏观经济学专门表述"
+ },
+ {
+  "word": "fiscal",
+  "discipline": "经济学",
+  "reason": "财政年度与财政政策是公共财政学的专门概念"
+ },
+ {
+  "word": "monopoly",
+  "discipline": "经济学",
+  "reason": "垄断是单一卖方主导市场的市场结构专门术语"
+ },
+ {
+  "word": "neural",
+  "discipline": "生物学",
+  "reason": "神经组织与神经网络的属性是神经科学的专门术语"
+ },
+ {
+  "word": "neuron",
+  "discipline": "生物学",
+  "reason": "神经元是神经系统结构和功能的基本单位"
+ },
+ {
+  "word": "polymer",
+  "discipline": "化学",
+  "reason": "聚合物是由重复单元构成的高分子，属化学专门概念"
+ },
+ {
+  "word": "catalyst",
+  "discipline": "化学",
+  "reason": "催化剂是改变反应速率而不被消耗的化学专门物质"
+ },
+ {
+  "word": "enzyme",
+  "discipline": "生物学",
+  "reason": "酶是催化生物化学反应的蛋白质，属生物学专门概念"
+ },
+ {
+  "word": "protein",
+  "discipline": "生物学",
+  "reason": "蛋白质是生物体功能分子的专门类别"
+ },
+ {
+  "word": "genome",
+  "discipline": "生物学",
+  "reason": "基因组是一个生物体全部遗传信息的总称，属遗传学专门概念"
+ },
+ {
+  "word": "metabolism",
+  "discipline": "生物学",
+  "reason": "新陈代谢指体内物质与能量的转换过程，是生物学专门概念"
+ },
+ {
+  "word": "climate",
+  "discipline": "地理/生态学",
+  "reason": "气候是大气长期统计状态，是地理学专门概念"
+ },
+ {
+  "word": "semiconductor",
+  "discipline": "电子工程",
+  "reason": "半导体是导电性介于导体与绝缘体之间的材料专门类别"
+ },
+ {
+  "word": "database",
+  "discipline": "信息科学",
+  "reason": "数据库是按结构组织并可检索存储的数据集合"
+ },
+ {
+  "word": "bandwidth",
+  "discipline": "信息科学",
+  "reason": "带宽是通信信道单位时间可传输的数据容量"
+ },
+ {
+  "word": "clinical",
+  "discipline": "医学",
+  "reason": "临床指以病人诊治为对象的医学专门领域"
+ },
+ {
+  "word": "diagnosis",
+  "discipline": "医学",
+  "reason": "诊断是医生据症状与检查确定疾病的专业判断与术语"
+ },
+ {
+  "word": "epidemic",
+  "discipline": "医学",
+  "reason": "流行病指某疾病在短时内的异常高频暴发，属流行病学术语"
+ },
+ {
+  "word": "pandemic",
+  "discipline": "医学",
+  "reason": "大流行病指跨国界传播的大规模疾病流行"
+ },
+ {
+  "word": "outbreak",
+  "discipline": "医学",
+  "reason": "暴发指某疾病在局部地区短时间聚集发生，是疫情报告专用词"
+ },
+ {
+  "word": "confidence interval",
+  "discipline": "统计学/计量",
+  "reason": "置信区间是按置信水平估计总体参数的区间估计方法"
+ },
+ {
+  "word": "standard deviation",
+  "discipline": "统计学/计量",
+  "reason": "标准差是描述数据离散程度的专门统计量"
+ },
+ {
+  "word": "standard error",
+  "discipline": "统计学/计量",
+  "reason": "标准误是估计量抽样误差大小的专门统计量"
+ },
+ {
+  "word": "chronic",
+  "discipline": "医学",
+  "reason": "慢性指病程持续超过一定期限的疾病分类表述"
+ },
+ {
+  "word": "acute",
+  "discipline": "医学",
+  "reason": "急性指起病急、病程短的疾病分类表述"
+ },
+ {
+  "word": "episodic",
+  "discipline": "心理学",
+  "reason": "情景记忆是记忆心理学中按情境组织信息的专门记忆系统"
+ },
+ {
+  "word": "intermittent",
+  "discipline": "医学",
+  "reason": "间歇性指症状或过程呈间断状态的医学表述"
+ },
+ {
+  "word": "cognitive",
+  "discipline": "心理学",
+  "reason": "认知负荷、认知发展等是心理学的专门构念"
+ },
+ {
+  "word": "symptom",
+  "discipline": "医学",
+  "reason": "症状是医学中病人自述或可观察的病征专门术语"
+ },
+ {
+  "word": "syndrome",
+  "discipline": "医学",
+  "reason": "综合征指一组共同表现的疾病实体，属医学专门术语"
+ },
+ {
+  "word": "therapy",
+  "discipline": "医学",
+  "reason": "疗法是针对疾病的治疗方法体系，属医学专门术语"
+ },
+ {
+  "word": "enrollment",
+  "discipline": "医学",
+  "reason": "入组指受试者被纳入临床研究的专门流程术语"
+ },
+ {
+  "word": "screening",
+  "discipline": "医学",
+  "reason": "筛查是对人群做疾病早期检出的专门公共卫生程序"
+ },
+ {
+  "word": "surveillance",
+  "discipline": "公共卫生",
+  "reason": "疾病监测是持续收集分析发病数据的公共卫生专门机制"
+ },
+ {
+  "word": "risk factor",
+  "discipline": "公共卫生",
+  "reason": "风险因素指提高疾病发生概率的可干预暴露因素"
+ },
+ {
+  "word": "public health",
+  "discipline": "公共卫生",
+  "reason": "公共卫生是以群体健康为对象的专门学科领域"
+ },
+ {
+  "word": "health inequality",
+  "discipline": "公共卫生",
+  "reason": "健康不平等指不同人群间健康状况的系统性差距"
+ },
+ {
+  "word": "life expectancy",
+  "discipline": "人口学",
+  "reason": "预期寿命是按当前死亡率推算的平均寿命，是人口学专门指标"
+ },
+ {
+  "word": "mental health",
+  "discipline": "医学",
+  "reason": "心理健康是精神病学与公共卫生中的专门研究领域"
+ },
+ {
+  "word": "coding",
+  "discipline": "质性研究",
+  "reason": "编码是质性研究中给资料片段赋予意义标签的专门过程"
+ },
+ {
+  "word": "transcription",
+  "discipline": "质性研究",
+  "reason": "转录是将访谈录音转为文字稿的质性研究专门程序"
+ },
+ {
+  "word": "member checking",
+  "discipline": "质性研究",
+  "reason": "成员核验是让受访者核对分析结果的质性研究质控方法"
+ },
+ {
+  "word": "purposive",
+  "discipline": "质性研究",
+  "reason": "目的性抽样是依研究意图选取信息丰富对象的质性抽样技术"
+ },
+ {
+  "word": "ethnography",
+  "discipline": "质性研究",
+  "reason": "民族志是以参与式观察收集场域资料的研究方法"
+ },
+ {
+  "word": "scoping review",
+  "discipline": "出版规范",
+  "reason": "范围综述是按预设边界系统检索并绘制研究图谱的综述类型"
+ },
+ {
+  "word": "peer review",
+  "discipline": "出版规范",
+  "reason": "同行评议是由同领域专家评审稿件的出版质量控制制度"
+ },
+ {
+  "word": "conflict of interest",
+  "discipline": "出版规范",
+  "reason": "利益冲突是期刊要求作者申报的特殊出版规范概念"
+ },
+ {
+  "word": "open access",
+  "discipline": "出版规范",
+  "reason": "开放获取是使论文免费在线可得的出版模式术语"
+ },
+ {
+  "word": "open science",
+  "discipline": "出版规范",
+  "reason": "开放科学是一整套开放研究流程与共享规范"
+ },
+ {
+  "word": "open data",
+  "discipline": "信息科学",
+  "reason": "开放数据指公开可再利用的数据形态，属数据管理术语"
+ },
+ {
+  "word": "submission",
+  "discipline": "出版规范",
+  "reason": "投稿指作者向期刊递交稿件的出版流程节点"
+ },
+ {
+  "word": "rebuttal",
+  "discipline": "出版规范",
+  "reason": "答辩信是审稿意见后作者逐条回复的评审文件术语"
+ },
+ {
+  "word": "preprint",
+  "discipline": "出版规范",
+  "reason": "预印本是未经同行评议先行公开的学术文献类型"
+ },
+ {
+  "word": "erratum",
+  "discipline": "出版规范",
+  "reason": "勘误是出版物对已印错误的更正声明，属出版规范术语"
+ },
+ {
+  "word": "corrigendum",
+  "discipline": "出版规范",
+  "reason": "作者更正启事是作者对原刊错误的正式更正文书"
+ },
+ {
+  "word": "scholarship",
+  "discipline": "出版规范",
+  "reason": "学术研究成果是大学对学术产出的专有称呼"
+ },
+ {
+  "word": "CONSORT",
+  "discipline": "出版规范",
+  "reason": "CONSORT 是随机对照试验的统一报告规范"
+ },
+ {
+  "word": "STROBE",
+  "discipline": "出版规范",
+  "reason": "STROBE 是观察性研究的报告规范"
+ },
+ {
+  "word": "systematic review",
+  "discipline": "统计学/计量",
+  "reason": "系统综述是按预设检索与纳入标准合成证据的专门研究方法"
+ },
+ {
+  "word": "mixed methods",
+  "discipline": "研究方法",
+  "reason": "混合方法研究是定量与定性资料结合的设计类型"
+ },
+ {
+  "word": "statistical significance",
+  "discipline": "统计学/计量",
+  "reason": "统计显著性是对检验结果与零假设差异的专门判定"
+ },
+ {
+  "word": "randomized controlled trial",
+  "discipline": "统计学/计量",
+  "reason": "随机对照试验是按随机分组与对照评估干预的专门试验设计"
+ },
+ {
+  "word": "quasi-experimental",
+  "discipline": "研究方法",
+  "reason": "准实验设计指无法随机分配但近似实验的专门设计类型"
+ },
+ {
+  "word": "nonresponse",
+  "discipline": "统计学/计量",
+  "reason": "无应答是抽样调查中未获受访者回答的专门测量问题"
+ },
+ {
+  "word": "covariance",
+  "discipline": "统计学/计量",
+  "reason": "协方差度量两变量共同变动的专门统计量"
+ },
+ {
+  "word": "heteroskedasticity",
+  "discipline": "统计学/计量",
+  "reason": "异方差性指回归误差方差随自变量变化，是计量专门概念"
+ },
+ {
+  "word": "autocorrelation",
+  "discipline": "统计学/计量",
+  "reason": "自相关指序列自身滞后项的相关性，是时间序列专门概念"
+ },
+ {
+  "word": "missing data",
+  "discipline": "统计学/计量",
+  "reason": "数据缺失指应答缺损及其处理问题的计量专门概念"
+ },
+ {
+  "word": "bootstrap",
+  "discipline": "统计学/计量",
+  "reason": "自助法是靠有放回重抽样估计统计量的专门方法"
+ },
+ {
+  "word": "permutation",
+  "discipline": "统计学/计量",
+  "reason": "置换检验通过重排标签构造零分布，是非参数检验专门方法"
+ },
+ {
+  "word": "degrees of freedom",
+  "discipline": "统计学/计量",
+  "reason": "自由度是估计中可自由变动的独立数据个数"
+ },
+ {
+  "word": "chi-square",
+  "discipline": "统计学/计量",
+  "reason": "卡方检验是用于类别数据关联性的专门统计检验"
+ },
+ {
+  "word": "Monte Carlo",
+  "discipline": "计量学",
+  "reason": "蒙特卡洛方法是用随机抽样模拟求解的专门数值方法"
+ },
+ {
+  "word": "median",
+  "discipline": "统计学/计量",
+  "reason": "中位数是按位置而非算术平均计算的集中趋势统计量"
+ },
+ {
+  "word": "quartile",
+  "discipline": "统计学/计量",
+  "reason": "四分位数是把有序数据分为四等份的专门分位数"
+ },
+ {
+  "word": "percentile",
+  "discipline": "统计学/计量",
+  "reason": "百分位数是低于某值的样本比例，属专门统计量"
+ },
+ {
+  "word": "latent",
+  "discipline": "统计学/计量",
+  "reason": "潜变量指不能直接观测而由模型推定的变量"
+ },
+ {
+  "word": "concordance",
+  "discipline": "统计学/计量",
+  "reason": "一致性系数衡量两测量排序吻合程度，是语料语言学与计量专有概念"
+ },
+ {
+  "word": "unbiased",
+  "discipline": "统计学/计量",
+  "reason": "无偏估计量是期望等于真值的专门估计量性质"
+ },
+ {
+  "word": "invariant",
+  "discipline": "数学",
+  "reason": "不变量指在变换下保持不变的性质，是数学专门术语"
+ },
+ {
+  "word": "counterexample",
+  "discipline": "数学/逻辑",
+  "reason": "反例指推翻全称命题的个别事例，是数理逻辑专门概念"
+ },
+ {
+  "word": "abductive",
+  "discipline": "逻辑",
+  "reason": "溯因推理是从结果推到最佳解释的推理类型"
+ },
+ {
+  "word": "axiomatic",
+  "discipline": "数学",
+  "reason": "公理化的以不证自明前提建立体系，是数学专门表述"
+ },
+ {
+  "word": "epistemological",
+  "discipline": "哲学",
+  "reason": "认识论是研究知识及其根据的哲学专门领域"
+ },
+ {
+  "word": "ontological",
+  "discipline": "哲学",
+  "reason": "本体论承诺是哲学中关于存在基础的专门论题"
+ },
+ {
+  "word": "descriptive",
+  "discipline": "统计学/计量",
+  "reason": "描述统计与描述性研究是按研究目标划分的专门方法类别"
+ },
+ {
+  "word": "prescriptive",
+  "discipline": "研究方法",
+  "reason": "规定性论断主张应然，与描述性论断相对的方法学概念"
+ },
+ {
+  "word": "delimit",
+  "discipline": "研究方法",
+  "reason": "界定范围是研究设计中明确研究边界的专门方法操作"
+ },
+ {
+  "word": "appraisal",
+  "discipline": "研究方法",
+  "reason": "批判性评价是对证据方法学质量作系统判定的专门工具"
+ },
+ {
+  "word": "asymmetry",
+  "discipline": "经济学",
+  "reason": "信息不对称是经济学中交易双方掌握信息不同的专门概念"
+ },
+ {
+  "word": "homogeneity",
+  "discipline": "统计学/计量",
+  "reason": "同质性检验是判断多组总体方差一致的专门统计方法"
+ },
+ {
+  "word": "annotation",
+  "discipline": "信息科学",
+  "reason": "标注是为数据加语义标签以供学习使用的专门环节"
+ },
+ {
+  "word": "confusion matrix",
+  "discipline": "信息科学",
+  "reason": "混淆矩阵是分类模型中汇总预测与真值对应关系的专门工具"
+ },
+ {
+  "word": "ground truth",
+  "discipline": "信息科学",
+  "reason": "真值标注是模型评估中公认的参照标签"
+ },
+ {
+  "word": "overfitting",
+  "discipline": "信息科学",
+  "reason": "过拟合指模型过度贴合训练数据而丧失泛化能力的专门概念"
+ },
+ {
+  "word": "regularization",
+  "discipline": "信息科学",
+  "reason": "正则化是抑制模型复杂度以防过拟合的专门方法"
+ },
+ {
+  "word": "audit trail",
+  "discipline": "信息科学",
+  "reason": "审计轨迹是记录系统操作以供核查的治理机制术语"
+ },
+ {
+  "word": "architecture",
+  "discipline": "信息科学",
+  "reason": "体系结构指系统的组成结构与组织方式的专门设计概念"
+ },
+ {
+  "word": "repository",
+  "discipline": "信息科学",
+  "reason": "存储库是集中保存与共享学术资源的专门系统"
+ },
+ {
+  "word": "interoperability",
+  "discipline": "信息科学",
+  "reason": "互操作性指不同系统间交换并使用数据的能力"
+ },
+ {
+  "word": "metadata",
+  "discipline": "信息科学",
+  "reason": "元数据是描述数据本身的数据，属信息管理专门概念"
+ },
+ {
+  "word": "ontology",
+  "discipline": "信息科学",
+  "reason": "本体是形式化刻画领域概念及关系的知识表示体系"
+ },
+ {
+  "word": "cybersecurity",
+  "discipline": "信息科学",
+  "reason": "网络安全是防护系统与网络免受攻击的专门领域"
+ },
+ {
+  "word": "artificial intelligence",
+  "discipline": "信息科学",
+  "reason": "人工智能是研究机器实现智能行为的专门学科"
+ },
+ {
+  "word": "machine learning",
+  "discipline": "信息科学",
+  "reason": "机器学习是从数据自动改进算法的专门方法族"
+ },
+ {
+  "word": "misinformation",
+  "discipline": "信息科学",
+  "reason": "错误信息指内容错误而未必然出于故意的信息现象"
+ },
+ {
+  "word": "disinformation",
+  "discipline": "信息科学",
+  "reason": "虚假信息指蓄意制造并传播的虚假内容"
+ },
+ {
+  "word": "intellectual property",
+  "discipline": "法律",
+  "reason": "知识产权是保护智力成果的专门法律制度"
+ },
+ {
+  "word": "copyright",
+  "discipline": "法律",
+  "reason": "版权是作者对作品享有的法定专有权"
+ },
+ {
+  "word": "numeracy",
+  "discipline": "教育学",
+  "reason": "数理素养是测量个体数学推理与应用能力的专门构念"
+ },
+ {
+  "word": "taxation",
+  "discipline": "经济学",
+  "reason": "税制是国家征税的制度安排，属公共财政专门概念"
+ },
+ {
+  "word": "cost-effectiveness",
+  "discipline": "卫生经济学",
+  "reason": "成本效果分析比较干预成本与健康效果的专门评价方法"
+ },
+ {
+  "word": "disincentive",
+  "discipline": "经济学",
+  "reason": "抑制因素指削弱某行为的负向经济激励"
+ },
+ {
+  "word": "supply chain",
+  "discipline": "经济学",
+  "reason": "供应链是连接原材料到最终客户的专门物流与生产网络"
+ },
+ {
+  "word": "entrepreneurship",
+  "discipline": "经济学",
+  "reason": "创业学是研究新企业创设与创新的专门领域"
+ },
+ {
+  "word": "unemployment",
+  "discipline": "经济学",
+  "reason": "失业是劳动力市场中未就业但可就业的专门经济指标"
+ },
+ {
+  "word": "inequality",
+  "discipline": "经济学",
+  "reason": "收入分配不平等是经济学中衡量分配差距的专门概念"
+ },
+ {
+  "word": "climate change",
+  "discipline": "地理/生态学",
+  "reason": "气候变化是全球气候长期统计状态改变的环境科学专门概念"
+ },
+ {
+  "word": "land use",
+  "discipline": "地理/生态学",
+  "reason": "土地利用是地表用途的空间配置，属地理学专门研究对象"
+ }
+]

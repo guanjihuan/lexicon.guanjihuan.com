@@ -1,0 +1,37 @@
+{
+  "in order to": [
+    { "en": "The sample was deliberately stratified in order to reduce sampling bias.", "zh": "研究团队有意采用了分层抽样，以减少抽样偏差。" },
+    { "en": "Regulators revised the disclosure requirements in order to protect small investors.", "zh": "监管机构修订了信息披露要求，以保护小额投资者的利益。" },
+    { "en": "Several coastal settlements relocated inland in order to avoid repeated flooding.", "zh": "若干沿海聚落迁往内陆，以避开反复发生的洪涝灾害。" }
+  ],
+  "in spite of": [
+    { "en": "The model retained high accuracy in spite of limited training data.", "zh": "尽管训练数据有限，该模型仍保持了较高的准确率。" },
+    { "en": "The ministry continued its reform program in spite of sustained public criticism.", "zh": "尽管公众批评持续不断，该部门仍推进其改革方案。" },
+    { "en": "The manuscript was accepted in spite of a poorly indexed reference list.", "zh": "尽管参考文献索引编排不当，该稿件仍获接受。" }
+  ],
+  "on behalf of": [
+    { "en": "The committee issued a statement on behalf of the entire research council.", "zh": "委员会代表整个研究理事会发表了声明。" },
+    { "en": "Legal counsel was retained on behalf of the affected families.", "zh": "受影响家庭聘请了法律顾问代为处理相关事务。" },
+    { "en": "She accepted the award on behalf of her absent supervisor.", "zh": "她代不在场的导师接受了该奖项。" }
+  ],
+  "for the sake of": [
+    { "en": "The team revised the terminology for the sake of clarity.", "zh": "为求表述清晰，团队修订了术语。" },
+    { "en": "Detailed records were retained for the sake of later replication.", "zh": "为便于日后重复验证，详细记录均被保留。" },
+    { "en": "The old manuscript was copied for the sake of preserving fragile materials.", "zh": "为保存这些易损材料，旧手稿被复制了一份。" }
+  ],
+  "at the expense of": [
+    { "en": "Cost containment was pursued at the expense of staff morale.", "zh": "成本控制得到了推进，代价是员工士气受损。" },
+    { "en": "The subsidy favored large producers at the expense of small enterprises.", "zh": "该补贴使大型生产商受益，而小型企业则因此受损。" },
+    { "en": "Faster screening was introduced at the expense of diagnostic accuracy.", "zh": "筛查流程被加快，代价是诊断准确率下降。" }
+  ],
+  "in lieu of": [
+    { "en": "The council used grant funding in lieu of raising local taxes.", "zh": "理事会以拨款资金代替征收地方税。" },
+    { "en": "Written declarations were accepted in lieu of a formal oral hearing.", "zh": "书面声明被接受，用以取代正式的听证程序。" },
+    { "en": "The laboratory employed proxy measurements in lieu of direct field observation.", "zh": "实验室采用代理测量手段代替直接的野外观测。" }
+  ],
+  "by virtue of": [
+    { "en": "The two measures agreed by virtue of their shared methodological assumptions.", "zh": "这两种测量因共享的方法学假设而达成一致。" },
+    { "en": "Public institutions hold this mandate by virtue of statutory authority.", "zh": "公共机构凭借法定授权而拥有这一职权。" },
+    { "en": "The coastal wetland gained legal protection by virtue of its regional designation.", "zh": "这片滨海湿地因获得区域认定而受到法律保护。" }
+  ]
+}

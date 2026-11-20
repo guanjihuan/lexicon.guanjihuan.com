@@ -1,0 +1,310 @@
+{
+  "copyright": [
+    {
+      "en": "The copyright notice appears at the foot of every page of the manuscript.",
+      "zh": "版权声明出现在手稿的每一页页脚。"
+    },
+    {
+      "en": "Researchers must respect copyright when reproducing figures from published articles.",
+      "zh": "研究者在复制已发表文章中的图件时必须遵守版权规定。"
+    },
+    {
+      "en": "Copyright law protects the original author against unauthorized use of the text.",
+      "zh": "版权法保护原作者免受文本被未经授权使用的侵害。"
+    }
+  ],
+  "open science": [
+    {
+      "en": "Open science encourages researchers to share data and code as early as possible.",
+      "zh": "开放科学鼓励研究者尽早共享数据与代码。"
+    },
+    {
+      "en": "The journal promotes open science by publishing peer review reports alongside each article.",
+      "zh": "该期刊通过在每篇文章旁附上同行评审报告来推动开放科学。"
+    },
+    {
+      "en": "Open science has changed how laboratories collaborate across institutional borders.",
+      "zh": "开放科学改变了各实验室跨越机构边界开展合作的方式。"
+    }
+  ],
+  "open data": [
+    {
+      "en": "Governments release open data so that citizens can scrutinize how public money is spent.",
+      "zh": "政府发布开放数据，以便公民监督公共资金的使用。"
+    },
+    {
+      "en": "The municipality built a portal where open data are downloaded in standard formats.",
+      "zh": "该市府建立了一个门户网站，开放数据可在其中以标准格式下载。"
+    },
+    {
+      "en": "Researchers combined open data from several agencies to model regional air quality.",
+      "zh": "研究者合并了多个机构的开放数据以对区域空气质量建模。"
+    }
+  ],
+  "climate change": [
+    {
+      "en": "Climate change alters rainfall patterns and puts pressure on regional food systems.",
+      "zh": "气候变化改变降水模式，并给区域食物系统带来压力。"
+    },
+    {
+      "en": "The report links climate change to the spread of vector-borne diseases.",
+      "zh": "该报告把气候变化与媒介传播疾病的扩散联系起来。"
+    },
+    {
+      "en": "Emissions reductions are now central to national climate change policy.",
+      "zh": "减排已成为各国气候变化政策的核心。"
+    }
+  ],
+  "land use": [
+    {
+      "en": "Land use change is the largest driver of biodiversity loss in the tropics.",
+      "zh": "土地利用变化是热带地区生物多样性丧失的最大驱动因素。"
+    },
+    {
+      "en": "Remote sensing images allow planners to monitor land use across the whole province.",
+      "zh": "遥感影像使规划者能够监测全省范围内的土地利用情况。"
+    },
+    {
+      "en": "Zoning rules restrict land use and development near the wetland.",
+      "zh": "分区规定限制湿地附近的土地利用与开发。"
+    }
+  ],
+  "public health": [
+    {
+      "en": "Public health authorities issued guidance on food safety during the outbreak.",
+      "zh": "公共卫生主管部门在疫情暴发期间发布了食品安全指南。"
+    },
+    {
+      "en": "Clean water supply remains a cornerstone of public health in many regions.",
+      "zh": "清洁供水仍是许多地区公共卫生的基石。"
+    },
+    {
+      "en": "The journal publishes evidence that can be applied directly in public health practice.",
+      "zh": "该期刊发表可直接应用于公共卫生实践的证据。"
+    }
+  ],
+  "health inequality": [
+    {
+      "en": "Health inequality between income groups widened over the study period.",
+      "zh": "研究期间不同收入组之间的健康不平等有所扩大。"
+    },
+    {
+      "en": "Housing conditions contribute substantially to health inequality across neighborhoods.",
+      "zh": "住房条件对不同社区之间的健康不平等有显著影响。"
+    },
+    {
+      "en": "The study quantifies how health inequality varies by education level.",
+      "zh": "该研究量化了健康不平等如何随教育程度而变化。"
+    }
+  ],
+  "life expectancy": [
+    {
+      "en": "Life expectancy at birth rose steadily across the twentieth century.",
+      "zh": "出生时的预期寿命在二十世纪稳步上升。"
+    },
+    {
+      "en": "Regional disparities in life expectancy persist despite rising average incomes.",
+      "zh": "尽管平均收入上升，区域间的预期寿命差距依然存在。"
+    },
+    {
+      "en": "Preventive care is expected to improve life expectancy in later decades.",
+      "zh": "预防性医疗有望在此后数十年提高预期寿命。"
+    }
+  ],
+  "mental health": [
+    {
+      "en": "Mental health services were expanded to reduce waiting times for assessment.",
+      "zh": "心理健康服务得到扩充，以缩短评估的等待时间。"
+    },
+    {
+      "en": "The survey links financial insecurity to poor mental health among younger workers.",
+      "zh": "该调查把经济不安全感与年轻劳动者的心理健康不佳联系起来。"
+    },
+    {
+      "en": "Universities are expected to embed mental health support within ordinary academic routines.",
+      "zh": "高校应在日常教学安排中融入心理健康支持。"
+    }
+  ],
+  "risk factor": [
+    {
+      "en": "Smoking is a major risk factor for cardiovascular disease in this population.",
+      "zh": "吸烟是该人群心血管疾病的主要风险因素。"
+    },
+    {
+      "en": "The authors adjusted for known risk factors when estimating the effect.",
+      "zh": "作者在估计效应时对已知风险因素进行了校正。"
+    },
+    {
+      "en": "Low birth weight was identified as an independent risk factor for later disability.",
+      "zh": "低出生体重被认定为日后残疾的独立风险因素。"
+    }
+  ],
+  "randomized controlled trial": [
+    {
+      "en": "A randomized controlled trial provides stronger evidence than an observational design.",
+      "zh": "随机对照试验提供的证据强于观察性设计。"
+    },
+    {
+      "en": "Participants in the randomized controlled trial were randomly allocated to two groups.",
+      "zh": "该随机对照试验的参与者被随机分配到两组。"
+    },
+    {
+      "en": "This conclusion rests on a single randomized controlled trial in a narrow population.",
+      "zh": "该结论仅依赖一项研究对象范围较窄的随机对照试验。"
+    }
+  ],
+  "numeracy": [
+    {
+      "en": "Numeracy skills shape how well students interpret statistical information.",
+      "zh": "计算能力影响学生解读统计信息的能力。"
+    },
+    {
+      "en": "The intervention tested whether explicit teaching improves numeracy among adolescents.",
+      "zh": "该干预措施检验了显式教学能否提升青少年的计算能力。"
+    },
+    {
+      "en": "Financial numeracy varies widely across adult populations in the survey.",
+      "zh": "该调查中成年群体的金融数理素养差异很大。"
+    }
+  ],
+  "instruction": [
+    {
+      "en": "Differentiated instruction improved outcomes for mixed-ability classes.",
+      "zh": "差异化教学改善了混合能力班级的学习效果。"
+    },
+    {
+      "en": "Instructional time was limited by the availability of laboratory equipment.",
+      "zh": "实验设备的可用性限制了教学时间。"
+    },
+    {
+      "en": "Teachers received training in how to structure instruction for large cohorts.",
+      "zh": "教师接受了如何为大型队列安排教学的培训。"
+    }
+  ],
+  "scholarship": [
+    {
+      "en": "Her scholarship on early modern trade networks appeared in a leading journal.",
+      "zh": "她关于近代早期贸易网络的研究发表于一份顶尖期刊。"
+    },
+    {
+      "en": "The book gathers scholarship from several disciplines on urban history.",
+      "zh": "该书汇集了多个学科关于城市史的学术研究成果。"
+    },
+    {
+      "en": "That debate reshaped subsequent scholarship on colonial economies.",
+      "zh": "那场辩论重塑了此后关于殖民地经济学的学术研究。"
+    }
+  ],
+  "enrollment": [
+    {
+      "en": "Enrollment in the trial reached its target within six months.",
+      "zh": "该试验的入组在六个月内达到了目标。"
+    },
+    {
+      "en": "Low enrollment rates limit the statistical power of the cohort study.",
+      "zh": "入组率低限制了队列研究的统计效能。"
+    },
+    {
+      "en": "Enrollment at the college rose after the new scholarship program was introduced.",
+      "zh": "新奖学金项目推出后，该学院的注册入学人数增加了。"
+    }
+  ],
+  "engagement": [
+    {
+      "en": "Student engagement declined as class sizes increased.",
+      "zh": "随着班级规模扩大，学生参与度下降。"
+    },
+    {
+      "en": "The review examines public engagement with the findings of the trial.",
+      "zh": "该综述考察了公众对试验结果的参与情况。"
+    },
+    {
+      "en": "Sustained engagement from community partners shaped the design of the program.",
+      "zh": "社区伙伴的持续投入塑造了该项目的设计。"
+    }
+  ],
+  "behavior": [
+    {
+      "en": "Sleep behavior was recorded by wearable devices over a two-week period.",
+      "zh": "睡眠行为通过可穿戴设备连续记录了两周。"
+    },
+    {
+      "en": "Nudging can shift consumer behavior without any change in incentives.",
+      "zh": "助推手段可以在不改变激励的情况下改变消费者行为。"
+    },
+    {
+      "en": "The intervention aimed to modify risky behavior among young drivers.",
+      "zh": "该干预措施旨在改变年轻驾驶员的高风险行为。"
+    }
+  ],
+  "taxation": [
+    {
+      "en": "Progressive taxation reduces the after-tax income gap between households.",
+      "zh": "累进税制缩小了家庭之间的税后收入差距。"
+    },
+    {
+      "en": "Taxation of carbon emissions shifted production toward cleaner technologies.",
+      "zh": "对碳排放征税促使生产转向更清洁的技术。"
+    },
+    {
+      "en": "The model compares the revenue raised under alternative taxation schemes.",
+      "zh": "该模型比较了不同税收方案带来的财政收入。"
+    }
+  ],
+  "cost-effectiveness": [
+    {
+      "en": "Cost-effectiveness analysis guided the decision to fund the program.",
+      "zh": "成本效果分析为是否资助该项目提供了依据。"
+    },
+    {
+      "en": "The intervention was rejected because its cost-effectiveness was poor.",
+      "zh": "该干预措施因成本效果不佳而被否决。"
+    },
+    {
+      "en": "A cost-effectiveness ratio alone cannot settle the ranking of interventions.",
+      "zh": "仅凭成本效果比无法确定各干预措施的排序。"
+    }
+  ],
+  "disincentive": [
+    {
+      "en": "High transaction costs act as a disincentive for small firms to invest.",
+      "zh": "高额交易成本对小企业投资构成抑制因素。"
+    },
+    {
+      "en": "Removing the tax penalty eliminates the main disincentive to reporting errors.",
+      "zh": "取消税务处罚消除了报告错误这一行为的主要抑制因素。"
+    },
+    {
+      "en": "The subsidy was reduced because it functioned as a disincentive to competition.",
+      "zh": "该补贴被削减，因为它对竞争构成了抑制作用。"
+    }
+  ],
+  "audit": [
+    {
+      "en": "An independent audit confirmed that the reported figures matched the source records.",
+      "zh": "一项独立审计确认所报数据与源记录相符。"
+    },
+    {
+      "en": "The data audit revealed inconsistencies between two reporting systems.",
+      "zh": "数据核查暴露出两个报告系统之间的不一致。"
+    },
+    {
+      "en": "A routine audit of laboratory procedures is carried out every year.",
+      "zh": "实验室流程的例行审计每年进行一次。"
+    }
+  ],
+  "supply chain": [
+    {
+      "en": "Disruptions in the supply chain delayed the delivery of raw materials.",
+      "zh": "供应链中断延误了原材料的交付。"
+    },
+    {
+      "en": "The firm mapped its supply chain to identify single points of failure.",
+      "zh": "该公司绘制了供应链图谱以识别单点故障。"
+    },
+    {
+      "en": "Rising energy prices put pressure on the whole supply chain.",
+      "zh": "能源价格上涨给整个供应链带来压力。"
+    }
+  ]
+}

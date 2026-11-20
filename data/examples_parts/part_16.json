@@ -1,0 +1,520 @@
+{
+ "invisible": [
+  {
+   "en": "Infrared radiation is invisible to the human eye but easily detected by thermal sensors.",
+   "zh": "红外辐射对人眼不可见，但热传感器能够轻易探测到。"
+  },
+  {
+   "en": "The invisible barrier of social convention shapes how people behave in public.",
+   "zh": "社会惯例这道无形的屏障影响着人们在公共场合的行为方式。"
+  },
+  {
+   "en": "Many economic costs remain invisible because they are paid by future generations.",
+   "zh": "许多经济成本是无形的，因为最终由后代承担。"
+  }
+ ],
+ "raise": [
+  {
+   "en": "The new policy raises questions about fairness in the distribution of resources.",
+   "zh": "新政策引发了关于资源分配公平性的疑问。"
+  },
+  {
+   "en": "Rising sea levels raise serious concerns for coastal infrastructure planning.",
+   "zh": "海平面上升引起了对沿海基础设施规划的严重关切。"
+  },
+  {
+   "en": "The laboratory raised funds to expand its study of urban air quality.",
+   "zh": "该实验室筹集资金以扩大对城市空气质量的研究。"
+  }
+ ],
+ "feature": [
+  {
+   "en": "A key feature of the design is its ability to accommodate disabled users.",
+   "zh": "该设计的一个关键特征是能够容纳残障用户。"
+  },
+  {
+   "en": "The magazine's latest feature examines the rise of open-access publishing.",
+   "zh": "该杂志最新的专题报道探讨了开放获取出版的兴起。"
+  },
+  {
+   "en": "Researchers should select features that are measurable and relevant to the research question.",
+   "zh": "研究者应选择可测量且与研究问题相关的特征。"
+  }
+ ],
+ "building block": [
+  {
+   "en": "Trust between researchers and participants is a fundamental building block of ethical research.",
+   "zh": "研究者与参与者之间的信任是伦理研究的基本构件。"
+  },
+  {
+   "en": "The curriculum treats reading fluency as a building block for later comprehension.",
+   "zh": "该课程把阅读流利度视为后续阅读理解能力的基本构件。"
+  },
+  {
+   "en": "Each module provides a building block for the advanced degree in statistics.",
+   "zh": "每个模块都为统计学高级学位提供一块基础构件。"
+  }
+ ],
+ "categorize": [
+  {
+   "en": "Participants were asked to categorize each document according to its source.",
+   "zh": "参与者被要求根据来源对每份文件进行分类。"
+  },
+  {
+   "en": "The survey data help researchers categorize responses into broad thematic groups.",
+   "zh": "调查数据帮助研究者将回答归入宽泛的主题类别。"
+  },
+  {
+   "en": "It is difficult to categorize the findings of such a preliminary study.",
+   "zh": "很难对这样一项初步研究的结果进行归类。"
+  }
+ ],
+ "eminent": [
+  {
+   "en": "The conference attracted eminent scholars from twelve countries this year.",
+   "zh": "今年会议吸引了来自 12 个国家的杰出学者。"
+  },
+  {
+   "en": "Her eminent career in physics inspired an entire generation of researchers.",
+   "zh": "她在物理学领域卓越的事业激励了整整一代研究者。"
+  },
+  {
+   "en": "The village has long been home to an eminent school of philosophy.",
+   "zh": "该村庄长期以来一直是著名哲学流派的故乡。"
+  }
+ ],
+ "dual": [
+  {
+   "en": "The agreement carries a dual purpose: reducing costs and improving access.",
+   "zh": "该协议具有双重目的：降低成本和改善可及性。"
+  },
+  {
+   "en": "The economy retains a dual structure of modern industry and subsistence farming.",
+   "zh": "该经济体保留了现代工业与自给自足的农业并存的双重结构。"
+  },
+  {
+   "en": "The lecture will address the dual nature of the transformation in higher education.",
+   "zh": "这场讲座将讨论高等教育变革的双重性质。"
+  }
+ ],
+ "diverge": [
+  {
+   "en": "The two research groups diverged sharply in their interpretation of the data.",
+   "zh": "两个研究小组对数据的解释出现了严重分歧。"
+  },
+  {
+   "en": "Rural and urban migration paths diverge significantly across regions.",
+   "zh": "城乡迁移路径在各地区之间存在显著差异。"
+  },
+  {
+   "en": "Two trails diverge at the summit, each leading to a different waterfall.",
+   "zh": "两条小径在山顶分岔，各自通向不同的瀑布。"
+  }
+ ],
+ "equivocal": [
+  {
+   "en": "The minister gave an equivocal answer that satisfied neither side of the debate.",
+   "zh": "部长给出了一个含糊的回答，令辩论双方都不满意。"
+  },
+  {
+   "en": "The evidence remains equivocal, so the researchers advise further testing.",
+   "zh": "证据仍然模棱两可，因此研究者建议进一步检测。"
+  },
+  {
+   "en": "His equivocal remarks obscured the committee's actual decision.",
+   "zh": "他模棱两可的言论掩盖了委员会的真实决定。"
+  }
+ ],
+ "unequivocal": [
+  {
+   "en": "The review panel issued an unequivocal report condemning the laboratory's data handling.",
+   "zh": "评审组发布了一份毫不含糊的报告，谴责该实验室的数据处理方式。"
+  },
+  {
+   "en": "Her unequivocal support for open science changed the department's culture.",
+   "zh": "她对开放科学的明确支持改变了该系的学术氛围。"
+  },
+  {
+   "en": "Researchers need unequivocal evidence before drawing strong conclusions.",
+   "zh": "研究者在得出有力结论之前需要明确的证据。"
+  }
+ ],
+ "originally": [
+  {
+   "en": "The theory was originally proposed to explain a narrow puzzle in chemistry.",
+   "zh": "该理论最初是为了解释化学中的一个狭窄难题而提出的。"
+  },
+  {
+   "en": "Originally intended for industrial use, the polymer now serves medical implants.",
+   "zh": "这种聚合物最初是面向工业用途设计的，如今用于医疗植入物。"
+  },
+  {
+   "en": "The manuscript was originally written in German and later translated.",
+   "zh": "该手稿最初用德语写成，后来才被翻译。"
+  }
+ ],
+ "fertile": [
+  {
+   "en": "Fertile soils in the river delta support most of the country's rice production.",
+   "zh": "河三角洲肥沃的土壤支撑着该国大部分稻米产量。"
+  },
+  {
+   "en": "The seminar provided fertile ground for young researchers to share early ideas.",
+   "zh": "这场研讨会为年轻研究者分享早期想法提供了沃土。"
+  },
+  {
+   "en": "Seasonal floods leave fertile sediment across the floodplain each year.",
+   "zh": "季节性洪水每年都在洪泛平原上留下肥沃的沉积物。"
+  }
+ ],
+ "overall": [
+  {
+   "en": "Overall, the evidence supports a modest effect of the new policy.",
+   "zh": "总的来说，证据支持新政策具有适度的效果。"
+  },
+  {
+   "en": "The overall design of the system favors simplicity and easy maintenance.",
+   "zh": "该系统的整体设计强调简洁和易于维护。"
+  },
+  {
+   "en": "Overall costs, including training and downtime, exceed the original estimate.",
+   "zh": "包括培训和停机在内的总成本超出了最初估算。"
+  }
+ ],
+ "drive": [
+  {
+   "en": "Rising fuel prices drive households toward more efficient vehicles.",
+   "zh": "燃油价格上涨促使家庭转向更节能的车辆。"
+  },
+  {
+   "en": "The research team was driven by a desire to reduce post-operative complications.",
+   "zh": "研究团队受到减少术后并发症这一目标的推动。"
+  },
+  {
+   "en": "Recurring drought continues to drive food prices sharply higher.",
+   "zh": "反复出现的干旱持续推动食品价格大幅上涨。"
+  }
+ ],
+ "favor": [
+  {
+   "en": "The committee favors proposals that can be implemented within two years.",
+   "zh": "委员会倾向于支持两年内可以实施的方案。"
+  },
+  {
+   "en": "Public opinion surveys consistently favor stronger limits on industrial emissions.",
+   "zh": "民意调查一致支持对工业排放实施更严格的限制。"
+  },
+  {
+   "en": "Her early research was favored by reviewers for its methodological clarity.",
+   "zh": "她早期的研究因其方法上的清晰性而受到评审的青睐。"
+  }
+ ],
+ "coercive": [
+  {
+   "en": "The court ruled that the coercive questioning had violated the suspect's rights.",
+   "zh": "法院裁定这种胁迫性讯问侵犯了嫌疑人的权利。"
+  },
+  {
+   "en": "Governments should avoid coercive measures when voluntary compliance remains possible.",
+   "zh": "在自愿遵守仍然可行的情况下，政府应避免采取强制手段。"
+  },
+  {
+   "en": "A coercive management style tends to reduce creativity and trust among staff.",
+   "zh": "强制性的管理风格往往会降低员工的创造力和信任度。"
+  }
+ ],
+ "acquire": [
+  {
+   "en": "Participants acquired a second language through daily online conversation practice.",
+   "zh": "参与者通过每天的线上对话练习掌握了一门第二语言。"
+  },
+  {
+   "en": "The laboratory acquired advanced imaging equipment from a European supplier.",
+   "zh": "该实验室从一家欧洲供应商处购得了先进的成像设备。"
+  },
+  {
+   "en": "Students acquire disciplinary vocabulary gradually as they read specialist articles.",
+   "zh": "随着阅读专业文章，学生逐渐掌握学科术语。"
+  }
+ ],
+ "repeatable": [
+  {
+   "en": "A repeatable procedure is essential for reliable comparison across laboratories.",
+   "zh": "可复验的程序对于跨实验室的可靠比较至关重要。"
+  },
+  {
+   "en": "The result was not repeatable, so the team questioned the initial measurement.",
+   "zh": "该结果无法复现，因此团队对最初的测量提出了质疑。"
+  },
+  {
+   "en": "The coding scheme proved repeatable, with two raters agreeing on nearly every transcript.",
+   "zh": "编码方案被证明是可复验的，两名评分员在几乎每一份转写上都一致。"
+  }
+ ],
+ "synonym": [
+  {
+   "en": "No exact synonym for this technical term appears in the standard dictionary.",
+   "zh": "标准词典中没有出现与这个技术术语完全对应的同义词。"
+  },
+  {
+   "en": "Each synonym in the list carries a slightly different connotation for readers.",
+   "zh": "列表中的每个近义词对读者而言都带有略微不同的内涵。"
+  },
+  {
+   "en": "The authors offer a workable synonym for a term no longer in common use.",
+   "zh": "作者为一个已不再常用的术语提供了一个可行的同义词。"
+  }
+ ],
+ "manipulate": [
+  {
+   "en": "The analyst warned that the company could manipulate reported figures to hide losses.",
+   "zh": "分析师警告说，该公司可能操纵公布的数字以掩盖亏损。"
+  },
+  {
+   "en": "Students learn to manipulate data responsibly rather than merely present it.",
+   "zh": "学生学会负责任地处理数据，而不只是呈现数据。"
+  },
+  {
+   "en": "Marketing teams manipulate color and spacing to influence how consumers perceive products.",
+   "zh": "营销团队通过操控色彩与间距来影响消费者对产品的感知。"
+  }
+ ],
+ "compromise": [
+  {
+   "en": "The two departments compromised on the budget and approved the shared project.",
+   "zh": "两个部门在预算问题上作出妥协，批准了共同项目。"
+  },
+  {
+   "en": "We must compromise without abandoning the principles that justify our research.",
+   "zh": "我们必须作出妥协，同时不能放弃支撑我们研究的原则。"
+  },
+  {
+   "en": "The final design compromises between engineering cost and long-term durability.",
+   "zh": "最终的设计在工程成本与长期耐久性之间取得了折中。"
+  }
+ ],
+ "a posteriori": [
+  {
+   "en": "A posteriori reasoning identifies the cause only after the effect has occurred.",
+   "zh": "由果及因的推理只有在结果发生后才能确定原因。"
+  },
+  {
+   "en": "The claim was accepted a posteriori, once the field data supported it.",
+   "zh": "在现场数据支持之后，这项主张才通过由果及因的推断被接受。"
+  },
+  {
+   "en": "Distinguishing a priori from a posteriori explanations is central to the course.",
+   "zh": "区分先验解释与由果及因的解释是本课程的核心。"
+  }
+ ],
+ "validate": [
+  {
+   "en": "The ethics board validated the revised protocol before the study began.",
+   "zh": "在研究开始之前，伦理委员会审核确认了修订后的方案。"
+  },
+  {
+   "en": "Independent reviewers validated the findings through a separate replication effort.",
+   "zh": "独立评审通过单独的复现研究验证了这些发现。"
+  },
+  {
+   "en": "A signed certificate validates the device for clinical use throughout the region.",
+   "zh": "签署的证书使该设备在整个地区获准用于临床。"
+  }
+ ],
+ "concrete": [
+  {
+   "en": "The proposal remains too vague; we need concrete examples of measurable outcomes.",
+   "zh": "该提案仍然过于含糊，我们需要可衡量成果的具体例子。"
+  },
+  {
+   "en": "Lab results showed a concrete improvement in the durability of the composite.",
+   "zh": "实验结果表明复合材料耐久性有切实的改善。"
+  },
+  {
+   "en": "The architect combined concrete blocks with transparent glass walls.",
+   "zh": "建筑师把混凝土砌块与透明玻璃墙结合起来。"
+  }
+ ],
+ "approximate": [
+  {
+   "en": "The approximate cost of the survey was two thousand euros per site.",
+   "zh": "该项调查的估算成本为每个站点 2000 欧元。"
+  },
+  {
+   "en": "Approximate figures suggest that demand will double within five years.",
+   "zh": "粗略的数据表明需求将在五年内翻一番。"
+  },
+  {
+   "en": "Use an approximate value when precision is unavailable in the published table.",
+   "zh": "当已发表表格中没有精确数值时，请使用近似值。"
+  }
+ ],
+ "onto": [
+  {
+   "en": "The researchers projected the data onto a two-dimensional surface for comparison.",
+   "zh": "研究者把数据投影到二维表面上以便比较。"
+  },
+  {
+   "en": "The cat jumped onto the counter and startled the entire kitchen.",
+   "zh": "猫跳上柜台，惊动了整个厨房。"
+  },
+  {
+   "en": "The mapping algorithm moves each observation onto the closest matching region.",
+   "zh": "该映射算法将每个观测值映射到最接近的匹配区域上。"
+  }
+ ],
+ "indeed": [
+  {
+   "en": "The early results are indeed promising, but they require larger samples.",
+   "zh": "早期结果确实令人鼓舞，但仍需更大的样本。"
+  },
+  {
+   "en": "The difficulty is indeed greater than the literature had suggested.",
+   "zh": "这一困难确实比文献中所暗示的更大。"
+  },
+  {
+   "en": "It is indeed a serious concern for researchers working with archival data.",
+   "zh": "对于使用档案数据的研究者来说，这确实是一个严重的问题。"
+  }
+ ],
+ "metric": [
+  {
+   "en": "The metric converts raw observations into a single comparable score.",
+   "zh": "该指标将原始观测值转换为单一的可比较分数。"
+  },
+  {
+   "en": "Researchers selected the metric because it directly captures teaching quality.",
+   "zh": "研究者选择该指标，因为它能直接反映教学质量。"
+  },
+  {
+   "en": "Because the metric is measured in millimeters, comparisons across models are straightforward.",
+   "zh": "由于该指标以毫米计量，跨模型比较十分直接。"
+  }
+ ],
+ "stagger": [
+  {
+   "en": "The team staggered the start times to reduce pressure on the shared equipment.",
+   "zh": "团队错开开始时间，以减轻共享设备的压力。"
+  },
+  {
+   "en": "Staggered schedules allow every participant access to the laboratory instruments.",
+   "zh": "错开的日程使每位参与者都能使用实验室仪器。"
+  },
+  {
+   "en": "The designer staggered the seating so that every speaker remained visible.",
+   "zh": "设计师将座位错开排列，使每位发言者都能被看见。"
+  }
+ ],
+ "problematic": [
+  {
+   "en": "Using self-reported data proved problematic when participants forgot to record entries.",
+   "zh": "当参与者忘记记录时，使用自我报告数据被证明是有问题的。"
+  },
+  {
+   "en": "The proposal is problematic because it ignores regional differences in infrastructure.",
+   "zh": "该提案成问题，因为它忽略了基础设施的地区差异。"
+  },
+  {
+   "en": "Several reviewers considered the causal claim highly problematic given the sample size.",
+   "zh": "鉴于样本量，几位评审认为该因果主张存在严重问题。"
+  }
+ ],
+ "enrich": [
+  {
+   "en": "Field visits enrich the curriculum with knowledge textbooks cannot provide.",
+   "zh": "实地考察用教科书无法提供的知识充实了课程。"
+  },
+  {
+   "en": "The revised edition enriches the discussion with comparative data from six countries.",
+   "zh": "修订版用来自六个国家的比较数据充实了讨论。"
+  },
+  {
+   "en": "Seasonal floods enrich the farmland with minerals carried from upstream.",
+   "zh": "季节性洪水把上游带来的矿物质沉积到农田中，使其更为肥沃。"
+  }
+ ],
+ "exponential": [
+  {
+   "en": "The spread of the virus showed exponential growth during the first month.",
+   "zh": "病毒传播在第一个月呈现指数增长。"
+  },
+  {
+   "en": "Exponential increases in data volumes are driving demand for cloud archiving.",
+   "zh": "数据量的指数级增长正在推动对云归档的需求。"
+  },
+  {
+   "en": "The team modeled the population using an exponential curve fitted to historical records.",
+   "zh": "团队使用依据历史记录拟合的指数曲线对人口进行建模。"
+  }
+ ],
+ "segment": [
+  {
+   "en": "The study divides respondents into segments according to age and income.",
+   "zh": "该研究根据年龄和收入将受访者划分为不同的群体。"
+  },
+  {
+   "en": "Commercial traffic forms the fastest growing segment of the market.",
+   "zh": "商业运输构成了市场中增长最快的部分。"
+  },
+  {
+   "en": "Each segment of the pipeline was tested separately to locate the failure.",
+   "zh": "数据流程的每个环节都被单独测试以定位故障。"
+  }
+ ],
+ "scale": [
+  {
+   "en": "The survey was conducted on a national scale across more than three hundred schools.",
+   "zh": "该调查在全国范围内于三百多所学校进行。"
+  },
+  {
+   "en": "The scale on the left measures pressure in pascals, while the right records temperature.",
+   "zh": "左侧刻度以帕斯卡计量压力，右侧记录温度。"
+  },
+  {
+   "en": "Rigorous evidence exists on a smaller scale than the public often assumes.",
+   "zh": "严格证据的存在范围比公众常常以为的要小。"
+  }
+ ],
+ "expedient": [
+  {
+   "en": "Regulators chose an expedient measure to contain the crisis immediately.",
+   "zh": "监管机构选择了一项应急措施以立即控制危机。"
+  },
+  {
+   "en": "The expedient decision solved the budget problem but created long-term costs.",
+   "zh": "这项权宜的决定解决了预算问题，却带来了长期成本。"
+  },
+  {
+   "en": "The team adopted an expedient strategy rather than seeking a permanent solution.",
+   "zh": "该团队采取了权宜策略，而没有寻求永久解决方案。"
+  }
+ ],
+ "tricky": [
+  {
+   "en": "Translating technical jargon into plain language remains a tricky exercise.",
+   "zh": "将专业术语转化为通俗语言仍是一项棘手的任务。"
+  },
+  {
+   "en": "The tricky part is separating genuine effects from seasonal variation in the data.",
+   "zh": "难点在于从数据的季节性波动中分离出真实效应。"
+  },
+  {
+   "en": "Managing expectations among stakeholders was a tricky part of the project.",
+   "zh": "管理利益相关者的期望是该项目中颇为棘手的部分。"
+  }
+ ],
+ "counterintuitive": [
+  {
+   "en": "It is counterintuitive that removing a restriction can improve environmental outcomes.",
+   "zh": "取消一项限制反而能改善环境结果，这看似违反直觉。"
+  },
+  {
+   "en": "The researchers noted a counterintuitive pattern in the collected responses.",
+   "zh": "研究者注意到收集到的回答中出现了反直觉的模式。"
+  },
+  {
+   "en": "Students often find the counterintuitive result difficult to reconcile with prior experience.",
+   "zh": "学生常常觉得这一反直觉的结果难以与以往经验相调和。"
+  }
+ ]
+}

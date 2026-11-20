@@ -1,0 +1,338 @@
+{
+ "lead to": [
+  [
+   "Insufficient sleep in adolescence can lead to lasting difficulties with concentration.",
+   "青少年期睡眠不足可能导致长期难以集中注意力。"
+  ],
+  [
+   "A single flawed assumption can lead to systematic bias across the entire model.",
+   "一个有缺陷的假设可能导致整个模型的系统性偏差。"
+  ],
+  [
+   "Pilot data suggest the intervention may lead to measurable gains in reading fluency.",
+   "试点数据表明，该干预可能带来阅读流利度上可测量的提升。"
+  ]
+ ],
+ "result in": [
+  [
+   "Failure to document exclusions resulted in a request for retraction.",
+   "未能记录排除标准导致期刊提出撤稿要求。"
+  ],
+  [
+   "Small rounding errors at each step resulted in a substantial deviation in the final estimate.",
+   "每步的微小舍入误差累积后，在最终估计值中造成了显著偏差。"
+  ],
+  [
+   "The revised sampling frame is expected to result in more stable estimates.",
+   "修订后的抽样框架预计将产生更稳定的估计值。"
+  ]
+ ],
+ "result from": [
+  [
+   "Most of the discrepancy results from differences in coding schemes between the two teams.",
+   "大部分差异源于两队编码方案的不同。"
+  ],
+  [
+   "The seasonal pattern appears to result from temperature rather than rainfall.",
+   "这一季节性格局似乎源于温度而非降水量。"
+  ],
+  [
+   "Delays in publication often result from reviewer disagreements rather than editorial backlog.",
+   "出版延误常常起因于审稿人分歧，而非编辑积压。"
+  ]
+ ],
+ "give rise to": [
+  [
+   "The new measurement device gave rise to questions about comparability with earlier data.",
+   "新型测量设备引起了人们关于其与早期数据可比性的疑问。"
+  ],
+  [
+   "Rapid urbanization has given rise to fresh challenges for public transport planning.",
+   "快速城市化给公共交通规划带来了新挑战。"
+  ],
+  [
+   "Ambiguous definitions in the codebook gave rise to inconsistent coding.",
+   "编码手册中含义不清的定义导致了编码不一致。"
+  ]
+ ],
+ "carry out": [
+  [
+   "The team carried out semi-structured interviews with thirty practitioners.",
+   "团队对 30 名从业者开展了半结构化访谈。"
+  ],
+  [
+   "Replication studies carried out in different countries strengthened the original finding.",
+   "在不同国家开展的复现研究加强了原有结论的说服力。"
+  ],
+  [
+   "Ethical approval is required before carrying out research with minors.",
+   "对未成年人开展研究之前须获得伦理批准。"
+  ]
+ ],
+ "take into account": [
+  [
+   "The model takes into account both student background and school resources.",
+   "该模型同时考虑了学生背景与学校资源。"
+  ],
+  [
+   "Reviewers should take into account the limited access to archives during the study period.",
+   "评审者应考虑到研究期间档案获取渠道有限这一点。"
+  ],
+  [
+   "Failing to take into account attrition can bias longitudinal conclusions.",
+   "不把样本流失计算在内，可能使纵向结论产生偏差。"
+  ]
+ ],
+ "shed light on": [
+  {
+   "en": "The corpus data shed light on the grammar of academic hedging.",
+   "zh": "语料库数据为学术模糊限制语的语法提供了新的启示。"
+  },
+  [
+   "These interviews shed light on why teachers resist the reform.",
+   "这些访谈阐明了教师抵制改革的原因。"
+  ],
+  [
+   "The mechanism remains poorly understood, and the study only partially sheds light on it.",
+   "该机制仍未被充分理解，本研究只是部分地阐明了这套机制。"
+  ]
+ ],
+ "in practice": [
+  [
+   "In practice, random assignment is difficult in small-school settings.",
+   "在实践中，小学校情境下难以实现随机分组。"
+  ],
+  [
+   "The policy sounds reasonable, but in practice it creates perverse incentives.",
+   "这一政策听起来合理，但实际上制造了反常的激励。"
+  ],
+  [
+   "In practice, the two definitions converge on the same set of cases.",
+   "实际上，两种定义都指向同一组案例。"
+  ]
+ ],
+ "in principle": [
+  [
+   "In principle, any open dataset may be reused with attribution.",
+   "原则上，任何开放数据集均可在注明出处后复用。"
+  ],
+  [
+   "The method is sound in principle, though its execution is demanding.",
+   "该方法原则上成立，只是实施要求很高。"
+  ],
+  [
+   "In principle the committee could reconsider the decision after new evidence.",
+   "原则上，委员会可在新证据出现后重新考虑该决定。"
+  ]
+ ],
+ "on average": [
+  [
+   "On average, participants recalled thirty words after a single session.",
+   "平均而言，参与者在单次学习后能回忆 30 个词。"
+  ],
+  [
+   "On average, the cohorts in the revised program outperformed the original sample.",
+   "平均而言，修订后项目中的组别表现优于原样本。"
+  ],
+  [
+   "The two schemes cost about the same on average, but differ in variance.",
+   "两种方案平均成本大致相同，但方差不同。"
+  ]
+ ],
+ "in turn": [
+  [
+   "Higher expectations improve effort, which in turn raises achievement.",
+   "更高的期望改善努力程度，进而提升成绩。"
+  ],
+  [
+   "Trust influences cooperation, which in turn predicts long-term participation.",
+   "信任影响合作，而合作又反过来预测长期参与。"
+  ],
+  [
+   "Each chapter draws on the previous one and, in turn, sets up the next.",
+   "每章依托前一章，继而引出下一章。"
+  ]
+ ],
+ "to some extent": [
+  [
+   "The decline can be explained to some extent by changes in the birth rate.",
+   "这一下降在某种程度上可用出生率的变化来解释。"
+  ],
+  [
+   "Both approaches capture the phenomenon to some extent.",
+   "两种方法都在一定程度上捕捉到了这一现象。"
+  ],
+  [
+   "To some extent, the reviewers' disagreement reflects definitional ambiguity.",
+   "审稿人的分歧在某种程度上反映了定义的模糊性。"
+  ]
+ ],
+ "thereafter": [
+  {
+   "en": "Participants completed the survey; thereafter, they were reimbursed for their time.",
+   "zh": "参与者完成问卷；此后，他们获得了时间酬金。"
+  },
+  {
+   "en": "The archive was cataloged in 1998 and closed to the public thereafter.",
+   "zh": "该档案于 1998 年编目，此后即对公众关闭。"
+  },
+  {
+   "en": "Samples were frozen within an hour and analyzed thereafter.",
+   "zh": "样本在一小时内冷冻，随后进行分析。"
+  }
+ ],
+ "in that": [
+  [
+   "The revised scale is superior in that it distinguishes two forms of motivation.",
+   "修订后的量表更为优越，因为它区分了两种动机。"
+  ],
+  [
+   "This case differs from the others in that exposure was measured directly.",
+   "这一案例不同于其他案例之处在于，暴露程度是被直接测量的。"
+  ],
+  [
+   "The argument is circular in that its conclusion presupposes its premise.",
+   "该论证是循环的，因为其结论预设了其前提。"
+  ]
+ ],
+ "in addition to": [
+  [
+   "In addition to the main survey, the team conducted twelve expert interviews.",
+   "除主问卷外，团队还进行了 12 次专家访谈。"
+  ],
+  {
+   "en": "In addition to summarizing the evidence, the report proposes a monitoring plan.",
+   "zh": "该报告除总结证据外，还提出了监测方案。"
+  },
+  [
+   "In addition to English, the database indexes sources in six languages.",
+   "该数据库除英文外还收录六种语言的文献索引。"
+  ]
+ ],
+ "such as": [
+  [
+   "Exclusion criteria such as prior diagnosis were applied uniformly.",
+   "诸如既往诊断之类的排除标准一律适用。"
+  ],
+  [
+   "Metrics such as precision and recall were reported for every model.",
+   "每个模型均报告了精确率与召回率等指标。"
+  ],
+  [
+   "Structural barriers such as cost and distance limit participation.",
+   "成本与距离等结构性障碍限制了参与。"
+  ]
+ ],
+ "according to": [
+  {
+   "en": "According to the latest census, the region lost fifteen percent of its young adults.",
+   "zh": "根据最新人口普查，该地区流失了 15% 的青年成年人。"
+  },
+  [
+   "According to the authors, the discrepancy reflects sampling rather than measurement error.",
+   "据作者称，这一差异反映的是抽样而非测量误差。"
+  ],
+  [
+   "The timeline was revised according to the reviewers' schedule.",
+   "时间表根据审稿人的日程作了修订。"
+  ]
+ ],
+ "instead of": [
+  {
+   "en": "We report medians instead of means to guard against outlier effects.",
+   "zh": "我们报告中位数而非均值，以防异常值影响。"
+  },
+  [
+   "Coding was done independently instead of by consensus.",
+   "编码是独立完成的，而不是通过协商一致。"
+  ],
+  [
+   "Instead of discarding outliers, the team flagged them for inspection.",
+   "团队没有丢弃异常值，而是将其标记出来供核查。"
+  ]
+ ],
+ "as a result of": [
+  {
+   "en": "Enrollment rose sharply as a result of the fee waiver.",
+   "zh": "由于免除了费用，注册人数大幅上升。"
+  },
+  [
+   "As a result of the replication failures, the original claim was withdrawn.",
+   "由于复现实验失败，原有结论被撤回。"
+  ],
+  [
+   "Three datasets were excluded as a result of incomplete metadata.",
+   "由于元数据不完整，三个数据集被排除。"
+  ]
+ ],
+ "apart from": [
+  [
+   "Apart from two exceptions, every participant finished both sessions.",
+   "除两个例外，所有参与者都完成了两次测试。"
+  ],
+  [
+   "Apart from its cost, the method offers few advantages over existing tools.",
+   "除成本外，该方法相较于现有工具几乎没有优势。"
+  ],
+  [
+   "The results are sound; apart from that, only the sample size could be questioned.",
+   "结果是可靠的；除此之外，只有样本量可被质疑。"
+  ]
+ ],
+ "prior to": [
+  [
+   "Prior to analysis, all sequences were checked for contamination.",
+   "分析之前，所有序列均作了污染物检查。"
+  ],
+  [
+   "Written consent was obtained prior to any data collection.",
+   "在任何数据采集之前均取得了书面同意。"
+  ],
+  [
+   "The codebook was pilot-tested prior to the main study.",
+   "编码手册在主研究之前经过了预测试。"
+  ]
+ ],
+ "relative to": [
+  [
+   "Performance improved relative to the baseline measurement.",
+   "相对于基线测量，表现有所提高。"
+  ],
+  [
+   "Rural schools are underfunded relative to their urban counterparts.",
+   "相对于城市学校，乡村学校经费不足。"
+  ],
+  [
+   "The estimate is low relative to figures reported in meta-analyses.",
+   "该估计值相对于元分析报告的数字偏低。"
+  ]
+ ],
+ "on the one hand": [
+  {
+   "en": "On the one hand the design maximizes realism; on the other it sacrifices control.",
+   "zh": "这一设计一方面最大化了真实性，另一方面却牺牲了控制。"
+  },
+  [
+   "On the one hand, open data increase impact; on the other, they raise privacy risks.",
+   "开放数据一方面提升了影响力，另一方面也带来隐私风险。"
+  ],
+  [
+   "The argument holds on the one hand but fails on the other.",
+   "这个论点在一方面成立，在另一方面却不然。"
+  ]
+ ],
+ "in contrast to": [
+  [
+   "In contrast to the first cohort, the second showed no practice effect.",
+   "与第一组不同，第二组未显示出练习效应。"
+  ],
+  {
+   "en": "The present results, in contrast to earlier survey findings, differ markedly.",
+   "zh": "与早期调查结论相比，本次结果差异显著。"
+  },
+  {
+   "en": "In contrast to laboratory studies, field data capture behavior in real settings.",
+   "zh": "与实验室研究相对照，实地数据捕捉的是真实情境中的行为。"
+  }
+ ]
+}

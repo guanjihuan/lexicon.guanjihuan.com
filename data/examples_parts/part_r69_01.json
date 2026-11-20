@@ -1,0 +1,310 @@
+{
+  "interestingly": [
+    {
+      "en": "Interestingly, the group that waited longest for feedback reported the highest satisfaction.",
+      "zh": "有趣的是，等待反馈时间最长的群体反而报告了最高的满意度。"
+    },
+    {
+      "en": "Interestingly enough, the effect disappeared once baseline motivation was controlled for.",
+      "zh": "耐人寻味的是，控制基线动机之后该效应便消失了。"
+    },
+    {
+      "en": "Interestingly, the two measures point in opposite directions, which deserves further attention.",
+      "zh": "耐人寻味的是，两项指标指向相反的方向，这一点值得进一步关注。"
+    }
+  ],
+  "surprisingly": [
+    {
+      "en": "Surprisingly, the strongest predictor of retention turned out to be response latency.",
+      "zh": "出乎意料的是，留存的最强预测因素原来是响应延迟。"
+    },
+    {
+      "en": "The intervention performed surprisingly well across every site included in the trial.",
+      "zh": "该项干预在纳入试验的所有站点都表现得意外出色。"
+    },
+    {
+      "en": "Surprisingly few participants noticed the change in the interface.",
+      "zh": "意外的是，只有很少的参与者察觉到界面的变化。"
+    }
+  ],
+  "remarkably": [
+    {
+      "en": "The revised model performs remarkably well on datasets from three different laboratories.",
+      "zh": "修订后的模型在来自三个不同实验室的数据集上表现异常出色。"
+    },
+    {
+      "en": "Remarkably few of the cited studies reported confidence intervals around their estimates.",
+      "zh": "被引研究中，报告估计值置信区间的研究少得出奇。"
+    },
+    {
+      "en": "The gain in accuracy remained remarkably stable across repeated runs of the model.",
+      "zh": "准确率的提升在模型多次重复运行中保持异常稳定。"
+    }
+  ],
+  "strikingly": [
+    {
+      "en": "The two groups produced strikingly different patterns of response over the same period.",
+      "zh": "两组在同一时期呈现出显著不同的反应模式。"
+    },
+    {
+      "en": "Their conclusions are strikingly similar despite working with unrelated source material.",
+      "zh": "尽管所用材料毫不相干，两者的结论却惊人地相似。"
+    },
+    {
+      "en": "The new design is strikingly simple, with only three visible controls.",
+      "zh": "新设计简洁得惊人，仅设有三个可见控件。"
+    }
+  ],
+  "tellingly": [
+    {
+      "en": "Tellingly, the error rates did not improve after the interface was simplified.",
+      "zh": "说明问题的是，界面简化之后错误率并未下降。"
+    },
+    {
+      "en": "Tellingly, participants who received written feedback outperformed those who did not.",
+      "zh": "说明问题的是，获得书面反馈的参与者表现优于未获得反馈者。"
+    },
+    {
+      "en": "The gap widened over time, tellingly suggesting that the initial advantage was temporary.",
+      "zh": "差距随时间扩大，这有力地说明最初的优势只是暂时的。"
+    }
+  ],
+  "curiously": [
+    {
+      "en": "Curiously enough, the treatment group reported less satisfaction despite better clinical outcomes.",
+      "zh": "奇怪的是，尽管治疗组的临床结局更好，其报告的满意度却更低。"
+    },
+    {
+      "en": "Curiously, the effect was strongest among participants who had read the warning label.",
+      "zh": "奇怪的是，该效应在读过警示标签的参与者中最为显著。"
+    },
+    {
+      "en": "The researchers noted, curiously, that no participant asked about the second option.",
+      "zh": "研究者注意到，奇怪的是，没有一位参与者询问第二个选项。"
+    }
+  ],
+  "wherein": [
+    {
+      "en": "We identified a situation wherein the two datasets overlap in ways that bias the estimate.",
+      "zh": "我们发现了一种情形，其中两个数据集的重叠方式会使估计产生偏倚。"
+    },
+    {
+      "en": "The report describes a crisis wherein public trust in the agency collapsed within weeks.",
+      "zh": "报告描述了一场危机，其中公众对机构的信任在数周内崩塌。"
+    },
+    {
+      "en": "It is a context wherein even careful methodology may yield unstable conclusions.",
+      "zh": "在这样的语境下，即便方法审慎也可能得出不稳定的结论。"
+    }
+  ],
+  "thereof": [
+    {
+      "en": "The parties reviewed the findings thereof before agreeing to amend the protocol.",
+      "zh": "各方在同意修订方案之前审阅了相关结论。"
+    },
+    {
+      "en": "Any attempt to alter the composition thereof requires prior approval by the review board.",
+      "zh": "任何试图更改其构成的行为均须事先获得审查委员会批准。"
+    },
+    {
+      "en": "The committee questioned the methodology thereof and requested a full reanalysis.",
+      "zh": "委员会质疑了其中的方法论，并要求进行全面重新分析。"
+    }
+  ],
+  "confer": [
+    {
+      "en": "A research affiliation may confer credibility on unpublished results.",
+      "zh": "研究机构背景可能为未经发表的结论带来可信度。"
+    },
+    {
+      "en": "The revised rubric will confer greater weight on evidence drawn from primary sources.",
+      "zh": "修订后的评分标准赋予来自原始资料的证据更大的权重。"
+    },
+    {
+      "en": "The two departments will confer with each other before finalizing the shared curriculum.",
+      "zh": "两个院系将在敲定共享课程之前彼此协商。"
+    }
+  ],
+  "afford": [
+    {
+      "en": "The grant scheme will afford young researchers an opportunity to work abroad.",
+      "zh": "该资助计划为青年研究者提供了海外工作的机会。"
+    },
+    {
+      "en": "Rural schools can hardly afford to maintain outdated laboratory equipment.",
+      "zh": "乡村学校几乎无力维持老旧的实验室设备。"
+    },
+    {
+      "en": "The revised design will afford participants greater control over how their data are stored.",
+      "zh": "修订后的设计使参与者能更好地控制其数据的存储方式。"
+    }
+  ],
+  "circumvent": [
+    {
+      "en": "Applicants sometimes circumvent the word limit by submitting supplementary files.",
+      "zh": "申请人有时通过提交补充文件来规避字数限制。"
+    },
+    {
+      "en": "New routing protocols may circumvent the bandwidth limitation imposed by the central server.",
+      "zh": "新的路由协议可以绕过中央服务器施加的带宽限制。"
+    },
+    {
+      "en": "He attempted to circumvent the selection procedure by contacting the committee directly.",
+      "zh": "他试图通过直接联系委员会来绕过遴选程序。"
+    }
+  ],
+  "curtail": [
+    {
+      "en": "The university decided to curtail nonessential spending during the fiscal year.",
+      "zh": "大学决定在本财年削减非必要支出。"
+    },
+    {
+      "en": "Emergency measures may curtail personal freedoms in several respects.",
+      "zh": "紧急措施可在若干方面限制个人自由。"
+    },
+    {
+      "en": "The new regulations curtail the amount of water that farms may withdraw.",
+      "zh": "新法规限制了农场可取用的水量。"
+    }
+  ],
+  "curb": [
+    {
+      "en": "Tighter monetary policy can curb inflation more effectively than price controls.",
+      "zh": "更为紧缩的货币政策能比价格管制更有效地抑制通胀。"
+    },
+    {
+      "en": "Severe penalties help curb emissions from unregistered industrial plants.",
+      "zh": "严厉的处罚有助于遏制未登记工业厂房的排放。"
+    },
+    {
+      "en": "Public campaigns have done little to curb the spread of misinformation.",
+      "zh": "公众宣传活动几乎没有遏制错误信息扩散的作用。"
+    }
+  ],
+  "thwart": [
+    {
+      "en": "A sudden change in regulation could thwart the project entirely.",
+      "zh": "监管规则的突然变动可能使该项目彻底受阻。"
+    },
+    {
+      "en": "The committee used its veto to thwart the attempt to replace the existing evaluation framework.",
+      "zh": "委员会动用否决权挫败了替换现有评估框架的企图。"
+    },
+    {
+      "en": "Careful planning helped thwart the efforts of those who opposed the reform.",
+      "zh": "周密的规划挫败了那些反对改革者的努力。"
+    }
+  ],
+  "hamper": [
+    {
+      "en": "Poor documentation can hamper progress more than a shortage of resources.",
+      "zh": "文档不完善对进度的妨碍可能比资源短缺更严重。"
+    },
+    {
+      "en": "Late registration may hamper the team from securing the necessary permits.",
+      "zh": "注册延误可能妨碍团队取得必要的许可。"
+    },
+    {
+      "en": "Strict deadlines can hamper the work of volunteers who have limited access to the archives.",
+      "zh": "严格的截止期限会妨碍档案馆访问受限的志愿者的工作。"
+    }
+  ],
+  "halt": [
+    {
+      "en": "The trial was brought to a halt after serious safety concerns emerged.",
+      "zh": "在出现严重的安全顾虑后，该试验被叫停。"
+    },
+    {
+      "en": "Calls to halt the redevelopment gathered support from residents across the district.",
+      "zh": "呼吁停止该区域再开发的声音得到了全区居民的响应。"
+    },
+    {
+      "en": "A funding freeze brought long-term projects to a sudden halt.",
+      "zh": "资金冻结使长期项目突然陷入停顿。"
+    }
+  ],
+  "erode": [
+    {
+      "en": "Repeated delays erode the confidence of participants in the research team.",
+      "zh": "屡次延期逐步削弱了参与者对研究团队的信任。"
+    },
+    {
+      "en": "Rising input costs erode profit margins in the manufacturing sector.",
+      "zh": "投入成本上升侵蚀了制造业的利润空间。"
+    },
+    {
+      "en": "Frequent corrections may erode the authority of the published guidelines.",
+      "zh": "频繁的修订可能逐步削弱已发布指南的权威性。"
+    }
+  ],
+  "corrode": [
+    {
+      "en": "Moist salt air will corrode the steel framework within a few seasons.",
+      "zh": "潮湿的含盐空气会在数个季度内腐蚀钢制框架。"
+    },
+    {
+      "en": "Repeated public criticism can corrode trust within a professional community.",
+      "zh": "反复的公开批评会腐蚀专业共同体内的信任。"
+    },
+    {
+      "en": "The acid runoff continues to corrode the protective coating on the pipes.",
+      "zh": "酸性径流仍在腐蚀管道上的保护涂层。"
+    }
+  ],
+  "accrue": [
+    {
+      "en": "Benefits accrue slowly when the sample size remains small.",
+      "zh": "当样本量持续偏小时，收益积累缓慢。"
+    },
+    {
+      "en": "Most of the advantages of the new system accrue to senior researchers.",
+      "zh": "新系统的大部分优势为资深研究者所获。"
+    },
+    {
+      "en": "Interest will accrue on the deposit while the funds remain invested.",
+      "zh": "存款在投资期间会产生利息。"
+    }
+  ],
+  "uphold": [
+    {
+      "en": "The appellate court upholds the original decision after reviewing the trial record.",
+      "zh": "上诉法院审查庭审记录后维持了原判。"
+    },
+    {
+      "en": "The board will uphold the standards of professional conduct in the department.",
+      "zh": "委员会将维护该院系的专业行为准则。"
+    },
+    {
+      "en": "Both parties agreed to uphold the principles set out in the earlier agreement.",
+      "zh": "双方同意维护此前协议中确立的各项原则。"
+    }
+  ],
+  "permeate": [
+    {
+      "en": "Water will permeate the porous membrane under sustained pressure, though the process takes hours.",
+      "zh": "在持续压力下水会渗透过多孔膜，不过这一过程需要数小时。"
+    },
+    {
+      "en": "A sense of suspicion seems to permeate every aspect of the institutional culture.",
+      "zh": "一种猜疑似乎弥漫于该机构文化的方方面面。"
+    },
+    {
+      "en": "The dye will permeate the fibers of the textile and remain there permanently.",
+      "zh": "染料会渗透进纺织品的纤维并永久留存在其中。"
+    }
+  ],
+  "pervade": [
+    {
+      "en": "An assumption of shared context seems to pervade much of the literature on the subject.",
+      "zh": "关于该主题的文献大多弥漫着一种共享语境的预设。"
+    },
+    {
+      "en": "A sense of anxiety seems to pervade the accounts of early-career researchers interviewed here.",
+      "zh": "在此接受采访的早期职业研究者叙述中弥漫着一种焦虑感。"
+    },
+    {
+      "en": "The idea that translation is neutral seems to pervade discussions of academic editing.",
+      "zh": "翻译是中性的这一观念充斥着有关学术编辑的讨论。"
+    }
+  ]
+}

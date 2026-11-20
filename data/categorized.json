@@ -1,0 +1,2410 @@
+[
+ {
+  "num": 783,
+  "word": "counterintuitive",
+  "pos": "形容词",
+  "sub": "积极的",
+  "gloss": "反直觉的；与预期相反的"
+ },
+ {
+  "num": 745,
+  "word": "unequivocal",
+  "pos": "形容词",
+  "sub": "积极的",
+  "gloss": "完全的；表达明确的；毫不含糊的"
+ },
+ {
+  "num": 741,
+  "word": "eminent",
+  "pos": "形容词",
+  "sub": "积极的",
+  "gloss": "显赫的；卓越的；著名的"
+ },
+ {
+  "num": 732,
+  "word": "elementary",
+  "pos": "形容词",
+  "sub": "积极的",
+  "gloss": "基本的"
+ },
+ {
+  "num": 729,
+  "word": "unusual",
+  "pos": "形容词",
+  "sub": "积极的",
+  "gloss": "不同寻常的，非比一般的；独特的"
+ },
+ {
+  "num": 701,
+  "word": "unique",
+  "pos": "形容词",
+  "sub": "积极的",
+  "gloss": "独一无二的；与众不同的；唯一的；独特的；罕见的"
+ },
+ {
+  "num": 692,
+  "word": "compact",
+  "pos": "形容词",
+  "sub": "积极的",
+  "gloss": "紧凑的；密实的；小巧的"
+ },
+ {
+  "num": 689,
+  "word": "eligible",
+  "pos": "形容词",
+  "sub": "积极的",
+  "gloss": "具备条件的；有资格的；合格的"
+ },
+ {
+  "num": 688,
+  "word": "marvelous",
+  "pos": "形容词",
+  "sub": "积极的",
+  "gloss": "绝妙的；好极了的"
+ },
+ {
+  "num": 669,
+  "word": "faithful",
+  "pos": "形容词",
+  "sub": "积极的",
+  "gloss": "忠诚的；忠实的"
+ },
+ {
+  "num": 668,
+  "word": "intelligible",
+  "pos": "形容词",
+  "sub": "积极的",
+  "gloss": "（言语、文章）明白易懂的"
+ },
+ {
+  "num": 655,
+  "word": "grand",
+  "pos": "形容词",
+  "sub": "积极的",
+  "gloss": "重大的；主要的；首要的"
+ },
+ {
+  "num": 650,
+  "word": "startling",
+  "pos": "形容词",
+  "sub": "积极的",
+  "gloss": "惊人的；令人震惊的"
+ },
+ {
+  "num": 649,
+  "word": "bizarre",
+  "pos": "形容词",
+  "sub": "积极的",
+  "gloss": "怪诞的；罕见的；异乎寻常的"
+ },
+ {
+  "num": 648,
+  "word": "concise",
+  "pos": "形容词",
+  "sub": "积极的",
+  "gloss": "简洁的；简明的；简练的；简明扼要的"
+ },
+ {
+  "num": 559,
+  "word": "fruitful",
+  "pos": "形容词",
+  "sub": "积极的",
+  "gloss": "有成果的；有成效的"
+ },
+ {
+  "num": 552,
+  "word": "tremendous",
+  "pos": "形容词",
+  "sub": "积极的",
+  "gloss": "巨大的；极好的"
+ },
+ {
+  "num": 523,
+  "word": "pronounced",
+  "pos": "形容词",
+  "sub": "积极的",
+  "gloss": "明显的；明确的"
+ },
+ {
+  "num": 522,
+  "word": "adequate",
+  "pos": "形容词",
+  "sub": "积极的",
+  "gloss": "足够的；合格的；合乎需要的"
+ },
+ {
+  "num": 501,
+  "word": "persuasive",
+  "pos": "形容词",
+  "sub": "积极的",
+  "gloss": "有说服力的，令人信服的"
+ },
+ {
+  "num": 500,
+  "word": "imperative",
+  "pos": "形容词",
+  "sub": "积极的",
+  "gloss": "极重要的；紧急的；迫切的"
+ },
+ {
+  "num": 479,
+  "word": "remarkable",
+  "pos": "形容词",
+  "sub": "积极的",
+  "gloss": "非凡的；奇异的；引人注目的"
+ },
+ {
+  "num": 452,
+  "word": "inconceivable",
+  "pos": "形容词",
+  "sub": "积极的",
+  "gloss": "不能想象的；不可思议的"
+ },
+ {
+  "num": 405,
+  "word": "notable",
+  "pos": "形容词",
+  "sub": "积极的",
+  "gloss": "显要的；显著的；值得注意的"
+ },
+ {
+  "num": 396,
+  "word": "invaluable",
+  "pos": "形容词",
+  "sub": "积极的",
+  "gloss": "极有用的，宝贵的"
+ },
+ {
+  "num": 385,
+  "word": "groundbreaking",
+  "pos": "形容词",
+  "sub": "积极的",
+  "gloss": "开辟新天地的，开创性的，创新的"
+ },
+ {
+  "num": 383,
+  "word": "instrumental",
+  "pos": "形容词",
+  "sub": "积极的",
+  "gloss": "起作用的；有帮助的；用乐器演奏的，器乐的"
+ },
+ {
+  "num": 379,
+  "word": "diverse",
+  "pos": "形容词",
+  "sub": "积极的",
+  "gloss": "不同的，相异的"
+ },
+ {
+  "num": 365,
+  "word": "paradigmatic",
+  "pos": "形容词",
+  "sub": "积极的",
+  "gloss": "典型的，范例的"
+ },
+ {
+  "num": 363,
+  "word": "disparate",
+  "pos": "形容词",
+  "sub": "积极的",
+  "gloss": "截然不同的，迥然相异的"
+ },
+ {
+  "num": 353,
+  "word": "crucial",
+  "pos": "形容词",
+  "sub": "积极的",
+  "gloss": "至关重要的；关键的；决定性的"
+ },
+ {
+  "num": 345,
+  "word": "distinct",
+  "pos": "形容词",
+  "sub": "积极的",
+  "gloss": "显著的，明显的；确实的"
+ },
+ {
+  "num": 344,
+  "word": "distinctive",
+  "pos": "形容词",
+  "sub": "积极的",
+  "gloss": "与众不同的，独特的，特别的"
+ },
+ {
+  "num": 315,
+  "word": "rewarding",
+  "pos": "形容词",
+  "sub": "积极的",
+  "gloss": "值得做的；有意义的"
+ },
+ {
+  "num": 307,
+  "word": "advantageous",
+  "pos": "形容词",
+  "sub": "积极的",
+  "gloss": "有利的；有优势的；有好处的"
+ },
+ {
+  "num": 286,
+  "word": "prominent",
+  "pos": "形容词",
+  "sub": "积极的",
+  "gloss": "著名的；重要的"
+ },
+ {
+  "num": 275,
+  "word": "striking",
+  "pos": "形容词",
+  "sub": "积极的",
+  "gloss": "引人注目的，异乎寻常的，显著的"
+ },
+ {
+  "num": 255,
+  "word": "feasible",
+  "pos": "形容词",
+  "sub": "积极的",
+  "gloss": "可行的；行得通的；做得到的"
+ },
+ {
+  "num": 251,
+  "word": "representative",
+  "pos": "形容词",
+  "sub": "积极的",
+  "gloss": "有代表性的；典型的；代表…的"
+ },
+ {
+  "num": 247,
+  "word": "indispensable",
+  "pos": "形容词",
+  "sub": "积极的",
+  "gloss": "必不可少的，必需的"
+ },
+ {
+  "num": 235,
+  "word": "rigorous",
+  "pos": "形容词",
+  "sub": "积极的",
+  "gloss": "严密的，缜密的；严谨的"
+ },
+ {
+  "num": 227,
+  "word": "exceptional",
+  "pos": "形容词",
+  "sub": "积极的",
+  "gloss": "（尤指在技能、才智、品质等方面）卓越的，杰出的，不同凡响的；特别的，罕见的"
+ },
+ {
+  "num": 219,
+  "word": "appealing",
+  "pos": "形容词",
+  "sub": "积极的",
+  "gloss": "有吸引力的；有感染力的；令人感兴趣的"
+ },
+ {
+  "num": 167,
+  "word": "pioneering",
+  "pos": "形容词",
+  "sub": "积极的",
+  "gloss": "先驱性的，开创性的"
+ },
+ {
+  "num": 153,
+  "word": "pivotal",
+  "pos": "形容词",
+  "sub": "积极的",
+  "gloss": "关键性的，核心的"
+ },
+ {
+  "num": 148,
+  "word": "critical",
+  "pos": "形容词",
+  "sub": "积极的",
+  "gloss": "关键性的；决定性的；至关重要的；临界的"
+ },
+ {
+  "num": 147,
+  "word": "vital",
+  "pos": "形容词",
+  "sub": "积极的",
+  "gloss": "必不可少的；极其重要的"
+ },
+ {
+  "num": 138,
+  "word": "promising",
+  "pos": "形容词",
+  "sub": "积极的",
+  "gloss": "有希望的；有出息的；有前途的"
+ },
+ {
+  "num": 128,
+  "word": "unquestionable",
+  "pos": "形容词",
+  "sub": "积极的",
+  "gloss": "不容置疑的"
+ },
+ {
+  "num": 109,
+  "word": "predominant",
+  "pos": "形容词",
+  "sub": "积极的",
+  "gloss": "占主导地位的；占绝大多数的；显着的"
+ },
+ {
+  "num": 102,
+  "word": "plausible",
+  "pos": "形容词",
+  "sub": "积极的",
+  "gloss": "貌似真实（或可信）的"
+ },
+ {
+  "num": 97,
+  "word": "instructive",
+  "pos": "形容词",
+  "sub": "积极的",
+  "gloss": "有启发性的；有教育意义的"
+ },
+ {
+  "num": 93,
+  "word": "illuminating",
+  "pos": "形容词",
+  "sub": "积极的",
+  "gloss": "富有启发性的"
+ },
+ {
+  "num": 81,
+  "word": "compelling",
+  "pos": "形容词",
+  "sub": "积极的",
+  "gloss": "（理由、论证等）令人信服的，很有说服力的；扣人心弦的"
+ },
+ {
+  "num": 76,
+  "word": "noteworthy",
+  "pos": "形容词",
+  "sub": "积极的",
+  "gloss": "显著的；值得注意的"
+ },
+ {
+  "num": 70,
+  "word": "dominant",
+  "pos": "形容词",
+  "sub": "积极的",
+  "gloss": "主要的；主导的；占优势的"
+ },
+ {
+  "num": 58,
+  "word": "genuine",
+  "pos": "形容词",
+  "sub": "积极的",
+  "gloss": "真正的；非伪造的；名副其实的"
+ },
+ {
+  "num": 57,
+  "word": "substantial",
+  "pos": "形容词",
+  "sub": "积极的",
+  "gloss": "大的；可观的；价值巨大的；重大的"
+ },
+ {
+  "num": 55,
+  "word": "precise",
+  "pos": "形容词",
+  "sub": "积极的",
+  "gloss": "精确的；准确的，确切的"
+ },
+ {
+  "num": 53,
+  "word": "salient",
+  "pos": "形容词",
+  "sub": "积极的",
+  "gloss": "显著的，突出的"
+ },
+ {
+  "num": 37,
+  "word": "exotic",
+  "pos": "形容词",
+  "sub": "积极的",
+  "gloss": "异国风情的，外国情调的；奇异的"
+ },
+ {
+  "num": 35,
+  "word": "considerable",
+  "pos": "形容词",
+  "sub": "积极的",
+  "gloss": "相当大的；相当多的；非常可观的；相当重要的"
+ },
+ {
+  "num": 30,
+  "word": "definite",
+  "pos": "形容词",
+  "sub": "积极的",
+  "gloss": "确定的，肯定的；明确的"
+ },
+ {
+  "num": 28,
+  "word": "extraordinary",
+  "pos": "形容词",
+  "sub": "积极的",
+  "gloss": "非凡的；特别的；意想不到的；令人惊奇的"
+ },
+ {
+  "num": 26,
+  "word": "seminal",
+  "pos": "形容词",
+  "sub": "积极的",
+  "gloss": "具有开拓性的；有深远影响的"
+ },
+ {
+  "num": 21,
+  "word": "intriguing",
+  "pos": "形容词",
+  "sub": "积极的",
+  "gloss": "非常有趣的；引人入胜的；神秘的"
+ },
+ {
+  "num": 18,
+  "word": "dramatic",
+  "pos": "形容词",
+  "sub": "积极的",
+  "gloss": "骤然的；戏剧性的；激动人心的"
+ },
+ {
+  "num": 6,
+  "word": "fascinating",
+  "pos": "形容词",
+  "sub": "积极的",
+  "gloss": "极有趣的，吸引人的"
+ },
+ {
+  "num": 5,
+  "word": "peculiar",
+  "pos": "形容词",
+  "sub": "积极的",
+  "gloss": "奇怪的，古怪的；独特的，特有的"
+ },
+ {
+  "num": 1,
+  "word": "unprecedented",
+  "pos": "形容词",
+  "sub": "积极的",
+  "gloss": "史无前例的，空前的，绝无仅有的"
+ },
+ {
+  "num": 782,
+  "word": "tricky",
+  "pos": "形容词",
+  "sub": "消极的",
+  "gloss": "难办的；难对付的；欺骗性的；狡猾的；诡计多端的"
+ },
+ {
+  "num": 776,
+  "word": "problematic",
+  "pos": "形容词",
+  "sub": "消极的",
+  "gloss": "成问题的；疑难的"
+ },
+ {
+  "num": 760,
+  "word": "enigmatic",
+  "pos": "形容词",
+  "sub": "消极的",
+  "gloss": "费解的；难以捉摸的；神秘的"
+ },
+ {
+  "num": 744,
+  "word": "equivocal",
+  "pos": "形容词",
+  "sub": "消极的",
+  "gloss": "含糊的；模棱两可的；有歧义的"
+ },
+ {
+  "num": 675,
+  "word": "redundant",
+  "pos": "形容词",
+  "sub": "消极的",
+  "gloss": "（尤指词、短语等）多余的，不需要的，累赘的，啰唆的"
+ },
+ {
+  "num": 635,
+  "word": "formidable",
+  "pos": "形容词",
+  "sub": "消极的",
+  "gloss": "可怕的；令人敬畏的；难对付的"
+ },
+ {
+  "num": 622,
+  "word": "desperate",
+  "pos": "形容词",
+  "sub": "消极的",
+  "gloss": "（因绝望而）拼命的，不顾一切的；非常严重的；非常糟糕的"
+ },
+ {
+  "num": 605,
+  "word": "unruly",
+  "pos": "形容词",
+  "sub": "消极的",
+  "gloss": "（人）难以控制的，难驾驭的，难管束的"
+ },
+ {
+  "num": 541,
+  "word": "obsolete",
+  "pos": "形容词",
+  "sub": "消极的",
+  "gloss": "废弃的；过时的；淘汰的；老化的"
+ },
+ {
+  "num": 535,
+  "word": "adverse",
+  "pos": "形容词",
+  "sub": "消极的",
+  "gloss": "不利的；负面的；有害的"
+ },
+ {
+  "num": 499,
+  "word": "untenable",
+  "pos": "形容词",
+  "sub": "消极的",
+  "gloss": "（理论或论点）难以捍卫的，站不住脚的"
+ },
+ {
+  "num": 494,
+  "word": "lengthy",
+  "pos": "形容词",
+  "sub": "消极的",
+  "gloss": "漫长的，冗长的"
+ },
+ {
+  "num": 355,
+  "word": "fragile",
+  "pos": "形容词",
+  "sub": "消极的",
+  "gloss": "易损坏的；易碎的；脆弱的"
+ },
+ {
+  "num": 300,
+  "word": "awkward",
+  "pos": "形容词",
+  "sub": "消极的",
+  "gloss": "难用的；棘手的；难处理的，难对付的"
+ },
+ {
+  "num": 284,
+  "word": "suspicious",
+  "pos": "形容词",
+  "sub": "消极的",
+  "gloss": "可疑的，引起怀疑的"
+ },
+ {
+  "num": 257,
+  "word": "intricate",
+  "pos": "形容词",
+  "sub": "消极的",
+  "gloss": "错综复杂的；复杂精细的；难理解的；难解决的"
+ },
+ {
+  "num": 233,
+  "word": "negligible",
+  "pos": "形容词",
+  "sub": "消极的",
+  "gloss": "微不足道的，可忽略的，不重要的"
+ },
+ {
+  "num": 120,
+  "word": "ambiguous",
+  "pos": "形容词",
+  "sub": "消极的",
+  "gloss": "含糊不清的；引起歧义的，模棱两可的；不明确的"
+ },
+ {
+  "num": 104,
+  "word": "detrimental",
+  "pos": "形容词",
+  "sub": "消极的",
+  "gloss": "有危害的，有损害的"
+ },
+ {
+  "num": 10,
+  "word": "puzzling",
+  "pos": "形容词",
+  "sub": "消极的",
+  "gloss": "令人迷惑的，令人不解的"
+ },
+ {
+  "num": 4,
+  "word": "controversial",
+  "pos": "形容词",
+  "sub": "消极的",
+  "gloss": "有争议的；引起争议的"
+ },
+ {
+  "num": 768,
+  "word": "approximate",
+  "pos": "形容词",
+  "sub": "中性的",
+  "gloss": "大致的，大约的，大概的"
+ },
+ {
+  "num": 767,
+  "word": "concrete",
+  "pos": "形容词",
+  "sub": "中性的",
+  "gloss": "确定的，确实的；具体的，有形的，实在的"
+ },
+ {
+  "num": 756,
+  "word": "repeatable",
+  "pos": "形容词",
+  "sub": "中性的",
+  "gloss": "可重复的；（实验、实验结果等）可复验的"
+ },
+ {
+  "num": 742,
+  "word": "dual",
+  "pos": "形容词",
+  "sub": "中性的",
+  "gloss": "两部分的；二元的；双重的"
+ },
+ {
+  "num": 721,
+  "word": "stark",
+  "pos": "形容词",
+  "sub": "中性的",
+  "gloss": "严重的；极端的"
+ },
+ {
+  "num": 720,
+  "word": "miscellaneous",
+  "pos": "形容词",
+  "sub": "中性的",
+  "gloss": "混杂的; 各种各样的"
+ },
+ {
+  "num": 711,
+  "word": "phenomenological",
+  "pos": "形容词",
+  "sub": "中性的",
+  "gloss": "现象学的; 现象性; 现象; 现象学; 唯象"
+ },
+ {
+  "num": 697,
+  "word": "extrinsic",
+  "pos": "形容词",
+  "sub": "中性的",
+  "gloss": "外在的，外来的；非固有的，非本质的"
+ },
+ {
+  "num": 694,
+  "word": "mutual",
+  "pos": "形容词",
+  "sub": "中性的",
+  "gloss": "相互的，彼此的；共同的，共有的"
+ },
+ {
+  "num": 683,
+  "word": "tentative",
+  "pos": "形容词",
+  "sub": "中性的",
+  "gloss": "（计划、想法、建议、行动等）试验（性）的，试探（性）的，暂时的"
+ },
+ {
+  "num": 663,
+  "word": "comparative",
+  "pos": "形容词",
+  "sub": "中性的",
+  "gloss": "比较的，对比的"
+ },
+ {
+  "num": 657,
+  "word": "consistent",
+  "pos": "形容词",
+  "sub": "中性的",
+  "gloss": "一贯的；坚持的；始终如一的；一致的，吻合的；符合的"
+ },
+ {
+  "num": 639,
+  "word": "stringent",
+  "pos": "形容词",
+  "sub": "中性的",
+  "gloss": "严重的；严格的，苛刻的"
+ },
+ {
+  "num": 628,
+  "word": "widespread",
+  "pos": "形容词",
+  "sub": "中性的",
+  "gloss": "广泛的；普遍的；遍布的"
+ },
+ {
+  "num": 609,
+  "word": "flexible",
+  "pos": "形容词",
+  "sub": "中性的",
+  "gloss": "可变动的；灵活的；可变通的；可弯曲的；柔韧的；有弹性的"
+ },
+ {
+  "num": 607,
+  "word": "intense",
+  "pos": "形容词",
+  "sub": "中性的",
+  "gloss": "强烈的，极度的"
+ },
+ {
+  "num": 604,
+  "word": "underlying",
+  "pos": "形容词",
+  "sub": "中性的",
+  "gloss": "暗含的；深层的；潜在的"
+ },
+ {
+  "num": 601,
+  "word": "ongoing",
+  "pos": "形容词",
+  "sub": "中性的",
+  "gloss": "持续存在的；不断发展的；继续进行的；进行中的"
+ },
+ {
+  "num": 592,
+  "word": "periodical",
+  "pos": "形容词",
+  "sub": "中性的",
+  "gloss": "定期的；时常发生的；定期发行的"
+ },
+ {
+  "num": 591,
+  "word": "separate",
+  "pos": "形容词",
+  "sub": "中性的",
+  "gloss": "各自的；单独的，不同的"
+ },
+ {
+  "num": 570,
+  "word": "sophisticated",
+  "pos": "形容词",
+  "sub": "中性的",
+  "gloss": "精密的，复杂的；高级的"
+ },
+ {
+  "num": 568,
+  "word": "empirical",
+  "pos": "形容词",
+  "sub": "中性的",
+  "gloss": "以经验（或实验）为依据的；经验主义的；来自经验（或观察）的"
+ },
+ {
+  "num": 567,
+  "word": "consecutive",
+  "pos": "形容词",
+  "sub": "中性的",
+  "gloss": "连续的，连贯的，不间断的"
+ },
+ {
+  "num": 542,
+  "word": "eternal",
+  "pos": "形容词",
+  "sub": "中性的",
+  "gloss": "永远的，永恒的；长期的"
+ },
+ {
+  "num": 537,
+  "word": "adjacent",
+  "pos": "形容词",
+  "sub": "中性的",
+  "gloss": "邻近的；毗连的"
+ },
+ {
+  "num": 529,
+  "word": "prevalent",
+  "pos": "形容词",
+  "sub": "中性的",
+  "gloss": "流行的，盛行的，普遍的"
+ },
+ {
+  "num": 520,
+  "word": "prototypical",
+  "pos": "形容词",
+  "sub": "中性的",
+  "gloss": "原型的，雏形的"
+ },
+ {
+  "num": 517,
+  "word": "qualitative",
+  "pos": "形容词",
+  "sub": "中性的",
+  "gloss": "质的，性质上的；质量的"
+ },
+ {
+  "num": 508,
+  "word": "commensurate",
+  "pos": "形容词",
+  "sub": "中性的",
+  "gloss": "相当的，相称的"
+ },
+ {
+  "num": 502,
+  "word": "trenchant",
+  "pos": "形容词",
+  "sub": "中性的",
+  "gloss": "（批评或意见）尖锐的，尖刻的，犀利的"
+ },
+ {
+  "num": 495,
+  "word": "putative",
+  "pos": "形容词",
+  "sub": "中性的",
+  "gloss": "假定存在的，被认为存在的，推定的"
+ },
+ {
+  "num": 486,
+  "word": "reproducible",
+  "pos": "形容词",
+  "sub": "中性的",
+  "gloss": "能再生的；能再制造的；能再现的；可重复的"
+ },
+ {
+  "num": 470,
+  "word": "latter",
+  "pos": "形容词",
+  "sub": "中性的",
+  "gloss": "后半程的，靠后的，末尾的；（提及的两者中的）后者"
+ },
+ {
+  "num": 459,
+  "word": "intuitive",
+  "pos": "形容词",
+  "sub": "中性的",
+  "gloss": "直觉的；凭直觉的"
+ },
+ {
+  "num": 453,
+  "word": "perpetual",
+  "pos": "形容词",
+  "sub": "中性的",
+  "gloss": "永久的，永恒的；长期的"
+ },
+ {
+  "num": 449,
+  "word": "overwhelming",
+  "pos": "形容词",
+  "sub": "中性的",
+  "gloss": "难以抵挡的；无法抗拒的"
+ },
+ {
+  "num": 443,
+  "word": "pertinent",
+  "pos": "形容词",
+  "sub": "中性的",
+  "gloss": "有关的，直接相关的"
+ },
+ {
+  "num": 421,
+  "word": "contemporary",
+  "pos": "形容词",
+  "sub": "中性的",
+  "gloss": "同时期的，同时代的；当代的；现代的"
+ },
+ {
+  "num": 411,
+  "word": "collaborative",
+  "pos": "形容词",
+  "sub": "中性的",
+  "gloss": "合作的；协作的"
+ },
+ {
+  "num": 342,
+  "word": "temporary",
+  "pos": "形容词",
+  "sub": "中性的",
+  "gloss": "短暂的；暂时的，临时的（not lasting or needed for very long）"
+ },
+ {
+  "num": 337,
+  "word": "illustrative",
+  "pos": "形容词",
+  "sub": "中性的",
+  "gloss": "起说明作用的，作为例证的"
+ },
+ {
+  "num": 309,
+  "word": "schematic",
+  "pos": "形容词",
+  "sub": "中性的",
+  "gloss": "图解的，略图的"
+ },
+ {
+  "num": 294,
+  "word": "concurrent",
+  "pos": "形容词",
+  "sub": "中性的",
+  "gloss": "并发的，同时发生的；并存的"
+ },
+ {
+  "num": 288,
+  "word": "compatible",
+  "pos": "形容词",
+  "sub": "中性的",
+  "gloss": "可共存的；协调的；兼容的"
+ },
+ {
+  "num": 273,
+  "word": "concomitant",
+  "pos": "形容词",
+  "sub": "中性的",
+  "gloss": "同时发生的；伴随的，相伴的"
+ },
+ {
+  "num": 246,
+  "word": "infinitesimal",
+  "pos": "形容词",
+  "sub": "中性的",
+  "gloss": "极微小的"
+ },
+ {
+  "num": 215,
+  "word": "generic",
+  "pos": "形容词",
+  "sub": "中性的",
+  "gloss": "一般的，普通的，通用的"
+ },
+ {
+  "num": 207,
+  "word": "composite",
+  "pos": "形容词",
+  "sub": "中性的",
+  "gloss": "（由不同部分组成的）混合物，合成物，综合体"
+ },
+ {
+  "num": 192,
+  "word": "residual",
+  "pos": "形容词",
+  "sub": "中性的",
+  "gloss": "剩余的；残留的；残余的"
+ },
+ {
+  "num": 136,
+  "word": "evanescent",
+  "pos": "形容词",
+  "sub": "中性的",
+  "gloss": "短暂的，转瞬即逝的；迅速遗忘的"
+ },
+ {
+  "num": 127,
+  "word": "unavoidable",
+  "pos": "形容词",
+  "sub": "中性的",
+  "gloss": "无法避免的"
+ },
+ {
+  "num": 124,
+  "word": "intrinsic",
+  "pos": "形容词",
+  "sub": "中性的",
+  "gloss": "固有的，本质的，根本的"
+ },
+ {
+  "num": 122,
+  "word": "external",
+  "pos": "形容词",
+  "sub": "中性的",
+  "gloss": "外面的；外表的；来自外部的"
+ },
+ {
+  "num": 119,
+  "word": "intermediate",
+  "pos": "形容词",
+  "sub": "中性的",
+  "gloss": "中间的，居中的"
+ },
+ {
+  "num": 118,
+  "word": "infinite",
+  "pos": "形容词",
+  "sub": "中性的",
+  "gloss": "无限的，无边的；极大的"
+ },
+ {
+  "num": 117,
+  "word": "simultaneous",
+  "pos": "形容词",
+  "sub": "中性的",
+  "gloss": "同时的"
+ },
+ {
+  "num": 105,
+  "word": "ubiquitous",
+  "pos": "形容词",
+  "sub": "中性的",
+  "gloss": "普遍存在的，似乎无处不在的"
+ },
+ {
+  "num": 91,
+  "word": "anomalous",
+  "pos": "形容词",
+  "sub": "中性的",
+  "gloss": "异常的；反常的"
+ },
+ {
+  "num": 77,
+  "word": "analogous",
+  "pos": "形容词",
+  "sub": "中性的",
+  "gloss": "相似的；类似的"
+ },
+ {
+  "num": 66,
+  "word": "inherent",
+  "pos": "形容词",
+  "sub": "中性的",
+  "gloss": "内在的；固有的，生来就有的"
+ },
+ {
+  "num": 52,
+  "word": "conventional",
+  "pos": "形容词",
+  "sub": "中性的",
+  "gloss": "传统的；常规的；普通的"
+ },
+ {
+  "num": 50,
+  "word": "subtle",
+  "pos": "形容词",
+  "sub": "中性的",
+  "gloss": "细微的；细致的"
+ },
+ {
+  "num": 44,
+  "word": "rigid",
+  "pos": "形容词",
+  "sub": "中性的",
+  "gloss": "顽固的；不易改变的"
+ },
+ {
+  "num": 43,
+  "word": "alternate",
+  "pos": "形容词",
+  "sub": "中性的",
+  "gloss": "供选择的，供替换的；轮流的，交替的"
+ },
+ {
+  "num": 40,
+  "word": "moderate",
+  "pos": "形容词",
+  "sub": "中性的",
+  "gloss": "中等的；不过分的，适度的"
+ },
+ {
+  "num": 36,
+  "word": "supplementary",
+  "pos": "形容词",
+  "sub": "中性的",
+  "gloss": "补充性的； 额外的； 外加的"
+ },
+ {
+  "num": 29,
+  "word": "definitive",
+  "pos": "形容词",
+  "sub": "中性的",
+  "gloss": "最终的，决定性的；不可更改的"
+ },
+ {
+  "num": 13,
+  "word": "complementary",
+  "pos": "形容词",
+  "sub": "中性的",
+  "gloss": "补充的；互补的；补足的"
+ },
+ {
+  "num": 12,
+  "word": "extensive",
+  "pos": "形容词",
+  "sub": "中性的",
+  "gloss": "广阔的，大面积的；覆盖范围广的"
+ },
+ {
+  "num": 749,
+  "word": "overall",
+  "pos": "副词",
+  "sub": null,
+  "gloss": "总的（来说） ；全面的（地） ；包括一切的（地）"
+ },
+ {
+  "num": 746,
+  "word": "originally",
+  "pos": "副词",
+  "sub": null,
+  "gloss": "原本，起初，原先"
+ },
+ {
+  "num": 714,
+  "word": "aside",
+  "pos": "副词",
+  "sub": null,
+  "gloss": "在旁边；到（或向）一边"
+ },
+ {
+  "num": 698,
+  "word": "roughly",
+  "pos": "副词",
+  "sub": null,
+  "gloss": "大致地，近似地，粗略地"
+ },
+ {
+  "num": 677,
+  "word": "substantially",
+  "pos": "副词",
+  "sub": null,
+  "gloss": "在很大程度上；非常；大大地；基本上"
+ },
+ {
+  "num": 589,
+  "word": "nonetheless",
+  "pos": "副词",
+  "sub": null,
+  "gloss": "然而，但是；尽管"
+ },
+ {
+  "num": 540,
+  "word": "irrespective",
+  "pos": "副词",
+  "sub": null,
+  "gloss": "不考虑地，不顾地"
+ },
+ {
+  "num": 514,
+  "word": "undoubtedly",
+  "pos": "副词",
+  "sub": null,
+  "gloss": "无疑，必定"
+ },
+ {
+  "num": 513,
+  "word": "ideally",
+  "pos": "副词",
+  "sub": null,
+  "gloss": "理想地，完美地"
+ },
+ {
+  "num": 505,
+  "word": "gradually",
+  "pos": "副词",
+  "sub": null,
+  "gloss": "逐步地，逐渐地；平缓地"
+ },
+ {
+  "num": 504,
+  "word": "occasionally",
+  "pos": "副词",
+  "sub": null,
+  "gloss": "偶尔，间或；有时"
+ },
+ {
+  "num": 450,
+  "word": "furthermore",
+  "pos": "副词",
+  "sub": null,
+  "gloss": "此外，而且"
+ },
+ {
+  "num": 440,
+  "word": "successively",
+  "pos": "副词",
+  "sub": null,
+  "gloss": "连续；先后；渐渐"
+ },
+ {
+  "num": 435,
+  "word": "otherwise",
+  "pos": "副词",
+  "sub": null,
+  "gloss": "否则，不然"
+ },
+ {
+  "num": 401,
+  "word": "notwithstanding",
+  "pos": "副词",
+  "sub": null,
+  "gloss": "尽管"
+ },
+ {
+  "num": 372,
+  "word": "primarily",
+  "pos": "副词",
+  "sub": null,
+  "gloss": "主要地"
+ },
+ {
+  "num": 334,
+  "word": "profoundly",
+  "pos": "副词",
+  "sub": null,
+  "gloss": "深刻地，极度地"
+ },
+ {
+  "num": 330,
+  "word": "immensely",
+  "pos": "副词",
+  "sub": null,
+  "gloss": "非常，极其"
+ },
+ {
+  "num": 328,
+  "word": "progressively",
+  "pos": "副词",
+  "sub": null,
+  "gloss": "逐渐地"
+ },
+ {
+  "num": 314,
+  "word": "nevertheless",
+  "pos": "副词",
+  "sub": null,
+  "gloss": "不过，仍然；尽管如此"
+ },
+ {
+  "num": 306,
+  "word": "virtually",
+  "pos": "副词",
+  "sub": null,
+  "gloss": "几乎；实际上；实质上"
+ },
+ {
+  "num": 287,
+  "word": "notably",
+  "pos": "副词",
+  "sub": null,
+  "gloss": "格外地，特别地"
+ },
+ {
+  "num": 274,
+  "word": "necessarily",
+  "pos": "副词",
+  "sub": null,
+  "gloss": "（用于否定句）不可避免地，必然地"
+ },
+ {
+  "num": 238,
+  "word": "inevitably",
+  "pos": "副词",
+  "sub": null,
+  "gloss": "不可避免地"
+ },
+ {
+  "num": 229,
+  "word": "permanently",
+  "pos": "副词",
+  "sub": null,
+  "gloss": "总是；持久地；永久地"
+ },
+ {
+  "num": 168,
+  "word": "conversely",
+  "pos": "副词",
+  "sub": null,
+  "gloss": "相反地；反过来"
+ },
+ {
+  "num": 159,
+  "word": "briefly",
+  "pos": "副词",
+  "sub": null,
+  "gloss": "短暂地；简短地"
+ },
+ {
+  "num": 101,
+  "word": "customarily",
+  "pos": "副词",
+  "sub": null,
+  "gloss": "习惯上，习俗上，通常"
+ },
+ {
+  "num": 100,
+  "word": "commonly",
+  "pos": "副词",
+  "sub": null,
+  "gloss": "经常地；普通地；通常；一般"
+ },
+ {
+  "num": 92,
+  "word": "ultimately",
+  "pos": "副词",
+  "sub": null,
+  "gloss": "最终，最后"
+ },
+ {
+  "num": 72,
+  "word": "consequently",
+  "pos": "副词",
+  "sub": null,
+  "gloss": "因此；所以"
+ },
+ {
+  "num": 62,
+  "word": "essentially",
+  "pos": "副词",
+  "sub": null,
+  "gloss": "本质上；根本上；基本上"
+ },
+ {
+  "num": 20,
+  "word": "explicitly",
+  "pos": "副词",
+  "sub": null,
+  "gloss": "清楚明白地；明确地；不含糊地"
+ },
+ {
+  "num": 8,
+  "word": "unexpectedly",
+  "pos": "副词",
+  "sub": null,
+  "gloss": "意外地，出乎意料地，无意"
+ },
+ {
+  "num": 2,
+  "word": "exceptionally",
+  "pos": "副词",
+  "sub": null,
+  "gloss": "罕见，特别，非常；只有在特殊情况下，例外地"
+ },
+ {
+  "num": 791,
+  "word": "exert",
+  "pos": "动词",
+  "sub": null,
+  "gloss": "运用；行使（权威、权力等）；施加（影响等）"
+ },
+ {
+  "num": 790,
+  "word": "herald",
+  "pos": "动词",
+  "sub": null,
+  "gloss": "预示…的开始；（尤指通过庆祝或赞扬）宣布（常指好事）"
+ },
+ {
+  "num": 777,
+  "word": "enrich",
+  "pos": "动词",
+  "sub": null,
+  "gloss": "使丰富，使富含；充实"
+ },
+ {
+  "num": 761,
+  "word": "compromise",
+  "pos": "动词",
+  "sub": null,
+  "gloss": "妥协；折中；让步；和解"
+ },
+ {
+  "num": 758,
+  "word": "manipulate",
+  "pos": "动词",
+  "sub": null,
+  "gloss": "（常指以不正当手段）操纵，控制"
+ },
+ {
+  "num": 743,
+  "word": "diverge",
+  "pos": "动词",
+  "sub": null,
+  "gloss": "（道路）分叉；出现差异；发生分歧"
+ },
+ {
+  "num": 728,
+  "word": "uncover",
+  "pos": "动词",
+  "sub": null,
+  "gloss": "揭露，发现（秘密或隐藏物）；揭开（覆盖物）"
+ },
+ {
+  "num": 696,
+  "word": "disentangle",
+  "pos": "动词",
+  "sub": null,
+  "gloss": "使脱离；使摆脱；分开；理顺，分清"
+ },
+ {
+  "num": 695,
+  "word": "entangle",
+  "pos": "动词",
+  "sub": null,
+  "gloss": "（用网、绳等）缠住，套住"
+ },
+ {
+  "num": 691,
+  "word": "infer",
+  "pos": "动词",
+  "sub": null,
+  "gloss": "推断，推论，推理"
+ },
+ {
+  "num": 686,
+  "word": "extrapolate",
+  "pos": "动词",
+  "sub": null,
+  "gloss": "推断；推知"
+ },
+ {
+  "num": 684,
+  "word": "assign",
+  "pos": "动词",
+  "sub": null,
+  "gloss": "分配；分派；指派"
+ },
+ {
+  "num": 676,
+  "word": "comprise",
+  "pos": "动词",
+  "sub": null,
+  "gloss": "包含；包括；构成，组成"
+ },
+ {
+  "num": 666,
+  "word": "regard",
+  "pos": "动词",
+  "sub": null,
+  "gloss": "考虑，思考；将…认为；看待"
+ },
+ {
+  "num": 653,
+  "word": "delve",
+  "pos": "动词",
+  "sub": null,
+  "gloss": "探索；深入寻找，搜寻"
+ },
+ {
+  "num": 652,
+  "word": "repel",
+  "pos": "动词",
+  "sub": null,
+  "gloss": "排斥；相斥"
+ },
+ {
+  "num": 651,
+  "word": "propel",
+  "pos": "动词",
+  "sub": null,
+  "gloss": "推进，推动"
+ },
+ {
+  "num": 643,
+  "word": "reside",
+  "pos": "动词",
+  "sub": null,
+  "gloss": "居住；定居"
+ },
+ {
+  "num": 636,
+  "word": "perplex",
+  "pos": "动词",
+  "sub": null,
+  "gloss": "使困惑，使茫然；使担忧"
+ },
+ {
+  "num": 634,
+  "word": "construct",
+  "pos": "动词",
+  "sub": null,
+  "gloss": "建造；构筑；构成，组成；构想；观念；编造，杜撰"
+ },
+ {
+  "num": 633,
+  "word": "disperse",
+  "pos": "动词",
+  "sub": null,
+  "gloss": "（使）扩散，（使）散开，（使）分散"
+ },
+ {
+  "num": 625,
+  "word": "vary",
+  "pos": "动词",
+  "sub": null,
+  "gloss": "（使）不同；（使）呈现差异"
+ },
+ {
+  "num": 623,
+  "word": "resolve",
+  "pos": "动词",
+  "sub": null,
+  "gloss": "解决；解除；消除；（光学仪器等）分辨"
+ },
+ {
+  "num": 612,
+  "word": "emanate",
+  "pos": "动词",
+  "sub": null,
+  "gloss": "表现；显示"
+ },
+ {
+  "num": 600,
+  "word": "attenuate",
+  "pos": "动词",
+  "sub": null,
+  "gloss": "使减少；使减弱；使降低"
+ },
+ {
+  "num": 598,
+  "word": "broaden",
+  "pos": "动词",
+  "sub": null,
+  "gloss": "扩展；拓宽；（使）变宽；（使）变阔"
+ },
+ {
+  "num": 595,
+  "word": "characterize",
+  "pos": "动词",
+  "sub": null,
+  "gloss": "是…的特征；为…所特有"
+ },
+ {
+  "num": 594,
+  "word": "remain",
+  "pos": "动词",
+  "sub": null,
+  "gloss": "停留，留下；保持不变，仍然是"
+ },
+ {
+  "num": 582,
+  "word": "expose",
+  "pos": "动词",
+  "sub": null,
+  "gloss": "暴露；露出；使曝光"
+ },
+ {
+  "num": 574,
+  "word": "implement",
+  "pos": "动词",
+  "sub": null,
+  "gloss": "实施，贯彻"
+ },
+ {
+  "num": 573,
+  "word": "complement",
+  "pos": "动词",
+  "sub": null,
+  "gloss": "补充；补足；使完善；为…增色"
+ },
+ {
+  "num": 571,
+  "word": "fabricate",
+  "pos": "动词",
+  "sub": null,
+  "gloss": "编造；捏造；制造；装配；组装"
+ },
+ {
+  "num": 560,
+  "word": "signal",
+  "pos": "动词",
+  "sub": null,
+  "gloss": "表达，表示；显示"
+ },
+ {
+  "num": 545,
+  "word": "advocate",
+  "pos": "动词",
+  "sub": null,
+  "gloss": "主张；拥护；支持；提倡"
+ },
+ {
+  "num": 539,
+  "word": "reveal",
+  "pos": "动词",
+  "sub": null,
+  "gloss": "揭露；泄露；透露"
+ },
+ {
+  "num": 536,
+  "word": "elucidate",
+  "pos": "动词",
+  "sub": null,
+  "gloss": "阐明；解释"
+ },
+ {
+  "num": 533,
+  "word": "constitute",
+  "pos": "动词",
+  "sub": null,
+  "gloss": "形成；构成；组成"
+ },
+ {
+  "num": 506,
+  "word": "evolve",
+  "pos": "动词",
+  "sub": null,
+  "gloss": "（使）逐步发展；（使）逐步演变；（使）逐渐形成；（使）进化"
+ },
+ {
+  "num": 491,
+  "word": "misinterpret",
+  "pos": "动词",
+  "sub": null,
+  "gloss": "误解；误释"
+ },
+ {
+  "num": 484,
+  "word": "devise",
+  "pos": "动词",
+  "sub": null,
+  "gloss": "巧妙构思；巧妙设计；发明"
+ },
+ {
+  "num": 483,
+  "word": "speculate",
+  "pos": "动词",
+  "sub": null,
+  "gloss": "猜测；推测，推断"
+ },
+ {
+  "num": 476,
+  "word": "coin",
+  "pos": "动词",
+  "sub": null,
+  "gloss": "创造，杜撰（新词或新的表达）；首次使用（某一词语）；硬币；金属货币"
+ },
+ {
+  "num": 475,
+  "word": "dub",
+  "pos": "动词",
+  "sub": null,
+  "gloss": "称…为，将…冠以"
+ },
+ {
+  "num": 471,
+  "word": "distinguish",
+  "pos": "动词",
+  "sub": null,
+  "gloss": "区分，分辨；使有所区别"
+ },
+ {
+  "num": 469,
+  "word": "originate",
+  "pos": "动词",
+  "sub": null,
+  "gloss": "起源，发源，发端；产生"
+ },
+ {
+  "num": 465,
+  "word": "impose",
+  "pos": "动词",
+  "sub": null,
+  "gloss": "推行；强制实行"
+ },
+ {
+  "num": 460,
+  "word": "reinforce",
+  "pos": "动词",
+  "sub": null,
+  "gloss": "强化，加深，进一步证实（观点、看法等）；加固；使更结实"
+ },
+ {
+  "num": 448,
+  "word": "exaggerate",
+  "pos": "动词",
+  "sub": null,
+  "gloss": "夸张；夸大；对…言过其实"
+ },
+ {
+  "num": 430,
+  "word": "coincide",
+  "pos": "动词",
+  "sub": null,
+  "gloss": "（几乎）同时发生；与…一致，相符；相似"
+ },
+ {
+  "num": 395,
+  "word": "sustain",
+  "pos": "动词",
+  "sub": null,
+  "gloss": "保持，维持，使持续，使继续"
+ },
+ {
+  "num": 392,
+  "word": "stimulate",
+  "pos": "动词",
+  "sub": null,
+  "gloss": "激发，激励；促进"
+ },
+ {
+  "num": 388,
+  "word": "advance",
+  "pos": "动词",
+  "sub": null,
+  "gloss": "（使）前进；使进步，使进展；使发展；促进"
+ },
+ {
+  "num": 384,
+  "word": "underpin",
+  "pos": "动词",
+  "sub": null,
+  "gloss": "支撑；加强；巩固；构成（基础）"
+ },
+ {
+  "num": 374,
+  "word": "specify",
+  "pos": "动词",
+  "sub": null,
+  "gloss": "具体说明；明确指出"
+ },
+ {
+  "num": 349,
+  "word": "harbor",
+  "pos": "动词",
+  "sub": null,
+  "gloss": "包含、庇护；港口，港湾"
+ },
+ {
+  "num": 333,
+  "word": "suppress",
+  "pos": "动词",
+  "sub": null,
+  "gloss": "抑制，忍住，压抑；查禁"
+ },
+ {
+  "num": 322,
+  "word": "indicate",
+  "pos": "动词",
+  "sub": null,
+  "gloss": "标示；表明；显示；暗示"
+ },
+ {
+  "num": 321,
+  "word": "arise",
+  "pos": "动词",
+  "sub": null,
+  "gloss": "发生；产生；出现"
+ },
+ {
+  "num": 319,
+  "word": "evaluate",
+  "pos": "动词",
+  "sub": null,
+  "gloss": "评估，评价；估值"
+ },
+ {
+  "num": 308,
+  "word": "denote",
+  "pos": "动词",
+  "sub": null,
+  "gloss": "表示，代表"
+ },
+ {
+  "num": 298,
+  "word": "modulate",
+  "pos": "动词",
+  "sub": null,
+  "gloss": "调节，调整"
+ },
+ {
+  "num": 295,
+  "word": "manifest",
+  "pos": "动词",
+  "sub": null,
+  "gloss": "显示；表现；表明"
+ },
+ {
+  "num": 289,
+  "word": "retain",
+  "pos": "动词",
+  "sub": null,
+  "gloss": "保持；保留；保有"
+ },
+ {
+  "num": 267,
+  "word": "restrict",
+  "pos": "动词",
+  "sub": null,
+  "gloss": "限制；限定；妨碍"
+ },
+ {
+  "num": 266,
+  "word": "postulate",
+  "pos": "动词",
+  "sub": null,
+  "gloss": "假定，假设"
+ },
+ {
+  "num": 243,
+  "word": "deduce",
+  "pos": "动词",
+  "sub": null,
+  "gloss": "推断，推论"
+ },
+ {
+  "num": 231,
+  "word": "reconcile",
+  "pos": "动词",
+  "sub": null,
+  "gloss": "调和；调解；使一致"
+ },
+ {
+  "num": 214,
+  "word": "tackle",
+  "pos": "动词",
+  "sub": null,
+  "gloss": "对付，处理；与…交涉"
+ },
+ {
+  "num": 204,
+  "word": "interpret",
+  "pos": "动词",
+  "sub": null,
+  "gloss": "理解，解释，阐释"
+ },
+ {
+  "num": 199,
+  "word": "commence",
+  "pos": "动词",
+  "sub": null,
+  "gloss": "开始；着手"
+ },
+ {
+  "num": 180,
+  "word": "extend",
+  "pos": "动词",
+  "sub": null,
+  "gloss": "扩大；扩展；使增加长度"
+ },
+ {
+  "num": 161,
+  "word": "employ",
+  "pos": "动词",
+  "sub": null,
+  "gloss": "使用；利用"
+ },
+ {
+  "num": 157,
+  "word": "exploit",
+  "pos": "动词",
+  "sub": null,
+  "gloss": "利用；开发；发挥"
+ },
+ {
+  "num": 149,
+  "word": "contradict",
+  "pos": "动词",
+  "sub": null,
+  "gloss": "反驳，否定；（事实或声明）（与…）相矛盾，（与…）有抵触"
+ },
+ {
+  "num": 130,
+  "word": "exceed",
+  "pos": "动词",
+  "sub": null,
+  "gloss": "超过，超出（数量）；超越（规定的范围）"
+ },
+ {
+  "num": 116,
+  "word": "corroborate",
+  "pos": "动词",
+  "sub": null,
+  "gloss": "证实，确证"
+ },
+ {
+  "num": 107,
+  "word": "unveil",
+  "pos": "动词",
+  "sub": null,
+  "gloss": "为…揭幕"
+ },
+ {
+  "num": 96,
+  "word": "unravel",
+  "pos": "动词",
+  "sub": null,
+  "gloss": "揭开，弄清，阐明（谜团或复杂问题）；被澄清；被解决"
+ },
+ {
+  "num": 49,
+  "word": "illustrate",
+  "pos": "动词",
+  "sub": null,
+  "gloss": "（尤指用例子）说明，阐明"
+ },
+ {
+  "num": 48,
+  "word": "clarify",
+  "pos": "动词",
+  "sub": null,
+  "gloss": "澄清；阐明；使更清晰易懂"
+ },
+ {
+  "num": 47,
+  "word": "incorporate",
+  "pos": "动词",
+  "sub": null,
+  "gloss": "包含；将…包括在内"
+ },
+ {
+  "num": 46,
+  "word": "comment",
+  "pos": "动词",
+  "sub": null,
+  "gloss": "评论；意见；评价；评语"
+ },
+ {
+  "num": 38,
+  "word": "fulfil",
+  "pos": "动词",
+  "sub": null,
+  "gloss": "实现；达到；履行，执行"
+ },
+ {
+  "num": 33,
+  "word": "proceed",
+  "pos": "动词",
+  "sub": null,
+  "gloss": "继续进行，继续做"
+ },
+ {
+  "num": 800,
+  "word": "amplitude",
+  "pos": "名词",
+  "sub": null,
+  "gloss": "广阔，广大；充足，丰富；幅度；振幅；波幅"
+ },
+ {
+  "num": 799,
+  "word": "accuracy",
+  "pos": "名词",
+  "sub": null,
+  "gloss": "准确；精确；正确"
+ },
+ {
+  "num": 798,
+  "word": "category",
+  "pos": "名词",
+  "sub": null,
+  "gloss": "种类，类别，范畴"
+ },
+ {
+  "num": 784,
+  "word": "realm",
+  "pos": "名词",
+  "sub": null,
+  "gloss": "（兴趣或活动的）界，领域，范围"
+ },
+ {
+  "num": 748,
+  "word": "dissipation",
+  "pos": "名词",
+  "sub": null,
+  "gloss": "损耗"
+ },
+ {
+  "num": 730,
+  "word": "pathway",
+  "pos": "名词",
+  "sub": null,
+  "gloss": "途径，行动步骤，道路"
+ },
+ {
+  "num": 719,
+  "word": "attenuation",
+  "pos": "名词",
+  "sub": null,
+  "gloss": "衰减；变薄；稀释"
+ },
+ {
+  "num": 716,
+  "word": "roadmap",
+  "pos": "名词",
+  "sub": null,
+  "gloss": "路线图"
+ },
+ {
+  "num": 708,
+  "word": "observation",
+  "pos": "名词",
+  "sub": null,
+  "gloss": "观察；观测；监视"
+ },
+ {
+  "num": 700,
+  "word": "relevance",
+  "pos": "名词",
+  "sub": null,
+  "gloss": "相关性；实用性；意义"
+ },
+ {
+  "num": 687,
+  "word": "trend",
+  "pos": "名词",
+  "sub": null,
+  "gloss": "趋势，趋向；倾向，动向"
+ },
+ {
+  "num": 670,
+  "word": "ignorance",
+  "pos": "名词",
+  "sub": null,
+  "gloss": "无知，愚昧"
+ },
+ {
+  "num": 665,
+  "word": "composition",
+  "pos": "名词",
+  "sub": null,
+  "gloss": "成分；构成；结构"
+ },
+ {
+  "num": 664,
+  "word": "universality",
+  "pos": "名词",
+  "sub": null,
+  "gloss": "普遍性；一般性；广泛性"
+ },
+ {
+  "num": 632,
+  "word": "premise",
+  "pos": "名词",
+  "sub": null,
+  "gloss": "（作为先决条件的）假定，前提"
+ },
+ {
+  "num": 627,
+  "word": "proximity",
+  "pos": "名词",
+  "sub": null,
+  "gloss": "接近，邻近；临近"
+ },
+ {
+  "num": 616,
+  "word": "constriction",
+  "pos": "名词",
+  "sub": null,
+  "gloss": "规定；限制；制约"
+ },
+ {
+  "num": 606,
+  "word": "complexity",
+  "pos": "名词",
+  "sub": null,
+  "gloss": "错综复杂，复杂性"
+ },
+ {
+  "num": 603,
+  "word": "plateaus",
+  "pos": "名词",
+  "sub": null,
+  "gloss": "平稳期；停滞期；高原，平台"
+ },
+ {
+  "num": 593,
+  "word": "coefficient",
+  "pos": "名词",
+  "sub": null,
+  "gloss": "系数"
+ },
+ {
+  "num": 590,
+  "word": "reference",
+  "pos": "名词",
+  "sub": null,
+  "gloss": "提到；谈到；论及；引文出处；参考书目；参考，查阅"
+ },
+ {
+  "num": 588,
+  "word": "substitution",
+  "pos": "名词",
+  "sub": null,
+  "gloss": "换人；替代"
+ },
+ {
+  "num": 587,
+  "word": "process",
+  "pos": "名词",
+  "sub": null,
+  "gloss": "过程；步骤"
+ },
+ {
+  "num": 586,
+  "word": "validity",
+  "pos": "名词",
+  "sub": null,
+  "gloss": "有效性"
+ },
+ {
+  "num": 576,
+  "word": "outlook",
+  "pos": "名词",
+  "sub": null,
+  "gloss": "前景；展望；观点，看法"
+ },
+ {
+  "num": 565,
+  "word": "procedure",
+  "pos": "名词",
+  "sub": null,
+  "gloss": "程序；步骤；常规"
+ },
+ {
+  "num": 553,
+  "word": "plight",
+  "pos": "名词",
+  "sub": null,
+  "gloss": "困境，窘境"
+ },
+ {
+  "num": 547,
+  "word": "dilemma",
+  "pos": "名词",
+  "sub": null,
+  "gloss": "左右为难，两难境地"
+ },
+ {
+  "num": 544,
+  "word": "consensus",
+  "pos": "名词",
+  "sub": null,
+  "gloss": "一致的意见；共识"
+ },
+ {
+  "num": 538,
+  "word": "prospect",
+  "pos": "名词",
+  "sub": null,
+  "gloss": "前景；展望；设想"
+ },
+ {
+  "num": 518,
+  "word": "sequence",
+  "pos": "名词",
+  "sub": null,
+  "gloss": "一连串；一系列；顺序，次序"
+ },
+ {
+  "num": 488,
+  "word": "exploration",
+  "pos": "名词",
+  "sub": null,
+  "gloss": "探测；勘查；探索；研究"
+ },
+ {
+  "num": 487,
+  "word": "avenue",
+  "pos": "名词",
+  "sub": null,
+  "gloss": "方法；途径；渠道"
+ },
+ {
+  "num": 481,
+  "word": "analogy",
+  "pos": "名词",
+  "sub": null,
+  "gloss": "类似；类比；比拟；类推"
+ },
+ {
+  "num": 439,
+  "word": "emergence",
+  "pos": "名词",
+  "sub": null,
+  "gloss": "崭露头角；（从某物背后）出来，现身"
+ },
+ {
+  "num": 431,
+  "word": "coincidence",
+  "pos": "名词",
+  "sub": null,
+  "gloss": "同时发生；（尤指令人吃惊的）巧合，碰巧的事"
+ },
+ {
+  "num": 424,
+  "word": "conservation",
+  "pos": "名词",
+  "sub": null,
+  "gloss": "守恒"
+ },
+ {
+  "num": 416,
+  "word": "progress",
+  "pos": "名词",
+  "sub": null,
+  "gloss": "进步，进展"
+ },
+ {
+  "num": 413,
+  "word": "concept",
+  "pos": "名词",
+  "sub": null,
+  "gloss": "原则；概念；观念；想法"
+ },
+ {
+  "num": 410,
+  "word": "correspondence",
+  "pos": "名词",
+  "sub": null,
+  "gloss": "（两个事物之间的）关联"
+ },
+ {
+  "num": 408,
+  "word": "exaggeration",
+  "pos": "名词",
+  "sub": null,
+  "gloss": "夸张；夸大；言过其实"
+ },
+ {
+  "num": 406,
+  "word": "scenario",
+  "pos": "名词",
+  "sub": null,
+  "gloss": "可能发生的事态；设想"
+ },
+ {
+  "num": 400,
+  "word": "route",
+  "pos": "名词",
+  "sub": null,
+  "gloss": "途径；渠道；方法；路线；路途；航线"
+ },
+ {
+  "num": 389,
+  "word": "perspective",
+  "pos": "名词",
+  "sub": null,
+  "gloss": "（思考问题的）角度，观点，想法"
+ },
+ {
+  "num": 361,
+  "word": "excess",
+  "pos": "名词",
+  "sub": null,
+  "gloss": "过分；过量；过度"
+ },
+ {
+  "num": 338,
+  "word": "cornerstone",
+  "pos": "名词",
+  "sub": null,
+  "gloss": "基石；（尤指）奠基石"
+ },
+ {
+  "num": 310,
+  "word": "diagram",
+  "pos": "名词",
+  "sub": null,
+  "gloss": "图，图解，示意图"
+ },
+ {
+  "num": 293,
+  "word": "paradigm",
+  "pos": "名词",
+  "sub": null,
+  "gloss": "范例，示例"
+ },
+ {
+  "num": 279,
+  "word": "hallmark",
+  "pos": "名词",
+  "sub": null,
+  "gloss": "特征，特点"
+ },
+ {
+  "num": 259,
+  "word": "interval",
+  "pos": "名词",
+  "sub": null,
+  "gloss": "间隔；间距"
+ },
+ {
+  "num": 232,
+  "word": "apparatus",
+  "pos": "名词",
+  "sub": null,
+  "gloss": "设备；仪器；装置；用具"
+ },
+ {
+  "num": 210,
+  "word": "analogue",
+  "pos": "名词",
+  "sub": null,
+  "gloss": "相似物，类似物；对等物；代用物"
+ },
+ {
+  "num": 179,
+  "word": "capability",
+  "pos": "名词",
+  "sub": null,
+  "gloss": "能力；才干；水平"
+ },
+ {
+  "num": 177,
+  "word": "convergence",
+  "pos": "名词",
+  "sub": null,
+  "gloss": "（观点等）趋于一致，趋同；会合，聚集"
+ },
+ {
+  "num": 176,
+  "word": "benchmark",
+  "pos": "名词",
+  "sub": null,
+  "gloss": "基准（点）"
+ },
+ {
+  "num": 165,
+  "word": "ingredient",
+  "pos": "名词",
+  "sub": null,
+  "gloss": "（食品的）成分，原料"
+ },
+ {
+  "num": 146,
+  "word": "constraint",
+  "pos": "名词",
+  "sub": null,
+  "gloss": "限制；束缚；约束"
+ },
+ {
+  "num": 115,
+  "word": "context",
+  "pos": "名词",
+  "sub": null,
+  "gloss": "（事情存在、发生的）背景，环境"
+ },
+ {
+  "num": 67,
+  "word": "novelty",
+  "pos": "名词",
+  "sub": null,
+  "gloss": "新颖，新奇"
+ },
+ {
+  "num": 42,
+  "word": "scheme",
+  "pos": "名词",
+  "sub": null,
+  "gloss": "方案，计划"
+ },
+ {
+  "num": 524,
+  "word": "albeit",
+  "pos": "连词",
+  "sub": null,
+  "gloss": "虽然，尽管"
+ },
+ {
+  "num": 468,
+  "word": "whereas",
+  "pos": "连词",
+  "sub": null,
+  "gloss": "尽管；但是；却；“鉴于…”：正式文件的介绍性陈述"
+ },
+ {
+  "num": 441,
+  "word": "whereby",
+  "pos": "连词",
+  "sub": null,
+  "gloss": "由此，从而；借以"
+ },
+ {
+  "num": 438,
+  "word": "provided",
+  "pos": "连词",
+  "sub": null,
+  "gloss": "如果；只要"
+ },
+ {
+  "num": 436,
+  "word": "unless",
+  "pos": "连词",
+  "sub": null,
+  "gloss": "除非；除了在…的情况下"
+ }
+]

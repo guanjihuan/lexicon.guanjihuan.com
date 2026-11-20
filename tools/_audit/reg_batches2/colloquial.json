@@ -1,0 +1,9 @@
+[
+  {"word": "well", "reason": "释义为话语标记义「嗯；那么；不过」，是会话中开口、换话题、让步的典型口头填充词，书面语中几乎不用"},
+  {"word": "anyway", "reason": "「无论如何；反正」是口语的转折与收尾语，书面语里少用"},
+  {"word": "by the way", "reason": "「顺便说；附带地」是会话中插入旁题的典型话语标记，只在日常口语里自然"},
+  {"word": "on that note", "reason": "「说到这里；顺着这个话题」是口语换题的承接语，随口说出，书面语中基本不出现"},
+  {"word": "the minute", "reason": "释义自注「口语化」，指 the minute (that)… 一…就，是会话口语的时间连接方式，书面语偏好 as soon as/the moment"},
+  {"word": "from scratch", "reason": "「从头；从零开始；白手起家」是日常口语惯用说法，是学术语域 de novo/ab initio 的平俗对应物"},
+  {"word": "tricky", "reason": "「难办的；棘手的；难处理的」是日常口语化的「棘手」，书面语多用 problematic/difficult"}
+]

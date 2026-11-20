@@ -1,0 +1,184 @@
+{
+ "whenever": [
+  {
+   "en": "Whenever the sample size fell below the threshold, the analysis was repeated with a larger dataset.",
+   "zh": "凡样本量低于阈值，均须以更大的数据集重新开展分析。"
+  },
+  {
+   "en": "The policy requires transparent reporting whenever a conflict of interest arises in the review process.",
+   "zh": "该政策要求，一旦审查过程中出现利益冲突，就必须作出透明披露。"
+  },
+  {
+   "en": "Whenever possible, the researchers anonymized records before the data were released for secondary analysis.",
+   "zh": "在条件允许的情况下，研究人员在数据发布以供二次分析之前先行匿名化处理。"
+  }
+ ],
+ "wherever": [
+  {
+   "en": "Wherever the sample originates, the same coding protocol must be applied without exception.",
+   "zh": "无论样本来自何处，均须无一例外地适用同一套编码方案。"
+  },
+  {
+   "en": "The committee insisted that documentation accompany the findings wherever the work was subsequently published.",
+   "zh": "委员会坚持认为，无论研究成果日后在何处发表，相关文献都必须随附于结论。"
+  },
+  {
+   "en": "Wherever the survey was administered, respondents reported similar levels of institutional trust.",
+   "zh": "无论调查在何地开展，受访者所报告的机构信任水平都相近。"
+  }
+ ],
+ "whichever": [
+  {
+   "en": "Whichever treatment was assigned first, the recovery trajectories remained statistically indistinguishable across groups.",
+   "zh": "无论先行分配何种处理条件，各组的康复轨迹在统计上均难以区分。"
+  },
+  {
+   "en": "The auditors examined whichever records the institutions deemed relevant to the reported discrepancies.",
+   "zh": "审计人员核查了各机构认为与所报告差异相关的各种记录。"
+  },
+  {
+   "en": "Whichever model the committee finally adopted, it would require a formal review within the following year.",
+   "zh": "无论委员会最终采纳何种模型，均须在随后一年内接受正式评审。"
+  }
+ ],
+ "whatever": [
+  {
+   "en": "Whatever the initial estimate, the revised analysis narrowed the confidence interval considerably.",
+   "zh": "无论最初的估计值如何，修正后的分析都大幅收窄了置信区间。"
+  },
+  {
+   "en": "The regulation applies to whatever documentation a sponsor submits in support of a licensing application.",
+   "zh": "该规章适用于申办方为支持许可申请而提交的任何文件。"
+  },
+  {
+   "en": "Whatever methodological objections the reviewers raise, the underlying data remain available for independent reanalysis.",
+   "zh": "无论评审者提出何种方法学质疑，底层数据仍可供独立重新分析。"
+  }
+ ],
+ "whoever": [
+  {
+   "en": "Whoever conducts the interviews must record the consent procedure before any question is put.",
+   "zh": "无论由谁主持访谈，均须在提问之前如实记录知情同意程序。"
+  },
+  {
+   "en": "The rule protects the identity of whoever reported the misconduct through the internal grievance channel.",
+   "zh": "该规定保护通过内部申诉渠道举报不当行为者的身份信息。"
+  },
+  {
+   "en": "Whoever holds the dissenting view is entitled to have the minutes record the disagreement.",
+   "zh": "无论持异议者为何人，均有权要求会议记录在案以载明分歧。"
+  }
+ ],
+ "lest": [
+  {
+   "en": "The archives restricted access lest the unpublished correspondence be damaged by handling.",
+   "zh": "档案室限制查阅，以免未公开的通信资料在翻阅中受损。"
+  },
+  {
+   "en": "Sampling was suspended lest the disturbance of nesting birds should bias the counts.",
+   "zh": "调查取样一度中止，以免对筑巢鸟类的惊扰使计数结果产生偏倚。"
+  },
+  {
+   "en": "Records are sealed lest early disclosure compromise the integrity of the subsequent inquiry.",
+   "zh": "相关记录予以封存，以免过早披露损害后续调查的公正性。"
+  }
+ ],
+ "nor": [
+  {
+   "en": "The respondents were not asked about income, nor were they required to disclose their employment status.",
+   "zh": "调查并未询问受访者的收入，也未要求其披露就业状况。"
+  },
+  {
+   "en": "Neither the review panel nor the funding agency accepted the revised estimate as sufficiently robust.",
+   "zh": "评审委员会与资助机构均不认为修正后的估计值足够稳健。"
+  },
+  {
+   "en": "The intervention had no measurable effect, nor did it reduce the reported symptom severity in follow-up.",
+   "zh": "该项干预没有可测量的效果，在随访中也未减轻所报告的症状严重程度。"
+  }
+ ],
+ "neither": [
+  {
+   "en": "Neither the control nor the experimental group showed a significant change in the primary outcome.",
+   "zh": "控制组与实验组在主要结局指标上均未出现显著变化。"
+  },
+  {
+   "en": "Neither the qualitative interviews nor the archival records were sufficient to establish the sequence of events.",
+   "zh": "无论是定性访谈还是档案记录，都不足以确立事件的先后顺序。"
+  },
+  {
+   "en": "Neither the authors nor the reviewers acknowledged the methodological limitations discussed at the workshop.",
+   "zh": "作者与评审者均未承认研讨会上所讨论的方法学局限。"
+  }
+ ],
+ "as if": [
+  {
+   "en": "The revised procedure proceeded as if the earlier calibration error had never been detected by the committee.",
+   "zh": "修订后的程序照常推进，仿佛此前的校准误差从未被委员会察觉。"
+  },
+  {
+   "en": "Participants reported feeling orientated, as if the spatial layout of the campus were familiar to them.",
+   "zh": "参与者表示感到方向明确，仿佛校园的空间布局对他们而言十分熟悉。"
+  },
+  {
+   "en": "The subsequent discussion unfolded as if the disputed results had been presented in an earlier draft.",
+   "zh": "随后的讨论按部就班地展开，仿佛存在争议的结果曾出现在早前的草稿之中。"
+  }
+ ],
+ "as well as": [
+  {
+   "en": "The index combines lexical frequency lists as well as learner corpus data from several institutions.",
+   "zh": "该词表索引综合了词汇频率表以及来自若干教学机构的学习者语料数据。"
+  },
+  {
+   "en": "Graduate training should develop disciplinary breadth as well as deep methodological competence.",
+   "zh": "研究生培养既要拓展学科视野，也要夯筑扎实的方法学专门能力。"
+  },
+  {
+   "en": "The revised framework treats statistical literacy as well as ethical judgment as core professional competencies.",
+   "zh": "修订后的框架将统计素养与伦理判断一并视为核心职业能力。"
+  }
+ ],
+ "as far as": [
+  {
+   "en": "As far as the available records indicate, the program had no formal evaluation component.",
+   "zh": "就现有档案所能显示的情况而言，该项目并无正式的评估环节。"
+  },
+  {
+   "en": "The model improves accuracy as far as the training data reflect the target population.",
+   "zh": "只要训练数据能够反映目标人群，该模型的准确度便会提高。"
+  },
+  {
+   "en": "As far as the evidence goes, the association cannot be interpreted causally.",
+   "zh": "就现有证据而言，这一关联不能作因果解读。"
+  }
+ ],
+ "no matter": [
+  {
+   "en": "No matter how the categories are defined, the overall distribution of responses remained remarkably stable.",
+   "zh": "无论类别如何界定，回答的总体分布都保持着异常的稳定。"
+  },
+  {
+   "en": "The findings cannot be interpreted correctly no matter which statistical package reproduces the reported figures.",
+   "zh": "无论以何种统计软件复现所报告的数据，其结论都无法得到正确解读。"
+  },
+  {
+   "en": "No matter the disciplinary origin of the reviewer, the evaluation criteria were applied identically across submissions.",
+   "zh": "无论评审者出自何种学科背景，评价标准在各份投稿中均获同等适用。"
+  }
+ ],
+ "even so": [
+  {
+   "en": "Even so, the underlying mechanism remains poorly characterized in the available literature.",
+   "zh": "即便如此，其内在机制在现有文献中仍缺乏充分的刻画。"
+  },
+  {
+   "en": "Even so, the committee recommended that the sampling frame be revised before the next wave of fieldwork.",
+   "zh": "即便如此，委员会仍建议在下一轮田野调查之前修订抽样框。"
+  },
+  {
+   "en": "Even so, the reported decline in response rates cannot be attributed solely to the redesigned questionnaire.",
+   "zh": "即便如此，回收率下降这一报告结果也不能仅仅归因于问卷的重新设计。"
+  }
+ ]
+}

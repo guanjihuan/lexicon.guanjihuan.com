@@ -1,0 +1,225 @@
+longitudinal	形容词	纵向的；历时性的；长期的
+benchmark	名词	基准；基准测试
+convergence	名词	（观点等）趋于一致，趋同；会合，聚集
+residual	形容词	剩余的；残留的；残余的
+recursive	形容词	递归的；递归式的（recursive function 递归函数）
+iterative	形容词	（通常为了改进）重复的，反复的，迭代的
+fine-grained	形容词	细粒度的；精细的
+criterion	名词	（作出评判、决定或处理的）标准，准则
+heuristic	形容词	启发式的；经验法则的
+scenario	名词	可能发生的事态；设想；可能出现的局面
+probabilistic	形容词	基于概率的
+trajectory	名词	轨迹；发展路径；历程
+reproducible	形容词	能再生的；能再制造的；能再现的；可复现的
+qualitative	形容词	质的；性质上的；定性的
+prototypical	形容词	典型的；作为原型的
+embed	动词	把…牢牢嵌入（或插入、埋入）
+empirical	形容词	以经验（或实验）为依据的；经验主义的；来自经验（或观察）的
+computational	形容词	计算的；使用计算机进行的
+validity	名词	有效性；效度
+extrapolate	动词	推断；推知
+susceptibility	名词	易感性；易受影响性
+retraction	名词	撤销，收回
+metric	名词	指标；度量指标
+nominal	形容词	名义上的；有名无实的；微不足道的
+onset	名词	开始；起始；发作（the onset of … 开始）
+simulate	动词	模拟；仿真
+conceptualize	动词	概念化；构想；形成概念
+taxonomy	名词	分类法；分类体系；类目
+robustness	名词	稳健性；鲁棒性；抗干扰能力
+variance	名词	方差；差异性；变异
+pipeline	名词	流程；管线；工序
+workflow	名词	工作流；业务流程
+stakeholder	名词	利益相关者；相关方
+compliance	名词	遵守；合规；遵从
+legislation	名词	立法；法规；法律条文
+governance	名词	治理；管理方式；治理结构
+accountability	名词	问责；责任制；可追责性
+transparency	名词	透明度；公开性；透明化
+sustainability	名词	可持续性；可维持性
+resilience	名词	韧性；恢复力；适应力
+ecosystem	名词	生态系统；生态
+literacy	名词	素养；读写能力；专业素养
+precedent	名词	先例；判例；范例
+notation	名词	记号；符号体系；标记法
+granularity	名词	粒度；精细程度；具体程度
+correlation	名词	相关性；关联；相关分析
+deviation	名词	偏差；偏离；离差
+calibration	名词	校准；标定（calibration curve 校准曲线）
+resolution	名词	分辨率；解决；决议；决心
+traceability	名词	可追溯性；溯源能力
+authenticity	名词	真实性；可靠性；原真性
+integrity	名词	完整性；诚信；正直
+provenance	名词	来源；出处；来源信息
+redundancy	名词	冗余；多余；备用；备用装置（备份义）
+throughput	名词	吞吐量；处理能力
+heterogeneous	形容词	异质的；不均质的；混杂的
+homogeneous	形容词	同质的；均质的；同种的（生物学义）
+interdisciplinary	形容词	跨学科的；多学科交叉的
+quantitative	形容词	定量的；数量上的
+dataset	名词	数据集；资料集
+discourse	名词	话语；论述；语篇
+distribution	名词	分布；分配；散布
+heterogeneity	名词	异质性；差异性；不均一
+outlier	名词	离群值；异常值
+oversight	名词	监管；监督；疏忽
+prevalence	名词	普遍程度；流行率；患病率
+proxy	名词	代理指标；替代变量
+regression	名词	回归；倒退；退步
+reproducibility	名词	可复现性；可重复性
+retrospective	形容词	回顾的；回溯性的
+saturation	名词	饱和；饱和度；饱和点（point of saturation）
+sensitivity	名词	敏感性；灵敏度
+specificity	名词	特异性；专一性；确切性
+replication	名词	重复；复制；复现
+formulation	名词	表述；构想；系统阐述；制定（policy formulation 政策制定）
+causation	名词	因果关系；因果作用
+citation	名词	引用；引文；引注（出处标注）；嘉奖，表彰（正式用语）
+respondent	名词	受访者；应答者
+questionnaire	名词	问卷；调查表
+cohort	名词	队列；同期群；一批人
+iteration	名词	迭代；反复；版本
+proposition	名词	命题；主张；提议
+elasticity	名词	弹性；适应性
+deterministic	形容词	确定性的；可确定的；无随机性的
+experimental	形容词	实验的；试验性的
+observational	形容词	观察性的；观测的（observational studies 观察性研究）；观察的，观察力的（observational skills）
+cross-sectional	形容词	横截面的；截面调查的
+converge	动词	趋同；汇聚；一致（findings converge 结论趋同）
+contextualize	动词	置于语境中；结合背景（contextualize findings 语境化解读）
+normalize	动词	标准化；归一化；使正常
+standardize	动词	使标准化；使统一（standardized test 标准化测验）
+stratify	动词	分层；按层划分（stratified sample 分层样本）
+impute	动词	插补；用估计值填补（missing data imputation 缺失值插补）
+regress	动词	回归；退行（regression analysis 回归分析）
+operationalize	动词	操作化；把…转化为可测量的指标
+anomaly	名词	异常；反常现象（anomalous result 异常结果）
+replicate	动词	复现；重复验证；重复（实验，replicate an experiment）
+power	名词	功效；检验力；力量（statistical power 统计功效）
+algorithm	名词	算法；计算程序
+covariate	名词	协变量；伴随变量
+stratum	名词	层；分层（sampling stratum 抽样层）
+sampling	名词	抽样；采样（sampling strategy 抽样策略）
+recruitment	名词	招募；征集（participant recruitment 参与者招募）
+dropout	名词	脱落；退出（study dropout 研究脱落）
+attrition	名词	流失；损耗（attrition rate 流失率）
+anonymity	名词	匿名；匿名性（ensure anonymity 保证匿名）
+confounding	名词	混杂；混淆（confounding factor 混杂因素）
+inferential	形容词	推断的；推论统计的（inferential statistics 推断统计）
+mediator	名词	中介变量；中介因素（mediating variable 中介变量）
+moderator	名词	调节变量（moderating effect 调节效应）
+replicability	名词	可复现性；可重复性（replicability of findings 结果的可复现性）
+generalizability	名词	可推广性；外部效度（generalizability of results 结果的可推广性）
+follow-up	名词	随访；后续研究（follow-up study 随访研究）
+meta-analysis	名词	元分析；荟萃分析
+multicollinearity	名词	多重共线性（回归模型中自变量高度相关）
+deductive	形容词	演绎的；推论的（deductive reasoning 演绎推理）
+inductive	形容词	归纳的（inductive reasoning 归纳推理）
+operationalization	名词	操作化；操作定义（operationalization of a concept 概念的操作化）
+confounder	名词	混杂变量；混淆因素
+falsify	动词	证伪；推翻；证明…为假（falsify a hypothesis 证伪一个假设）
+mediation	名词	中介作用；中介效应
+moderation	名词	调节作用；调节效应
+endogeneity	名词	内生性；内生偏差
+propensity	名词	倾向；倾向性（propensity score 倾向得分）
+placebo	名词	安慰剂；安慰剂对照
+blinding	名词	盲法；盲评（single blinding 单盲法）
+allocation	名词	分配；配置（random allocation 随机分配）
+case-control	形容词	病例对照的；对照的（case-control study 病例对照研究）
+effect size	名词	效应量；效果大小
+mixed-method	形容词	混合方法的；混合研究方法的（mixed-methods design 混合方法研究设计）
+cluster	名词	群组；簇；聚类（cluster analysis 聚类分析）
+panel	名词	专家小组；评审组；面板（panel data 面板数据）
+pooled	形容词	合并的；汇总的（pooled estimate 合并估计值）
+prospective	形容词	前瞻性的；预期的（prospective cohort 前瞻性队列）
+reflexivity	名词	自反性；反思性（researcher reflexivity 研究者的自反性）
+positionality	名词	位置性；立场性（researcher positionality 研究者的位置性）
+normative	形容词	规范的；规范性的；价值判断的（哲学义，normative statements）
+adherence	名词	依从性；遵守；遵循（adherence to protocol 遵循研究方案）
+dissemination	名词	传播；散布；推广（knowledge dissemination 知识传播）
+scalability	名词	可扩展性；可规模化程度
+equity	名词	公平；公正；平等（health equity 健康公平）
+conceptualization	名词	概念化；概念建构
+quantification	名词	量化；量化分析
+disclosure	名词	披露；公开；信息披露
+confidentiality	名词	保密；保密性（confidentiality of data 数据保密）
+genre	名词	体裁；文类
+cohesion	名词	连贯；衔接（textual cohesion 语篇衔接）
+triangulation	名词	三角互证；三角验证（methodological triangulation 方法学三角互证）
+multidisciplinary	形容词	多学科的；跨学科的
+thematic	形容词	主题的；主题性的（thematic analysis 主题分析）
+rhetorical	形容词	修辞的；论辩的（rhetorical strategy 修辞策略）
+exploratory	形容词	探索性的；探索的（exploratory study 探索性研究）
+mortality	名词	死亡率（mortality rate 死亡率；infant mortality 婴儿死亡率）
+ecology	名词	生态；生态学；生态关系
+epidemiology	名词	流行病学；疫病分布
+equivalence	名词	等价；等同；对等性
+latency	名词	潜伏期；延迟时间
+recurrence	名词	复发；再现；重现
+reinforcement	名词	强化；加强；增援
+simulation	名词	模拟；仿真；模拟物
+sufficiency	名词	充分性；充足；足够
+variability	名词	可变性；变异性；波动性
+volatility	名词	波动性；易变性；不稳定性
+categorical	形容词	分类的；绝对化的；明确划分的
+recurrent	形容词	反复出现的；重现的；周期的
+presuppose	动词	预设，以…为前提；预先假定
+anecdotal	形容词	轶事的；仅凭传闻的（anecdotal evidence 轶事证据，非系统证据）
+fallacy	名词	谬误，谬见（logical fallacy 逻辑谬误）
+corollary	名词	推论，必然结果（a direct corollary of… 的直接推论）
+precursor	名词	先兆，前兆；前身（precursors of the crisis 危机的前兆）；（化学）前体
+antecedent	名词	前因，前身；（语法）先行词
+liability	名词	不利条件，累赘；责任；（复数）负债
+deficit	名词	赤字，亏空；不足（budget deficit 预算赤字；attention deficit 注意缺陷）
+neural	形容词	神经的（neural networks 神经网络）
+neuron	名词	神经元，神经细胞
+polymer	名词	聚合物，聚合体
+catalyst	名词	催化剂；促进因素（act as a catalyst for… 成为…的催化剂）
+enzyme	名词	酶
+protein	名词	蛋白质
+genome	名词	基因组，染色体组
+metabolism	名词	新陈代谢
+semiconductor	名词	半导体
+database	名词	数据库
+bandwidth	名词	带宽；（引）精力，处理能力
+clinical	形容词	临床的（clinical trial 临床试验；clinical practice 临床实践）
+diagnosis	名词	诊断（复数 diagnoses；early diagnosis 早期诊断）
+epidemic	名词	流行病；（引）泛滥（an epidemic of obesity 肥胖的流行）；流行性的
+pandemic	名词	（全国/全球性）大流行病；（形容词）大流行的
+outbreak	名词	爆发，突然发生（an outbreak of cholera 霍乱爆发）
+chronic	形容词	慢性的，长期的（chronic disease 慢性病；chronic stress 长期压力）
+acute	形容词	急性的；严重的，剧烈的；敏锐的（acute shortage 严重短缺）
+episodic	形容词	偶尔发生的，阵发性的；（叙事）分集的，片段式的；（记忆）情景的（episodic memory 情景记忆）
+intermittent	形容词	间歇的，断断续续的（intermittent fasting 间歇性禁食）
+symptom	名词	症状；征兆（clinical symptoms 临床症状）
+syndrome	名词	综合征，综合症状（metabolic syndrome 代谢综合征）
+therapy	名词	治疗，疗法（gene therapy 基因治疗；复数 therapies）
+asymmetry	名词	不对称（information asymmetry 信息不对称）
+homogeneity	名词	同质性（test for homogeneity）
+invariant	形容词	不变的（量、性质）（scale-invariant；an invariant of the transformation）
+appraisal	名词	评估；评价；鉴定（a critical appraisal of the method）
+counterexample	名词	反例（a counterexample to the claim）
+concordance	名词	一致；符合（concordance correlation；语料索引）
+epistemological	形容词	认识论的；知识论的（epistemological grounding）
+ontological	形容词	本体论的；存在论的（ontological commitments）
+axiomatic	形容词	公理的；基于公理的（an axiomatic foundation）
+abductive	形容词	溯因的；最佳解释推论的（abductive inference）
+descriptive	形容词	描述性的；描述统计的（descriptive statistics）
+prescriptive	形容词	规定性的；规范的（a prescriptive claim）
+nonresponse	名词	无应答；未回应（nonresponse rate 无应答率）
+overfitting	名词	过拟合
+regularization	名词	正则化；规则化
+annotation	名词	标注；注释
+coding	名词	编码（质性研究中的编码过程）
+transcription	名词	转录；文字转写
+purposive	形容词	目的性（抽样的）（purposive sampling 目的性抽样）
+ethnography	名词	民族志（研究方法）
+screening	名词	筛查；筛选（受试者或文献筛选）
+surveillance	名词	监测；疾病监测（surveillance data）
+public health	名词	公共卫生
+health inequality	名词	健康不平等
+life expectancy	名词	预期寿命
+mental health	名词	心理健康
+risk factor	名词	风险因素
+enrollment	名词	入组；招募入组；注册入学（enrollment rate）
+audit	名词	审计；核查

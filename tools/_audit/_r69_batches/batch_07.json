@@ -1,0 +1,112 @@
+[
+ {
+  "word": "CONSORT",
+  "pos": "名词",
+  "gloss": "CONSORT 声明（随机对照试验报告规范）"
+ },
+ {
+  "word": "STROBE",
+  "pos": "名词",
+  "gloss": "STROBE 声明（观察性研究报告规范）"
+ },
+ {
+  "word": "standard error",
+  "pos": "名词",
+  "gloss": "标准误"
+ },
+ {
+  "word": "covariance",
+  "pos": "名词",
+  "gloss": "协方差"
+ },
+ {
+  "word": "heteroskedasticity",
+  "pos": "名词",
+  "gloss": "异方差性；异方差"
+ },
+ {
+  "word": "autocorrelation",
+  "pos": "名词",
+  "gloss": "自相关"
+ },
+ {
+  "word": "missing data",
+  "pos": "名词",
+  "gloss": "数据缺失；缺失值"
+ },
+ {
+  "word": "bootstrap",
+  "pos": "动词",
+  "gloss": "以自助法重抽样（估计）"
+ },
+ {
+  "word": "permutation",
+  "pos": "名词",
+  "gloss": "置换；置换检验（a permutation test）"
+ },
+ {
+  "word": "degrees of freedom",
+  "pos": "名词",
+  "gloss": "自由度"
+ },
+ {
+  "word": "chi-square",
+  "pos": "名词",
+  "gloss": "卡方；卡方检验（χ²）"
+ },
+ {
+  "word": "Monte Carlo",
+  "pos": "名词",
+  "gloss": "蒙特卡洛（模拟方法）"
+ },
+ {
+  "word": "median",
+  "pos": "名词",
+  "gloss": "中位数"
+ },
+ {
+  "word": "quartile",
+  "pos": "名词",
+  "gloss": "四分位数"
+ },
+ {
+  "word": "percentile",
+  "pos": "名词",
+  "gloss": "百分位数"
+ },
+ {
+  "word": "recall",
+  "pos": "名词",
+  "gloss": "召回率；查全率"
+ },
+ {
+  "word": "confusion matrix",
+  "pos": "名词",
+  "gloss": "混淆矩阵"
+ },
+ {
+  "word": "ground truth",
+  "pos": "名词",
+  "gloss": "真值；真值标注"
+ },
+ {
+  "word": "overfitting",
+  "pos": "名词",
+  "gloss": "过拟合"
+ },
+ {
+  "word": "regularization",
+  "pos": "名词",
+  "gloss": "正则化；规则化"
+ },
+ {
+  "word": "annotation",
+  "pos": "名词",
+  "gloss": "标注；注释"
+ },
+ {
+  "word": "coding",
+  "pos": "名词",
+  "gloss": "编码（质性研究中的编码过程）"
+ }
+]

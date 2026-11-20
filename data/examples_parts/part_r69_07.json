@@ -1,0 +1,310 @@
+{
+  "CONSORT": [
+    {
+      "en": "Trial reports must follow the CONSORT statement to support transparent assessment of methods.",
+      "zh": "试验报告必须遵循 CONSORT 声明，以支持对研究方法的透明评估。"
+    },
+    {
+      "en": "Reviewers asked authors to submit a CONSORT flow diagram alongside the trial registry identifier.",
+      "zh": "审稿人要求作者在投稿时附上 CONSORT 流程图与试验注册标识。"
+    },
+    {
+      "en": "Journal editors cited CONSORT as the basis for checking whether outcome definitions were reported consistently.",
+      "zh": "期刊编辑以 CONSORT 为依据，核查各结局指标的定义是否报告得一致。"
+    }
+  ],
+  "STROBE": [
+    {
+      "en": "Cohort papers should follow the STROBE statement when describing participant selection and outcome measures.",
+      "zh": "队列研究论文在描述受试者选择与结局指标时应遵循 STROBE 声明。"
+    },
+    {
+      "en": "The STROBE checklist helped reviewers locate biases in the retrospective analysis of hospital records.",
+      "zh": "STROBE 清单帮助审稿人发现了该回顾性病历分析中的偏倚。"
+    },
+    {
+      "en": "Authors explained how their cohort design met each STROBE item that applied to observational research.",
+      "zh": "作者说明其队列设计如何满足适用于观察性研究的每一项 STROBE 条目。"
+    }
+  ],
+  "standard error": [
+    {
+      "en": "The reported standard error grew as the sample size within each subgroup declined.",
+      "zh": "各亚组样本量下降时，报告的标准误随之增大。"
+    },
+    {
+      "en": "Confidence intervals were derived from the standard error of the estimated mean difference.",
+      "zh": "置信区间由均值差估计值的标准误推得。"
+    },
+    {
+      "en": "Rounding the standard error upward made the reported effect appear less precise than it was.",
+      "zh": "将标准误向上取整会使所报告效应的精确度显得低于实际水平。"
+    }
+  ],
+  "covariance": [
+    {
+      "en": "Covariance between the two markers was positive, indicating that their concentrations tended to move together.",
+      "zh": "两种标志物之间的协方差为正，表明其浓度往往同向变化。"
+    },
+    {
+      "en": "Ignoring covariance between the variables distorted the estimated variance of their sum.",
+      "zh": "忽略变量间的协方差会使其总和的估计方差失真。"
+    },
+    {
+      "en": "Positive covariance between rainfall and yields indicates that the two variables tend to move together.",
+      "zh": "降雨与产量之间的正协方差表明，这两个变量往往同向变化。"
+    }
+  ],
+  "heteroskedasticity": [
+    {
+      "en": "Heteroskedasticity in the residuals invalidates the usual standard errors of the regression coefficients.",
+      "zh": "残差中的异方差性使得回归系数的常规标准误失效。"
+    },
+    {
+      "en": "Heteroskedasticity-robust estimators were reported because the variance of the errors differed across groups.",
+      "zh": "由于误差方差在不同组间确有差异，研究报告了异方差稳健估计量。"
+    },
+    {
+      "en": "Plots of squared residuals against fitted values helped diagnose heteroskedasticity before any formal test.",
+      "zh": "以平方残差对拟合值作图，可在任何正式检验之前诊断异方差性。"
+    }
+  ],
+  "autocorrelation": [
+    {
+      "en": "Autocorrelation in the residual series inflated the apparent precision of the estimated trend.",
+      "zh": "残差序列中的自相关夸大了所估计趋势的表观精确度。"
+    },
+    {
+      "en": "Positive autocorrelation in annual rainfall implies that wet years tend to follow wet years.",
+      "zh": "年降水量的正自相关意味着多雨年份往往接续出现。"
+    },
+    {
+      "en": "The model was refitted with an autocorrelation term to account for dependence among successive observations.",
+      "zh": "模型重新拟合并加入自相关项，以处理相继观测之间的依赖性。"
+    }
+  ],
+  "missing data": [
+    {
+      "en": "Missing data were handled with multiple imputation rather than by deleting incomplete cases.",
+      "zh": "数据缺失采用多重插补处理，而非直接删除不完整个案。"
+    },
+    {
+      "en": "A sensitivity analysis examined how strongly the missing data mechanism had to depend on unobserved values to change the conclusions.",
+      "zh": "一项敏感性分析考察了数据缺失机制须在多大程度上依赖未观测值，才会改变结论。"
+    },
+    {
+      "en": "Reporting the amount of missing data for each variable is now expected by most journals.",
+      "zh": "报告各变量的数据缺失量如今已成为多数期刊的要求。"
+    }
+  ],
+  "bootstrap": [
+    {
+      "en": "We bootstrap the standard error of the estimated effect to obtain a bias-corrected interval.",
+      "zh": "我们以自助法重抽样估计效应量的标准误，从而得到偏差校正区间。"
+    },
+    {
+      "en": "Researchers bootstrap the sampling distribution when the analytical form of the estimator is unknown.",
+      "zh": "当估计量的解析形式未知时，研究者以自助法重抽样获得抽样分布。"
+    },
+    {
+      "en": "Bootstrapping the model-selection procedure revealed how unstable the ranking of models was.",
+      "zh": "对模型选择过程进行自助抽样，揭示了模型排序的不稳定性。"
+    }
+  ],
+  "permutation": [
+    {
+      "en": "A permutation test provides an exact p value when the sampling distribution cannot be derived analytically.",
+      "zh": "当抽样分布无法解析导出时，置换检验可给出精确的 p 值。"
+    },
+    {
+      "en": "Permutation of the group labels was repeated many times to build a null distribution.",
+      "zh": "通过对组别标签进行置换并多次重复，构建了零分布。"
+    },
+    {
+      "en": "The permutation scheme preserves the exchangeability assumption that the test relies upon.",
+      "zh": "该置换方案保留了检验所依赖的可交换性假设。"
+    }
+  ],
+  "degrees of freedom": [
+    {
+      "en": "Reducing the number of covariates gives the regression more degrees of freedom.",
+      "zh": "减少协变量数量可为回归模型提供更多自由度。"
+    },
+    {
+      "en": "The reported standard error was adjusted for the degrees of freedom lost by the restriction.",
+      "zh": "报告的标准误已就因约束而损失的自由度作了调整。"
+    },
+    {
+      "en": "Simulation results depended strongly on the degrees of freedom assumed for each variance component.",
+      "zh": "模拟结果显著依赖于为各方差成分所假定的自由度。"
+    }
+  ],
+  "chi-square": [
+    {
+      "en": "A chi-square test of independence revealed no significant association between treatment group and recovery time.",
+      "zh": "独立性卡方检验显示治疗组别与恢复时间之间无显著关联。"
+    },
+    {
+      "en": "The chi-square statistic was unreliable because several cells contained very few observations.",
+      "zh": "由于若干单元格观测数极少，卡方统计量并不可靠。"
+    },
+    {
+      "en": "Expected counts must be checked before a chi-square approximation is trusted for sparse tables.",
+      "zh": "在稀疏表中依赖卡方近似之前，必须先检验期望频数。"
+    }
+  ],
+  "Monte Carlo": [
+    {
+      "en": "A Monte Carlo simulation was used to check whether the estimator was biased under a heavy-tailed distribution.",
+      "zh": "研究采用蒙特卡洛模拟检验估计量在重尾分布下是否有偏。"
+    },
+    {
+      "en": "The Monte Carlo error decreased as the number of simulated replications grew.",
+      "zh": "随着模拟重复次数增加，蒙特卡洛误差随之减小。"
+    },
+    {
+      "en": "Monte Carlo integration gave stable estimates of the expected value for the model.",
+      "zh": "蒙特卡洛积分为该模型的期望值给出了稳定的估计。"
+    }
+  ],
+  "median": [
+    {
+      "en": "The median of the response times was lower than the mean because a few observations were extremely large.",
+      "zh": "响应时间的中位数低于均值，因为少数观测值极大。"
+    },
+    {
+      "en": "Report the median together with the interquartile range when the distribution is skewed.",
+      "zh": "当分布偏斜时，应将中位数与四分位距一并报告。"
+    },
+    {
+      "en": "A median regression was preferred to least squares because the residuals showed several outliers.",
+      "zh": "由于残差中存在若干离群值，研究采用中位数回归而非最小二乘。"
+    }
+  ],
+  "quartile": [
+    {
+      "en": "The lower quartile of response times was under two seconds, indicating that at least a quarter of patients responded quickly.",
+      "zh": "反应时间的下四分位数低于两秒，表明至少四分之一的患者反应迅速。"
+    },
+    {
+      "en": "Values above the upper quartile were inspected for recording errors before analysis continued.",
+      "zh": "分析继续之前，研究核查了高于上四分位数的数值以排除记录错误。"
+    },
+    {
+      "en": "Each quartile of the sample received a different level of the intervention.",
+      "zh": "样本的每个四分位组接受了不同强度的干预。"
+    }
+  ],
+  "percentile": [
+    {
+      "en": "The ninetieth percentile of waiting time was reported to describe the burden on the service.",
+      "zh": "报告等待时间的第九十百分位数，用以刻画服务负担。"
+    },
+    {
+      "en": "Percentile curves by age group allow readers to locate an individual's position within the distribution.",
+      "zh": "按年龄组绘制的百分位曲线便于读者确定个体在分布中的位置。"
+    },
+    {
+      "en": "A percentile bootstrap interval was preferred over the normal approximation for skewed outcomes.",
+      "zh": "对偏斜结局，研究偏好采用百分位自助法区间而非正态近似。"
+    }
+  ],
+  "recall": [
+    {
+      "en": "Recall measures the proportion of actual positive cases that the classifier correctly identifies.",
+      "zh": "召回率衡量全部实际阳性个案中被分类器正确识别者所占的比例。"
+    },
+    {
+      "en": "A low recall for the minority class led the team to reweight the training examples.",
+      "zh": "少数类别的召回率偏低，促使团队对训练样本重新赋权。"
+    },
+    {
+      "en": "Precision and recall were reported together because either metric alone can be misleading.",
+      "zh": "精确率与召回率一并报告，因为单看任一指标都可能产生误导。"
+    }
+  ],
+  "confusion matrix": [
+    {
+      "en": "The confusion matrix for the diagnostic classifier was computed on an independent holdout sample.",
+      "zh": "该诊断分类器的混淆矩阵是在独立留出样本上计算的。"
+    },
+    {
+      "en": "Rows of the confusion matrix represent actual classes while columns represent predicted labels.",
+      "zh": "混淆矩阵的行表示实际类别，列表示预测标签。"
+    },
+    {
+      "en": "Reading a confusion matrix showed that most of the errors fell into one particular cell.",
+      "zh": "阅读混淆矩阵可见，多数错误集中于某一个单元格。"
+    }
+  ],
+  "ground truth": [
+    {
+      "en": "The annotation team compared its labels with the ground truth produced by expert pathologists.",
+      "zh": "标注团队将其标签与专家病理医师给出的真值进行了比较。"
+    },
+    {
+      "en": "Any evaluation of a classifier against ground truth is affected by errors in that reference labeling.",
+      "zh": "任何依据真值开展的分类器评估都会受到参考标注错误的影响。"
+    },
+    {
+      "en": "Establishing ground truth for the historical photographs required lengthy correspondence with archives.",
+      "zh": "为这些历史照片确立真值，需要与档案馆长期通信。"
+    }
+  ],
+  "overfitting": [
+    {
+      "en": "Repeated model selection on the same data risks overfitting to the quirks of that sample.",
+      "zh": "在同一数据上反复进行模型选择，会有对样本特征过拟合的风险。"
+    },
+    {
+      "en": "Cross-validation was introduced to detect overfitting before the model was deployed.",
+      "zh": "在模型部署之前引入交叉验证，用以检测过拟合。"
+    },
+    {
+      "en": "The gap between training and test performance suggested mild overfitting in the deeper architecture.",
+      "zh": "训练表现与测试表现之间的差距提示较深的网络存在轻度过拟合。"
+    }
+  ],
+  "regularization": [
+    {
+      "en": "Ridge regularization shrinks the coefficients and reduces the variance of the fitted model.",
+      "zh": "岭回归的正则化收缩系数并降低拟合模型的方差。"
+    },
+    {
+      "en": "Regularization strength was chosen by nested cross-validation to avoid optimistic performance estimates.",
+      "zh": "正则化强度通过嵌套交叉验证选定，以避免乐观的性能估计。"
+    },
+    {
+      "en": "The penalty term acts as regularization and discourages the model from fitting noise.",
+      "zh": "该惩罚项起到正则化作用，抑制模型去拟合噪声。"
+    }
+  ],
+  "annotation": [
+    {
+      "en": "Two coders worked independently on the annotation of each transcript before comparing their decisions.",
+      "zh": "两名编码者先独立完成每份转录稿的标注，再比较各自的判断。"
+    },
+    {
+      "en": "Annotation guidelines were revised after the pilot study exposed inconsistent labeling of emotion.",
+      "zh": "预研究暴露出情感标注不一致后，标注指南作了修订。"
+    },
+    {
+      "en": "The annotation interface let reviewers attach free-text comments to each coded segment.",
+      "zh": "标注界面允许审阅者为每个已编码片段添加自由文本批注。"
+    }
+  ],
+  "coding": [
+    {
+      "en": "Open coding was applied to the interview transcripts before any thematic categories were defined.",
+      "zh": "在界定任何主题类别之前，先对访谈转录稿进行开放式编码。"
+    },
+    {
+      "en": "Axial coding then linked the initial codes into broader categories that shaped the final framework.",
+      "zh": "主轴编码随后把初始编码联结为更宽泛的类别，从而塑造了最终框架。"
+    },
+    {
+      "en": "The coding process proceeded in two passes, and the team documented each decision in the audit trail.",
+      "zh": "编码过程分两轮进行，团队将每一项决定都记录在审计轨迹之中。"
+    }
+  ]
+}

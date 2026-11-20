@@ -1,0 +1,607 @@
+[
+ {
+  "word": "variance",
+  "reg": "书面语",
+  "reason": "统计学专门术语：方差，描述数据围绕均值的离散程度"
+ },
+ {
+  "word": "taxonomy",
+  "reg": "书面语",
+  "reason": "分类学专门术语：分类法、类目体系"
+ },
+ {
+  "word": "corpus",
+  "reg": "书面语",
+  "reason": "语言学与计算语言学专门术语：语料库"
+ },
+ {
+  "word": "legislation",
+  "reg": "书面语",
+  "reason": "法学专门术语：立法、法规条文"
+ },
+ {
+  "word": "notation",
+  "reg": "书面语",
+  "reason": "数学与化学专门术语：记号体系、标记法"
+ },
+ {
+  "word": "throughput",
+  "reg": "书面语",
+  "reason": "计算机系统专门术语：吞吐量、处理能力"
+ },
+ {
+  "word": "heterogeneous",
+  "reg": "书面语",
+  "reason": "统计学与材料学专门术语：异质的、均质性对立面"
+ },
+ {
+  "word": "homogeneous",
+  "reg": "书面语",
+  "reason": "生物学与材料学专门术语：同质的、均质的"
+ },
+ {
+  "word": "methodological",
+  "reg": "书面语",
+  "reason": "研究方法专门术语：方法论层面的"
+ },
+ {
+  "word": "deterministic",
+  "reg": "书面语",
+  "reason": "计算机与物理学专门术语：确定性的、无随机性的"
+ },
+ {
+  "word": "observational",
+  "reg": "书面语",
+  "reason": "研究设计专门术语：观察性研究（observational study）"
+ },
+ {
+  "word": "cross-sectional",
+  "reg": "书面语",
+  "reason": "流行病学专门术语：横断面调查的"
+ },
+ {
+  "word": "case-control",
+  "reg": "书面语",
+  "reason": "流行病学专门术语：病例对照研究"
+ },
+ {
+  "word": "mixed-method",
+  "reg": "书面语",
+  "reason": "研究设计专门术语：混合方法研究设计"
+ },
+ {
+  "word": "pooled",
+  "reg": "书面语",
+  "reason": "统计meta分析专门术语：合并的估计值"
+ },
+ {
+  "word": "prospective",
+  "reg": "书面语",
+  "reason": "临床与流行病学专门术语：前瞻性队列研究"
+ },
+ {
+  "word": "exploratory",
+  "reg": "书面语",
+  "reason": "研究设计专门术语：探索性研究"
+ },
+ {
+  "word": "thematic",
+  "reg": "书面语",
+  "reason": "质性研究专门术语：主题分析（thematic analysis）"
+ },
+ {
+  "word": "interpretive",
+  "reg": "书面语",
+  "reason": "社会科学哲学专门术语：解释性的（与实证主义相对）"
+ },
+ {
+  "word": "normative",
+  "reg": "书面语",
+  "reason": "哲学专门术语：规范性的（含价值判断的陈述）"
+ },
+ {
+  "word": "reflexivity",
+  "reg": "书面语",
+  "reason": "质性研究专门术语：研究者自反性"
+ },
+ {
+  "word": "positionality",
+  "reg": "书面语",
+  "reason": "质性研究专门术语：研究者位置性"
+ },
+ {
+  "word": "heterogeneity",
+  "reg": "书面语",
+  "reason": "统计meta分析专门术语：异质性"
+ },
+ {
+  "word": "incidence",
+  "reg": "书面语",
+  "reason": "流行病学专门术语：发生率"
+ },
+ {
+  "word": "prevalence",
+  "reg": "书面语",
+  "reason": "流行病学专门术语：患病率、流行率"
+ },
+ {
+  "word": "endpoint",
+  "reg": "书面语",
+  "reason": "临床试验专门术语：终点指标"
+ },
+ {
+  "word": "inference",
+  "reg": "书面语",
+  "reason": "统计学专门术语：推断过程与结论"
+ },
+ {
+  "word": "intervention",
+  "reg": "书面语",
+  "reason": "临床试验与公共卫生专门术语：干预措施"
+ },
+ {
+  "word": "outlier",
+  "reg": "书面语",
+  "reason": "统计学专门术语：离群值、异常值"
+ },
+ {
+  "word": "regression",
+  "reg": "书面语",
+  "reason": "统计学专门术语：回归分析"
+ },
+ {
+  "word": "saturation",
+  "reg": "书面语",
+  "reason": "质性研究专门术语：理论饱和"
+ },
+ {
+  "word": "sensitivity",
+  "reg": "书面语",
+  "reason": "统计学与诊断学专门术语：敏感性、灵敏度分析"
+ },
+ {
+  "word": "specificity",
+  "reg": "书面语",
+  "reason": "诊断学与统计学专门术语：特异性"
+ },
+ {
+  "word": "statistic",
+  "reg": "书面语",
+  "reason": "统计学专门术语：统计量"
+ },
+ {
+  "word": "theorem",
+  "reg": "书面语",
+  "reason": "数学专门术语：定理、命题"
+ },
+ {
+  "word": "baseline",
+  "reg": "书面语",
+  "reason": "临床试验与实验设计专门术语：基线值"
+ },
+ {
+  "word": "replication",
+  "reg": "书面语",
+  "reason": "科学方法专门术语：复现、重复验证"
+ },
+ {
+  "word": "reproducibility",
+  "reg": "书面语",
+  "reason": "开放科学专门术语：可复现性"
+ },
+ {
+  "word": "replicability",
+  "reg": "书面语",
+  "reason": "开放科学专门术语：可复现性"
+ },
+ {
+  "word": "generalizability",
+  "reg": "书面语",
+  "reason": "研究方法专门术语：外部效度、可推广性"
+ },
+ {
+  "word": "fidelity",
+  "reg": "书面语",
+  "reason": "心理测量与实施科学专门术语：保真度、忠实度"
+ },
+ {
+  "word": "probability",
+  "reg": "书面语",
+  "reason": "概率论专门术语：概率"
+ },
+ {
+  "word": "causation",
+  "reg": "书面语",
+  "reason": "因果推断专门术语：因果关系"
+ },
+ {
+  "word": "estimation",
+  "reg": "书面语",
+  "reason": "统计学专门术语：估计、估计量"
+ },
+ {
+  "word": "questionnaire",
+  "reg": "书面语",
+  "reason": "调查方法专门术语：问卷、调查表"
+ },
+ {
+  "word": "cohort",
+  "reg": "书面语",
+  "reason": "流行病学专门术语：队列、同期群"
+ },
+ {
+  "word": "follow-up",
+  "reg": "书面语",
+  "reason": "临床与纵向研究专门术语：随访研究"
+ },
+ {
+  "word": "elasticity",
+  "reg": "书面语",
+  "reason": "经济学专门术语：弹性"
+ },
+ {
+  "word": "parameter",
+  "reg": "书面语",
+  "reason": "数学与统计学专门术语：参数、参量"
+ },
+ {
+  "word": "anomaly",
+  "reg": "书面语",
+  "reason": "统计学专门术语：异常值、反常现象"
+ },
+ {
+  "word": "proxy",
+  "reg": "书面语",
+  "reason": "统计学专门术语：代理指标、替代变量"
+ },
+ {
+  "word": "multicollinearity",
+  "reg": "书面语",
+  "reason": "回归诊断专门术语：多重共线性"
+ },
+ {
+  "word": "inferential",
+  "reg": "书面语",
+  "reason": "统计学专门术语：推断统计的"
+ },
+ {
+  "word": "covariate",
+  "reg": "书面语",
+  "reason": "统计学专门术语：协变量、伴随变量"
+ },
+ {
+  "word": "stratum",
+  "reg": "书面语",
+  "reason": "抽样技术专门术语：抽样层"
+ },
+ {
+  "word": "sampling",
+  "reg": "书面语",
+  "reason": "统计学专门术语：抽样、采样方法"
+ },
+ {
+  "word": "attrition",
+  "reg": "书面语",
+  "reason": "纵向研究专门术语：样本流失、流失率"
+ },
+ {
+  "word": "dropout",
+  "reg": "书面语",
+  "reason": "试验研究专门术语：脱落（研究脱落）"
+ },
+ {
+  "word": "confounding",
+  "reg": "书面语",
+  "reason": "流行病学专门术语：混杂（混杂因素的作用）"
+ },
+ {
+  "word": "confounder",
+  "reg": "书面语",
+  "reason": "流行病学专门术语：混杂变量"
+ },
+ {
+  "word": "mediator",
+  "reg": "书面语",
+  "reason": "中介效应分析专门术语：中介变量"
+ },
+ {
+  "word": "mediation",
+  "reg": "书面语",
+  "reason": "中介效应分析专门术语：中介作用"
+ },
+ {
+  "word": "mediating",
+  "reg": "书面语",
+  "reason": "中介效应分析专门术语：起中介作用的"
+ },
+ {
+  "word": "moderator",
+  "reg": "书面语",
+  "reason": "调节效应分析专门术语：调节变量"
+ },
+ {
+  "word": "moderation",
+  "reg": "书面语",
+  "reason": "调节效应分析专门术语：调节作用"
+ },
+ {
+  "word": "endogeneity",
+  "reg": "书面语",
+  "reason": "计量经济学专门术语：内生性、内生偏差"
+ },
+ {
+  "word": "propensity",
+  "reg": "书面语",
+  "reason": "因果推断专门术语：倾向得分"
+ },
+ {
+  "word": "placebo",
+  "reg": "书面语",
+  "reason": "临床试验专门术语：安慰剂对照"
+ },
+ {
+  "word": "blinding",
+  "reg": "书面语",
+  "reason": "临床试验专门术语：盲法、盲评"
+ },
+ {
+  "word": "allocation",
+  "reg": "书面语",
+  "reason": "随机对照试验专门术语：随机分配"
+ },
+ {
+  "word": "effect size",
+  "reg": "书面语",
+  "reason": "统计学专门术语：效应量"
+ },
+ {
+  "word": "meta-analysis",
+  "reg": "书面语",
+  "reason": "循证医学专门术语：元分析、荟萃分析"
+ },
+ {
+  "word": "preregistration",
+  "reg": "书面语",
+  "reason": "开放科学专门术语：研究方案预注册"
+ },
+ {
+  "word": "triangulation",
+  "reg": "书面语",
+  "reason": "方法学专门术语：三角互证"
+ },
+ {
+  "word": "operationalization",
+  "reg": "书面语",
+  "reason": "研究方法专门术语：概念的操作化"
+ },
+ {
+  "word": "operationalize",
+  "reg": "书面语",
+  "reason": "研究方法专门术语：把概念转化为可测量指标"
+ },
+ {
+  "word": "impute",
+  "reg": "书面语",
+  "reason": "缺失数据处理专门术语：插补、用估计值填补"
+ },
+ {
+  "word": "stratify",
+  "reg": "书面语",
+  "reason": "抽样技术专门术语：分层、按层划分"
+ },
+ {
+  "word": "posit",
+  "reg": "书面语",
+  "reason": "科学哲学专门术语：设定并主张（posit a hypothesis）"
+ },
+ {
+  "word": "disaggregate",
+  "reg": "书面语",
+  "reason": "统计与政策分析专门术语：分解数据"
+ },
+ {
+  "word": "regress",
+  "reg": "书面语",
+  "reason": "统计学专门术语：回归分析"
+ },
+ {
+  "word": "confound",
+  "reg": "书面语",
+  "reason": "研究设计专门术语：使两因素混杂而无法区分"
+ },
+ {
+  "word": "falsify",
+  "reg": "书面语",
+  "reason": "科学哲学专门术语：证伪"
+ },
+ {
+  "word": "elicit",
+  "reg": "书面语",
+  "reason": "访谈与问卷方法专门术语：引出回答、征询"
+ },
+ {
+  "word": "saturate",
+  "reg": "书面语",
+  "reason": "质性研究专门术语：达到理论饱和"
+ },
+ {
+  "word": "algorithm",
+  "reg": "书面语",
+  "reason": "计算机科学专门术语：算法"
+ },
+ {
+  "word": "normalize",
+  "reg": "书面语",
+  "reason": "统计学专门术语：归一化、标准化"
+ },
+ {
+  "word": "standardize",
+  "reg": "书面语",
+  "reason": "测量学与统计专门术语：使标准化（标准化测验）"
+ },
+ {
+  "word": "utilize",
+  "reg": "书面语",
+  "reason": "正式书面语体用词：利用、运用（书面语色彩强于 use）"
+ },
+ {
+  "word": "substantiate",
+  "reg": "书面语",
+  "reason": "正式书面语体用词：用证据证实、佐证"
+ },
+ {
+  "word": "preclude",
+  "reg": "书面语",
+  "reason": "正式书面语体用词：排除、排除可能性"
+ },
+ {
+  "word": "hence",
+  "reg": "书面语",
+  "reason": "正式书面语体连接词：因此、由此"
+ },
+ {
+  "word": "thus",
+  "reg": "书面语",
+  "reason": "正式书面语体连接词：因此、从而"
+ },
+ {
+  "word": "thereby",
+  "reg": "书面语",
+  "reason": "正式书面语体连接词：从而、借此"
+ },
+ {
+  "word": "post hoc",
+  "reg": "书面语",
+  "reason": "统计学与哲学正式术语：事后（事后检验、事后分析）"
+ },
+ {
+  "word": "per se",
+  "reg": "书面语",
+  "reason": "拉丁语正式书面用语：本身、就其本身而言"
+ },
+ {
+  "word": "inter alia",
+  "reg": "书面语",
+  "reason": "拉丁语正式文书用语：其中包括"
+ },
+ {
+  "word": "vice versa",
+  "reg": "书面语",
+  "reason": "拉丁语源正式书面用语：反之亦然"
+ },
+ {
+  "word": "as such",
+  "reg": "书面语",
+  "reason": "正式书面用语：就其本身而言"
+ },
+ {
+  "word": "in light of",
+  "reg": "书面语",
+  "reason": "正式书面语体介词短语：鉴于、考虑到"
+ },
+ {
+  "word": "on the basis of",
+  "reg": "书面语",
+  "reason": "正式书面语体介词短语：基于、根据"
+ },
+ {
+  "word": "bias",
+  "reg": "书面语",
+  "reason": "统计学专门术语：估计偏差、系统性偏差"
+ },
+ {
+  "word": "distribution",
+  "reg": "书面语",
+  "reason": "统计学专门术语：分布（如正态分布）"
+ },
+ {
+  "word": "correlation",
+  "reg": "书面语",
+  "reason": "统计学专门术语：相关系数所刻画的量"
+ },
+ {
+  "word": "deviation",
+  "reg": "书面语",
+  "reason": "统计学专门术语：离差、标准差"
+ },
+ {
+  "word": "threshold",
+  "reg": "书面语",
+  "reason": "统计学与工程学专门术语：阈值、临界值"
+ },
+ {
+  "word": "robustness",
+  "reg": "书面语",
+  "reason": "统计学与机器学习专门术语：稳健性（结论对设定变化不敏感）"
+ },
+ {
+  "word": "dataset",
+  "reg": "书面语",
+  "reason": "数据管理与统计学专门术语：数据集"
+ },
+ {
+  "word": "retrospective",
+  "reg": "书面语",
+  "reason": "临床与流行病学专门术语：回顾性的、回溯性研究"
+ },
+ {
+  "word": "fieldwork",
+  "reg": "书面语",
+  "reason": "人类学与质性研究专门术语：田野调查"
+ },
+ {
+  "word": "literature review",
+  "reg": "书面语",
+  "reason": "研究方法专门术语：文献综述"
+ },
+ {
+  "word": "grounded theory",
+  "reg": "书面语",
+  "reason": "质性研究专门术语：扎根理论"
+ },
+ {
+  "word": "case study",
+  "reg": "书面语",
+  "reason": "研究方法专门术语：个案研究"
+ },
+ {
+  "word": "plagiarism",
+  "reg": "书面语",
+  "reason": "学术诚信与著作权专门术语：剽窃、抄袭"
+ },
+ {
+  "word": "register",
+  "reg": "书面语",
+  "reason": "语言学专门术语：语域、语体"
+ },
+ {
+  "word": "genre",
+  "reg": "书面语",
+  "reason": "文学研究与语言学专门术语：体裁、文类"
+ },
+ {
+  "word": "discourse",
+  "reg": "书面语",
+  "reason": "话语分析与语言学专门术语：话语、语篇"
+ },
+ {
+  "word": "exposure",
+  "reg": "书面语",
+  "reason": "流行病学专门术语：暴露（暴露于风险因素）"
+ },
+ {
+  "word": "mortality",
+  "reg": "书面语",
+  "reason": "流行病学与人口学专门术语：死亡率"
+ },
+ {
+  "word": "quantification",
+  "reg": "书面语",
+  "reason": "社会测量与统计专门术语：量化"
+ },
+ {
+  "word": "conceptualization",
+  "reg": "书面语",
+  "reason": "质性研究专门术语：概念化、概念建构"
+ }
+]

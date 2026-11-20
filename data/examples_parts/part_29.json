@@ -1,0 +1,562 @@
+{
+ "significance": [
+  {
+   "en": "The significance of the findings for public policy remains widely debated.",
+   "zh": "这些发现对公共政策的重要性仍广受争议。"
+  },
+  {
+   "en": "Researchers must report the statistical significance of every correlation they observe.",
+   "zh": "研究人员必须报告所观察到的每个相关性的统计显著性。"
+  },
+  {
+   "en": "The discovery was of great significance to modern physics.",
+   "zh": "这一发现对现代物理学具有重大意义。"
+  }
+ ],
+ "probability": [
+  {
+   "en": "The probability of receiving funding increases with a longer publication record.",
+   "zh": "发表记录越长，获得资助的可能性就越大。"
+  },
+  {
+   "en": "There is a high probability that the regression estimates are biased.",
+   "zh": "回归估计值存在偏差的可能性很高。"
+  },
+  {
+   "en": "Forecasters assign a probability of forty percent to heavy rainfall tomorrow.",
+   "zh": "预报员认为明天下大雨的概率为 40%。"
+  }
+ ],
+ "publication": [
+  {
+   "en": "Her latest publication examines gender bias in engineering departments.",
+   "zh": "她最新的出版物研究了工程系中的性别偏差。"
+  },
+  {
+   "en": "The findings reached a wide readership upon publication in 2019.",
+   "zh": "这些发现于 2019 年发表后得到了广泛读者的关注。"
+  },
+  {
+   "en": "Publication of the survey results was delayed by a lengthy review.",
+   "zh": "调查结果的发表因漫长的审查而被推迟。"
+  }
+ ],
+ "insight": [
+  {
+   "en": "Field interviews provided valuable insight into student learning strategies.",
+   "zh": "实地访谈为了解学生的学习策略提供了宝贵洞察。"
+  },
+  {
+   "en": "The discussion offers a deeper insight into the causes of inequality.",
+   "zh": "该讨论为深入理解不平等的成因提供了洞见。"
+  },
+  {
+   "en": "Participants gained insight into their own attitudes during the exercise.",
+   "zh": "参与者在这次练习中领悟到了自己的态度。"
+  }
+ ],
+ "formulation": [
+  {
+   "en": "The problem requires a clearer formulation before any solution can be tested.",
+   "zh": "在测试任何解决方案之前，该问题需要更清晰的表述。"
+  },
+  {
+   "en": "Her formulation of the problem challenged assumptions widely held by economists.",
+   "zh": "她对问题的表述挑战了经济学家普遍持有的假设。"
+  },
+  {
+   "en": "The policy formulation process involved consultations in twelve provinces.",
+   "zh": "政策制定过程包括了在 12 个省份开展的咨询。"
+  }
+ ],
+ "contradiction": [
+  {
+   "en": "There is an apparent contradiction between the two theoretical frameworks.",
+   "zh": "这两个理论框架之间存在明显的矛盾。"
+  },
+  {
+   "en": "The contradiction was resolved by repeating the experiment with larger samples.",
+   "zh": "通过用更大样本重复实验，这一矛盾得到了解决。"
+  },
+  {
+   "en": "Notice the contradiction in his argument about market efficiency.",
+   "zh": "注意他关于市场效率的论证中的矛盾之处。"
+  }
+ ],
+ "comparison": [
+  {
+   "en": "The comparison between pretest and posttest scores revealed modest improvement.",
+   "zh": "前测与后测成绩的比较显示出了小幅提升。"
+  },
+  {
+   "en": "A direct comparison with earlier studies is essential for interpretation.",
+   "zh": "与早期研究的直接比较对解读结果至关重要。"
+  },
+  {
+   "en": "The report draws a careful comparison of regional wage trends.",
+   "zh": "该报告对各地区工资趋势作了细致的比较。"
+  }
+ ],
+ "dependence": [
+  {
+   "en": "The results suggest a strong dependence on rainfall during the growing season.",
+   "zh": "结果提示存在对生长季降雨量的强烈依赖。"
+  },
+  {
+   "en": "Excessive dependence on a single supplier creates serious operational risk.",
+   "zh": "过度依赖单一供应商会造成严重的运营风险。"
+  },
+  {
+   "en": "Dependence on imported energy declined after the new agreements took effect.",
+   "zh": "新协议生效后，对进口能源的依赖有所下降。"
+  }
+ ],
+ "causation": [
+  {
+   "en": "Correlation alone does not establish causation between the two variables.",
+   "zh": "仅有相关并不能确立两个变量之间的因果关系。"
+  },
+  {
+   "en": "The experiment was designed to test causation rather than mere association.",
+   "zh": "该实验旨在检验因果关系，而非仅仅检验关联。"
+  },
+  {
+   "en": "Policy makers warned that causation claims need stronger evidence.",
+   "zh": "政策制定者警告说，因果主张需要更有力的证据。"
+  }
+ ],
+ "estimation": [
+  {
+   "en": "Current estimation of the population relied on incomplete census records.",
+   "zh": "目前对该人口的估计依赖于不完整的人口普查记录。"
+  },
+  {
+   "en": "The final estimation of costs exceeded the original budget by half.",
+   "zh": "最终的成本估算比原预算高出一半。"
+  },
+  {
+   "en": "Estimation errors were reduced by repeating the survey twice.",
+   "zh": "通过重复调查两次，估算误差得到了降低。"
+  }
+ ],
+ "prediction": [
+  {
+   "en": "The model generates a reliable prediction of future energy demand.",
+   "zh": "该模型能够对未来的能源需求作出可靠预测。"
+  },
+  {
+   "en": "Her prediction about market recovery proved accurate within six months.",
+   "zh": "她关于市场复苏的预测在六个月内被证明是准确的。"
+  },
+  {
+   "en": "Predictions based on historical averages often fail during unusual years.",
+   "zh": "基于历史平均值的预测在异常年份常常失效。"
+  }
+ ],
+ "citation": [
+  {
+   "en": "Each citation in the review refers to peer-reviewed journal articles.",
+   "zh": "该综述中的每条引文都指向经过同行评审的期刊文章。"
+  },
+  {
+   "en": "The author received a formal citation for distinguished scholarly work.",
+   "zh": "该作者因其杰出的学术工作获得了正式表彰。"
+  },
+  {
+   "en": "Missing citations weakened the argument considerably during peer review.",
+   "zh": "缺失的引注在同行评审中大幅削弱了论证的说服力。"
+  }
+ ],
+ "introduction": [
+  {
+   "en": "The introduction outlines the research problem and its practical significance.",
+   "zh": "引言概述了研究问题及其实际意义。"
+  },
+  {
+   "en": "The introduction of the new policy transformed the entire department.",
+   "zh": "新政策的引入彻底改变了整个部门。"
+  },
+  {
+   "en": "An introduction to the method appears at the end of the chapter.",
+   "zh": "本章末尾附有对该方法的介绍。"
+  }
+ ],
+ "summary": [
+  {
+   "en": "The summary captures the main argument in fewer than two hundred words.",
+   "zh": "摘要用不到 200 字概括了主要论点。"
+  },
+  {
+   "en": "Please provide a short summary of the survey findings by Friday.",
+   "zh": "请在周五之前提供调查结果的简要总结。"
+  },
+  {
+   "en": "The executive summary was written for readers without technical training.",
+   "zh": "这份执行摘要是为缺乏技术背景的读者撰写的。"
+  }
+ ],
+ "background": [
+  {
+   "en": "The background of the study explains how the research question emerged.",
+   "zh": "研究背景说明了这一研究问题是如何产生的。"
+  },
+  {
+   "en": "Applicants must provide a detailed background of their previous experience.",
+   "zh": "申请人必须详细说明以往经历。"
+  },
+  {
+   "en": "The historical background reveals patterns that repeat across centuries.",
+   "zh": "历史背景揭示了跨越数个世纪反复出现的模式。"
+  }
+ ],
+ "instrument": [
+  {
+   "en": "The questionnaire was validated as a reliable research instrument.",
+   "zh": "该问卷已被验证为一份可靠的研究工具。"
+  },
+  {
+   "en": "This measurement instrument records temperature with remarkable precision.",
+   "zh": "这台测量仪器以极高的精度记录温度。"
+  },
+  {
+   "en": "Researchers adapted the instrument for use with younger participants.",
+   "zh": "研究者调整了该工具，以便用于年龄更小的参与者。"
+  }
+ ],
+ "respondent": [
+  {
+   "en": "Each respondent received a small incentive for completing the survey.",
+   "zh": "每位受访者因完成问卷而获得了一点小奖励。"
+  },
+  {
+   "en": "Respondents who skipped the income question were excluded from analysis.",
+   "zh": "跳过收入问题的受访者被排除在分析之外。"
+  },
+  {
+   "en": "One respondent described the experience as transformative and surprisingly pleasant.",
+   "zh": "一位受访者形容这段经历带来了深刻转变，而且出人意料地愉快。"
+  }
+ ],
+ "participant": [
+  {
+   "en": "Each participant attended an orientation session before the trials began.",
+   "zh": "每位参与者在实验开始前都参加了说明会。"
+  },
+  {
+   "en": "Participants were randomly assigned to either the control or treatment group.",
+   "zh": "参与者被随机分配到对照组或处理组。"
+  },
+  {
+   "en": "Compensation helped every participant finish the lengthy task on time.",
+   "zh": "报酬帮助每位参与者按时完成了冗长的任务。"
+  }
+ ],
+ "survey": [
+  {
+   "en": "The survey revealed widespread dissatisfaction with the current delivery service.",
+   "zh": "调查揭示了人们对当前配送服务的普遍不满。"
+  },
+  {
+   "en": "A follow-up survey measured whether attitudes changed after the intervention.",
+   "zh": "一项后续调查测量了干预之后态度是否发生变化。"
+  },
+  {
+   "en": "Results from the national survey were published without a full dataset.",
+   "zh": "全国调查的结果在未附完整数据集的情况下发表了。"
+  }
+ ],
+ "questionnaire": [
+  {
+   "en": "The questionnaire contained twenty closed questions on customer satisfaction.",
+   "zh": "该问卷包含 20 道关于顾客满意度的封闭式问题。"
+  },
+  {
+   "en": "Pilot testing revealed that several questionnaire items were ambiguous.",
+   "zh": "预试显示问卷中有若干题目含义模糊。"
+  },
+  {
+   "en": "All participants completed the questionnaire within fifteen minutes.",
+   "zh": "所有参与者都在 15 分钟内完成了问卷。"
+  }
+ ],
+ "cohort": [
+  {
+   "en": "The 1980 cohort reported significantly higher rates of job stability.",
+   "zh": "1980 年出生的队列报告了明显更高的职业稳定率。"
+  },
+  {
+   "en": "Each cohort of students followed a similar curriculum during that decade.",
+   "zh": "在那 10 年里，每一个学生队列都遵循相似的课程设置。"
+  },
+  {
+   "en": "Researchers compared outcomes across three age cohorts in the sample.",
+   "zh": "研究者比较了样本中三个年龄队列的结果。"
+  }
+ ],
+ "treatment": [
+  {
+   "en": "The treatment group received the new medication for eight weeks.",
+   "zh": "处理组连续八周接受了这种新药。"
+  },
+  {
+   "en": "Careful treatment of the samples preserved their chemical properties.",
+   "zh": "对样本的妥善处理保留了其化学特性。"
+  },
+  {
+   "en": "The treatment effects remained stable even after controlling for age.",
+   "zh": "即使控制年龄变量，处理效应仍然保持稳定。"
+  }
+ ],
+ "iteration": [
+  {
+   "en": "The third iteration of the design reduced costs by nearly a third.",
+   "zh": "该设计的第三次迭代将成本降低了近三分之一。"
+  },
+  {
+   "en": "Each iteration of the algorithm improves accuracy on noisy data sets.",
+   "zh": "算法的每一次迭代都能提高在含噪数据集上的准确率。"
+  },
+  {
+   "en": "Rapid iteration allowed the team to respond quickly to user feedback.",
+   "zh": "快速的迭代使团队能够迅速回应用户反馈。"
+  }
+ ],
+ "proposition": [
+  {
+   "en": "The central proposition of the paper challenges conventional economic theory.",
+   "zh": "该论文的核心命题挑战了传统经济理论。"
+  },
+  {
+   "en": "Every argument rests on a proposition that requires separate justification.",
+   "zh": "每一个论证都建立在一个需要单独给出依据的命题之上。"
+  },
+  {
+   "en": "The experiment was designed to test a falsifiable proposition clearly.",
+   "zh": "该实验旨在清晰地检验一个可证伪的命题。"
+  }
+ ],
+ "constituent": [
+  {
+   "en": "Several variables are constituents of the standard vulnerability index.",
+   "zh": "若干变量是标准脆弱性指数的构成要素。"
+  },
+  {
+   "en": "Each constituent part of the composite index was weighted separately.",
+   "zh": "综合指数的每一个组成部分都被单独赋予权重。"
+  },
+  {
+   "en": "Hydrogen is a constituent element of water and organic molecules.",
+   "zh": "氢是水和有机分子的组成元素。"
+  }
+ ],
+ "periphery": [
+  {
+   "en": "Rural communities on the periphery received little government investment.",
+   "zh": "处于边缘的农村社区很少得到政府投资。"
+  },
+  {
+   "en": "The country remained firmly at the periphery of European negotiations.",
+   "zh": "该国始终处于欧洲谈判的边缘地位。"
+  },
+  {
+   "en": "Those issues have long occupied the periphery of academic debate.",
+   "zh": "那些问题长期以来处于学术辩论的边缘。"
+  }
+ ],
+ "elasticity": [
+  {
+   "en": "Demand elasticity increased sharply after the product became more widely available.",
+   "zh": "该产品变得更加普及之后，需求弹性明显上升。"
+  },
+  {
+   "en": "The material retains considerable elasticity even at low temperatures.",
+   "zh": "即使在低温下，这种材料仍保持相当好的弹性。"
+  },
+  {
+   "en": "Elasticity of labor supply varies considerably between regions and sectors.",
+   "zh": "劳动供给的弹性在不同地区和行业之间差异很大。"
+  }
+ ],
+ "workload": [
+  {
+   "en": "The workload increased sharply without a corresponding rise in staffing.",
+   "zh": "工作量大幅增加，而人员编制并未相应增加。"
+  },
+  {
+   "en": "Nurses reported excessive workload and frequent burnout after the reorganization.",
+   "zh": "重组之后，护士们反映工作量过大、频繁出现职业倦怠。"
+  },
+  {
+   "en": "The team reduced its workload by automating routine reporting tasks.",
+   "zh": "该团队通过将常规报告任务自动化来减轻工作量。"
+  }
+ ],
+ "applicable": [
+  {
+   "en": "These findings are applicable to schools in rural districts.",
+   "zh": "这些发现适用于农村地区的学校。"
+  },
+  {
+   "en": "The rule applies only where applicable regulations have been formally adopted.",
+   "zh": "只有在相应法规正式通过的地方，该规则才适用。"
+  },
+  {
+   "en": "Findings from the pilot study may not be applicable in larger organizations.",
+   "zh": "试点研究的结果在规模更大的组织中可能并不适用。"
+  }
+ ],
+ "deterministic": [
+  {
+   "en": "The deterministic model produces the same output for identical inputs.",
+   "zh": "该确定性模型对相同的输入产生相同的结果。"
+  },
+  {
+   "en": "Real biological systems are rarely deterministic at the molecular level.",
+   "zh": "真实的生物系统在分子层面很少是确定性的。"
+  },
+  {
+   "en": "A deterministic approach simplifies analysis but ignores environmental uncertainty.",
+   "zh": "确定性方法简化了分析，但忽视了环境的不确定性。"
+  }
+ ],
+ "fundamental": [
+  {
+   "en": "Access to clean water remains a fundamental right under international law.",
+   "zh": "根据国际法，获得清洁水源仍是一项基本权利。"
+  },
+  {
+   "en": "The study questions a fundamental assumption behind the standard economic model.",
+   "zh": "该研究质疑了标准经济模型背后的一个基本假设。"
+  },
+  {
+   "en": "Such a change would require a fundamental reorganization of the department.",
+   "zh": "这样的变革需要对该部门进行根本性重组。"
+  }
+ ],
+ "meaningful": [
+  {
+   "en": "The discussion generated several meaningful insights into rural employment patterns.",
+   "zh": "该讨论就农村就业模式提出了若干有意义的见解。"
+  },
+  {
+   "en": "Teachers reported meaningful improvement in student writing after two terms.",
+   "zh": "教师们反映，经过两个学期后学生写作水平有了明显的改善。"
+  },
+  {
+   "en": "Without adequate funding the project produced no meaningful result.",
+   "zh": "缺乏充足资金，该项目没有取得有意义的成果。"
+  }
+ ],
+ "multidimensional": [
+  {
+   "en": "Poverty is a multidimensional problem that requires coordinated intervention.",
+   "zh": "贫困是一个多维度的问题，需要协调一致的干预措施。"
+  },
+  {
+   "en": "The model captures multidimensional relationships among several measured variables.",
+   "zh": "该模型捕捉了多个测量变量之间的多维关系。"
+  },
+  {
+   "en": "Urban housing quality is a multidimensional concept assessed by several indicators.",
+   "zh": "城市住房质量是一个通过若干指标来评估的多维概念。"
+  }
+ ],
+ "operational": [
+  {
+   "en": "The laboratory lacks the operational capacity to process all samples.",
+   "zh": "该实验室缺乏处理全部样本的运行能力。"
+  },
+  {
+   "en": "Operational costs increased after the new regulations took effect.",
+   "zh": "新规定生效后，运营成本上升了。"
+  },
+  {
+   "en": "The database remains fully operational despite the recent network failure.",
+   "zh": "尽管最近发生网络故障，该数据库仍完全正常运行。"
+  }
+ ],
+ "systemic": [
+  {
+   "en": "Climate change represents a systemic risk to global financial markets.",
+   "zh": "气候变化对全球金融市场构成系统性风险。"
+  },
+  {
+   "en": "The report highlights systemic inequalities embedded in the welfare system.",
+   "zh": "该报告强调福利制度中嵌入的系统性不平等。"
+  },
+  {
+   "en": "Systemic failure in one supplier could affect the entire production chain.",
+   "zh": "某一供应商的系统性故障可能影响整条生产链。"
+  }
+ ],
+ "unified": [
+  {
+   "en": "The agency adopted a unified policy for handling all research requests.",
+   "zh": "该机构采用了一套统一的政策来处理所有研究申请。"
+  },
+  {
+   "en": "A unified framework allows researchers to compare results across diverse disciplines.",
+   "zh": "统一的框架使研究者能够比较不同学科的结果。"
+  },
+  {
+   "en": "Participants reported a more unified sense of identity after the program.",
+   "zh": "参与者在项目结束后报告了更为一致的认同感。"
+  }
+ ],
+ "random": [
+  {
+   "en": "The sample included a random selection of households from three provinces.",
+   "zh": "样本包括从三个省份随机抽取的家庭户。"
+  },
+  {
+   "en": "Random assignment ensured that groups differed only in the treatment.",
+   "zh": "随机分配确保各组之间仅在处理上存在差异。"
+  },
+  {
+   "en": "Errors in the data were introduced deliberately at random intervals.",
+   "zh": "数据中的错误是以随机间隔故意加入的。"
+  }
+ ],
+ "experimental": [
+  {
+   "en": "The experimental group received the therapy twice per week.",
+   "zh": "实验组每周接受两次这种治疗。"
+  },
+  {
+   "en": "Experimental results must be replicated before they support clinical conclusions.",
+   "zh": "实验结果在支持临床结论之前必须得到复现。"
+  },
+  {
+   "en": "The design remains experimental and has not been widely validated.",
+   "zh": "该设计仍属试验性质，尚未得到广泛验证。"
+  }
+ ],
+ "comparable": [
+  {
+   "en": "The two studies used comparable measures of emotional stress.",
+   "zh": "这两项研究采用了可比的情绪压力测量方法。"
+  },
+  {
+   "en": "Schools with comparable resources produced broadly similar examination results.",
+   "zh": "资源相当的学校取得了大致相似的考试结果。"
+  },
+  {
+   "en": "We need a comparable dataset from an earlier period for verification.",
+   "zh": "我们需要一个来自更早时期的可比数据集以供核验。"
+  }
+ ],
+ "respective": [
+  {
+   "en": "Each team reported its findings to the respective ministry in March.",
+   "zh": "各团队于三月向各自的主管部门汇报了研究结果。"
+  },
+  {
+   "en": "The researchers returned to their respective institutions after the conference.",
+   "zh": "会议结束后，研究者们各自回到了自己的机构。"
+  },
+  {
+   "en": "The two departments published their respective studies in the same journal.",
+   "zh": "两个部门在同一家期刊上发表了各自的研究。"
+  }
+ ]
+}

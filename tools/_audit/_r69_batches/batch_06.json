@@ -1,0 +1,112 @@
+[
+ {
+  "word": "secondary",
+  "pos": "形容词",
+  "gloss": "次要的；辅助的（a secondary outcome）"
+ },
+ {
+  "word": "unambiguous",
+  "pos": "形容词",
+  "gloss": "明确的；不含糊的（unambiguous evidence）"
+ },
+ {
+  "word": "insufficient",
+  "pos": "形容词",
+  "gloss": "不足的；不充分的（insufficient evidence / insufficient power）"
+ },
+ {
+  "word": "multiple",
+  "pos": "形容词",
+  "gloss": "多个的；多重的（multiple regression / multiple comparisons）"
+ },
+ {
+  "word": "study",
+  "pos": "名词",
+  "gloss": "研究；研究论文（a longitudinal study；the study reports）"
+ },
+ {
+  "word": "paper",
+  "pos": "名词",
+  "gloss": "论文；（学术）文章"
+ },
+ {
+  "word": "discussion",
+  "pos": "名词",
+  "gloss": "讨论；（论文的）讨论部分"
+ },
+ {
+  "word": "review",
+  "pos": "名词",
+  "gloss": "综述；评述；评审（a systematic review；peer review）；作动词：综述，评述（review the literature）"
+ },
+ {
+  "word": "practice",
+  "pos": "名词",
+  "gloss": "实践；惯例（best practice；clinical practice）；作动词：练习，执业（practise what one preaches）"
+ },
+ {
+  "word": "statistics",
+  "pos": "名词",
+  "gloss": "统计学；统计数据（the statistics reported here）"
+ },
+ {
+  "word": "input",
+  "pos": "名词",
+  "gloss": "输入；投入（model inputs；policy inputs）"
+ },
+ {
+  "word": "task",
+  "pos": "名词",
+  "gloss": "任务；研究任务（the task was to…）"
+ },
+ {
+  "word": "standpoint",
+  "pos": "名词",
+  "gloss": "立场；观点（尤指分析或解释的出发点）"
+ },
+ {
+  "word": "lens",
+  "pos": "名词",
+  "gloss": "透镜；视角（through the lens of）"
+ },
+ {
+  "word": "barrier",
+  "pos": "名词",
+  "gloss": "障碍；壁垒（barriers to adoption）"
+ },
+ {
+  "word": "continuum",
+  "pos": "名词",
+  "gloss": "连续体；连续谱（a continuum of care）"
+ },
+ {
+  "word": "utility",
+  "pos": "名词",
+  "gloss": "效用；效用（论）（utility function）"
+ },
+ {
+  "word": "match",
+  "pos": "动词",
+  "gloss": "配对，使（两组）在可观测特征上可比（matched design 配对设计）"
+ },
+ {
+  "word": "nonresponse",
+  "pos": "名词",
+  "gloss": "无应答；未回应（nonresponse rate 无应答率）"
+ },
+ {
+  "word": "census",
+  "pos": "名词",
+  "gloss": "普查；全样本调查（census data 普查数据）"
+ },
+ {
+  "word": "pilot",
+  "pos": "名词",
+  "gloss": "试点；预试验（a pilot study 预试验研究）"
+ },
+ {
+  "word": "quasi-experimental",
+  "pos": "形容词",
+  "gloss": "准实验的（a quasi-experimental design）"
+ }
+]

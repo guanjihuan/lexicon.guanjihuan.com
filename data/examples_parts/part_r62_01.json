@@ -1,0 +1,184 @@
+{
+ "and": [
+  {
+   "en": "The model accounts for measurement error and provides a clearer basis for comparison.",
+   "zh": "该模型考虑了测量误差，并为比较提供了更清晰的基础。"
+  },
+  {
+   "en": "The committee reviewed the proposal and recommended a phased implementation.",
+   "zh": "委员会审查了提案，并建议分阶段实施。"
+  },
+  {
+   "en": "Early results were promising, and they were replicated in an independent laboratory.",
+   "zh": "早期结果令人鼓舞，并在一家独立实验室得到重复验证。"
+  }
+ ],
+ "or": [
+  {
+   "en": "Institutions should report conflicts of interest or decline to participate in the review.",
+   "zh": "机构应当披露利益冲突，或者拒绝参与评审。"
+  },
+  {
+   "en": "The measure may reflect improved reporting or merely a temporary change in administrative practice.",
+   "zh": "该指标可能反映报告制度的改善，也可能仅仅反映行政管理方式的暂时变化。"
+  },
+  {
+   "en": "Either the model is misspecified or the data contain systematic measurement error.",
+   "zh": "要么模型设定有误，要么数据存在系统性的测量误差。"
+  }
+ ],
+ "as though": [
+  {
+   "en": "The results were reproduced as though they had emerged from a single unified procedure.",
+   "zh": "这些结果仿佛出自同一套统一的流程，并得到了重复验证。"
+  },
+  {
+   "en": "Members of the panel reacted as though the proposal would directly affect their institutions.",
+   "zh": "评审组成员仿佛该提案会直接影响本机构，因而反应强烈。"
+  },
+  {
+   "en": "The manuscript presents the argument as though earlier findings had been fully established.",
+   "zh": "该文稿的论述仿佛以往的发现已经得到充分的确认。"
+  }
+ ],
+ "other than": [
+  {
+   "en": "No institution other than the national archive has preserved the complete correspondence.",
+   "zh": "除国家档案馆之外，没有任何机构保存了完整的往来书信。"
+  },
+  {
+   "en": "The regulator interpreted the clause as permitting disclosure to other than the named recipient.",
+   "zh": "监管机构将该条款解释为允许向指定收件人以外的第三方披露。"
+  },
+  {
+   "en": "The result is surprising when the sample consists of students other than the target population.",
+   "zh": "当样本由目标总体以外的学生构成时，这一结果就出人意料。"
+  }
+ ],
+ "given": [
+  {
+   "en": "Given the limited evidence, the committee recommends a cautious and reversible policy response.",
+   "zh": "鉴于证据有限，委员会建议采取审慎且可逆的政策回应。"
+  },
+  {
+   "en": "Given that funding has declined steadily, the institution must consider consolidating its research programs.",
+   "zh": "鉴于经费持续下降，该机构必须考虑整合其研究项目。"
+  },
+  {
+   "en": "Given the scale of the discrepancy, the authors re-examined the coding procedure for every record.",
+   "zh": "鉴于差异规模之大，作者重新核查了每份记录的编码流程。"
+  }
+ ],
+ "even when": [
+  {
+   "en": "The model remains stable even when the underlying sample is reduced substantially.",
+   "zh": "即使基础样本大幅缩减，该模型依然保持稳定。"
+  },
+  {
+   "en": "Agreement was elusive even when all parties had access to identical technical information.",
+   "zh": "即使各方都能获取完全相同的技术资料，仍难以达成一致。"
+  },
+  {
+   "en": "Recruitment slowed even when the advertised remuneration exceeded the prevailing regional average.",
+   "zh": "即使公布的报酬高于当地普遍水平，招募工作仍然放缓。"
+  }
+ ],
+ "so long as": [
+  {
+   "en": "The subsidy may continue so long as the recipient maintains the agreed conservation practices.",
+   "zh": "只要受资助者维持约定的保护措施，该补贴即可继续发放。"
+  },
+  {
+   "en": "Access to the archive remains open so long as the deposit agreement is not terminated.",
+   "zh": "只要保管协议未被终止，对档案的查阅权限就保持开放。"
+  },
+  {
+   "en": "The interim measure is defensible so long as it is reviewed at regular intervals.",
+   "zh": "只要该临时措施定期接受审查，其正当性就是站得住脚的。"
+  }
+ ],
+ "to the extent that": [
+  {
+   "en": "The sample is representative to the extent that the sampling frame covers the target population.",
+   "zh": "在抽样框覆盖目标总体的范围内，该样本具有代表性。"
+  },
+  {
+   "en": "Transparency requirements are enforceable to the extent that they are written into statute.",
+   "zh": "在透明度要求被写入成文法条的范围内，其才具有可执行性。"
+  },
+  {
+   "en": "The measure captures regional inequality to the extent that it excludes informal labor markets.",
+   "zh": "在排除非正规劳动力市场的范围内，该指标能够反映地区不平等。"
+  }
+ ],
+ "in the sense that": [
+  {
+   "en": "The framework is interdisciplinary in the sense that it draws on several academic traditions.",
+   "zh": "该框架具有跨学科性质，因为它借鉴了多个学术传统。"
+  },
+  {
+   "en": "The two authors use resilience in the sense that they mean a capacity to absorb shocks.",
+   "zh": "两位作者使用韧性一词，其含义是指承受冲击的能力。"
+  },
+  {
+   "en": "Cooperation here is procedural in the sense that it concerns how decisions are reached.",
+   "zh": "此处的合作是程序性的，因为它涉及决策如何形成。"
+  }
+ ],
+ "on the assumption that": [
+  {
+   "en": "The projection rests on the assumption that migration pressure will remain broadly stable.",
+   "zh": "该预测建立在迁移压力将大体保持稳定的假设之上。"
+  },
+  {
+   "en": "The grant was renewed on the assumption that the pilot would be extended to additional districts.",
+   "zh": "该资助得以续期，前提是将试点扩展到更多地区。"
+  },
+  {
+   "en": "The analysis proceeds on the assumption that measurement error is independent of the outcome.",
+   "zh": "该分析以测量误差与结果相互独立为前提。"
+  }
+ ],
+ "in the event that": [
+  {
+   "en": "Funds shall be withheld in the event that the audit reveals a material misstatement.",
+   "zh": "一旦审计发现重大错报，款项即应暂缓拨付。"
+  },
+  {
+   "en": "Notification must be given in the event that the proposed rule alters reporting obligations.",
+   "zh": "若拟议规则改变了报告义务，则必须发出通知。"
+  },
+  {
+   "en": "The agreement provides for arbitration in the event that negotiation between the parties fails.",
+   "zh": "该协议规定，若双方谈判失败，则提交仲裁处理。"
+  }
+ ],
+ "except that": [
+  {
+   "en": "The hypothesis was broadly supported, except that the weakest effect appeared only in small samples.",
+   "zh": "该假设总体上得到支持，唯独最弱的效应仅出现在小样本中。"
+  },
+  {
+   "en": "The instrument performed well across regions, except that calibration drifted in the northern cohort.",
+   "zh": "该工具在各地区表现良好，只是北部队列的校准出现了漂移。"
+  },
+  {
+   "en": "The review followed the standard protocol, except that interviews were conducted by telephone.",
+   "zh": "审查遵循了标准流程，只是访谈是通过电话进行的。"
+  }
+ ],
+ "on condition that": [
+  {
+   "en": "Funding will be renewed on condition that the team publishes its full dataset.",
+   "zh": "在团队公开其完整数据集的条件下，资助方将续签资助。"
+  },
+  {
+   "en": "Access is granted on condition that the applicant completes the ethics training module.",
+   "zh": "在申请人完成伦理培训模块的条件下，方可获得访问权限。"
+  },
+  {
+   "en": "The permit is valid on condition that the stated monitoring conditions are maintained throughout the season.",
+   "zh": "只要在整个监测期内维持规定的监测条件，该许可即持续有效。"
+  }
+ ]
+}

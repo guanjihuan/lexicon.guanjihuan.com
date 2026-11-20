@@ -1,0 +1,422 @@
+{
+ "explicate": [
+  {
+   "en": "The authors explicate the mechanism that links job insecurity to lower well-being.",
+   "zh": "作者阐明了工作不安全感与幸福感下降之间的作用机制。"
+  },
+  {
+   "en": "Several concepts in the draft need to be explicated before the review panel meets.",
+   "zh": "评审组开会前，草稿中的几个概念需要进一步阐明。"
+  },
+  {
+   "en": "Her lecture explicated why the two constructs are often confused in the literature.",
+   "zh": "她的讲座解释了为什么文献中常把这两个构念混为一谈。"
+  }
+ ],
+ "enumerate": [
+  {
+   "en": "The study enumerates five distinct barriers to the uptake of remote learning.",
+   "zh": "该研究列举了远程学习推广所面临的五项不同障碍。"
+  },
+  {
+   "en": "Reviewers are asked to enumerate the methodological limitations of each design.",
+   "zh": "评审人被要求逐一列出每种研究设计的方法学局限。"
+  },
+  {
+   "en": "The appendix enumerates all cases that were excluded after data cleaning.",
+   "zh": "附录逐一列出了数据清理后被排除的全部案例。"
+  }
+ ],
+ "discern": [
+  {
+   "en": "It is difficult to discern a genuine effect from sampling noise in a single study.",
+   "zh": "在单项研究中很难从抽样噪声中分辨出真正的效应。"
+  },
+  {
+   "en": "From the interview transcripts we discern a clear shift in participants' language.",
+   "zh": "从访谈记录中，我们分辨出参与者用语的明显转变。"
+  },
+  {
+   "en": "The pattern is visible in the raw data but hard to discern in the aggregated figures.",
+   "zh": "这一模式在原始数据中可见，但在汇总数据中难以分辨。"
+  }
+ ],
+ "elicit": [
+  {
+   "en": "Follow-up interviews were used to elicit explanations for the inconsistent results.",
+   "zh": "研究者利用后续访谈来引出对不一致结果的解释。"
+  },
+  {
+   "en": "Careful wording is needed to elicit honest answers about sensitive topics.",
+   "zh": "在敏感话题上需要谨慎的措辞才能引出诚实的回答。"
+  },
+  {
+   "en": "The survey design was revised to elicit responses from non-native speakers.",
+   "zh": "调查设计经过修订，以引出非母语者的回答。"
+  }
+ ],
+ "illuminate": [
+  {
+   "en": "These data illuminate the conditions under which the intervention actually works.",
+   "zh": "这些数据阐明了该干预真正发挥作用的条件。"
+  },
+  {
+   "en": "A single well-designed case can illuminate a pattern that surveys tend to obscure.",
+   "zh": "一个精心设计的案例就能阐明调查往往掩盖的模式。"
+  },
+  {
+   "en": "The discussion illuminates how theory and practice diverge in everyday settings.",
+   "zh": "讨论阐明了理论与实践在日常情境中如何产生偏离。"
+  }
+ ],
+ "preclude": [
+  {
+   "en": "The small sample size precludes any firm conclusion about the population.",
+   "zh": "样本量过小使人无法对总体情况得出确定结论。"
+  },
+  {
+   "en": "Its wording precludes the possibility of a neutral reading of the contract.",
+   "zh": "这一措辞排除了对合同作中立解读的可能。"
+  },
+  {
+   "en": "Funding rules preclude the two teams from sharing raw participant data.",
+   "zh": "资助规定不允许两个团队共享参与者的原始数据。"
+  }
+ ],
+ "surmount": [
+  {
+   "en": "The intervention was redesigned so that participants could surmount the technical barriers.",
+   "zh": "该干预经过重新设计，使参与者能够克服技术障碍。"
+  },
+  {
+   "en": "Small grants often help early-career researchers surmount the barrier of data access costs.",
+   "zh": "小额资助常常帮助职业早期研究者克服获取数据的费用障碍。"
+  },
+  {
+   "en": "The chapter explains how local institutions surmounted political resistance to reform.",
+   "zh": "该章解释了地方机构如何克服了对改革的政治阻力。"
+  }
+ ],
+ "undertake": [
+  {
+   "en": "The team agrees to undertake a systematic review of forty years of published evidence.",
+   "zh": "该团队同意对 40 年间已发表的证据开展一项系统综述。"
+  },
+  {
+   "en": "Participants undertake a short battery of cognitive tasks each morning.",
+   "zh": "参与者每天早晨完成一组简短的认知任务。"
+  },
+  {
+   "en": "Any researcher undertaking this protocol must complete the ethics training first.",
+   "zh": "任何开展该研究方案的研究者都必须先完成伦理培训。"
+  }
+ ],
+ "necessitate": [
+  {
+   "en": "The scale of the problem necessitates a coordinated response across departments.",
+   "zh": "问题的规模使各部门协同应对成为必要。"
+  },
+  {
+   "en": "Such claims would necessitate far more evidence than the study provides.",
+   "zh": "这样的主张所需的证据远超本研究所提供的范围。"
+  },
+  {
+   "en": "Growing demand has necessitated a revision of the eligibility criteria.",
+   "zh": "需求增长使资格标准不得不作出修订。"
+  }
+ ],
+ "alleviate": [
+  {
+   "en": "Targeted subsidies can alleviate the financial burden on low-income households.",
+   "zh": "有针对性的补贴可以减轻低收入家庭的经济负担。"
+  },
+  {
+   "en": "The guidance was revised to alleviate confusion among first-time applicants.",
+   "zh": "指南经过修订，以减轻初次申请者的困惑。"
+  },
+  {
+   "en": "Short breaks during long interviews helped alleviate fatigue among participants.",
+   "zh": "长时间访谈中的短暂休息有助于缓解参与者的疲劳。"
+  }
+ ],
+ "deviate": [
+  {
+   "en": "These results deviate sharply from what the mainstream model predicts.",
+   "zh": "这些结果与主流模型的预测存在明显偏离。"
+  },
+  {
+   "en": "Where the coding scheme deviates from the original protocol, we note the change explicitly.",
+   "zh": "凡编码方案偏离原研究方案之处，我们都明确标注。"
+  },
+  {
+   "en": "Schools that deviate from the national curriculum still have to meet minimum standards.",
+   "zh": "偏离国家课程的学校仍须达到最低标准。"
+  }
+ ],
+ "consolidate": [
+  {
+   "en": "A larger replication would consolidate the evidence for this effect.",
+   "zh": "更大规模的复现研究将巩固这一效应的证据基础。"
+  },
+  {
+   "en": "The two-year program consolidates scattered local initiatives into a single framework.",
+   "zh": "这个为期两年的项目把分散的地方举措整合到一个统一框架之中。"
+  },
+  {
+   "en": "The final chapter consolidates the findings of the four empirical chapters.",
+   "zh": "最后一章整合了四个实证章节的发现。"
+  }
+ ],
+ "conceptualization": [
+  {
+   "en": "The conceptualization of resilience differs sharply across the four case studies.",
+   "zh": "对韧性的概念化在四个案例研究中差异显著。"
+  },
+  {
+   "en": "A clearer conceptualization is needed before the scale can be validated.",
+   "zh": "在量表得到验证之前，需要更清晰的概念化。"
+  },
+  {
+   "en": "Her conceptualization of trust draws on both economics and sociology.",
+   "zh": "她对信任的概念化同时借鉴了经济学与社会学。"
+  }
+ ],
+ "quantification": [
+  {
+   "en": "The quantification of uncertainty remains the weakest part of the analysis.",
+   "zh": "对不确定性的量化仍然是该分析中最薄弱的部分。"
+  },
+  {
+   "en": "Careful quantification of the costs is essential for a credible policy recommendation.",
+   "zh": "对成本进行审慎量化，是提出可信政策建议的前提。"
+  },
+  {
+   "en": "The paper offers a defensible method of quantification for qualitative data.",
+   "zh": "本文提出了一种对定性数据进行量化的可靠方法。"
+  }
+ ],
+ "preregistration": [
+  {
+   "en": "Preregistration of hypotheses helps to separate genuine findings from noise.",
+   "zh": "对假设进行预注册有助于把真正的发现与噪声区分开来。"
+  },
+  {
+   "en": "Since 2020 the journal has required preregistration for all confirmatory studies.",
+   "zh": "自 2020 年起，该期刊要求所有验证性研究都必须进行预注册。"
+  },
+  {
+   "en": "The authors posted their preregistration before collecting any data.",
+   "zh": "作者在收集任何数据之前就公布了他们的预注册方案。"
+  }
+ ],
+ "disclosure": [
+  {
+   "en": "Full disclosure of conflicts of interest is required by the journal.",
+   "zh": "期刊要求充分披露利益冲突。"
+  },
+  {
+   "en": "The disclosure of raw data allows other teams to check the arithmetic.",
+   "zh": "原始数据的公开让其他团队得以核查计算过程。"
+  },
+  {
+   "en": "Non-disclosure of adverse events remains a serious methodological problem.",
+   "zh": "不披露不良事件仍是一个严重的方法学问题。"
+  }
+ ],
+ "confidentiality": [
+  {
+   "en": "The confidentiality of participant data is protected by an anonymous coding scheme.",
+   "zh": "参与者数据的保密性由匿名编码方案加以保护。"
+  },
+  {
+   "en": "Breaches of confidentiality are reported to the ethics board within 48 hours.",
+   "zh": "违反保密规定的情况须在 48 小时内报告伦理委员会。"
+  },
+  {
+   "en": "Reviewers must sign a confidentiality agreement before reading the draft manuscript.",
+   "zh": "评审人在阅读草稿手稿前必须签署保密协议。"
+  }
+ ],
+ "plagiarism": [
+  {
+   "en": "The journal screens every submission with dedicated plagiarism detection software.",
+   "zh": "该期刊用专门的查重软件筛查每一篇投稿。"
+  },
+  {
+   "en": "Careful citation is the surest defense against accidental plagiarism.",
+   "zh": "谨慎引用是防止无意识抄袭最可靠的保障。"
+  },
+  {
+   "en": "Instances of plagiarism lead to retraction of the affected article.",
+   "zh": "抄袭行为会导致相关论文被撤稿。"
+  }
+ ],
+ "register": [
+  {
+   "en": "The register of the paper shifts noticeably between the introduction and the conclusion.",
+   "zh": "该论文的语域在引言与结论之间发生了明显变化。"
+  },
+  {
+   "en": "Students learn to adjust their register when writing for a specialist audience.",
+   "zh": "学生学习在面向专业读者写作时调整自己的语域。"
+  },
+  {
+   "en": "A formal register is expected in the methods section of the report.",
+   "zh": "报告的方法部分要求使用正式的语体。"
+  }
+ ],
+ "genre": [
+  {
+   "en": "Each academic genre imposes its own conventions on length and structure.",
+   "zh": "每一种学术体裁对篇幅与结构都有各自的惯例要求。"
+  },
+  {
+   "en": "The article borrows conventions from the research proposal genre.",
+   "zh": "这篇文章借用了研究计划书这一体裁的惯例。"
+  },
+  {
+   "en": "Genre differences partly explain why the two reviews differ in emphasis.",
+   "zh": "体裁差异在一定程度上解释了两篇综述在侧重点上的不同。"
+  }
+ ],
+ "counterargument": [
+  {
+   "en": "The authors address the most plausible counterargument in their final section.",
+   "zh": "作者在最后一节回应了最有可能成立的反驳意见。"
+  },
+  {
+   "en": "A strong counterargument can strengthen a paper rather than weaken it.",
+   "zh": "有力的反驳意见反而能让论文更扎实。"
+  },
+  {
+   "en": "Any serious proposal must anticipate the standard counterargument about cost.",
+   "zh": "任何严肃的方案都必须预见到关于成本的标准反驳。"
+  }
+ ],
+ "cohesion": [
+  {
+   "en": "Clear signposting improves cohesion in long argumentative texts.",
+   "zh": "清晰的篇章过渡提示能提升长篇论证文本的连贯性。"
+  },
+  {
+   "en": "The report suffers from weak cohesion between the literature review and the methods.",
+   "zh": "该报告在文献综述与方法部分之间连贯性薄弱。"
+  },
+  {
+   "en": "Cohesion depends on the reader's ability to infer the underlying argument.",
+   "zh": "连贯性取决于读者推断隐含论点的能力。"
+  }
+ ],
+ "wording": [
+  {
+   "en": "The wording of the consent form was revised to be more accessible.",
+   "zh": "知情同意书的措辞经过修订，变得更易理解。"
+  },
+  {
+   "en": "A few changes in wording can shift the tone of the whole argument.",
+   "zh": "措辞上的少许改动就能改变整个论点的语气。"
+  },
+  {
+   "en": "Reviewers should comment on the wording, not only on the substance of the text.",
+   "zh": "评审人应当对措辞提出意见，而不仅仅针对文本内容。"
+  }
+ ],
+ "triangulation": [
+  {
+   "en": "Methodological triangulation was used to check the reliability of the findings.",
+   "zh": "研究者采用方法学三角互证来检验结果的可靠性。"
+  },
+  {
+   "en": "Triangulation of interviews and diaries reduces the risk of a single-source bias.",
+   "zh": "访谈与日记的三角互证降低了单一来源偏差的风险。"
+  },
+  {
+   "en": "The chapter discusses when triangulation strengthens a qualitative design.",
+   "zh": "该章讨论了三角互证在何种情况下能增强定性研究设计。"
+  }
+ ],
+ "conceptual": [
+  {
+   "en": "The conceptual framework links resource-based and dynamic capabilities.",
+   "zh": "该概念框架把资源基础观与动态能力观联系起来。"
+  },
+  {
+   "en": "A purely conceptual contribution still requires empirical support in this field.",
+   "zh": "在本领域，纯粹的概念性贡献仍需要经验证据支持。"
+  },
+  {
+   "en": "The paper moves from a conceptual model to a set of testable propositions.",
+   "zh": "该论文从概念模型推进到一组可检验的命题。"
+  }
+ ],
+ "multidisciplinary": [
+  {
+   "en": "The team is deliberately multidisciplinary, combining economics, sociology and statistics.",
+   "zh": "该团队刻意采用多学科构成，融合了经济学、社会学与统计学。"
+  },
+  {
+   "en": "Multidisciplinary collaboration raises the cost but also the impact of the work.",
+   "zh": "多学科合作提高了成本，但也提升了研究的影响力。"
+  },
+  {
+   "en": "A multidisciplinary clinic was established to treat the condition holistically.",
+   "zh": "一家多学科诊所成立，以整体方式治疗该病症。"
+  }
+ ],
+ "thematic": [
+  {
+   "en": "A thematic analysis of the interviews identified three recurring concerns.",
+   "zh": "对访谈的主题分析识别出三个反复出现的关注点。"
+  },
+  {
+   "en": "The thematic structure of the corpus changed after the second wave of data collection.",
+   "zh": "第二轮数据收集之后，语料库的主题结构发生了变化。"
+  },
+  {
+   "en": "Thematic coding was done by two researchers independently.",
+   "zh": "主题编码由两名研究者独立完成。"
+  }
+ ],
+ "rhetorical": [
+  {
+   "en": "The rhetorical strategy of the article is to concede the weakest objection early.",
+   "zh": "该文的修辞策略是尽早承认最薄弱的反对意见。"
+  },
+  {
+   "en": "Rhetorical choices such as repetition shape how readers remember an argument.",
+   "zh": "重复等修辞选择会影响读者如何记住一段论证。"
+  },
+  {
+   "en": "The review distinguishes between a rhetorical claim and an empirical one.",
+   "zh": "该综述区分了修辞性主张与经验性主张。"
+  }
+ ],
+ "exploratory": [
+  {
+   "en": "An exploratory study identified which factors are worth testing in a larger sample.",
+   "zh": "一项探索性研究确定了哪些因素值得在更大样本中检验。"
+  },
+  {
+   "en": "Because the design is exploratory, no confirmatory claims are made.",
+   "zh": "由于该设计属于探索性质，研究未提出任何验证性主张。"
+  },
+  {
+   "en": "Exploratory interviews helped refine the wording of the main survey.",
+   "zh": "探索性访谈帮助细化了主问卷的措辞。"
+  }
+ ],
+ "influential": [
+  {
+   "en": "Peer review remains the most influential check on the quality of published work.",
+   "zh": "同行评审仍是对已发表研究质量最具影响力的把关机制。"
+  },
+  {
+   "en": "The most influential factor was the time available to the participants.",
+   "zh": "最具影响力的因素是参与者可支配的时间。"
+  },
+  {
+   "en": "This paper has been influential in the design of later surveys.",
+   "zh": "该论文对后续调查的设计产生了深远影响。"
+  }
+ ]
+}

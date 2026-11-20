@@ -1,0 +1,562 @@
+{
+ "reason": [
+  {
+   "en": "The committee gave several reasons for delaying the final decision.",
+   "zh": "委员会给出了推迟最终决定的几项理由。"
+  },
+  {
+   "en": "He doubted the reason behind the committee's sudden withdrawal.",
+   "zh": "他怀疑委员会突然撤回背后的原因。"
+  },
+  {
+   "en": "Human reason has always struggled to explain the origins of consciousness.",
+   "zh": "人类理性历来难以解释意识的起源。"
+  }
+ ],
+ "requirement": [
+  {
+   "en": "Applicants must meet every requirement listed in the admission criteria.",
+   "zh": "申请人必须满足招生标准中列出的每一项要求。"
+  },
+  {
+   "en": "The journal's primary requirement is that the study be reproducible.",
+   "zh": "该期刊的首要要求是研究必须可复现。"
+  },
+  {
+   "en": "Access to clean water remains a basic requirement for public health.",
+   "zh": "获得清洁水源仍然是公共卫生的基本要求。"
+  }
+ ],
+ "research": [
+  {
+   "en": "Recent research suggests that moderate exercise improves memory in older adults.",
+   "zh": "近期研究表明，适度运动能改善老年人的记忆能力。"
+  },
+  {
+   "en": "The research on urban transport was published by the ministry last spring.",
+   "zh": "关于城市交通的研究由该部于去年春天发布。"
+  },
+  {
+   "en": "Funding for early-career research remains limited across most disciplines.",
+   "zh": "在大多数学科中，职业早期阶段的研究经费仍然有限。"
+  }
+ ],
+ "result": [
+  {
+   "en": "The result of the experiment contradicted the researchers' initial hypothesis.",
+   "zh": "实验结果与研究人员的初步假设相矛盾。"
+  },
+  {
+   "en": "As a result, the company withdrew the product from the market.",
+   "zh": "结果，该公司将该产品撤出了市场。"
+  },
+  {
+   "en": "The results clearly indicate a need for stronger safeguards in the process.",
+   "zh": "研究结果清楚地表明，该流程需要更严格的保障措施。"
+  }
+ ],
+ "role": [
+  {
+   "en": "Teachers play a central role in developing students' critical thinking skills.",
+   "zh": "教师在培养学生的批判性思维能力方面发挥着核心作用。"
+  },
+  {
+   "en": "The role of the laboratory in this project has not been clearly defined.",
+   "zh": "该实验室在这个项目中的角色尚未被明确规定。"
+  },
+  {
+   "en": "Her role as chief advisor changed the direction of the entire study.",
+   "zh": "她作为首席顾问的角色改变了整个研究方向。"
+  }
+ ],
+ "rule": [
+  {
+   "en": "Under the new rule, all researchers must register their data publicly.",
+   "zh": "根据新规定，所有研究人员必须公开登记其数据。"
+  },
+  {
+   "en": "The first rule of the workshop is to keep the discussion focused.",
+   "zh": "研讨会的第一条规则是保持讨论聚焦。"
+  },
+  {
+   "en": "Economic rules rarely anticipate the side effects of rapid technological change.",
+   "zh": "经济规则很少能预见快速技术变革带来的副作用。"
+  }
+ ],
+ "section": [
+  {
+   "en": "The final section of the paper summarizes the main findings clearly.",
+   "zh": "论文的最后一部分清楚地总结了主要发现。"
+  },
+  {
+   "en": "The library's reference section contains the complete collection of journals.",
+   "zh": "图书馆的参考区收录了全套期刊。"
+  },
+  {
+   "en": "Each section of the questionnaire was pilot-tested before the main survey.",
+   "zh": "在正式调查开始前，问卷的每个部分都经过了预测试。"
+  }
+ ],
+ "source": [
+  {
+   "en": "Citing the original source is essential in academic writing.",
+   "zh": "引用原始来源在学术写作中至关重要。"
+  },
+  {
+   "en": "Solar energy remains a promising source of electricity for remote regions.",
+   "zh": "太阳能仍是偏远地区一个有前景的电力来源。"
+  },
+  {
+   "en": "The researcher consulted several sources before publishing her conclusions.",
+   "zh": "该研究人员在发表结论前查阅了若干资料来源。"
+  }
+ ],
+ "standard": [
+  {
+   "en": "The university has adopted a new standard for evaluating teaching quality.",
+   "zh": "该大学已采用评估教学质量的新标准。"
+  },
+  {
+   "en": "Their work meets the standard set by international regulatory agencies.",
+   "zh": "他们的工作达到了国际监管机构设定的标准。"
+  },
+  {
+   "en": "The laboratory's accreditation certificate confirms compliance with the highest standard.",
+   "zh": "该实验室的认证证书证实其符合最高标准。"
+  }
+ ],
+ "step": [
+  {
+   "en": "The first step in the process is to identify the main problem.",
+   "zh": "该流程的第一步是确定主要问题。"
+  },
+  {
+   "en": "Taking one step at a time makes the transition far less overwhelming.",
+   "zh": "一步一步来会让过渡变得轻松得多。"
+  },
+  {
+   "en": "The committee agreed that further steps would be taken next month.",
+   "zh": "委员会同意下个月将采取进一步措施。"
+  }
+ ],
+ "strategy": [
+  {
+   "en": "The company adopted a new strategy to expand into emerging markets.",
+   "zh": "公司制定了进军新兴市场的新战略。"
+  },
+  {
+   "en": "Our research strategy combines field interviews with archival document analysis.",
+   "zh": "我们的研究策略将实地访谈与档案文献分析结合起来。"
+  },
+  {
+   "en": "A clear communication strategy reduced confusion among the project team.",
+   "zh": "清晰的沟通策略减少了项目团队中的困惑。"
+  }
+ ],
+ "structure": [
+  {
+   "en": "The structure of the report follows a logical progression from theory to practice.",
+   "zh": "报告的结构遵循从理论到实践的逻辑推进。"
+  },
+  {
+   "en": "Changes in the organizational structure improved communication between departments.",
+   "zh": "组织结构的变化改善了部门之间的沟通。"
+  },
+  {
+   "en": "Understanding the social structure of the village requires careful historical comparison.",
+   "zh": "理解这个村庄的社会结构需要仔细地进行历史比较。"
+  }
+ ],
+ "technique": [
+  {
+   "en": "This technique allows researchers to measure the effect with minimal error.",
+   "zh": "这一技术使研究人员能以极小的误差测量效果。"
+  },
+  {
+   "en": "Interviewing participants is a reliable technique for gathering qualitative data.",
+   "zh": "访谈参与者是收集定性数据的一种可靠方法。"
+  },
+  {
+   "en": "The painting technique was passed down through several generations of the family.",
+   "zh": "这种绘画技法在这个家族中传了好几代人。"
+  }
+ ],
+ "term": [
+  {
+   "en": "In academic writing, a precise term conveys meaning more efficiently than plain language.",
+   "zh": "在学术写作中，精确的术语比普通语言更有效地传达含义。"
+  },
+  {
+   "en": "The term 'sustainability' has been defined in many different ways.",
+   "zh": "「可持续性」一词有多种不同的定义。"
+  },
+  {
+   "en": "All participants agreed to the standard terms of the consent form.",
+   "zh": "所有参与者都同意了知情同意书的标准条款。"
+  }
+ ],
+ "theory": [
+  {
+   "en": "The theory explains why certain patterns appear repeatedly in the data.",
+   "zh": "该理论解释了为什么某些模式在数据中反复出现。"
+  },
+  {
+   "en": "Darwin's theory of evolution transformed the way biologists study species.",
+   "zh": "达尔文的进化论改变了生物学家研究物种的方式。"
+  },
+  {
+   "en": "In my opinion, the theory is promising but still requires extensive testing.",
+   "zh": "在我看来，这个理论很有前景，但仍需广泛检验。"
+  }
+ ],
+ "value": [
+  {
+   "en": "The market value of the collection has doubled over the past decade.",
+   "zh": "这批藏品的市值在过去 10 年翻了一番。"
+  },
+  {
+   "en": "Research ethics treats every participant's informed consent as having intrinsic value.",
+   "zh": "研究伦理认为每位参与者的知情同意具有内在价值。"
+  },
+  {
+   "en": "Investors increasingly judge a company by the value it creates.",
+   "zh": "投资者越来越以企业创造的价值来评判它。"
+  }
+ ],
+ "variable": [
+  {
+   "en": "Temperature is the only variable that changed significantly during the trial.",
+   "zh": "温度是试验期间唯一发生显著变化的变量。"
+  },
+  {
+   "en": "The model assumes that each variable influences the final outcome directly.",
+   "zh": "该模型假定每个变量都直接影响最终结果。"
+  },
+  {
+   "en": "Researchers must control every variable before drawing firm conclusions.",
+   "zh": "研究人员在得出确切结论前必须控制每个变量。"
+  }
+ ],
+ "abstract": [
+  {
+   "en": "The abstract explains the main argument in only two hundred words.",
+   "zh": "摘要仅用 200 个单词就阐明了主要论点。"
+  },
+  {
+   "en": "Abstract principles are difficult to apply in concrete financial decisions.",
+   "zh": "抽象的原则很难应用于具体的金融决策。"
+  },
+  {
+   "en": "Her abstract painting expresses ideas that words cannot capture.",
+   "zh": "她的抽象画表达了语言无法捕捉的观念。"
+  }
+ ],
+ "accurate": [
+  {
+   "en": "The report provides an accurate account of the events that followed.",
+   "zh": "该报告对随后发生的事件作了准确的叙述。"
+  },
+  {
+   "en": "Satellite images give a more accurate picture of coastal erosion.",
+   "zh": "卫星图像提供了更准确的海岸侵蚀图景。"
+  },
+  {
+   "en": "To remain accurate, the survey data must be updated every quarter.",
+   "zh": "为保持准确，调查数据必须每季度更新。"
+  }
+ ],
+ "additional": [
+  {
+   "en": "The committee requested additional funding to complete the remaining fieldwork.",
+   "zh": "委员会要求追加资金以完成剩余的田野调查。"
+  },
+  {
+   "en": "Additional experiments revealed a weakness in the original experimental design.",
+   "zh": "补充实验揭示了原始实验设计上的一个弱点。"
+  },
+  {
+   "en": "Students must submit an additional abstract for the second conference session.",
+   "zh": "学生必须为第二场会议再提交一份摘要。"
+  }
+ ],
+ "alternative": [
+  {
+   "en": "Alternative energy sources are becoming increasingly competitive in global markets.",
+   "zh": "替代能源在全球市场中正变得愈发具有竞争力。"
+  },
+  {
+   "en": "The editor suggested an alternative title that better captures the argument.",
+   "zh": "编辑建议了一个更能体现论点的替代标题。"
+  },
+  {
+   "en": "Rural clinics provide an alternative to the crowded urban hospitals nearby.",
+   "zh": "乡村诊所为附近拥挤的城市医院提供了一种替代选择。"
+  }
+ ],
+ "appropriate": [
+  {
+   "en": "Teachers must use language appropriate to students' academic backgrounds.",
+   "zh": "教师必须使用与学生学业背景相适应的语言。"
+  },
+  {
+   "en": "It would be inappropriate to disclose the findings before the review.",
+   "zh": "在评审之前披露研究结果是不恰当的。"
+  },
+  {
+   "en": "The panel selected an appropriate method for collecting long-term data.",
+   "zh": "评审组选择了一种适合收集长期数据的方法。"
+  }
+ ],
+ "available": [
+  {
+   "en": "Full-text articles are available through the university library database.",
+   "zh": "全文文章可通过大学图书馆数据库获取。"
+  },
+  {
+   "en": "The lecturer was not available for questions after the presentation.",
+   "zh": "讲座结束后讲师无法回答提问。"
+  },
+  {
+   "en": "Only limited funding was available for the second year of research.",
+   "zh": "第二年研究可获得的资金十分有限。"
+  }
+ ],
+ "basic": [
+  {
+   "en": "The course introduces the basic principles of statistical analysis.",
+   "zh": "本课程介绍了统计分析的基本原理。"
+  },
+  {
+   "en": "Fundamental misunderstandings of basic statistics distorted the original analysis.",
+   "zh": "对基础统计学的根本性误解扭曲了原有的分析。"
+  },
+  {
+   "en": "Students must master basic writing skills before tackling the final essay.",
+   "zh": "学生必须先掌握基本的写作技能，再着手写最终论文。"
+  }
+ ],
+ "central": [
+  {
+   "en": "Cost remains the central concern for most small research laboratories.",
+   "zh": "成本仍是大多数小型研究实验室的核心关切。"
+  },
+  {
+   "en": "The central argument of the article concerns institutional reform in public education.",
+   "zh": "该文章的核心论点涉及公立教育中的制度改革。"
+  },
+  {
+   "en": "She placed the central finding at the very beginning of her thesis.",
+   "zh": "她把核心发现放在论文的最开头。"
+  }
+ ],
+ "common": [
+  {
+   "en": "This common error confuses cause and effect in statistical reasoning.",
+   "zh": "这种常见错误混淆了统计推理中的因果关系。"
+  },
+  {
+   "en": "Climate anxiety has become a common concern among young urban residents.",
+   "zh": "气候焦虑已成为年轻城市居民普遍关心的问题。"
+  },
+  {
+   "en": "The two languages share a common root that explains many similarities.",
+   "zh": "这两种语言有共同的词根，解释了许多相似之处。"
+  }
+ ],
+ "complex": [
+  {
+   "en": "The problem is far more complex than the initial report suggested.",
+   "zh": "这个问题远比最初报告所暗示的要复杂。"
+  },
+  {
+   "en": "Urban inequality involves complex interactions between policy, income, and education.",
+   "zh": "城市不平等涉及政策、收入和教育之间复杂的相互作用。"
+  },
+  {
+   "en": "Her complex argument challenged the assumptions of the entire field.",
+   "zh": "她复杂的论证挑战了整个领域的假设。"
+  }
+ ],
+ "correct": [
+  {
+   "en": "Only one answer on the worksheet is grammatically correct.",
+   "zh": "练习纸上只有一个答案在语法上是正确的。"
+  },
+  {
+   "en": "The correct method depends on the size of the sample.",
+   "zh": "正确的方法取决于样本量的大小。"
+  },
+  {
+   "en": "The supervisor checked the draft for correct citation before submission.",
+   "zh": "主管在提交前检查了草稿的引注是否正确。"
+  }
+ ],
+ "current": [
+  {
+   "en": "The current version of the guidelines was published last December.",
+   "zh": "该指南的最新版本于去年 12 月发布。"
+  },
+  {
+   "en": "The journal publishes a current bibliography of research on climate adaptation.",
+   "zh": "该期刊出版一份关于气候适应研究的最新文献目录。"
+  },
+  {
+   "en": "These estimates reflect the current state of knowledge in the field.",
+   "zh": "这些估计反映了该领域目前的知识状况。"
+  }
+ ],
+ "detailed": [
+  {
+   "en": "The appendix provides a detailed account of every experiment conducted.",
+   "zh": "附录详细记录了所做的每一次实验。"
+  },
+  {
+   "en": "Detailed feedback from reviewers greatly improved the clarity of the manuscript.",
+   "zh": "审稿人的详细反馈极大提升了稿件的清晰度。"
+  },
+  {
+   "en": "The laboratory published a detailed record of all measured concentrations.",
+   "zh": "实验室公布了所有测量浓度的详细记录。"
+  }
+ ],
+ "difficult": [
+  {
+   "en": "Reproducing the earlier findings proved unexpectedly difficult for the team.",
+   "zh": "对团队而言，重现此前的研究发现出乎意料地困难。"
+  },
+  {
+   "en": "Some aspects of quantum mechanics remain difficult for beginners to grasp.",
+   "zh": "量子力学的某些方面对初学者而言仍然难以理解。"
+  },
+  {
+   "en": "It is difficult to assess the impact without long-term data.",
+   "zh": "没有长期数据，很难评估其影响。"
+  }
+ ],
+ "effective": [
+  {
+   "en": "The new policy proved effective at reducing hospital readmission rates.",
+   "zh": "新政策在降低病人再入院率方面被证明是有效的。"
+  },
+  {
+   "en": "Effective communication between departments shortened the approval process considerably.",
+   "zh": "部门之间有效的沟通大大缩短了审批流程。"
+  },
+  {
+   "en": "The treatment was effective for most patients but not for all.",
+   "zh": "这种治疗对大多数患者有效，但并非对所有人都有效。"
+  }
+ ],
+ "efficient": [
+  {
+   "en": "The new system is far more efficient than the one it replaced.",
+   "zh": "新系统比它所取代的系统高效得多。"
+  },
+  {
+   "en": "Efficient use of public funding remains a major political concern.",
+   "zh": "公共资金的高效使用仍是主要的政治关切。"
+  },
+  {
+   "en": "She is an efficient manager who delegates responsibility clearly.",
+   "zh": "她是一位管理高效、责权分配清晰的经理。"
+  }
+ ],
+ "essential": [
+  {
+   "en": "Clear documentation is essential for reproducing results in future studies.",
+   "zh": "清晰的文档说明对于在未来研究中重现结果至关重要。"
+  },
+  {
+   "en": "Access to clean water is essential for the survival of these communities.",
+   "zh": "获得清洁水源对这些社区的生存至关重要。"
+  },
+  {
+   "en": "The final chapter is essential reading for anyone entering the field.",
+   "zh": "最后一章是任何进入该领域的人的必读内容。"
+  }
+ ],
+ "exact": [
+  {
+   "en": "We cannot determine the exact number of affected households.",
+   "zh": "我们无法确定受影响家庭的确切数量。"
+  },
+  {
+   "en": "The exact cause of the collapse remains under active investigation.",
+   "zh": "倒塌的确切原因仍在积极调查之中。"
+  },
+  {
+   "en": "Please state the exact time and location of the observation.",
+   "zh": "请说明观察的确切时间和地点。"
+  }
+ ],
+ "existing": [
+  {
+   "en": "The existing rules do not adequately address online research data.",
+   "zh": "现行规则未能充分涵盖在线研究数据。"
+  },
+  {
+   "en": "Most of the existing literature focuses on small rural communities.",
+   "zh": "现有文献大多聚焦于小型乡村社区。"
+  },
+  {
+   "en": "We reused existing datasets instead of collecting new information.",
+   "zh": "我们重用了现有数据集，而不是收集新信息。"
+  }
+ ],
+ "explicit": [
+  {
+   "en": "The guidelines are explicit about what constitutes a serious violation.",
+   "zh": "该指南明确规定了何为严重违规行为。"
+  },
+  {
+   "en": "Make your expectations explicit so that misunderstandings are rare.",
+   "zh": "把你的期望明确表达出来，这样误解就会很少。"
+  },
+  {
+   "en": "The contract contains explicit clauses concerning intellectual property rights.",
+   "zh": "合同中包含关于知识产权的明确条款。"
+  }
+ ],
+ "familiar": [
+  {
+   "en": "The terminology may seem familiar, but the concepts differ subtly.",
+   "zh": "这些术语看起来可能很熟悉，但概念上有细微差别。"
+  },
+  {
+   "en": "Applicants already familiar with statistical software will adapt quickly.",
+   "zh": "已经熟悉统计软件的申请者会很快适应。"
+  },
+  {
+   "en": "The landscape looks familiar to visitors who grew up nearby.",
+   "zh": "对在附近长大的游客来说，这景色很熟悉。"
+  }
+ ],
+ "final": [
+  {
+   "en": "The final report will be released to the public next month.",
+   "zh": "最终报告将于下个月向公众发布。"
+  },
+  {
+   "en": "After the final review, no further changes can be made.",
+   "zh": "经过最终审查后，不得再作任何修改。"
+  },
+  {
+   "en": "Her final decision reflects years of careful deliberation.",
+   "zh": "她最终的决定体现了多年的审慎考虑。"
+  }
+ ],
+ "general": [
+  {
+   "en": "In general, small samples produce less reliable statistical estimates.",
+   "zh": "一般来说，小样本产生的统计估计不够可靠。"
+  },
+  {
+   "en": "The general principle applies across nearly every branch of science.",
+   "zh": "这一一般原则几乎适用于科学的每个分支。"
+  },
+  {
+   "en": "She rejected the general argument in favor of specific evidence.",
+   "zh": "她拒绝笼统的论断，转而依据具体证据。"
+  }
+ ]
+}

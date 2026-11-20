@@ -1,0 +1,492 @@
+{
+ "owing to": [
+  {
+   "en": "Owing to heavy rainfall, the outdoor experiments were postponed by two days.",
+   "zh": "由于大雨，室外实验推迟了两天。"
+  },
+  {
+   "en": "Owing to unclear guidelines, several students submitted incomplete assignments.",
+   "zh": "由于指导方针不明确，有几名学生提交了不完整的作业。"
+  },
+  {
+   "en": "Owing to an unexpected shortage of funding, the research team reduced its scope.",
+   "zh": "由于资金意外短缺，研究团队缩减了研究范围。"
+  }
+ ],
+ "incorporation": [
+  {
+   "en": "The incorporation of the new data into the model improved overall accuracy.",
+   "zh": "将新数据并入模型提高了整体准确率。"
+  },
+  {
+   "en": "The incorporation of regional case studies strengthened the paper's argument.",
+   "zh": "区域案例研究的纳入加强了论文的论证。"
+  },
+  {
+   "en": "After its incorporation into the university, the college expanded rapidly.",
+   "zh": "该学院并入大学后迅速发展壮大。"
+  }
+ ],
+ "fingerprint": [
+  {
+   "en": "Police collected the victim's fingerprint from the broken window.",
+   "zh": "警方从破碎的窗户上采集了受害者的指纹。"
+  },
+  {
+   "en": "The texture of the painting carries a distinctive fingerprint of its maker.",
+   "zh": "这幅画的质感带着制作者独特的纹理特征。"
+  },
+  {
+   "en": "Each dialect leaves a linguistic fingerprint on the regions it shapes.",
+   "zh": "每种方言都会在其塑造的地区留下语言上的印记。"
+  }
+ ],
+ "state-of-the-art": [
+  {
+   "en": "The laboratory purchased state-of-the-art equipment for particle research.",
+   "zh": "该实验室购进了最先进的粒子研究设备。"
+  },
+  {
+   "en": "This state-of-the-art method reduces error rates considerably in speech recognition.",
+   "zh": "这种最前沿的方法显著降低了语音识别的错误率。"
+  },
+  {
+   "en": "Her state-of-the-art design won first prize at the exhibition.",
+   "zh": "她最先进的设计在展览会上赢得了一等奖。"
+  }
+ ],
+ "promising": [
+  {
+   "en": "Early test results look promising for the treatment of chronic inflammation.",
+   "zh": "早期测试结果表明，慢性炎症的治疗前景乐观。"
+  },
+  {
+   "en": "She is a promising graduate student with a strong publication record.",
+   "zh": "她是一名很有出息的研究生，发表记录十分出色。"
+  },
+  {
+   "en": "The prototype offers a promising route to cheaper battery production.",
+   "zh": "该原型为更廉价的电池生产提供了一条有前途的途径。"
+  }
+ ],
+ "repetition": [
+  {
+   "en": "Frequent repetition of the vocabulary list improved the students' recall.",
+   "zh": "对词汇表的反复复习提高了学生的记忆效果。"
+  },
+  {
+   "en": "The lecture avoided needless repetition of material covered last week.",
+   "zh": "讲座避免重复上周已经讲过的内容。"
+  },
+  {
+   "en": "Successive repetitions of the experiment exposed a subtle sampling error.",
+   "zh": "多次重复该实验暴露出一个细微的抽样错误。"
+  }
+ ],
+ "obstacle": [
+  {
+   "en": "Lack of funding remains the greatest obstacle to the project's completion.",
+   "zh": "资金缺乏仍是该项目完成的最大障碍。"
+  },
+  {
+   "en": "The team overcame several technical obstacles during the field survey.",
+   "zh": "团队在野外考察中克服了若干技术障碍。"
+  },
+  {
+   "en": "Language barriers proved a serious obstacle to cross-border cooperation.",
+   "zh": "语言障碍被证明是跨境合作的一个严重障碍。"
+  }
+ ],
+ "alternatively": [
+  {
+   "en": "We could reduce costs; alternatively, we could expand the sample size.",
+   "zh": "我们可以降低成本；或者，我们可以扩大样本量。"
+  },
+  {
+   "en": "The director may approve the request, or alternatively defer it entirely.",
+   "zh": "主管可以批准该申请，也可以将其完全推迟。"
+  },
+  {
+   "en": "Alternatively, the data can be processed on the university cluster.",
+   "zh": "或者，也可以使用大学计算集群来处理这些数据。"
+  }
+ ],
+ "ratio": [
+  {
+   "en": "The ratio of male to female respondents remained close to one.",
+   "zh": "男性与女性受访者的比例接近于一比一。"
+  },
+  {
+   "en": "The debt to equity ratio fell sharply after the refinancing agreement.",
+   "zh": "再融资协议签订后，债务与权益之比大幅下降。"
+  },
+  {
+   "en": "A low student-to-teacher ratio improves individual supervision considerably.",
+   "zh": "较低的师生比能显著改善个别辅导的质量。"
+  }
+ ],
+ "bypass": [
+  {
+   "en": "Engineers bypassed the damaged pipeline and restored flow within hours.",
+   "zh": "工程师绕过了受损的管道，几个小时内就恢复了输送。"
+  },
+  {
+   "en": "The new highway lets drivers bypass the town center entirely.",
+   "zh": "这条新公路让司机可以完全绕过市中心。"
+  },
+  {
+   "en": "Directives cannot bypass the safeguards built into the security framework.",
+   "zh": "指令无法绕过安全框架中内置的保障措施。"
+  }
+ ],
+ "constraint": [
+  {
+   "en": "Time and budget constraints limited the scope of the investigation.",
+   "zh": "时间和预算的限制缩小了调查的范围。"
+  },
+  {
+   "en": "Dietary constraints made it difficult to follow the treatment plan.",
+   "zh": "饮食限制使得遵循该治疗方案变得困难。"
+  },
+  {
+   "en": "The model imposes a constraint on how fast the system can respond.",
+   "zh": "该模型对系统响应速度施加了一项限制。"
+  }
+ ],
+ "vital": [
+  {
+   "en": "Clean water is vital for the survival of the entire population.",
+   "zh": "清洁的水对全体居民的生存至关重要。"
+  },
+  {
+   "en": "It is vital that every researcher verifies the raw data personally.",
+   "zh": "每一位研究人员亲自核验原始数据是至关重要的。"
+  },
+  {
+   "en": "The vital component in the engine sits near the center of the frame.",
+   "zh": "发动机中那个至关重要的部件位于框架的中央附近。"
+  }
+ ],
+ "critical": [
+  {
+   "en": "The next few weeks will be critical for the entire negotiation.",
+   "zh": "接下来的几周对整个谈判至关重要。"
+  },
+  {
+   "en": "Her critical review exposed several weaknesses in the published model.",
+   "zh": "她的批判性评审暴露了已发表模型的若干弱点。"
+  },
+  {
+   "en": "Temperature control is critical when culturing these delicate microorganisms.",
+   "zh": "培养这些脆弱微生物时，温度控制至关重要。"
+  }
+ ],
+ "contradict": [
+  {
+   "en": "The new satellite images contradict the earlier account of the flood.",
+   "zh": "新的卫星图像与早先关于洪水的说法相矛盾。"
+  },
+  {
+   "en": "The witness statement contradicts the physical evidence collected at the scene.",
+   "zh": "证人的陈述与现场收集到的物证相抵触。"
+  },
+  {
+   "en": "Several reviewers contradicted the central claim of the paper.",
+   "zh": "几位审稿人反驳了这篇论文的核心论点。"
+  }
+ ],
+ "cumulative": [
+  {
+   "en": "The cumulative effect of small improvements raised overall productivity.",
+   "zh": "小幅改进的累积效应提高了整体生产率。"
+  },
+  {
+   "en": "The report presents cumulative rainfall figures for the past decade.",
+   "zh": "该报告给出了过去 10 年的累计降雨量数据。"
+  },
+  {
+   "en": "Chronic exposure causes cumulative damage to the nervous system.",
+   "zh": "长期暴露会对神经系统造成累积性损害。"
+  }
+ ],
+ "pivotal": [
+  {
+   "en": "The discovery played a pivotal role in developing the new vaccine.",
+   "zh": "这一发现在新型疫苗的研发中起到了关键作用。"
+  },
+  {
+   "en": "Her appointment was pivotal in transforming the struggling department.",
+   "zh": "她的任命对扭转这个举步维艰的部门至关重要。"
+  },
+  {
+   "en": "That conference proved pivotal for the young researcher's career.",
+   "zh": "那次会议对这位年轻研究者的职业生涯而言至关重要。"
+  }
+ ],
+ "outline": [
+  {
+   "en": "The chapter provides a brief outline of the entire argument.",
+   "zh": "本章对整个论证作了简要概述。"
+  },
+  {
+   "en": "He outlined the main objectives before the committee began its review.",
+   "zh": "在委员会开始审议之前，他概述了主要目标。"
+  },
+  {
+   "en": "The lecture outlined a decade of research on renewable energy systems.",
+   "zh": "该讲座概述了 10 年来关于可再生能源系统的研究。"
+  }
+ ],
+ "exploit": [
+  {
+   "en": "The company exploited new satellite data to improve crop yield estimates.",
+   "zh": "公司利用新的卫星数据改进了作物产量估算。"
+  },
+  {
+   "en": "Teachers should exploit every opportunity to encourage independent reading.",
+   "zh": "教师应利用一切机会鼓励自主阅读。"
+  },
+  {
+   "en": "Several firms were accused of exploiting loopholes in the tax code.",
+   "zh": "几家公司被指控利用税法中的漏洞牟利。"
+  }
+ ],
+ "clarity": [
+  {
+   "en": "The editor rewrote the passage to improve its clarity for students.",
+   "zh": "编辑重写了该段落，以使其对学生而言更清晰易懂。"
+  },
+  {
+   "en": "The lecture lacked clarity, and several listeners left confused.",
+   "zh": "讲座缺乏清晰度，几位听众一头雾水地离开了。"
+  },
+  {
+   "en": "Clarity of purpose helped the research team remain focused throughout.",
+   "zh": "目标明确使研究团队始终保持专注。"
+  }
+ ],
+ "briefly": [
+  {
+   "en": "He briefly described the main findings of the experiment.",
+   "zh": "他简要说明了实验的主要发现。"
+  },
+  {
+   "en": "The committee debated the proposal briefly before deferring it.",
+   "zh": "委员会简短讨论了这一提案，随后将其搁置。"
+  },
+  {
+   "en": "Let me briefly outline the three stages of the treatment.",
+   "zh": "让我简要概述该治疗的三个阶段。"
+  }
+ ],
+ "employ": [
+  {
+   "en": "The laboratory employs a statistical method that reduces sampling bias.",
+   "zh": "该实验室采用一种能减少抽样偏差的统计方法。"
+  },
+  {
+   "en": "Engineers employ thermal imaging to detect hidden defects in the walls.",
+   "zh": "工程师利用热成像技术探测墙体中的隐蔽缺陷。"
+  },
+  {
+   "en": "The institute employs twelve full-time statisticians and a similar number of field assistants.",
+   "zh": "该研究所雇用了 12 名全职统计师和数量相当的外勤助理。"
+  }
+ ],
+ "ingredient": [
+  {
+   "en": "The key ingredient in this remedy comes from a rare mountain herb.",
+   "zh": "这种药方中的关键成分来自一种稀有的山草。"
+  },
+  {
+   "en": "Fresh ingredients greatly improve the taste of the soup.",
+   "zh": "新鲜的食材能大大提升汤的味道。"
+  },
+  {
+   "en": "Trust and patience are essential ingredients in any long-term partnership.",
+   "zh": "信任与耐心是任何长期合作关系中不可或缺的要素。"
+  }
+ ],
+ "pioneering": [
+  {
+   "en": "Her pioneering work on DNA repair won international recognition.",
+   "zh": "她在基因修复方面的开创性工作获得了国际认可。"
+  },
+  {
+   "en": "The laboratory's pioneering work on battery recycling attracted international attention.",
+   "zh": "该实验室在电池回收方面的开创性工作引起了国际关注。"
+  },
+  {
+   "en": "Pioneering researchers demonstrated the technique for the first time in 1987.",
+   "zh": "先驱研究者们于 1987 年首次演示了这一技术。"
+  }
+ ],
+ "conversely": [
+  {
+   "en": "Rising interest rates dampen investment; conversely, falling rates tend to stimulate it.",
+   "zh": "利率上升抑制投资；反之，利率下降往往刺激投资。"
+  },
+  {
+   "en": "Conversely, the second experiment produced results that supported the theory.",
+   "zh": "相反，第二个实验的结果支持了该理论。"
+  },
+  {
+   "en": "Students who read widely write better; conversely, writers tend to read more.",
+   "zh": "广泛阅读的学生写得更好；反过来，写作者往往读得更多。"
+  }
+ ],
+ "render": [
+  {
+   "en": "The injury rendered him unable to continue his research.",
+   "zh": "这次受伤使他无法继续研究。"
+  },
+  {
+   "en": "Experienced staff readily rendered assistance to visitors unfamiliar with the equipment.",
+   "zh": "熟练的员工乐意为不熟悉设备者提供帮助。"
+  },
+  {
+   "en": "The morning light renders the sandstone walls in deep shades of gold.",
+   "zh": "晨光将砂岩墙面映染成浓郁的金色。"
+  }
+ ],
+ "benchmark": [
+  {
+   "en": "The company set this year's revenue as a benchmark for other firms.",
+   "zh": "该公司把今年的收入设定为其他企业的对标标准。"
+  },
+  {
+   "en": "This new processor is twice as fast as the industry benchmark.",
+   "zh": "这款新处理器的速度是行业基准的两倍。"
+  },
+  {
+   "en": "Students use the sample essay as a benchmark for their own writing.",
+   "zh": "学生们把这篇范文作为自己写作的基准。"
+  }
+ ],
+ "convergence": [
+  {
+   "en": "The two research groups achieved convergence on the interpretation of the data.",
+   "zh": "两个研究小组在对数据的解释上达成了趋同。"
+  },
+  {
+   "en": "The convergence of multiple theories strengthened the overall explanation.",
+   "zh": "多种理论的趋同增强了整体解释力。"
+  },
+  {
+   "en": "Annual conferences encourage the convergence of ideas across disciplines.",
+   "zh": "年度会议促进跨学科思想的汇聚。"
+  }
+ ],
+ "capacity": [
+  {
+   "en": "The new battery has a capacity of roughly eighty kilowatt hours.",
+   "zh": "这块新电池的容量约为 80 千瓦时。"
+  },
+  {
+   "en": "The factory has increased its production capacity by thirty percent.",
+   "zh": "该工厂已将生产能力提高了 30%。"
+  },
+  {
+   "en": "Her capacity for careful analysis impressed every member of the panel.",
+   "zh": "她缜密分析的能力给评审组的每一位成员都留下了深刻印象。"
+  }
+ ],
+ "capability": [
+  {
+   "en": "The software offers researchers a powerful capability for mapping genetic variation.",
+   "zh": "该软件为研究人员提供了绘制遗传变异图谱的强大功能。"
+  },
+  {
+   "en": "Students must develop the capability to evaluate sources independently.",
+   "zh": "学生必须培养独立评估信源的能力。"
+  },
+  {
+   "en": "The device lacks the capability to process high-resolution images.",
+   "zh": "该设备缺乏处理高分辨率图像的能力。"
+  }
+ ],
+ "extend": [
+  {
+   "en": "The team extended the study to include three additional coastal regions.",
+   "zh": "团队将研究范围扩展到另外三个沿海地区。"
+  },
+  {
+   "en": "Warm currents extend the growing season across much of the peninsula.",
+   "zh": "暖流使半岛大部分地区的生长季得以延长。"
+  },
+  {
+   "en": "The publisher extended the submission deadline by ten days.",
+   "zh": "出版方将投稿截止日期延长了 10 天。"
+  }
+ ],
+ "revised": [
+  {
+   "en": "The revised edition includes twenty new chapters and updated references.",
+   "zh": "修订版新增了 20 个章节并更新了参考文献。"
+  },
+  {
+   "en": "Following peer review, the revised manuscript was accepted for publication.",
+   "zh": "经过同行评审，修订稿获准发表。"
+  },
+  {
+   "en": "The revised budget allocates more funding to field research.",
+   "zh": "修订后的预算为实地研究分配了更多经费。"
+  }
+ ],
+ "proofread": [
+  {
+   "en": "Please proofread the final chapter before sending it to the publisher.",
+   "zh": "请在发给出版商之前校对最后一章。"
+  },
+  {
+   "en": "The book was proofread by two graduate students over the summer.",
+   "zh": "这本书由两名研究生在暑假期间完成了校对。"
+  },
+  {
+   "en": "A single proofread caught a missing reference in the introduction.",
+   "zh": "一次校对就发现了引言中缺失的一条参考文献。"
+  }
+ ],
+ "extraneous": [
+  {
+   "en": "The final paper removed all extraneous references to earlier drafts.",
+   "zh": "终稿删除了所有提及早期草稿的多余引述。"
+  },
+  {
+   "en": "Extraneous materials in the package delayed the shipment for several days.",
+   "zh": "包裹中的多余物料使货物延误了数日。"
+  },
+  {
+   "en": "The reader ignored the extraneous footnotes and focused on the main text.",
+   "zh": "读者略过了与主题无关的脚注，专注于正文。"
+  }
+ ],
+ "ingenious": [
+  {
+   "en": "Her ingenious method of recycling waste reduced costs considerably.",
+   "zh": "她巧妙的废弃物回收方法大幅降低了成本。"
+  },
+  {
+   "en": "The engineers devised an ingenious device that converts noise into power.",
+   "zh": "工程师设计出一种把噪音转化为动力的精巧装置。"
+  },
+  {
+   "en": "His ingenious solution to the scheduling problem impressed the committee.",
+   "zh": "他解决排期问题的巧妙方案给委员会留下了深刻印象。"
+  }
+ ],
+ "spurious": [
+  {
+   "en": "The laboratory identified a spurious signal caused by nearby electrical equipment.",
+   "zh": "实验室发现了一个由附近电气设备引起的虚假信号。"
+  },
+  {
+   "en": "The argument rested on a spurious correlation between two unrelated variables.",
+   "zh": "该论证建立在两个无关变量之间的虚假相关之上。"
+  },
+  {
+   "en": "The report dismissed several widely circulated but spurious claims.",
+   "zh": "该报告驳斥了若干广为流传但站不住脚的说法。"
+  }
+ ]
+}

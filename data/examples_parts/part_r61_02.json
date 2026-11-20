@@ -1,0 +1,72 @@
+{
+ "dedicate": [
+  {"en": "The research team dedicated the remaining months to refining the survey instrument.", "zh": "研究团队把余下的几个月全部投入到问卷工具的完善之中。"},
+  {"en": "This volume is dedicated to all those who sustained the project through difficult years.", "zh": "本卷献给所有在艰难岁月里支撑这一项目的人。"},
+  {"en": "The foundation dedicated its resources to rural literacy programs rather than urban infrastructure.", "zh": "该基金会将资源用于农村扫盲项目，而非城市基础设施建设。"}
+ ],
+ "depict": [
+  {"en": "Recent studies depict the relationship between bilingualism and executive control as bidirectional.", "zh": "近期研究把双语能力与执行控制之间的关系描绘为双向的。"},
+  {"en": "The report depicts rural households as primary caregivers within the extended family structure.", "zh": "该报告把农村家庭描绘为扩展型家庭结构中的主要照料者。"},
+  {"en": "Archaeological evidence from the site depicts a trading settlement of considerable complexity.", "zh": "来自该遗址的考古证据描绘出一个相当复杂的贸易聚落。"}
+ ],
+ "displace": [
+  {"en": "Automation displaced many routine clerical jobs within the banking sector.", "zh": "自动化取代了银行业中许多常规的文书岗位。"},
+  {"en": "Rising rents displaced long-established families from the inner urban districts.", "zh": "不断上涨的租金迫使长期居住的家庭迁出城市内城区。"},
+  {"en": "New evidence has displaced the earlier account of how the species dispersed.", "zh": "新的证据已取代了先前关于该物种扩散过程的说法。"}
+ ],
+ "emerge": [
+  {"en": "A clear pattern emerged from the interview data once the coding process was completed.", "zh": "在编码过程完成之后，访谈数据中呈现出清晰的模式。"},
+  {"en": "The dispute emerged when the ministry published revised allocation figures without prior consultation.", "zh": "当主管部门未经事先协商便公布修订后的分配数据时，这场争议浮现出来。"},
+  {"en": "New forms of collective action emerged across several districts during the following winter.", "zh": "在随后的冬季，若干地区涌现出新的集体行动形式。"}
+ ],
+ "intensify": [
+  {"en": "Governments may intensify the effect of public spending through better administrative targeting.", "zh": "政府可以通过更精准的行政投放来加强公共支出的效果。"},
+  {"en": "Competition for scarce grants tends to intensify once the funding pool is reduced.", "zh": "一旦资金池缩减，对稀缺资助的竞争便会加剧。"},
+  {"en": "Regulators intensify their scrutiny when reported cases of misconduct become more frequent.", "zh": "当被报告的不当行为案例增多时，监管者会加强审查。"}
+ ],
+ "incur": [
+  {"en": "Farmers who neglected soil conservation incurred substantial losses during the subsequent drought.", "zh": "忽视土壤保持的农户在随后的干旱中遭受了巨大损失。"},
+  {"en": "Any applicant who withdraws late will incur the full processing fee.", "zh": "任何逾期撤回的申请人都将被收取全额手续费。"},
+  {"en": "The hospital incurred substantial costs in training staff on the newly introduced protocol.", "zh": "该医院为培训员工掌握新引入的操作规程承担了大量成本。"}
+ ],
+ "portray": [
+  {"en": "The documentary portrays rural teachers as central to the reform of local schooling.", "zh": "这部纪录片把乡村教师刻画为当地学校教育改革的核心。"},
+  {"en": "Novels of the period portray the factory as a source of both discipline and menace.", "zh": "这一时期的小说把工厂表现为既是纪律之源，也是威胁之源。"},
+  {"en": "Public-health campaigns portray excessive sugar intake as a leading dietary risk.", "zh": "公共卫生宣传把过量摄入糖分表现为主要的膳食风险。"}
+ ],
+ "stipulate": [
+  {"en": "The grant agreement stipulates that all data must be deposited in an open archive.", "zh": "资助协议明确规定，所有数据必须存入一个开放档案库。"},
+  {"en": "Contractual rules stipulate a minimum notice period before any major restructuring.", "zh": "合同条款规定，任何重大重组之前必须遵守最短通知期的规定。"},
+  {"en": "Reviewers stipulate that authors must declare all potential sources of conflict.", "zh": "评审人要求作者必须申报一切潜在的利益冲突来源。"}
+ ],
+ "stress": [
+  {"en": "The introduction stresses the need to distinguish correlation from causal inference.", "zh": "引言强调必须区分相关性与因果推断。"},
+  {"en": "The minister stressed the need for transparent reporting of regional differences.", "zh": "部长着重指出有必要对地区差异进行透明报告。"},
+  {"en": "Reviewers stress that the effect remains substantial after the sample is reduced.", "zh": "评审人强调，在缩减样本之后该效应依然相当显著。"}
+ ],
+ "weaken": [
+  {"en": "The robustness checks did not weaken the main conclusion of the analysis.", "zh": "稳健性检验并未削弱该分析的主要结论。"},
+  {"en": "Rising competition weakened the authority of the traditional regulating body.", "zh": "日益激烈的竞争削弱了传统监管机构的权威。"},
+  {"en": "Repeated revisions of the instrument weakened its construct validity over time.", "zh": "对该工具的反复修订逐渐削弱了它的构念效度。"}
+ ],
+ "ambiguity": [
+  {"en": "The ambiguity of the term prevented reviewers from reaching a shared interpretation.", "zh": "该术语的含混之处使评审人无法达成一致的解读。"},
+  {"en": "Ambiguity in the coding guidelines led two coders to assign different labels.", "zh": "编码指南中的歧义导致两名编码者给出了不同的标注。"},
+  {"en": "Policy documents should avoid ambiguity whenever enforcement depends on precise wording.", "zh": "凡是执法依赖于精确措辞的场合，政策文件都应当避免歧义。"}
+ ],
+ "component": [
+  {"en": "Each component of the scale was validated against an established external criterion.", "zh": "该量表的每一个成分都对照已有的外部效标进行了验证。"},
+  {"en": "The model combines several components, including demography and institutional trust.", "zh": "该模型结合了若干组成部分，包括人口统计特征与制度信任。"},
+  {"en": "Researchers replaced a component of the index after a factor analysis revealed redundancy.", "zh": "在因子分析显示存在冗余之后，研究者替换了该指数中的一个成分。"}
+ ],
+ "consequence": [
+  {"en": "The long-term consequence of early vocabulary instruction remains a matter of debate.", "zh": "早期词汇教学的长期后果仍是一个存在争议的问题。"},
+  {"en": "Policy makers underestimated the consequence of withdrawing subsidies from small farms.", "zh": "决策者低估了取消对小型农场补贴所造成的后果。"},
+  {"en": "A consequence of the sampling design was that older respondents were underrepresented.", "zh": "抽样设计带来的一项后果是年长受访者代表不足。"}
+ ],
+ "construction": [
+  {"en": "The construction of the case study required access to archival and interview data.", "zh": "该案例研究的建构需要获取档案资料与访谈资料。"},
+  {"en": "The meaning of the term is largely a construction of disciplinary discourse.", "zh": "该术语的含义在很大程度上是学科话语的建构。"},
+  {"en": "The construction of the survey instrument was revised after a pilot study revealed redundancy.", "zh": "在先导研究显示存在冗余之后，问卷工具的构造经过了修订。"}
+ ]
+}

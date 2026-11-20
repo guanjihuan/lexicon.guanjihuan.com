@@ -1,0 +1,177 @@
+{
+ "inevitable": [
+  {"en": "Some attrition is inevitable in any longitudinal study.", "zh": "在任何纵向研究中，一定的流失都不可避免。"},
+  {"en": "The committee concluded that trade-offs between speed and accuracy are inevitable.", "zh": "委员会得出结论，速度与准确度之间的取舍不可避免。"},
+  {"en": "Critics treated the failure as the inevitable result of underfunding.", "zh": "批评者把这次失败当作经费不足的必然结果。"}
+ ],
+ "irreversible": [
+  {"en": "Deforestation in the region may cause irreversible losses of biodiversity.", "zh": "该地区的毁林可能造成不可逆转的生物多样性损失。"},
+  {"en": "The authors warn that some cognitive decline is irreversible without early treatment.", "zh": "作者们警告，若不早期治疗，某些认知衰退不可逆转。"},
+  {"en": "Once the audit log is finalized, the deletion of raw records is irreversible.", "zh": "审计日志一经定稿，原始记录的删除便不可逆转。"}
+ ],
+ "vague": [
+  {"en": "The proposal was criticized for its vague definition of eligibility.", "zh": "该提案因对资格的界定含糊而受到批评。"},
+  {"en": "Participants gave vague answers when asked about their study habits.", "zh": "被问及学习习惯时，参与者给出了模糊的回答。"},
+  {"en": "A vague hypothesis makes the design of a decisive test almost impossible.", "zh": "含糊的假设让决定性检验的设计几乎无法进行。"}
+ ],
+ "obscure": [
+  {"en": "Jargon can obscure rather than clarify the core argument.", "zh": "行话可能把核心论点弄得晦涩难懂，而不是更清楚。"},
+  {"en": "The variable's role was obscured by strong multicollinearity.", "zh": "该变量的作用被严重的多重共线性所掩盖。"},
+  {"en": "The manuscript cites an obscure 19th-century treatise on measurement.", "zh": "手稿引用了一部关于测量的鲜为人知的 19 世纪论著。"}
+ ],
+ "opaque": [
+  {"en": "The selection criteria remained opaque to most applicants.", "zh": "遴选标准对大多数申请者来说不透明。"},
+  {"en": "Reviewers complained that the methods section was opaque about sampling.", "zh": "审稿人抱怨方法部分对抽样写得晦涩不明。"},
+  {"en": "Opaque algorithms complicate accountability in automated decision systems.", "zh": "不透明的算法使自动决策系统的问责变得复杂。"}
+ ],
+ "superficial": [
+  {"en": "The review offers a superficial treatment of competing theories.", "zh": "这篇综述对相互竞争的理论只做了肤浅的论述。"},
+  {"en": "A superficial reading of the table misses the interaction effects.", "zh": "对表格的粗浅解读会漏掉交互效应。"},
+  {"en": "The wounds were superficial and healed within a week.", "zh": "伤口很浅，一周内就愈合了。"}
+ ],
+ "erroneous": [
+  {"en": "The erroneous coding of missing values inflated the reported means.", "zh": "缺失值被错误编码，抬高了报告的均值。"},
+  {"en": "Early estimates proved erroneous once full census data arrived.", "zh": "完整的普查数据到位后，早期估计被证明是错误的。"},
+  {"en": "The textbook repeats the erroneous claim that all recall is reconstructive.", "zh": "这本教科书重复了所有回忆都是重构的错误说法。"}
+ ],
+ "flawed": [
+  {"en": "The argument is flawed because it conflates correlation with causation.", "zh": "该论证有缺陷，因为它把相关与因果混为一谈。"},
+  {"en": "A flawed sampling frame biased the survey toward urban respondents.", "zh": "有缺陷的抽样框使调查偏向了城市受访者。"},
+  {"en": "Even flawed studies can contribute if their limitations are stated plainly.", "zh": "即使是有缺陷的研究，只要如实说明局限，也能有所贡献。"}
+ ],
+ "unfounded": [
+  {"en": "The committee found the misconduct allegations to be unfounded.", "zh": "委员会认定那些不当行为的指控没有根据。"},
+  {"en": "Public fears about the vaccine proved largely unfounded.", "zh": "公众对疫苗的担忧后来被证明大多没有根据。"},
+  {"en": "The criticism was unfounded: the original paper did report the null result.", "zh": "这一批评站不住脚：原论文确实报告了零结果。"}
+ ],
+ "unwarranted": [
+  {"en": "Extrapolating beyond the data range is statistically unwarranted.", "zh": "把结论外推到数据范围之外在统计上是不合理的。"},
+  {"en": "The reviewers considered the added experiments unwarranted.", "zh": "审稿人认为补充的那些实验没有必要。"},
+  {"en": "Strong conclusions drawn from weak evidence are unwarranted.", "zh": "由薄弱证据得出的强结论是站不住的。"}
+ ],
+ "tenuous": [
+  {"en": "The link between the two constructs remains tenuous without further evidence.", "zh": "在缺乏进一步证据的情况下，两个构念之间的联系仍然很牵强。"},
+  {"en": "The paper's claim to novelty rests on a tenuous distinction.", "zh": "论文的新颖性主张建立在一个勉强的区分之上。"},
+  {"en": "Support for the hypothesis is tenuous at best.", "zh": "对这一假设的支持至多是很薄弱的。"}
+ ],
+ "cogent": [
+  {"en": "The essay presents a cogent case for mixed-method designs.", "zh": "这篇文章为混合方法设计提出了令人信服的理由。"},
+  {"en": "Her critique is cogent because it engages the strongest version of the argument.", "zh": "她的批评很有说服力，因为它针对的是该论证最强的版本。"},
+  {"en": "A cogent summary helped the committee reach consensus quickly.", "zh": "一份有条理、有说服力的总结帮助委员会很快达成一致。"}
+ ],
+ "dubious": [
+  {"en": "The measurement has dubious validity for younger children.", "zh": "该测量对年龄较小的儿童效度可疑。"},
+  {"en": "They regarded the anecdotal success stories with dubious fascination.", "zh": "他们带着将信将疑的兴趣看待那些传闻中的成功故事。"},
+  {"en": "The paper relies on a dubious proxy for household income.", "zh": "论文依赖一个可疑的家庭收入代理指标。"}
+ ],
+ "anecdotal": [
+  {"en": "Evidence for the therapy remains anecdotal rather than systematic.", "zh": "该疗法的证据仍是轶事性的，而非系统的。"},
+  {"en": "Teachers' reports, while anecdotal, aligned with the test scores.", "zh": "教师们的报告虽然属于轶事性质，却与考试分数一致。"},
+  {"en": "The policy was justified by anecdotal reports from a few districts.", "zh": "这项政策的依据不过是几个区提供的轶事性报告。"}
+ ],
+ "decisive": [
+  {"en": "Sample size proved the decisive factor in detecting the interaction.", "zh": "样本量被证明是检测到交互作用的决定性因素。"},
+  {"en": "The decisive experiment distinguished between the two rival models.", "zh": "这场决定性的实验区分了两个相互竞争的模型。"},
+  {"en": "Leadership played a decisive role in the program's implementation.", "zh": "领导层在该项目的实施中起了决定性作用。"}
+ ],
+ "fallacy": [
+  {"en": "Concluding that correlation implies causation is a well-known fallacy.", "zh": "断言相关即因果是一个众所周知的谬误。"},
+  {"en": "The chapter catalogs common fallacies in statistical reasoning.", "zh": "这一章列举了统计推理中的常见谬误。"},
+  {"en": "The appeal to tradition is a fallacy, not an argument.", "zh": "诉诸传统是一种谬误，而不是论证。"}
+ ],
+ "connotation": [
+  {"en": "The term carries a positive connotation in policy documents.", "zh": "这个术语在政策文件中带有积极的内涵。"},
+  {"en": "Translators must attend to the connotation as well as the denotation of words.", "zh": "译者既要关注词的所指，也要关注词的内涵。"},
+  {"en": "The word acquired a pejorative connotation over the century.", "zh": "一个世纪以来，这个词逐渐带上了贬义的内涵。"}
+ ],
+ "ramification": [
+  {"en": "The court ruling has far-reaching ramifications for data governance.", "zh": "这项法院裁决对数据治理有深远的连带影响。"},
+  {"en": "The paper explores the ethical ramifications of predictive policing.", "zh": "论文探讨了预测性警务的伦理衍生后果。"},
+  {"en": "Budget cuts carry ramifications for every department.", "zh": "预算削减对每个部门都有连带影响。"}
+ ],
+ "repercussion": [
+  {"en": "The recall had immediate repercussions across the supply chain.", "zh": "这次召回在整个供应链上立即产生了反响。"},
+  {"en": "Economic shocks have political repercussions that outlast the crisis itself.", "zh": "经济冲击带来的政治后果会比危机本身更持久。"},
+  {"en": "The policy change had unforeseen repercussions for rural clinics.", "zh": "政策变动给农村诊所带来了未曾预料的连锁影响。"}
+ ],
+ "aftermath": [
+  {"en": "In the aftermath of the financial crisis, regulation tightened considerably.", "zh": "金融危机过后，监管明显收紧。"},
+  {"en": "The study documents recovery in the aftermath of the earthquake.", "zh": "该研究记录了地震之后一段时期的恢复过程。"},
+  {"en": "In the aftermath of the scandal, funding rules were rewritten.", "zh": "丑闻之后，资助规则被重写。"}
+ ],
+ "corollary": [
+  {"en": "Greater mobility carries the corollary of weaker local ties.", "zh": "更大的流动性必然带来本地纽带的弱化。"},
+  {"en": "The corollary of the theorem follows directly from the second lemma.", "zh": "这一定理的推论直接由第二条引理得出。"},
+  {"en": "If the premise holds, its corollary holds as well.", "zh": "如果前提成立，其推论也成立。"}
+ ],
+ "precursor": [
+  {"en": "The 1995 report was a precursor to the comprehensive reform of 2001.", "zh": "1995 年的报告是 2001 年全面改革的前身。"},
+  {"en": "Mild cognitive impairment is often a precursor of dementia.", "zh": "轻度认知障碍常是失智症的先兆。"},
+  {"en": "The researchers identified chemical precursors of the compound in the sample.", "zh": "研究人员在样品中识别出了该化合物的化学前体。"}
+ ],
+ "antecedent": [
+  {"en": "The analysis traces the historical antecedents of the modern welfare state.", "zh": "该分析追溯了现代福利国家的历史前身。"},
+  {"en": "In the sentence, the pronoun lacks a clear antecedent.", "zh": "在这个句子里，代词缺少明确的先行词。"},
+  {"en": "Family antecedents of the disorder were recorded for each participant.", "zh": "每位参与者的家族病史（该障碍的前因）都被记录在案。"}
+ ],
+ "drawback": [
+  {"en": "The main drawback of the design is its reliance on self-report.", "zh": "该设计的主要缺点是依赖自我报告。"},
+  {"en": "Each method has drawbacks that the authors discuss candidly.", "zh": "每种方法都有缺点，作者坦率地讨论了这些缺点。"},
+  {"en": "Speed is the advantage; cost is the drawback.", "zh": "长处是快，缺点是贵。"}
+ ],
+ "pitfall": [
+  {"en": "Chapter five describes common pitfalls in interpreting interaction terms.", "zh": "第五章描述了解释交互项时的常见误区。"},
+  {"en": "Novice researchers often fall into the pitfall of overfitting.", "zh": "新手研究者常落入过拟合的陷阱。"},
+  {"en": "The guide warns about the pitfalls of translating questionnaires without piloting.", "zh": "该指南提醒人们注意问卷不经预试就翻译的隐患。"}
+ ],
+ "shortcoming": [
+  {"en": "The paper's chief shortcoming is the absence of a control group.", "zh": "该论文的主要不足是缺少对照组。"},
+  {"en": "Despite these shortcomings, the framework remains influential.", "zh": "尽管有这些不足，该框架仍然很有影响。"},
+  {"en": "Each shortcoming noted by reviewers was addressed in the revision.", "zh": "审稿人指出的每一处不足都在修改中得到了处理。"}
+ ],
+ "setback": [
+  {"en": "The failed replication was a setback, not a refutation, of the theory.", "zh": "这次重复失败是对该理论的挫折，而非驳斥。"},
+  {"en": "The project suffered a setback when the pilot site withdrew.", "zh": "试点单位退出后，项目遭受了一次挫折。"},
+  {"en": "Setbacks in enrollment forced the team to revise its timeline.", "zh": "入组受挫迫使团队修改了时间表。"}
+ ],
+ "hurdle": [
+  {"en": "Ethical approval was the first hurdle the team had to clear.", "zh": "伦理批准是团队必须跨过的第一道障碍。"},
+  {"en": "Cost remains the biggest hurdle to widespread adoption.", "zh": "成本仍是推广应用的最大难关。"},
+  {"en": "The remaining hurdles are technical rather than conceptual.", "zh": "剩下的障碍是技术性的，而非概念性的。"}
+ ],
+ "impediment": [
+  {"en": "Language barriers are a major impediment to cross-border collaboration.", "zh": "语言障碍是跨境合作的一大妨碍。"},
+  {"en": "Missing metadata is an impediment to reproducibility.", "zh": "元数据缺失是影响可复现性的一个障碍。"},
+  {"en": "The hearing impairment proved no impediment to her participation in the study.", "zh": "听力损伤并未妨碍她参与这项研究。"}
+ ],
+ "liability": [
+  {"en": "The firm's limited liability structure encouraged risk-taking.", "zh": "该公司的有限责任结构助长了冒险。"},
+  {"en": "Legacy systems became a liability during the migration.", "zh": "在系统迁移期间，遗留系统成了包袱。"},
+  {"en": "Manufacturers face liability for defective medical devices.", "zh": "制造商对有缺陷的医疗设备承担责任。"}
+ ],
+ "deficit": [
+  {"en": "The trade deficit widened for the third consecutive year.", "zh": "贸易赤字连续第三年扩大。"},
+  {"en": "The program targets children with attention deficits.", "zh": "该项目针对有注意缺陷的儿童。"},
+  {"en": "A deficit of trust undermines every stage of the negotiation.", "zh": "信任的欠缺会破坏谈判的每一个阶段。"}
+ ],
+ "surplus": [
+  {"en": "The agricultural surplus financed early industrial investment.", "zh": "农业盈余为早期的工业投资提供了资金。"},
+  {"en": "A labor surplus kept wages low through the decade.", "zh": "劳动力过剩使工资在这十年里保持低位。"},
+  {"en": "The budget surplus was redirected toward basic research.", "zh": "预算盈余被转投于基础研究。"}
+ ],
+ "hindsight": [
+  {"en": "In hindsight, the early warnings were clearer than they seemed at the time.", "zh": "事后看来，早期的预警比当时显得更清楚。"},
+  {"en": "With the benefit of hindsight, the design choices seem obvious.", "zh": "有了事后之明，那些设计选择显得显而易见。"},
+  {"en": "Hindsight bias leads reviewers to treat outcomes as predictable.", "zh": "后见之明偏差使审稿人把结果视为本来就可预测的。"}
+ ],
+ "foresight": [
+  {"en": "The founders had the foresight to reserve land for expansion.", "zh": "创立者们有远见，预留了扩建用地。"},
+  {"en": "The plan lacked the foresight to anticipate supply disruptions.", "zh": "该计划缺乏预见供应中断的远见。"},
+  {"en": "Her foresight in archiving the correspondence proved invaluable.", "zh": "她预先归档往来信件的远见被证明极有价值。"}
+ ],
+ "breadth": [
+  {"en": "The curriculum is admired for its breadth as much as its depth.", "zh": "这套课程体系广度与深度并重，为人称道。"},
+  {"en": "The survey's breadth allows comparisons across ten regions.", "zh": "这项调查覆盖面广，可以对十个地区进行比较。"},
+  {"en": "The review evaluates the breadth of evidence rather than any single study.", "zh": "该综述评估的是证据的广度，而非任何单一研究。"}
+ ]
+}

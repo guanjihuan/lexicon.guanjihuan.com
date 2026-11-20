@@ -1,0 +1,464 @@
+{
+ "indispensable": [
+  {
+   "en": "Clean water is indispensable for the survival of every living organism.",
+   "zh": "清洁的水对每一个生物体的生存都必不可少。"
+  },
+  {
+   "en": "The lecture material proved indispensable for preparing her doctoral dissertation.",
+   "zh": "事实证明，这些讲座材料对她准备博士论文必不可少。"
+  },
+  {
+   "en": "Effective communication remains an indispensable skill in every professional field.",
+   "zh": "有效的沟通在每个职业领域都是一项不可或缺的技能。"
+  }
+ ],
+ "merely": [
+  {
+   "en": "The committee rejected the proposal merely because it arrived after the deadline.",
+   "zh": "委员会拒绝该提案，仅仅是因为它在截止日期之后才送达。"
+  },
+  {
+   "en": "He did not merely report the figures but also explained their significance in detail.",
+   "zh": "他不仅仅报告了这些数字，还详细解释了它们的含义。"
+  },
+  {
+   "en": "Such a small sample size is merely suggestive and cannot support firm conclusions.",
+   "zh": "如此小的样本量只是提示性的，无法支持确凿的结论。"
+  }
+ ],
+ "barely": [
+  {
+   "en": "She barely had time to finish the abstract before the deadline arrived.",
+   "zh": "在截止日期到来之前，她几乎没有时间完成摘要。"
+  },
+  {
+   "en": "The novel's central argument is barely intelligible to first-year undergraduates.",
+   "zh": "这部小说的核心论点对一年级本科生来说几乎难以理解。"
+  },
+  {
+   "en": "Barely half of the participants reported regular physical activity during the survey.",
+   "zh": "调查中只有不到一半的参与者报告经常进行体育活动。"
+  }
+ ],
+ "representative": [
+  {
+   "en": "This specimen is a representative example of the region's volcanic rock.",
+   "zh": "这个标本是该地区火山岩的代表性例子。"
+  },
+  {
+   "en": "Her career illustrates the representative obstacles faced by women in science.",
+   "zh": "她的职业生涯展现了女性在科学领域面临的典型障碍。"
+  },
+  {
+   "en": "Each interviewee was asked to nominate a figure representative of their own generation.",
+   "zh": "每位受访者被要求推荐一位能代表自己一代的人物。"
+  }
+ ],
+ "accommodate": [
+  {
+   "en": "The new conference hall can accommodate up to eight hundred delegates.",
+   "zh": "新的会议大厅最多可以容纳 800 名代表。"
+  },
+  {
+   "en": "The university renovated several dormitories to accommodate an increasing number of students.",
+   "zh": "学校翻新了几栋宿舍楼，以容纳越来越多的学生。"
+  },
+  {
+   "en": "This flexible schedule should easily accommodate everyone's different working hours.",
+   "zh": "这个灵活的日程安排应该能轻松适应每个人不同的工作时间。"
+  }
+ ],
+ "twofold": [
+  {
+   "en": "The reform achieved a twofold increase in enrollment within three years.",
+   "zh": "这项改革在三年内使入学人数翻了一番。"
+  },
+  {
+   "en": "The new method serves a twofold purpose: reducing costs and improving accuracy.",
+   "zh": "这种新方法有双重目的：降低成本并提高准确性。"
+  },
+  {
+   "en": "The authors acknowledge a twofold limitation of the present study.",
+   "zh": "作者们承认当前研究存在两方面的局限。"
+  }
+ ],
+ "feasible": [
+  {
+   "en": "Engineers concluded that the proposed expansion was technically feasible within two years.",
+   "zh": "工程师们得出结论，所提出的扩建方案在技术上是可行的，且可在两年内完成。"
+  },
+  {
+   "en": "Given the available funding, a large-scale survey may not be feasible.",
+   "zh": "鉴于可用的资金，大规模调查可能并不可行。"
+  },
+  {
+   "en": "The committee will consider any feasible alternative to the original design.",
+   "zh": "委员会将考虑原设计的任何可行替代方案。"
+  }
+ ],
+ "intricate": [
+  {
+   "en": "The intricate network of tunnels beneath the temple required months of careful mapping.",
+   "zh": "寺庙下方错综复杂的隧道网络需要数月细致的测绘。"
+  },
+  {
+   "en": "She explained the intricate relationship between temperature and reaction rate clearly.",
+   "zh": "她清楚地解释了温度与反应速率之间错综复杂的关系。"
+  },
+  {
+   "en": "Solving the intricate scheduling problem required a more efficient algorithm.",
+   "zh": "解决这个复杂的调度问题需要一种更高效的算法。"
+  }
+ ],
+ "interval": [
+  {
+   "en": "Measurements were recorded at regular intervals throughout the experiment.",
+   "zh": "在整个实验过程中按固定间隔记录了测量数据。"
+  },
+  {
+   "en": "There was a long interval between the two published versions of the paper.",
+   "zh": "该论文的两个已出版版本之间存在很长的时间间隔。"
+  },
+  {
+   "en": "Participants returned for testing at a twelve-week interval.",
+   "zh": "参与者每 12 周返回进行一次测试。"
+  }
+ ],
+ "preferable": [
+  {
+   "en": "Submitting the application online is preferable to delivering it by post.",
+   "zh": "在线提交申请比邮寄递交更可取。"
+  },
+  {
+   "en": "For long documents, a printed copy is arguably preferable to a screen.",
+   "zh": "对于长篇文档来说，纸质版可以说比在屏幕上阅读更可取。"
+  },
+  {
+   "en": "The panel considered a smaller sample preferable to a poorly controlled trial.",
+   "zh": "评审组认为较小的样本比控制不佳的试验更为可取。"
+  }
+ ],
+ "hierarchical": [
+  {
+   "en": "The organization operates a hierarchical structure with clear lines of authority.",
+   "zh": "该组织实行等级分明的结构，权力关系清晰。"
+  },
+  {
+   "en": "Hierarchical databases make it easier to locate related records efficiently.",
+   "zh": "层次化数据库使相关记录更容易被高效地检索。"
+  },
+  {
+   "en": "Many universities still operate through a largely hierarchical system of decision-making.",
+   "zh": "许多大学的决策体系在很大程度上仍是等级化的。"
+  }
+ ],
+ "fine-grained": [
+  {
+   "en": "Fine-grained analysis revealed subtle differences between the two prototypes.",
+   "zh": "细粒度的分析揭示了两个原型之间的细微差异。"
+  },
+  {
+   "en": "The model employs fine-grained control to reproduce human speech patterns.",
+   "zh": "该模型采用精细的控制方式来重现人类的语音模式。"
+  },
+  {
+   "en": "Access permissions are managed through fine-grained security rules in the database.",
+   "zh": "访问权限通过数据库中精细的安全规则进行管理。"
+  }
+ ],
+ "legitimate": [
+  {
+   "en": "The court ruled that the search had been conducted without legitimate authority.",
+   "zh": "法院裁定此次搜查是在没有合法授权的情况下进行的。"
+  },
+  {
+   "en": "Researchers must protect personal data collected for legitimate purposes.",
+   "zh": "研究人员必须保护出于正当目的而收集的个人数据。"
+  },
+  {
+   "en": "Raising concerns about safety is a legitimate part of the consultation process.",
+   "zh": "提出安全方面的担忧是协商程序中正当的一部分。"
+  }
+ ],
+ "restrict": [
+  {
+   "en": "The regulation restricts access to sensitive personal records.",
+   "zh": "该规定限制了敏感个人记录的访问权限。"
+  },
+  {
+   "en": "Narrow passageways restrict the movement of large equipment through the building.",
+   "zh": "狭窄的通道限制了大件设备在楼内的搬运。"
+  },
+  {
+   "en": "She restricted her review to papers published after 2015.",
+   "zh": "她把综述范围限定在 2015 年之后发表的论文。"
+  }
+ ],
+ "immerse": [
+  {
+   "en": "Graduate students immerse themselves in the literature before designing their experiments.",
+   "zh": "研究生们在设计实验之前会沉浸于相关文献之中。"
+  },
+  {
+   "en": "He immersed himself in the local culture during his year abroad.",
+   "zh": "他在国外的那一年里完全沉浸于当地文化之中。"
+  },
+  {
+   "en": "The program immerses new teachers in classroom practice from the first week.",
+   "zh": "该项目从第一周起就让新教师沉浸在课堂教学实践中。"
+  }
+ ],
+ "plethora": [
+  {
+   "en": "The library holds a plethora of rare manuscripts on medieval trade.",
+   "zh": "图书馆收藏了大量关于中世纪贸易的珍贵手稿。"
+  },
+  {
+   "en": "The journal published a plethora of studies on the topic last year.",
+   "zh": "该期刊去年发表了大量关于这一主题的研究。"
+  },
+  {
+   "en": "The plethora of conflicting guidelines did more to confuse new reviewers than to help them.",
+   "zh": "过多而相互矛盾的指南与其说帮助了新评审员，不如说让他们更加困惑。"
+  }
+ ],
+ "concomitant": [
+  {
+   "en": "The reform brought concomitant improvements in staff training and research funding.",
+   "zh": "这项改革同时带来了员工培训和科研经费方面的改善。"
+  },
+  {
+   "en": "Rapid urban growth carried with it concomitant problems in waste management.",
+   "zh": "快速的城市增长伴随着废物管理方面的种种问题。"
+  },
+  {
+   "en": "Every hypothesis is recorded together with its concomitant experimental conditions.",
+   "zh": "每一个假设都与同时出现的实验条件一并记录在案。"
+  }
+ ],
+ "necessarily": [
+  {
+   "en": "The two models are not necessarily in conflict with each other.",
+   "zh": "这两个模型并不一定彼此矛盾。"
+  },
+  {
+   "en": "A larger sample size does not necessarily produce a more reliable result.",
+   "zh": "更大的样本量并不一定能产生更可靠的结果。"
+  },
+  {
+   "en": "Increased funding does not necessarily improve the quality of teaching.",
+   "zh": "增加经费并不一定能提高教学质量。"
+  }
+ ],
+ "striking": [
+  {
+   "en": "The most striking feature of the painting is its unusual depth of color.",
+   "zh": "这幅画最引人注目的特点是其非凡的色彩深度。"
+  },
+  {
+   "en": "There was a striking contrast between the two versions of the manuscript.",
+   "zh": "手稿的两个版本之间存在显著的对比。"
+  },
+  {
+   "en": "Her striking decision to withdraw the paper struck the reviewers as remarkably bold.",
+   "zh": "她撤下论文这一引人注目的决定让审稿人觉得格外大胆。"
+  }
+ ],
+ "in situ": [
+  {
+   "en": "The fossils were examined in situ before any samples were removed.",
+   "zh": "在取下任何样本之前，这些化石都进行了原地检验。"
+  },
+  {
+   "en": "Researchers left the sensors in situ to record changes over several months.",
+   "zh": "研究人员把传感器留在原地，以记录数月内的变化。"
+  },
+  {
+   "en": "In situ conservation protects the mural without moving it from the wall.",
+   "zh": "原址保护在不将壁画从墙上移走的情况下对其加以保护。"
+  }
+ ],
+ "pedagogical": [
+  {
+   "en": "The textbook was rewritten with pedagogical rather than purely archival purposes.",
+   "zh": "这本教材是出于教学目的而非纯粹的文献目的而重写的。"
+  },
+  {
+   "en": "Teachers reported that the interactive exercises had clear pedagogical value.",
+   "zh": "教师们反映这些互动练习具有明确的教学价值。"
+  },
+  {
+   "en": "Her lecture notes are praised for their clear pedagogical structure.",
+   "zh": "她的讲义因清晰的教学结构而受到称赞。"
+  }
+ ],
+ "hallmark": [
+  {
+   "en": "Careful sourcing is a hallmark of serious academic writing.",
+   "zh": "严谨的资料来源是严肃学术写作的显著特征。"
+  },
+  {
+   "en": "The building's stone arches are the hallmark of local architecture.",
+   "zh": "这座建筑的石拱是当地建筑风格的标志。"
+  },
+  {
+   "en": "Rigorous peer review is a hallmark of quality in this journal.",
+   "zh": "严格的同行评审是该期刊质量的一个标志。"
+  }
+ ],
+ "well-defined": [
+  {
+   "en": "The study population must be described as a well-defined group of participants.",
+   "zh": "研究对象必须被描述为一个界限清晰的参与者群体。"
+  },
+  {
+   "en": "Each category in the framework has a well-defined meaning and scope.",
+   "zh": "该框架中的每个类别都有明确的含义和适用范围。"
+  },
+  {
+   "en": "A well-defined contract reduces disputes between the two departments.",
+   "zh": "明确的合同条款减少了两部门之间的争议。"
+  }
+ ],
+ "suspicious": [
+  {
+   "en": "The auditors grew suspicious when the totals did not match the receipts.",
+   "zh": "当总数与收据不符时，审计人员起了疑心。"
+  },
+  {
+   "en": "Police described the package as suspicious but released it after inspection.",
+   "zh": "警方称该包裹可疑，但检查后仍予以放行。"
+  },
+  {
+   "en": "Several researchers were suspicious of the claim's unusually favorable results.",
+   "zh": "几位研究者对该说法异常有利的结果表示怀疑。"
+  }
+ ],
+ "blurred": [
+  {
+   "en": "The boundary between research and commercial development has become increasingly blurred.",
+   "zh": "研究与商业开发之间的界线已变得越来越模糊。"
+  },
+  {
+   "en": "Poor focus left the photographs blurred and difficult to interpret.",
+   "zh": "对焦不佳使照片模糊不清，难以解读。"
+  },
+  {
+   "en": "The blurred lines of responsibility led to confusion during the emergency.",
+   "zh": "职责界限模糊导致应急期间出现了混乱。"
+  }
+ ],
+ "prominent": [
+  {
+   "en": "She played a prominent role in establishing the national research center.",
+   "zh": "她在建立国家研究中心的过程中发挥了重要作用。"
+  },
+  {
+   "en": "Economic inequality remains a prominent issue in contemporary public debate.",
+   "zh": "经济不平等仍然是当代公共辩论中的突出问题。"
+  },
+  {
+   "en": "The building occupies a prominent position at the entrance to the campus.",
+   "zh": "这座建筑位于校园入口处十分显眼的位置。"
+  }
+ ],
+ "notably": [
+  {
+   "en": "The study confirmed earlier findings, notably concerning adolescent sleep patterns.",
+   "zh": "该研究证实了此前的发现，尤其是关于青少年睡眠模式的部分。"
+  },
+  {
+   "en": "Regional differences were small, notably in the northern provinces.",
+   "zh": "地区差异很小，北部各省尤其如此。"
+  },
+  {
+   "en": "Notably, the effect persisted even after the software was updated.",
+   "zh": "值得注意的是，即使软件更新后这一影响仍然持续存在。"
+  }
+ ],
+ "compatible": [
+  {
+   "en": "The two measurement systems are entirely compatible with one another.",
+   "zh": "这两套测量系统彼此完全兼容。"
+  },
+  {
+   "en": "Remote work and existing office arrangements remain largely compatible today.",
+   "zh": "远程办公与现有的办公安排在目前基本可以共存。"
+  },
+  {
+   "en": "Vegetarian diets can be compatible with a balanced nutritional plan.",
+   "zh": "素食饮食可以与均衡的营养计划相协调。"
+  }
+ ],
+ "retain": [
+  {
+   "en": "The company hopes to retain most of its experienced staff after the merger.",
+   "zh": "公司希望在合并后保留大多数有经验的员工。"
+  },
+  {
+   "en": "These plants retain moisture in their roots throughout the dry season.",
+   "zh": "这些植物在整个旱季将水分保留在根部。"
+  },
+  {
+   "en": "Participants were asked to retain their original survey answers for verification.",
+   "zh": "参与者被要求保留其原始问卷答案以供核查。"
+  }
+ ],
+ "invoke": [
+  {
+   "en": "The speaker invoked an ancient tradition to justify the new policy.",
+   "zh": "演讲者援引了一项古老传统来为新政策辩护。"
+  },
+  {
+   "en": "The photographs invoke memories of childhood summers in the countryside.",
+   "zh": "这些照片唤起了人们对童年乡村夏日的回忆。"
+  },
+  {
+   "en": "Critics invoke constitutional arguments against the proposed restrictions.",
+   "zh": "批评者援引宪法论据来反对拟议中的限制措施。"
+  }
+ ],
+ "paradigm": [
+  {
+   "en": "The case became a paradigm for successful experimental design.",
+   "zh": "该案例成为成功实验设计的范例。"
+  },
+  {
+   "en": "The discovery caused a paradigm shift within the entire field.",
+   "zh": "这一发现促成了整个领域的范式转变。"
+  },
+  {
+   "en": "Students analyzed several paradigm examples in the introductory seminar.",
+   "zh": "学生们在入门研讨课上分析了几个典型范例。"
+  }
+ ],
+ "concurrent": [
+  {
+   "en": "The two laboratories operate concurrent trials on different patient groups.",
+   "zh": "两间实验室针对不同患者群体同时进行试验。"
+  },
+  {
+   "en": "Concurrent access to the database requires a secure password system.",
+   "zh": "并发访问该数据库需要一套安全的密码系统。"
+  },
+  {
+   "en": "The program's success rests on concurrent investment in teaching and research.",
+   "zh": "该项目的成功依赖于对教学与研究的同步投入。"
+  }
+ ],
+ "manifest": [
+  {
+   "en": "The early symptoms of the disease manifest as fatigue and blurred vision.",
+   "zh": "该病的早期症状表现为疲劳和视力模糊。"
+  },
+  {
+   "en": "The reforms manifest themselves in higher participation from rural students.",
+   "zh": "这些改革体现在农村学生参与度的提高上。"
+  },
+  {
+   "en": "Stress often manifests in the workplace as reduced productivity.",
+   "zh": "压力在工作场所中往往表现为生产力下降。"
+  }
+ ]
+}

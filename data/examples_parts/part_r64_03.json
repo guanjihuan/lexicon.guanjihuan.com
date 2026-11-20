@@ -1,0 +1,142 @@
+{
+  "all the same": [
+    {
+      "en": "The pilot data were noisy and the protocol changed twice; all the same, the main effect was replicated.",
+      "zh": "试点数据嘈杂且方案两次变动，尽管如此，主要效应仍得到重复验证。"
+    },
+    {
+      "en": "The committee had reservations about the timeline; all the same, it approved the proposal without amendment.",
+      "zh": "委员会对进度安排有所保留，尽管如此，它仍原样批准了该提案。"
+    },
+    {
+      "en": "She knew the evidence was thin; all the same, the judge allowed the witness to remain in court.",
+      "zh": "她清楚证据并不充分，尽管如此，法官仍允许证人留在法庭。"
+    }
+  ],
+  "considering that": [
+    {
+      "en": "Considering that the sample was small, the authors reported the results as preliminary.",
+      "zh": "考虑到样本量较小，作者将这些结果作为初步结论报告。"
+    },
+    {
+      "en": "Considering that public funding ends next year, the agency must select fewer research projects.",
+      "zh": "鉴于公共资助将于来年结束，该机构必须遴选更少的研究项目。"
+    },
+    {
+      "en": "Considering that the interview lasted only twenty minutes, her statements must be treated with caution.",
+      "zh": "考虑到访谈仅有二十分钟，她的陈述必须审慎看待。"
+    }
+  ],
+  "admittedly": [
+    {
+      "en": "The estimates were stable, admittedly, across both samples and model specifications.",
+      "zh": "诚然，这些估计在两个样本和多种模型设定下都保持稳定。"
+    },
+    {
+      "en": "Admittedly, the agency has not always met its own reporting deadlines.",
+      "zh": "诚然，该机构并非总能按期完成自身规定的报告。"
+    },
+    {
+      "en": "The procedure was irregular, admittedly, but the finding still proved persuasive.",
+      "zh": "诚然，程序确有不合规之处，但该结论最终仍具说服力。"
+    }
+  ],
+  "in so doing": [
+    {
+      "en": "The committee revised the guidance, and in so doing it clarified several ambiguous clauses.",
+      "zh": "委员会修订了指南，并在此过程中澄清了若干含混的条款。"
+    },
+    {
+      "en": "By sharing the raw data openly, the laboratory improved reproducibility, and in so doing it earned wider trust.",
+      "zh": "实验室公开共享原始数据，提高了可重复性，并在此过程中赢得了更广泛的信任。"
+    },
+    {
+      "en": "The nurse recorded each observation at the bedside, and in so doing captured the changes that mattered.",
+      "zh": "护士在床旁逐项记录观察结果，并在此过程中捕捉到了关键的细微变化。"
+    }
+  ],
+  "thanks to": [
+    {
+      "en": "Thanks to the volunteers who stayed late, the survey closed with a full set of responses.",
+      "zh": "多亏志愿者的加班相助，调查最终收到了完整的回复。"
+    },
+    {
+      "en": "Thanks to the new filing system, the registry reduced its backlog over a single quarter.",
+      "zh": "多亏新的归档系统，该登记处在短短一个季度内清理了积压。"
+    },
+    {
+      "en": "Thanks to a routine inspection, the defect was caught before it reached production.",
+      "zh": "多亏一次例行检查，这一缺陷在流入生产环节之前被发现。"
+    }
+  ],
+  "because of": [
+    {
+      "en": "The delay was because of a shortage of trained reviewers, not a lack of interest.",
+      "zh": "延迟的原因是评审人手不足，而不是缺乏兴趣。"
+    },
+    {
+      "en": "Public confidence in the regulator declined because of repeated delays in publishing its findings.",
+      "zh": "公众对监管机构的信任因多次延迟公布调查结论而下降。"
+    },
+    {
+      "en": "The manuscript was rejected because of a formatting error in the reference list.",
+      "zh": "该稿件因参考文献格式错误而被退回。"
+    }
+  ],
+  "for fear that": [
+    {
+      "en": "The archivist kept the documents sealed for fear that careless handling might damage them.",
+      "zh": "档案管理员将文件封存，唯恐不经意的操作损坏它们。"
+    },
+    {
+      "en": "Regulators required prior approval for fear that unlicensed testing could endanger the public.",
+      "zh": "监管机构要求事先批准，唯恐未经许可的测试危及公众。"
+    },
+    {
+      "en": "The witness spoke softly for fear that the crowd outside would hear what she said.",
+      "zh": "证人压低声音说话，唯恐门外的人群听见她所说的内容。"
+    }
+  ],
+  "to the end that": [
+    {
+      "en": "The university restructured the curriculum to the end that students could compare findings across disciplines.",
+      "zh": "大学重组了课程设置，以便学生能够跨学科比较研究成果。"
+    },
+    {
+      "en": "The ministry revised the reporting rules to the end that regional offices would submit comparable data.",
+      "zh": "部委修订了报告规则，以便各地区办公室提交可比的数据。"
+    },
+    {
+      "en": "The editor cut the discussion to the end that the main claim would remain visible.",
+      "zh": "编辑删减了讨论部分，以便主要论点仍然清晰可见。"
+    }
+  ],
+  "with a view to": [
+    {
+      "en": "The team revised the survey with a view to improving response rates in rural districts.",
+      "zh": "团队修订了问卷，旨在提高农村地区的回复率。"
+    },
+    {
+      "en": "The council set fees with a view to protecting access for small research groups.",
+      "zh": "委员会设定费用标准，旨在保障小型研究团体的使用权利。"
+    },
+    {
+      "en": "She rewrote the abstract with a view to clarifying the contribution of the second experiment.",
+      "zh": "她重写了摘要，旨在阐明第二项实验的贡献。"
+    }
+  ],
+  "with the aim of": [
+    {
+      "en": "The scheme was launched with the aim of reducing waiting times for applicants across the region.",
+      "zh": "该方案的推行旨在缩短该地区申请人的等待时间。"
+    },
+    {
+      "en": "The new unit was created with the aim of coordinating research across three departments.",
+      "zh": "新设单位的设立旨在协调三个部门之间的研究工作。"
+    },
+    {
+      "en": "She interviewed participants again with the aim of checking whether their views had shifted.",
+      "zh": "她再次访谈参与者，旨在核查他们的看法是否发生了变化。"
+    }
+  ]
+}

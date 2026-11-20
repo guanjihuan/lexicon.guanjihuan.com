@@ -1,0 +1,7 @@
+from scratch	副词	从头；从零开始；白手起家
+tricky	形容词	难办的；棘手的；难处理的
+well	副词	嗯；那么；不过（well, X 引出话题或让步）
+anyway	副词	无论如何；反正
+by the way	副词	顺便说；附带地
+on that note	副词	说到这里；顺着这个话题
+the minute	连词	一…就（the minute (that)…，口语化）
